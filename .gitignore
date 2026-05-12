@@ -1,0 +1,16 @@
+### Large media (case-insensitive)
+*.[mM][pP]4
+*.[wW][aA][vV]
+
+### Jupyter
+.ipynb_checkpoints/
+
+### Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+### OS
+Thumbs.db
+.DS_Store
