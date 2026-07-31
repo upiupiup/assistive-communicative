@@ -109,29 +109,3 @@ matkul (mis. Arsitektur dan Organisasi Komputer) punya 60+ istilah di JSON-nya �
 `keywords.MAX_HOTWORDS_TERMS` (default 40) motong dari depan list biar predictable,
 bukan kepotong diam-diam oleh faster-whisper. Naikin/turunin nilainya di
 `src/keywords.py` kalau context overlap antar-chunk kelihatan mulai kepotong.
-
-## Keterbatasan yang perlu kamu tahu (buat demo/laporan ke dosen)
-
-- **UI freeze saat merekam**: pola `streamlit-webrtc` yang dipakai di sini
-  (loop `while webrtc_ctx.state.playing`) memblokir eksekusi script Streamlit
-  selama recording jalan — jadi jangan pindah tab dulu sampai klik STOP. ini
-  batasan arsitektural Streamlit + WebRTC, bukan bug; kalau mau UX yang lebih
-  mulus, tahap berikutnya bisa pisah ke backend FastAPI + WebSocket kayak draft
-  riset original.
-- **STUN vs TURN**: konfigurasi WebRTC di sini cuma pakai STUN server publik
-  (Google). Ini cukup buat testing lokal atau jaringan kampus biasa. Kalau nanti
-  di-deploy ke cloud (mis. Streamlit Community Cloud) dan mic gak connect, kamu
-  butuh TURN server (opsi gratis: Open Relay Project; opsi stabil: Twilio).
-- **RTF real-time**: beam_size & preprocessing di-set buat prioritas latensi
-  (`WHISPER_BEAM_SIZE_STREAMING = 2`, denoising non-stationary aktif). Kalau di
-  hardware kamu ternyata RTF > 1 (transkripsi lebih lambat dari audio real-time),
-  matikan `PREPROCESS_ENABLED` dulu atau turunin `CHUNK_SECONDS` — nilai real-time
-  factor chunk terakhir ditampilkan langsung di tab Live Caption buat kamu pantau.
-- **Belum ada speaker diarization / evaluasi WER otomatis** di jalur real-time
-  ini — sesuai scope draft riset kamu, itu emang out of scope untuk versi ini.
-
-## Yang bisa langsung kamu utak-atik
-
-Semua keputusan model/preprocessing/LLM ada di satu file: `src/config.py`. Ganti
-`WHISPER_MODEL_SIZE`, `PREPROCESS_ENABLED`, `VAD_PARAMS`, `CHUNK_SECONDS`, atau
-`GROQ_MODEL` di situ — gak perlu sentuh file lain.
