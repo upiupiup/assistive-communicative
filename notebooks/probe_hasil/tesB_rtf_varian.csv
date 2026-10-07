@@ -1,0 +1,7 @@
+model,compute_type,ok,load_s,proc_s,audio_s,rtf,rtf_min,rtf_max,n_repeats,n_segments,vram_idle_mb,vram_peak_mb,vram_delta_mb
+tiny,float16,True,23.1,10.39,233.22,0.0446,0.0397,0.0574,3,45,0,289,289
+base,float16,True,103.01,11.05,233.22,0.0474,0.036,0.049,3,97,0,449,449
+small,float16,True,111.68,9.35,233.22,0.0401,0.0389,0.0414,3,42,0,865,865
+medium,float16,True,2.73,36.5,233.22,0.1565,0.1534,0.1676,3,118,0,2689,2689
+large-v3,float16,True,5.08,39.8,233.22,0.1706,0.1704,0.1718,3,116,0,4097,4097
+large-v3-turbo,float16,True,3.31,14.06,233.22,0.0603,0.0596,0.0603,3,210,0,2017,2017
