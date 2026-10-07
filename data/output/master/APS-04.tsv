@@ -1,0 +1,173 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+APS-04	APS	P2	1	5.600	7.760	2.160	Assalamualaikum warahmatullahi wabarakatuh.	Assalamualaikum warahmatullahi wabarakatuh.		
+APS-04	APS	P2	2	8.060	11.500	3.440	Pada video kali ini, saya akan menjelaskan mengenai konsep perancangan.	Pada video kali ini, saya akan menjelaskan mengenai konsep perancangan.		
+APS-04	APS	P2	3	12.440	15.740	3.300	Materi ini adalah bagian dari mata kuliah, analisis, dan perancangan sistem.	Materi ini adalah bagian dari mata kuliah, analisis, dan perancangan sistem.		
+APS-04	APS	P2	4	16.720	19.240	2.520	Video ini akan dibagi menjadi beberapa bagian.	Video ini akan dibagi menjadi beberapa bagian.		
+APS-04	APS	P2	5	19.560	21.260	1.700	Yang pertama adalah konsep perancangan,	Yang pertama adalah konsep perancangan,		
+APS-04	APS	P2	6	21.820	23.880	2.060	yang kedua adalah prinsip perancangan,	yang kedua adalah prinsip perancangan,		
+APS-04	APS	P2	7	24.240	26.460	2.220	yang ketiga adalah proses perancangan,	yang ketiga adalah proses perancangan,		
+APS-04	APS	P2	8	26.700	30.260	3.560	dan yang keempat adalah parameter kualitas di dalam perancangan.	dan yang keempat adalah parameter kualitas di dalam perancangan.		
+APS-04	APS	P2	9	36.200	38.940	2.740	Perancangan, atau yang biasa dikenal dengan software design,	Perancangan, atau yang biasa dikenal dengan software design,		
+APS-04	APS	P2	10	38.940	43.920	4.980	Itu merupakan salah satu bagian dari siklus hidup pengembangan perangkat lunak	Itu merupakan salah satu bagian dari siklus hidup pengembangan perangkat lunak		
+APS-04	APS	P2	11	43.920	45.320	1.400	Posisinya ada di mana?	Posisinya ada di mana?		
+APS-04	APS	P2	12	45.600	48.360	2.760	Posisinya adalah setelah fase analisis kebutuhan	Posisinya adalah setelah fase analisis kebutuhan		
+APS-04	APS	P2	13	48.360	54.420	6.060	Jadi kalau kita kemarin sebelum UTS sudah sama-sama belajar cara melakukan analisis kebutuhan	Jadi kalau kita kemarin sebelum UTS sudah sama-sama belajar cara melakukan analisis kebutuhan		
+APS-04	APS	P2	14	54.420	57.540	3.120	Dan sampai pada melakukan pemodelan kebutuhan	Dan sampai pada melakukan pemodelan kebutuhan		
+APS-04	APS	P2	15	57.540	62.140	4.600	Di fase perancangan ini adalah melanjutkan apa yang sudah kita dapatkan kemarin	Di fase perancangan ini adalah melanjutkan apa yang sudah kita dapatkan kemarin		
+APS-04	APS	P2	16	62.140	64.980	2.840	Untuk melakukan yang namanya proses detailing	Untuk melakukan yang namanya proses detailing		
+APS-04	APS	P2	17	64.980	71.060	6.080	Karena perancangan ini akan menjadi dasar bagi programmer ketika akan melakukan implementasi.	Karena perancangan ini akan menjadi dasar bagi programmer ketika akan melakukan implementasi.		
+APS-04	APS	P2	18	71.600	77.740	6.140	Jadi, perancangan ini adalah sebuah jembatan antara gambaran umum sistem dengan implementasi.	Jadi, perancangan ini adalah sebuah jembatan antara gambaran umum sistem dengan implementasi.		
+APS-04	APS	P2	19	78.180	84.280	6.100	Ian Somerville mengatakan bahwa perancangan itu adalah sebenarnya proses membangun suatu solusi permasalahan	Ian Somerville mengatakan bahwa perancangan itu adalah sebenarnya proses membangun suatu solusi permasalahan		
+APS-04	APS	P2	20	84.280	88.740	4.460	berdasarkan dari kebutuhan-kebutuhan yang sudah terdefinisi di fase sebelumnya.	berdasarkan dari kebutuhan-kebutuhan yang sudah terdefinisi di fase sebelumnya.		
+APS-04	APS	P2	21	89.360	91.840	2.480	Lalu, mengapa kita harus belajar mengenai fase perancangan?	Lalu, mengapa kita harus belajar mengenai fase perancangan?		
+APS-04	APS	P2	22	91.840	103.360	11.520	Karena sebenarnya perancangan ini adalah satu-satunya jalan untuk mentransformasikan kebutuhan-kebutuhan yang sudah kita dapatkan dari customer menjadi produk akhir yaitu berupa perangkat lunak yang berkualitas tinggi.	Karena sebenarnya perancangan ini adalah satu-satunya jalan untuk mentransformasikan kebutuhan-kebutuhan yang sudah kita dapatkan dari customer menjadi produk akhir yaitu berupa perangkat lunak yang berkualitas tinggi.		
+APS-04	APS	P2	23	104.040	110.620	6.580	Perangkat lunak yang berkualitas tinggi itu salah satu parameternya adalah mudah untuk dilakukan perubahan atau maintenance.	Perangkat lunak yang berkualitas tinggi itu salah satu parameternya adalah mudah untuk dilakukan perubahan atau maintenance.		
+APS-04	APS	P2	24	111.120	115.960	4.840	Effort yang dibutuhkan di dalam melakukan perbaikan itu kita bisa tekan serendah mungkin.	Effort yang dibutuhkan di dalam melakukan perbaikan itu kita bisa tekan serendah mungkin.		
+APS-04	APS	P2	25	115.960	122.080	6.120	Fase perancangan inilah yang akan menentukan tingkat maintainability dari sebuah perangkat lunak	Fase perancangan inilah yang akan menentukan tingkat maintainability dari sebuah perangkat lunak		
+APS-04	APS	P2	26	122.080	128.300	6.220	Selain itu, perangkat lunak juga berfungsi sebagai dasar aktivitas yang mengikutinya	Selain itu, perangkat lunak juga berfungsi sebagai dasar aktivitas yang mengikutinya		
+APS-04	APS	P2	27	128.300	131.280	2.980	Aktivitas yang paling dekat tentu saja implementasi	Aktivitas yang paling dekat tentu saja implementasi		
+APS-04	APS	P2	28	131.280	139.540	8.260	Jadi seorang programmer itu akan berupaya mengimplementasikan apa yang sudah didefinisikan oleh software designer yang kita lakukan di fase ini	Jadi seorang programmer itu akan berupaya mengimplementasikan apa yang sudah didefinisikan oleh software designer yang kita lakukan di fase ini		
+APS-04	APS	P2	29	139.540	140.740	1.200	Itu yang paling dekat	Itu yang paling dekat		
+APS-04	APS	P2	30	140.740	150.220	9.480	Kemudian seorang tester atau di fase pengujian yang memang posisinya kalau kita lihat dari siklus itu perangkat tunak itu kan berada setelah implementasi.	Kemudian seorang tester atau di fase pengujian yang memang posisinya kalau kita lihat dari siklus itu perangkat lunak itu kan berada setelah implementasi.		
+APS-04	APS	P2	31	150.460	161.600	11.140	Tapi jangan salah ketika kita melakukan pengujian ada salah satu teknik pengujian yang disebut dengan white box testing yaitu jenis pengujian salah satunya adalah basis path testing.	Tapi jangan salah ketika kita melakukan pengujian ada salah satu teknik pengujian yang disebut dengan white box testing yaitu jenis pengujian salah satunya adalah basis path testing.		
+APS-04	APS	P2	32	161.900	165.100	3.200	Itu menggunakan dasar dari fase perancangan.	Itu menggunakan dasar dari fase perancangan.		
+APS-04	APS	P2	33	165.300	169.880	4.580	Basis path testing salah satu langkahnya adalah menyusun flow graph.	Basis path testing salah satu langkahnya adalah menyusun flow graph.		
+APS-04	APS	P2	34	169.880	176.020	6.140	Flowgraph itu sebenarnya datangnya bukan dari implementasi, tapi dasarnya adalah dari Sido Code.	Flowgraph itu sebenarnya datangnya bukan dari implementasi, tapi dasarnya adalah dari pseudocode.		
+APS-04	APS	P2	35	176.220	179.820	3.600	Yang itu Sido Code dibuatnya pada saat fase perancangan ini.	Yang itu pseudocode dibuatnya pada saat fase perancangan ini.		
+APS-04	APS	P2	36	184.840	190.960	6.120	Ada empat hal utama di dalam melakukan proses perancangan, itu selalu dimulai dengan yang namanya informal design outline.	Ada empat hal utama di dalam melakukan proses perancangan, itu selalu dimulai dengan yang namanya informal design outline.		
+APS-04	APS	P2	37	191.160	195.460	4.300	Kita akan membuat outline-nya terlebih dahulu, poin-poin utama yang harus ada di dalam perancangan.	Kita akan membuat outline-nya terlebih dahulu, poin-poin utama yang harus ada di dalam perancangan.		
+APS-04	APS	P2	38	195.940	200.420	4.480	Kemudian akan masuk ke fase yang kedua, kita akan menyusun yang namanya informal design.	Kemudian akan masuk ke fase yang kedua, kita akan menyusun yang namanya informal design.		
+APS-04	APS	P2	39	200.420	207.840	7.420	Apa informal design? Informal design adalah kita sudah mulai melakukan desain namun masih menggunakan bahasa yang informal.	Apa informal design? Informal design adalah kita sudah mulai melakukan desain namun masih menggunakan bahasa yang informal.		
+APS-04	APS	P2	40	208.420	220.800	12.380	Terkadang memang di fase ini kita belum memiliki notasi yang baik, terkadang masih berupa coretan tangan atau tidak konsisten antara satu notasi dengan notasi yang lain.	Terkadang memang di fase ini kita belum memiliki notasi yang baik, terkadang masih berupa coretan tangan atau tidak konsisten antara satu notasi dengan notasi yang lain.		
+APS-04	APS	P2	41	220.800	224.060	3.260	Kemudian di fase yang ketiga kita mulai merapikan	Kemudian di fase yang ketiga kita mulai merapikan		
+APS-04	APS	P2	42	224.060	226.060	2.000	Kita akan membuat sesuatu yang lebih formal	Kita akan membuat sesuatu yang lebih formal		
+APS-04	APS	P2	43	226.060	233.440	7.380	Dengan menggunakan alat bantu dalam menotasikan diagram-diagram yang ada di fase perancangan	Dengan menggunakan alat bantu dalam menotasikan diagram-diagram yang ada di fase perancangan		
+APS-04	APS	P2	44	233.440	236.400	2.960	Ada kelas diagram disitu, ada sequence diagram	Ada kelas diagram disitu, ada sequence diagram		
+APS-04	APS	P2	45	236.400	239.500	3.100	Lalu yang keempat kita melakukan finalisasi	Lalu yang keempat kita melakukan finalisasi		
+APS-04	APS	P2	46	239.500	244.560	5.060	Apakah di fase finalisasi ini lantas kemudian perancangan ini akan selesai?	Apakah di fase finalisasi ini lantas kemudian perancangan ini akan selesai?		
+APS-04	APS	P2	47	244.560	248.460	3.900	Belum, kita masih bisa kembali lagi untuk fase-fase sebelumnya	Belum, kita masih bisa kembali lagi untuk fase-fase sebelumnya		
+APS-04	APS	P2	48	248.460	252.720	4.260	untuk mengecek apakah ada sesuatu yang terlupakan dari fase kebutuhan,	untuk mengecek apakah ada sesuatu yang terlupakan dari fase kebutuhan,		
+APS-04	APS	P2	49	252.840	257.480	4.640	misalnya ada requirement yang belum tercover, kita bisa melakukan yang namanya proses perbaikan.	misalnya ada requirement yang belum tercover, kita bisa melakukan yang namanya proses perbaikan.		
+APS-04	APS	P2	50	258.640	265.160	6.520	Namun ingat, Megalvin mendefinisikan bahwa ada tiga kriteria bahwa perancangan itu dapat dikatakan baik.	Namun ingat, McGlaughin mendefinisikan bahwa ada tiga kriteria bahwa perancangan itu dapat dikatakan baik.		
+APS-04	APS	P2	51	265.740	271.800	6.060	Yang pertama adalah harus mengimplementasikan semua requirement yang sudah didefinisikan di fase sebelumnya.	Yang pertama adalah harus mengimplementasikan semua requirement yang sudah didefinisikan di fase sebelumnya.		
+APS-04	APS	P2	52	271.800	273.200	1.400	Jangan ada yang ketinggalan.	Jangan ada yang ketinggalan.		
+APS-04	APS	P2	53	273.200	279.460	6.260	Kemudian yang kedua adalah pastikan itu mudah untuk dibaca dan diimplementasikan	Kemudian yang kedua adalah pastikan itu mudah untuk dibaca dan diimplementasikan		
+APS-04	APS	P2	54	279.460	285.000	5.540	Jadi tidak hanya mudah dibaca tapi harus bisa diimplementasikan nanti oleh programmer	Jadi tidak hanya mudah dibaca tapi harus bisa diimplementasikan nanti oleh programmer		
+APS-04	APS	P2	55	285.000	290.000	5.000	Ada garanti dari seorang desainer bahwa apa yang sudah kamu buat itu bisa diimplementasikan	Ada garanti dari seorang desainer bahwa apa yang sudah kamu buat itu bisa diimplementasikan		
+APS-04	APS	P2	56	290.000	295.960	5.960	Yang ketiga adalah lengkap menggambarkan keseluruhan perangkat lunak yang akan dibuat	Yang ketiga adalah lengkap menggambarkan keseluruhan perangkat lunak yang akan dibuat		
+APS-04	APS	P2	57	295.960	304.020	8.060	Saya mengutip dari apa yang sudah dikatakan oleh Gavis	Saya mengutip dari apa yang sudah dikatakan oleh Gavis		
+APS-04	APS	P2	58	304.020	313.560	9.540	Salah satu prinsip yang sudah didefinisikan adalah kita jangan menggunakan kacamata kuda di dalam melakukan perancangan	Salah satu prinsip yang sudah didefinisikan adalah kita jangan menggunakan kacamata kuda di dalam melakukan perancangan		
+APS-04	APS	P2	59	313.560	317.400	3.840	Yang Anda tahu adalah yang namanya kacamata kuda ini unik	Yang Anda tahu adalah yang namanya kacamata kuda ini unik		
+APS-04	APS	P2	60	317.400	322.800	5.400	Pandangannya lurus ke depan, dia tidak bisa melihat kiri dan kanan	Pandangannya lurus ke depan, dia tidak bisa melihat kiri dan kanan		
+APS-04	APS	P2	61	322.800	325.320	2.520	Ini jangan sampai menggunakan pendekatan tersebut	Ini jangan sampai menggunakan pendekatan tersebut		
+APS-04	APS	P2	62	325.320	330.960	5.640	Karena ketika Anda selalu menggunakan pendekatan kacamata kuda, Anda akan fokus mendesain	Karena ketika Anda selalu menggunakan pendekatan kacamata kuda, Anda akan fokus mendesain		
+APS-04	APS	P2	63	330.960	337.700	6.740	Cuman pikirkan lagi bahwa antara satu komponen dengan komponen yang lain itu memiliki kedekatan yang sangat kuat	Cuman pikirkan lagi bahwa antara satu komponen dengan komponen yang lain itu memiliki kedekatan yang sangat kuat		
+APS-04	APS	P2	64	337.700	343.960	6.260	Jadi ketika Anda melakukan modifikasi di satu tempat, jangan hanya fokus di tempat itu	Jadi ketika Anda melakukan modifikasi di satu tempat, jangan hanya fokus di tempat itu		
+APS-04	APS	P2	65	343.960	350.680	6.720	Pikirkan lagi nanti di komponen yang lain, di kelas yang lain, di atribut yang lain, di metode yang lain	Pikirkan lagi nanti di komponen yang lain, di kelas yang lain, di atribut yang lain, di metode yang lain		
+APS-04	APS	P2	66	350.680	358.080	7.400	Apakah itu sudah mengakomodir, apakah di situ akan berdampak dari yang Anda lakukan modifikasi pada fase perancangan	Apakah itu sudah mengakomodir, apakah di situ akan berdampak dari yang Anda lakukan modifikasi pada fase perancangan		
+APS-04	APS	P2	67	358.080	363.640	5.560	Davis juga mengatakan bahwa perancangan itu harus seragam, ada konvensinya	Davis juga mengatakan bahwa perancangan itu harus seragam, ada konvensinya		
+APS-04	APS	P2	68	363.640	368.400	4.760	Jadi tetap harus mengacu kepada pendekatan yang Anda gunakan	Jadi tetap harus mengacu kepada pendekatan yang Anda gunakan		
+APS-04	APS	P2	69	368.400	374.160	5.760	Ketika Anda menggunakan pendekatan object oriented, Anda punya yang namanya unified modeling language	Ketika Anda menggunakan pendekatan object oriented, Anda punya yang namanya unified modeling language		
+APS-04	APS	P2	70	374.160	379.100	4.940	Di situ adalah sebuah konvensi, sepakatan ketika Anda menggambarkan sebuah kelas diagram	Di situ adalah sebuah konvensi, sepakatan ketika Anda menggambarkan sebuah kelas diagram		
+APS-04	APS	P2	71	379.100	388.040	8.940	Notasinya sudah didefinisikan, sudah tidak boleh lagi menggunakan notasi-notasi yang tidak sesuai dengan konvensi yang ada di UML	Notasinya sudah didefinisikan, sudah tidak boleh lagi menggunakan notasi-notasi yang tidak sesuai dengan konvensi yang ada di UML		
+APS-04	APS	P2	72	388.040	393.600	5.560	Davies juga mengatakan bahwa perancangan itu tidak sama dengan implementasi	Davis juga mengatakan bahwa perancangan itu tidak sama dengan implementasi		
+APS-04	APS	P2	73	393.600	397.420	3.820	dan juga sebaliknya implementasi itu tidak sama dengan perancangan	dan juga sebaliknya implementasi itu tidak sama dengan perancangan		
+APS-04	APS	P2	74	397.420	403.380	5.960	jadi jangan salah paham dengan pernyataan tersebut	jadi eee jangan eee jangan salah paham dengan pernyataan tersebut		
+APS-04	APS	P2	75	403.380	410.040	6.660	bukannya kemarin, bukannya tadi dikatakan bahwa yang namanya implementasi itu dasarnya dari perancangan	bukannya kemarin, bukannya tadi dikatakan bahwa yang namanya implementasi itu dasarnya dari perancangan		
+APS-04	APS	P2	76	410.040	413.000	2.960	nah ini kok dikatakan bahwa perancangan tidak sama dengan implementasi	nah ini kok dikatakan bahwa perancangan tidak sama dengan implementasi		
+APS-04	APS	P2	77	413.000	419.240	6.240	Maksudnya begini, memang implementasi itu adalah dasarnya dari perancangan	Maksudnya begini, memang implementasi itu adalah dasarnya dari perancangan		
+APS-04	APS	P2	78	419.240	422.760	3.520	Cuman perlu dipastikan lagi, ketika Anda melakukan perancangan	Cuman perlu dipastikan lagi, ketika Anda melakukan perancangan		
+APS-04	APS	P2	79	422.760	428.020	5.260	Anda harus jangkirkan dulu bahwa Anda sekarang ini posisinya ada di perancangan	Anda harus jangkirkan dulu bahwa Anda sekarang ini posisinya ada di perancangan		
+APS-04	APS	P2	80	428.020	431.820	3.800	Bukan di implementasi, contohnya ketika nanti Anda membangun yang namanya SidoCode	Bukan di implementasi, contohnya ketika nanti Anda membangun yang namanya SidoCode		
+APS-04	APS	P2	81	431.820	437.160	5.340	Jangan terjebak yang namanya membuat SidoCode yang pro ke satu bahasa pemrograman	Jangan terjebak yang namanya membuat pseudocode yang pro ke satu bahasa pemrograman		
+APS-04	APS	P2	82	437.160	444.100	6.940	Sido Code, artinya apa? Sido Code itu sebenarnya adalah cara kita menggambarkan pola pikir, algoritm.	pseudocode, artinya apa? pseudocode itu sebenarnya adalah cara kita menggambarkan pola pikir, algoritm.		
+APS-04	APS	P2	83	444.720	452.320	7.600	Jadi yang namanya Sido Code itu idealnya adalah setengah bahasa manusia dengan setengah bahasa pemrograman, posisinya ada di tengah-tengah.	Jadi yang namanya pseudocode itu idealnya adalah setengah bahasa manusia dengan setengah bahasa pemrograman, posisinya ada di tengah-tengah.		
+APS-04	APS	P2	84	453.400	459.460	6.060	Sido Code yang baik harusnya bisa diimplementasikan ke semua bahasa pemrograman yang ada.	pseudocode yang baik harusnya bisa diimplementasikan ke semua bahasa pemrograman yang ada.		
+APS-04	APS	P2	85	460.360	465.180	4.820	Satu Sido Code mau diimplementasikan di Java oke, di PHP oke, di C++ juga bisa.	Satu pseudocode mau diimplementasikan di Java oke, di PHP oke, di C++ juga bisa.		
+APS-04	APS	P2	86	465.180	474.540	9.360	Ada empat hal yang perlu diperhatikan di dalam melakukan perancangan.	Ada empat hal yang perlu diperhatikan di dalam melakukan perancangan.		
+APS-04	APS	P2	87	475.300	482.380	7.080	Yang pertama dikenal dengan nama cohesion, yang kedua coupling, yang ketiga understandability, dan yang keempat adalah adaptability.	Yang pertama dikenal dengan nama cohession, yang kedua coupling, yang ketiga understandability, dan yang keempat adalah adaptability.		
+APS-04	APS	P2	88	487.980	495.220	7.240	Cohesion adalah ukuran tingkat kedekatan relasi antara elemen-elemen di dalam suatu komponen.	Cohession adalah ukuran tingkat kedekatan relasi antara elemen-elemen di dalam suatu komponen.		
+APS-04	APS	P2	89	495.220	504.380	9.160	Komponen di sini bisa Anda analogikan sebagai sebuah kelas atau sebuah modul kalau Anda menggunakan perdekatan terstruktur.	Komponen di sini bisa Anda analogikan sebagai sebuah kelas atau sebuah modul kalau Anda menggunakan perdekatan terstruktur.		
+APS-04	APS	P2	90	504.580	509.480	4.900	Kita berbicara kelas dulu, ini akan lebih mudah untuk dilakukan pemamparan di sini	Kita berbicara kelas dulu, ini akan lebih mudah untuk dilakukan pemamparan di sini		
+APS-04	APS	P2	91	509.480	513.500	4.020	Kelas itu di dalamnya ada atribut dan ada metode	Class itu di dalamnya ada atribut dan ada metode		
+APS-04	APS	P2	92	513.500	519.160	5.660	Tingkat kedekatan antara elemen-elemen yang ada di dalam kelas	Tingkat kedekatan antara elemen-elemen yang ada di dalam class		
+APS-04	APS	P2	93	519.160	521.780	2.620	Yaitu ada atribut dan behaviornya di dalam ini	Yaitu ada atribut dan behaviornya di dalam ini		
+APS-04	APS	P2	94	521.780	526.520	4.740	Itu menunjukkan tingkat kohesifitas dari kelas tersebut	Itu menunjukkan tingkat kohesifitas dari kelas tersebut		
+APS-04	APS	P2	95	526.520	533.260	6.740	Ketika hubungan atau relasi antara atribut dan metode itu rendah	Ketika hubungan atau relasi antara atribut dan metode itu rendah		
+APS-04	APS	P2	96	533.260	536.480	3.220	atau tidak berhubungan sama lain, satu sama lain,	atau tidak berhubungan sama lain, satu sama lain,		
+APS-04	APS	P2	97	536.880	539.660	2.780	akibatnya adalah tingkat koneksifitasnya akan rendah.	akibatnya adalah tingkat kohesifitasnya akan rendah.		
+APS-04	APS	P2	98	539.820	540.460	0.640	Kenapa rendah?	Kenapa rendah?		
+APS-04	APS	P2	99	540.460	544.720	4.260	Ya, ternyata struktur penyusun dari si kelas tersebut,	Ya, ternyata struktur penyusun dari si kelas tersebut,		
+APS-04	APS	P2	100	545.340	546.640	1.300	ya ternyata tidak ada hubungannya.	ya ternyata tidak ada hubungannya.		
+APS-04	APS	P2	101	547.400	549.660	2.260	Lalu bagaimana ketika ini tidak ada hubungannya?	Lalu bagaimana ketika ini tidak ada hubungannya?		
+APS-04	APS	P2	102	549.780	552.620	2.840	Otomatis ketika secara internal dia tidak kuat,	Otomatis ketika secara internal dia tidak kuat,		
+APS-04	APS	P2	103	552.840	558.460	5.620	otomatis dia akan membutuhkan relasi yang kuat dengan komponen yang lain atau kelas yang lain,	otomatis dia akan membutuhkan relasi yang kuat dengan komponen yang lain atau kelas yang lain,		
+APS-04	APS	P2	104	558.760	561.180	2.420	sehingga koplingnya akan meningkat.	sehingga koplingnya akan meningkat.		
+APS-04	APS	P2	105	561.180	563.280	2.100	jadi, makanya tadi saya katakan bahwa	jadi, makanya tadi saya katakan bahwa		
+APS-04	APS	P2	106	563.280	565.220	1.940	dua hal ini tidak bisa	dua hal ini tidak bisa		
+APS-04	APS	P2	107	565.220	567.260	2.040	dipisah satu sama lain, cohesion	dipisah satu sama lain, cohession		
+APS-04	APS	P2	108	567.260	569.400	2.140	sama coupling, cohesion itu	sama coupling, cohession itu		
+APS-04	APS	P2	109	569.400	571.740	2.340	fokusnya ada di satu komponen kelas tersebut	fokusnya ada di satu komponen kelas tersebut		
+APS-04	APS	P2	110	571.740	573.680	1.940	tapi kalau coupling, itu dua	tapi kalau coupling, itu dua		
+APS-04	APS	P2	111	573.680	575.500	1.820	atau lebih dari dua	atau lebih dari dua		
+APS-04	APS	P2	112	575.500	577.160	1.660	bisa dua, bisa tiga, ya, couple	bisa dua, bisa tiga, ya, couple		
+APS-04	APS	P2	113	577.160	579.320	2.160	sesuai namanya pasangan, jadi	sesuai namanya pasangan, jadi		
+APS-04	APS	P2	114	579.320	581.440	2.120	sebaliknya, ketika	sebaliknya, ketika		
+APS-04	APS	P2	115	581.440	583.480	2.040	tadi, kohesifitasnya itu tinggi, artinya	tadi, kohesifitasnya itu tinggi, artinya		
+APS-04	APS	P2	116	583.480	585.380	1.900	apa? atribut dan metode yang ada	apa? atribut dan metode yang ada		
+APS-04	APS	P2	117	585.380	587.360	1.980	di dalam kelas diagram tersebut, itu	di dalam kelas diagram tersebut, itu		
+APS-04	APS	P2	118	587.360	589.300	1.940	sangat terhubung, ya	sangat terhubung, ya		
+APS-04	APS	P2	119	589.300	591.280	1.980	sangat kuat ikatannya, sehingga	sangat kuat ikatannya, sehingga		
+APS-04	APS	P2	120	591.280	593.380	2.100	otomatis dalam menyelesaikan tugas-tugas	otomatis dalam menyelesaikan tugas-tugas		
+APS-04	APS	P2	121	593.380	595.720	2.340	dari kelas tersebut, itu tidak membutuhkan	dari kelas tersebut, itu tidak membutuhkan		
+APS-04	APS	P2	122	595.720	596.700	0.980	atau	atau		
+APS-04	APS	P2	123	596.700	598.960	2.260	kebutuhan untuk	kebutuhan untuk		
+APS-04	APS	P2	124	598.960	601.060	2.100	mengakses dari komponen yang lain itu akan	mengakses dari komponen yang lain itu akan		
+APS-04	APS	P2	125	601.060	603.140	2.080	semakin rendah, sehingga koplingnya akan	semakin rendah, sehingga koplingnya akan		
+APS-04	APS	P2	126	603.140	605.260	2.120	ikut turun. Lalu yang	ikut turun. Lalu yang		
+APS-04	APS	P2	127	605.260	607.240	1.980	baik seperti apa? Anda sudah bisa menebak	baik seperti apa? Anda sudah bisa menebak		
+APS-04	APS	P2	128	607.240	609.100	1.860	yang baik adalah high cohesive	yang baik adalah high cohessive		
+APS-04	APS	P2	129	609.100	611.540	2.440	kohesifitasnya tinggi, koplingnya	kohesifitasnya tinggi, koplingnya		
+APS-04	APS	P2	130	611.540	613.140	1.600	akan rendah. Kenapa	akan rendah. Kenapa		
+APS-04	APS	P2	131	613.140	615.320	2.180	harus seperti itu? Karena kita	harus seperti itu? Karena kita		
+APS-04	APS	P2	132	615.320	617.080	1.760	berbicara maintainability, kalau kita	berbicara maintainability, kalau kita		
+APS-04	APS	P2	133	617.080	618.920	1.840	berbicara maintainability, kita ingin	berbicara maintainability, kita ingin		
+APS-04	APS	P2	134	618.920	620.860	1.940	mengubah satu kelas, ya sudah kita harus	mengubah satu kelas, ya sudah kita harus		
+APS-04	APS	P2	135	620.860	621.780	0.920	fokus di sini saja	fokus di sini saja		
+APS-04	APS	P2	136	621.780	624.800	3.020	yang bikin effortnya tinggi itu adalah	yang bikin effortnya tinggi itu adalah		
+APS-04	APS	P2	137	624.800	626.800	2.000	satu kelas di sini kita	satu kelas di sini kita		
+APS-04	APS	P2	138	626.800	628.920	2.120	modifikasi, ternyata karena kompliknya	modifikasi, ternyata karena coupling-nya		
+APS-04	APS	P2	139	628.920	630.940	2.020	itu tinggi dengan kelas-kelas yang lain, ada otomatis	itu tinggi dengan kelas-kelas yang lain, ada otomatis		
+APS-04	APS	P2	140	630.940	633.120	2.180	kamu harus memperbaiki kelas-kelas yang ada itu tersebut	kamu harus memperbaiki kelas-kelas yang ada itu tersebut		
+APS-04	APS	P2	141	633.120	634.580	1.460	effortnya akan semakin	effortnya akan semakin		
+APS-04	APS	P2	142	634.580	636.800	2.220	berat, kurang lebih seperti itu yang saya menjelaskan	berat, kurang lebih seperti itu yang saya menjelaskan		
+APS-04	APS	P2	143	636.800	638.680	1.880	mengenai koesifitas dan	mengenai kohesifitas dan		
+APS-04	APS	P2	144	638.680	646.210	7.530	komplik, namanya perancangan	coupling, namanya perancangan		
+APS-04	APS	P2	145	646.210	648.210	2.000	itu harus bisa dipahami dengan baik	itu harus bisa dipahami dengan baik		
+APS-04	APS	P2	146	648.210	650.230	2.020	siapa yang kira-kira harus memahami	siapa yang kira-kira harus memahami		
+APS-04	APS	P2	147	650.230	652.290	2.060	ini, itu saja adalah programmer	ini, itu saja adalah programmer		
+APS-04	APS	P2	148	652.290	654.010	1.720	jadi koesif	jadi cohessive		
+APS-04	APS	P2	149	654.010	654.890	0.880	Kopling	coupling		
+APS-04	APS	P2	150	654.890	656.770	1.880	Dan yang ketiga ini adalah sangat penting	Dan yang ketiga ini adalah sangat penting		
+APS-04	APS	P2	151	656.770	658.750	1.980	Itu juga harus mudah dipahami	Itu juga harus mudah dipahami		
+APS-04	APS	P2	152	658.750	661.070	2.320	Jangan sampai Anda ketika melakukan desain	Jangan sampai Anda ketika melakukan desain		
+APS-04	APS	P2	153	661.070	662.910	1.840	Yang paham hanya Anda sendiri	Yang paham hanya Anda sendiri		
+APS-04	APS	P2	154	662.910	665.710	2.800	Notasinya yang paham hanya Anda sendiri	Notasinya yang paham hanya Anda sendiri		
+APS-04	APS	P2	155	665.710	667.290	1.580	Makanya notasi diagramnya	Makanya notasi diagramnya		
+APS-04	APS	P2	156	667.290	669.910	2.620	Menggunakannya sesuai dengan konvensi yang ada	Menggunakannya sesuai dengan konvensi yang ada		
+APS-04	APS	P2	157	669.910	671.070	1.160	UML	UML		
+APS-04	APS	P2	158	671.070	672.910	1.840	Arsitektur modul	Arsitektur modul		
+APS-04	APS	P2	159	672.910	675.190	2.280	Itu semua ada konvensinya	Itu semua ada konvensinya		
+APS-04	APS	P2	160	675.190	678.090	2.900	Menggunakan notasi-notasi	Menggunakan notasi-notasi		
+APS-04	APS	P2	161	678.090	680.630	2.540	Yang memang sudah dipahami bersama	Yang memang sudah dipahami bersama		
+APS-04	APS	P2	162	680.630	683.250	2.620	Sehingga programmer pun akan mudah untuk memahaminya	Sehingga programmer pun akan mudah untuk memahaminya		
+APS-04	APS	P2	163	683.250	695.420	12.170	kebutuhan agar rancangan itu mampu beradaptasi dengan adanya perubahan itu ditentukan dari parameter ini	kebutuhan agar rancangan itu mampu beradaptasi dengan adanya perubahan itu ditentukan dari parameter ini		
+APS-04	APS	P2	164	695.420	699.080	3.660	seberapa mudah dilakukan perubahan rancangan	seberapa mudah dilakukan perubahan rancangan		
+APS-04	APS	P2	165	699.080	703.700	4.620	caranya bagaimana? Anda sebenarnya tinggal menjaga yang namanya adalah timbangan tadi	caranya bagaimana? Anda sebenarnya tinggal menjaga yang namanya adalah timbangan tadi		
+APS-04	APS	P2	166	703.700	707.560	3.860	semakin tinggi kohesivitas, kopinya akan ikut turun	semakin tinggi kohesivitas, coupling-nya akan ikut turun		
+APS-04	APS	P2	167	707.560	711.480	3.920	berarti itu akan sangat mudah beradaptasi nantinya	berarti itu akan sangat mudah beradaptasi nantinya		
+APS-04	APS	P2	168	711.480	719.960	8.480	Jadi ketika satu berubah, Anda tidak memerlukan effort yang lebih untuk memodifikasi komponen-komponen yang lain.	Jadi ketika satu berubah, Anda tidak memerlukan effort yang lebih untuk memodifikasi komponen-komponen yang lain.		
+APS-04	APS	P2	169	721.140	725.680	4.540	Coba misalnya dibalik, kohesifitasnya itu rendah, koplingnya tinggi.	Coba misalnya dibalik, kohesifitasnya itu rendah, coupling-nya tinggi.		
+APS-04	APS	P2	170	726.320	727.740	1.420	Sehingga koplingnya tinggi artinya apa?	Sehingga coupling-nya tinggi artinya apa?		
+APS-04	APS	P2	171	728.020	731.440	3.420	Satu kelas itu ternyata berrelasi banyak sekali dengan kelas-kelas yang lain.	Satu kelas itu ternyata berrelasi banyak sekali dengan kelas-kelas yang lain.		
+APS-04	APS	P2	172	731.700	736.160	4.460	Anda mengubah sesuatu di sini, otomatis Anda juga akan memodifikasi kelas-kelas yang lain.	Anda mengubah sesuatu di sini, otomatis Anda juga akan memodifikasi kelas-kelas yang lain.		

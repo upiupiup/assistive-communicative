@@ -1,0 +1,17 @@
+﻿file_id,mata_kuliah,nama_mata_kuliah,url,penutur,durasi_tertera,durasi_tertera_detik,trim_awal_detik,trim_akhir_detik,durasi_asli_detik,durasi_potong_detik,durasi_youtube_detik,cakupan_acuan,jalur_acuan,ada_takarir_manusia,lolos_penyaringan,split,tanggal_unduh,catatan,tak_terunduh,jumlah_kata
+PKK-01,PKK,Pengenalan Keilmuan Komputer,https://www.youtube.com/watch?v=itY08MIbkXE,,19:41,1181.014,0,0,1181.014,1181.014,1181.0,0.632,wav2vec2,,,,,,-0.0,1236
+PKK-02,PKK,Pengenalan Keilmuan Komputer,https://www.youtube.com/watch?v=IGV0qIrsaTA,,16:52,1012.014,0,0,1012.014,1012.014,1012.0,0.8,wav2vec2,,,,,,-0.0,1156
+PKK-03,PKK,Pengenalan Keilmuan Komputer,https://www.youtube.com/watch?v=4BF7mKzfN50,,10:44,644.014,0,0,644.014,644.014,644.0,0.878,wav2vec2,,,,,,-0.0,1020
+PKK-05,PKK,Pengenalan Keilmuan Komputer,https://www.youtube.com/watch?v=3wR5xW_rzNE,,23:28,1145.994,0,0,1145.994,1145.994,1408.0,0.914,wav2vec2,,,,,terpotong 262 detik pada tahap pengunduhan,262.0,1919
+RPL-02,RPL,Rekayasa Perangkat Lunak,https://www.youtube.com/watch?v=66VCV_RUV9Q,,21:50,1140.014,0,0,1140.014,1140.014,1310.0,0.949,wav2vec2,,,,,terpotong 170 detik pada tahap pengunduhan,170.0,2268
+RPL-03,RPL,Rekayasa Perangkat Lunak,https://www.youtube.com/watch?v=JI74EecGFQg,,24:15,1140.014,0,0,1140.014,1140.014,1455.0,0.958,wav2vec2,,,,,terpotong 315 detik pada tahap pengunduhan,315.0,2489
+RPL-04,RPL,Rekayasa Perangkat Lunak,https://www.youtube.com/watch?v=wWGTCzryEVc,,27:38,1140.014,0,0,1140.014,1140.014,1658.0,0.951,wav2vec2,,,,,terpotong 518 detik pada tahap pengunduhan,518.0,2592
+RPL-06,RPL,Rekayasa Perangkat Lunak,https://www.youtube.com/watch?v=lwotPCtoP4c,,18:17,1097.014,0,0,1097.014,1097.014,1097.0,0.957,wav2vec2,,,,,,-0.0,2445
+RPL-07,RPL,Rekayasa Perangkat Lunak,https://www.youtube.com/watch?v=t8DRqvwG4UU,,20:14,1214.014,0,0,1214.014,1214.014,1214.0,0.966,wav2vec2,,,,,,-0.0,2787
+RPL-09,RPL,Rekayasa Perangkat Lunak,https://www.youtube.com/watch?v=XzSYCB2gTiw,,14:40,880.014,0,0,880.014,880.014,880.0,0.947,wav2vec2,,,,,,-0.0,1839
+RPL-10,RPL,Rekayasa Perangkat Lunak,https://www.youtube.com/watch?v=Ue0soxUargI,,16:48,1008.014,0,0,1008.014,1008.014,1008.0,0.947,wav2vec2,,,,,,-0.0,2207
+RPL-11,RPL,Rekayasa Perangkat Lunak,https://www.youtube.com/watch?v=rCnYFe6YJjM,,28:30,1129.994,0,0,1129.994,1129.994,1710.0,0.912,wav2vec2,,,,,terpotong 580 detik pada tahap pengunduhan,580.0,1861
+JARNIR-01,JARNIR,Jaringan Nirkabel,https://www.youtube.com/watch?v=eX3xCGoV8dg,,26:03,1140.014,0,0,1140.014,1140.014,1563.0,0.813,wav2vec2,,,,,terpotong 423 detik pada tahap pengunduhan,423.0,1622
+JARNIR-03,JARNIR,Jaringan Nirkabel,https://www.youtube.com/watch?v=OPE6XYo-Y_M,,26:56,1089.994,0,0,1089.994,1089.994,1616.0,0.919,wav2vec2,,,,,terpotong 526 detik pada tahap pengunduhan,526.0,1756
+JARNIR-04,JARNIR,Jaringan Nirkabel,https://www.youtube.com/watch?v=DDi-ec2OHJg,,30:56,1140.014,0,0,1140.014,1140.014,1856.0,0.927,wav2vec2,,,,,terpotong 716 detik pada tahap pengunduhan,716.0,2366
+JARNIR-05,JARNIR,Jaringan Nirkabel,https://www.youtube.com/watch?v=vi40zQkBs7M,,14:42,882.014,0,0,882.014,882.014,882.0,0.967,wav2vec2,,,,,,-0.0,2116

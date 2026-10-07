@@ -1,0 +1,485 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+AOK-04	AOK		1	4.620	7.280	2.660	Assalamualaikum warahmatullahi wabarakatuh	Assalamualaikum warahmatullahi wabarakatuh		
+AOK-04	AOK		2	7.280	10.160	2.880	Pada sesi kali ini	Pada sesi kali ini		
+AOK-04	AOK		3	10.160	12.680	2.520	kita akan membahas	kita akan membahas		
+AOK-04	AOK		4	12.680	13.860	1.180	terkait dengan	terkait dengan		
+AOK-04	AOK		5	13.860	16.020	2.160	perkulian kita	perkulian kita		
+AOK-04	AOK		6	16.020	17.020	1.000	dengan topik	dengan topik		
+AOK-04	AOK		7	17.020	19.540	2.520	Memory Case	Memory Cache		
+AOK-04	AOK		8	19.540	21.800	2.260	Memory Case ini sangat	Memory Cache ini sangat		
+AOK-04	AOK		9	21.800	23.520	1.720	berperan di dalam	berperan di dalam		
+AOK-04	AOK		10	23.520	26.340	2.820	meningkatkan performance	meningkatkan performance		
+AOK-04	AOK		11	26.340	30.040	3.700	sistem komputer kita	sistem komputer kita		
+AOK-04	AOK		12	30.040	35.440	5.400	memory case ini	memory cache ini		
+AOK-04	AOK		13	35.440	37.000	1.560	menjadi bagian dari	menjadi bagian dari		
+AOK-04	AOK		14	37.000	39.340	2.340	organisasi	organisasi		
+AOK-04	AOK		15	39.340	40.800	1.460	memori yang ada dalam	memori yang ada dalam		
+AOK-04	AOK		16	40.800	42.940	2.140	sistem komputer kita	sistem komputer kita		
+AOK-04	AOK		17	42.940	43.500	0.560	dimana	dimana		
+AOK-04	AOK		18	43.500	47.600	4.100	memori case ini menjadi bagian	memori case ini menjadi bagian		
+AOK-04	AOK		19	47.600	49.500	1.900	dalam sistem	dalam sistem		
+AOK-04	AOK		20	49.500	51.540	2.040	prosesor atau di dalam	prosesor atau di dalam		
+AOK-04	AOK		21	51.540	52.440	0.900	CPU	CPU		
+AOK-04	AOK		22	52.440	54.840	2.400	secara hierarki	secara hierarki		
+AOK-04	AOK		23	54.840	56.980	2.140	memori case ini menjadi	memori case ini menjadi		
+AOK-04	AOK		24	56.980	59.040	2.060	bagian yang	bagian yang		
+AOK-04	AOK		25	59.040	61.160	2.120	sangat penting di dalam sistem	sangat penting di dalam sistem		
+AOK-04	AOK		26	61.160	62.420	1.260	komputer kita	komputer kita		
+AOK-04	AOK		27	62.420	64.440	2.020	sebelum menginjak	sebelum menginjak		
+AOK-04	AOK		28	64.440	66.680	2.240	terhadap	terhadap		
+AOK-04	AOK		29	66.680	69.020	2.340	pembahasan pada	pembahasan pada		
+AOK-04	AOK		30	69.020	70.920	1.900	memory case, mungkin kita perlu	memory cache, mungkin kita perlu		
+AOK-04	AOK		31	70.920	73.620	2.700	bahas terkait dengan	bahas terkait dengan		
+AOK-04	AOK		32	73.620	75.220	1.600	sistem, karakteristik	sistem, karakteristik		
+AOK-04	AOK		33	75.220	77.180	1.960	sistem memory yang ada dalam	sistem memory yang ada dalam		
+AOK-04	AOK		34	77.180	79.200	2.020	sistem komputer	sistem komputer		
+AOK-04	AOK		35	79.200	81.280	2.080	karakteristik	karakteristik		
+AOK-04	AOK		36	81.280	83.220	1.940	sistem komputer secara	sistem komputer secara		
+AOK-04	AOK		37	83.220	84.820	1.600	lokasi, ini artinya	lokasi, ini artinya		
+AOK-04	AOK		38	84.820	86.600	1.780	mengajuk pada lokasi	mengajuk pada lokasi		
+AOK-04	AOK		39	86.600	89.900	3.300	memori itu secara internal atau eksternal	memori itu secara internal atau eksternal		
+AOK-04	AOK		40	89.900	93.480	3.580	memori internal seringkali disampaikan dengan main memori	memori internal seringkali disampaikan dengan main memory		
+AOK-04	AOK		41	93.480	96.160	2.680	atau memori utama atau primary memori	atau memori utama atau primary memory		
+AOK-04	AOK		42	96.160	100.180	4.020	prosesor membutuhkan memori lokal	prosesor membutuhkan memori lokal		
+AOK-04	AOK		43	100.180	103.860	3.680	atau internal memori ini dalam bentuk register	atau internal memori ini dalam bentuk register		
+AOK-04	AOK		44	103.860	109.720	5.860	jadi register adalah merupakan salah satu jenis memori	jadi register adalah merupakan salah satu jenis memori		
+AOK-04	AOK		45	109.720	112.140	2.420	yang memiliki tingkatan paling tinggi	yang memiliki tingkatan paling tinggi		
+AOK-04	AOK		46	112.140	116.220	4.080	kemudian di bawahnya register adalah memori case	kemudian di bawahnya register adalah memori cache		
+AOK-04	AOK		47	116.220	117.680	1.460	yang akan kita bahas pada	yang akan kita bahas pada		
+AOK-04	AOK		48	117.680	119.420	1.740	sesi kali ini	sesi kali ini		
+AOK-04	AOK		49	119.420	123.460	4.040	menjadi bagian dari	menjadi bagian dari		
+AOK-04	AOK		50	123.460	125.240	1.780	internal memory	internal memory		
+AOK-04	AOK		51	125.240	128.340	3.100	sehingga kita sebut bahwasannya	sehingga kita sebut bahwasannya		
+AOK-04	AOK		52	128.340	130.540	2.200	internal memory ini	internal memory ini		
+AOK-04	AOK		53	130.540	132.020	1.480	termasuk	termasuk		
+AOK-04	AOK		54	132.020	133.400	1.380	register maupun	register maupun		
+AOK-04	AOK		55	133.400	136.540	3.140	case memory di samping main memory	cache memory di samping main memory		
+AOK-04	AOK		56	136.540	137.380	0.840	yang ada dalam	yang ada dalam		
+AOK-04	AOK		57	137.380	139.160	1.780	sistem komputer kita	sistem komputer kita		
+AOK-04	AOK		58	139.160	143.560	4.400	di dalam lokasi	di dalam lokasi		
+AOK-04	AOK		59	143.560	145.520	1.960	berdasarkan lokasi ini	berdasarkan lokasi ini		
+AOK-04	AOK		60	145.520	147.300	1.780	nanti juga ada external memory	nanti juga ada external memory		
+AOK-04	AOK		61	147.300	157.020	9.720	yaitu merupakan perangkat memori yang ada di luar komputer	yaitu merupakan perangkat memori yang ada di luar komputer		
+AOK-04	AOK		62	157.020	161.140	4.120	yang biasanya menjadi bagian dari sistem IHO	yang biasanya menjadi bagian dari sistem I/O		
+AOK-04	AOK		63	161.140	163.340	2.200	misalnya seperti HD, CD, DVD	misalnya seperti HD, CD, DVD		
+AOK-04	AOK		64	163.340	169.480	6.140	berdasarkan kapasitas memori nanti biasanya dinyatakan dalam byte	berdasarkan kapasitas memori nanti biasanya dinyatakan dalam byte		
+AOK-04	AOK		65	169.480	176.700	7.220	jadi kilobyte, megabyte, gigabyte sampai dengan mungkin terabyte	jadi kilobyte, megabyte, gigabyte sampai dengan mungkin terabyte		
+AOK-04	AOK		66	176.700	181.260	4.560	Kemudian berdasarkan unit transfer	Kemudian berdasarkan unit transfer		
+AOK-04	AOK		67	181.260	183.760	2.500	Memori nanti ada memori internal	Memori nanti ada memori internal		
+AOK-04	AOK		68	183.760	193.260	9.500	Dimana transfernya nanti sesuai dengan jumlah saluran listrik atau koneksi	Dimana transfernya nanti sesuai dengan jumlah saluran listrik atau koneksi		
+AOK-04	AOK		69	193.260	202.760	9.500	Yang menjadi bagian dari modul memori untuk input output atau baca tulis memori	Yang menjadi bagian dari modul memori untuk input output atau baca tulis memori		
+AOK-04	AOK		70	202.760	207.700	4.940	bahwasannya di dalam	bahwasannya di dalam		
+AOK-04	AOK		71	207.700	209.620	1.920	memori	memori		
+AOK-04	AOK		72	209.620	211.820	2.200	dalam memori kita untuk akses	dalam memori kita untuk akses		
+AOK-04	AOK		73	211.820	213.540	1.720	akses memori	akses memori		
+AOK-04	AOK		74	213.540	215.960	2.420	sistem memori	sistem memori		
+AOK-04	AOK		75	215.960	217.560	1.600	dalam komputer kita itu ada beberapa	dalam komputer kita itu ada beberapa		
+AOK-04	AOK		76	217.560	220.140	2.580	jenis yaitu sequential access	jenis yaitu sequential access		
+AOK-04	AOK		77	220.140	221.900	1.760	direct access, random maupun	direct access, random maupun		
+AOK-04	AOK		78	221.900	222.840	0.940	asosiatif	associative		
+AOK-04	AOK		79	222.840	225.780	2.940	jadi yang sequential access itu maksudnya adalah	jadi yang sequential access itu maksudnya adalah		
+AOK-04	AOK		80	225.780	228.120	2.340	merupakan akses	merupakan akses		
+AOK-04	AOK		81	228.120	229.640	1.520	pembacaan, baca tulis	pembacaan, baca tulis		
+AOK-04	AOK		82	229.640	230.620	0.980	memori yang	memori yang		
+AOK-04	AOK		83	230.620	232.480	1.860	secara	secara		
+AOK-04	AOK		84	232.480	234.860	2.380	sequential, secara berurutan	sequential, secara berurutan		
+AOK-04	AOK		85	234.860	236.640	1.780	kemudian	kemudian		
+AOK-04	AOK		86	236.640	238.400	1.760	direct access	direct access		
+AOK-04	AOK		87	238.400	239.680	1.280	pembacaan	pembacaan		
+AOK-04	AOK		88	239.680	242.240	2.560	access memory itu secara langsung	access memory itu secara langsung		
+AOK-04	AOK		89	242.240	244.400	2.160	ini biasanya pada	ini biasanya pada		
+AOK-04	AOK		90	244.400	245.480	1.080	media	media		
+AOK-04	AOK		91	245.480	251.100	5.620	hard disk	hard disk		
+AOK-04	AOK		92	251.100	252.620	1.520	atau media penyimpan	atau media penyimpan		
+AOK-04	AOK		93	252.620	254.220	1.600	sedangkan pada sequential ini pada	sedangkan pada sequential ini pada		
+AOK-04	AOK		94	254.220	256.340	2.120	pada media penyimpan	pada media penyimpan		
+AOK-04	AOK		95	256.340	258.640	2.300	tip, media tip	tip, media tip		
+AOK-04	AOK		96	258.640	260.420	1.780	yang sekarang mungkin sudah	yang sekarang mungkin sudah		
+AOK-04	AOK		97	260.420	261.100	0.680	tidak ada	tidak ada		
+AOK-04	AOK		98	261.100	263.740	2.640	direct access masih ada	direct access masih ada		
+AOK-04	AOK		99	263.740	266.160	2.420	yaitu contohnya adalah bentuk hard disk	yaitu contohnya adalah bentuk hard disk		
+AOK-04	AOK		100	266.160	268.300	2.140	artinya	artinya		
+AOK-04	AOK		101	268.300	269.880	1.580	access itu langsung	access itu langsung		
+AOK-04	AOK		102	269.880	271.900	2.020	dilakukan pada	dilakukan pada		
+AOK-04	AOK		103	271.900	274.360	2.460	lokasi	lokasi		
+AOK-04	AOK		104	274.360	275.940	1.580	pada permukaan	pada permukaan		
+AOK-04	AOK		105	275.940	278.340	2.400	permukaan cakram atau permukaan	permukaan cakram atau permukaan		
+AOK-04	AOK		106	278.340	279.660	1.320	disk member tersebut	disk member tersebut		
+AOK-04	AOK		107	279.660	281.840	2.180	sedangkan random access ini	sedangkan random access ini		
+AOK-04	AOK		108	281.840	283.900	2.060	yang merupakan mekanisme	yang merupakan mekanisme		
+AOK-04	AOK		109	283.900	286.020	2.120	access pada RAM maupun ROM	access pada RAM maupun ROM		
+AOK-04	AOK		110	286.020	287.720	1.700	jadi langsung nanti pada	jadi langsung nanti pada		
+AOK-04	AOK		111	287.720	289.680	1.960	address lokasi dari	address lokasi dari		
+AOK-04	AOK		112	289.680	291.280	1.600	RAM ataupun ROM yang	RAM ataupun ROM yang		
+AOK-04	AOK		113	291.280	294.040	2.760	menjadi bagian utama	menjadi bagian utama		
+AOK-04	AOK		114	294.040	295.720	1.680	di dalam sistem komputer	di dalam sistem komputer		
+AOK-04	AOK		115	295.720	298.180	2.460	kita pada main memory	kita pada main memory		
+AOK-04	AOK		116	298.180	299.720	1.540	kemudian yang	kemudian yang		
+AOK-04	AOK		117	299.720	301.720	2.000	terakhir ini adalah asosiatif	terakhir ini adalah associative		
+AOK-04	AOK		118	301.720	303.940	2.220	asosiatif ini adalah merupakan mekanisme	associative ini adalah merupakan mekanisme		
+AOK-04	AOK		119	303.940	306.360	2.420	akses baca tulis	akses baca tulis		
+AOK-04	AOK		120	306.360	306.840	0.480	yang	yang		
+AOK-04	AOK		121	306.840	309.420	2.580	terkait dengan	terkait dengan		
+AOK-04	AOK		122	309.420	312.060	2.640	cache memory	cache memory		
+AOK-04	AOK		123	312.060	317.700	5.640	berdasarkan	berdasarkan		
+AOK-04	AOK		124	317.700	319.460	1.760	kapasitas memory itu	kapasitas memory itu		
+AOK-04	AOK		125	319.460	321.720	2.260	nanti akan di	nanti akan di		
+AOK-04	AOK		126	321.720	325.120	3.400	karakteristik kinerjanya	karakteristik kinerjanya		
+AOK-04	AOK		127	325.120	325.740	0.620	maksudnya ya	maksudnya ya		
+AOK-04	AOK		128	325.740	328.560	2.820	jadi kapasitas dan karakteristik kinerja	jadi kapasitas dan karakteristik kinerja		
+AOK-04	AOK		129	328.560	331.100	2.540	dari sebuah main memory nanti akan ditentukan oleh	dari sebuah main memory nanti akan ditentukan oleh		
+AOK-04	AOK		130	331.100	332.940	1.840	waktu akses	waktu akses		
+AOK-04	AOK		131	332.940	335.160	2.220	atau latensi, jadi waktu yang diperlukan	atau latensi, jadi waktu yang diperlukan		
+AOK-04	AOK		132	335.160	336.860	1.700	untuk baca tulis	untuk baca tulis		
+AOK-04	AOK		133	336.860	338.780	1.920	kemudian memory	kemudian memory		
+AOK-04	AOK		134	338.780	340.380	1.600	cycle time artinya	cycle time artinya		
+AOK-04	AOK		135	340.380	342.760	2.380	berapa waktu yang diperlukan	berapa waktu yang diperlukan		
+AOK-04	AOK		136	342.760	343.440	0.680	di dalam	di dalam		
+AOK-04	AOK		137	343.440	346.280	2.840	siklus	siklus		
+AOK-04	AOK		138	346.280	348.680	2.400	akses pembacaan ataupun	akses pembacaan ataupun		
+AOK-04	AOK		139	348.680	349.940	1.260	penulisan memory	penulisan memory		
+AOK-04	AOK		140	349.940	352.120	2.180	Dan yang ketiga	Dan yang ketiga		
+AOK-04	AOK		141	352.120	353.540	1.420	Ditentukan oleh transfer rate	Ditentukan oleh transfer rate		
+AOK-04	AOK		142	353.540	356.040	2.500	Jadi berapa kecepatan transfer	Jadi berapa kecepatan transfer		
+AOK-04	AOK		143	356.040	358.120	2.080	Data untuk	Data untuk		
+AOK-04	AOK		144	358.120	361.580	3.460	Input output atau	Input output atau		
+AOK-04	AOK		145	361.580	362.940	1.360	Baca tulis di dalam	Baca tulis di dalam		
+AOK-04	AOK		146	362.940	364.440	1.500	Memori	Memori		
+AOK-04	AOK		147	364.440	369.460	5.020	Berdasarkan karakteristik penyimpanan	Berdasarkan karakteristik penyimpanan		
+AOK-04	AOK		148	369.460	373.000	3.540	Berdasarkan sel memori	Berdasarkan sel memori		
+AOK-04	AOK		149	373.000	374.680	1.680	Ada memori semikonduktor	Ada memori semikonduktor		
+AOK-04	AOK		150	374.680	377.740	3.060	Memori magnetik, memori optik	Memori magnetik, memori optik		
+AOK-04	AOK		151	377.740	379.720	1.980	Atau memori magneto-optikal	Atau memori magneto-optical		
+AOK-04	AOK		152	379.720	383.240	3.520	memori semikonduktor	memori semikonduktor		
+AOK-04	AOK		153	383.240	384.520	1.280	ini yang ada nanti pada	ini yang ada nanti pada		
+AOK-04	AOK		154	384.520	387.180	2.660	memori RAM	memori RAM		
+AOK-04	AOK		155	387.180	387.920	0.740	maupun ROM	maupun ROM		
+AOK-04	AOK		156	387.920	391.180	3.260	dan termasuk juga cache memory	dan termasuk juga cache memory		
+AOK-04	AOK		157	391.180	393.220	2.040	itu adalah termasuk jenis memori	itu adalah termasuk jenis memori		
+AOK-04	AOK		158	393.220	395.540	2.320	yang semikonduktor	yang semikonduktor		
+AOK-04	AOK		159	395.540	397.080	1.540	sedangkan	sedangkan		
+AOK-04	AOK		160	397.080	398.320	1.240	permukaan magnetic pada	permukaan magnetic pada		
+AOK-04	AOK		161	398.320	400.520	2.200	hard disk	hard disk		
+AOK-04	AOK		162	400.520	402.300	1.780	dan optik ini pada CD	dan optik ini pada CD		
+AOK-04	AOK		163	402.300	403.180	0.880	ataupun DVD	ataupun DVD		
+AOK-04	AOK		164	403.180	404.760	1.580	DVD ROM	DVD ROM		
+AOK-04	AOK		165	404.760	408.880	4.120	secara karakteristik penyimpanan	secara karakteristik penyimpanan		
+AOK-04	AOK		166	408.880	411.080	2.200	biasanya dibagi menjadi dua bagian	biasanya dibagi menjadi dua bagian		
+AOK-04	AOK		167	411.080	412.700	1.620	yaitu memori yang	yaitu memori yang		
+AOK-04	AOK		168	412.700	414.740	2.040	mudah menguap dan	mudah menguap dan		
+AOK-04	AOK		169	414.740	417.260	2.520	memori yang sifatnya	memori yang sifatnya		
+AOK-04	AOK		170	417.260	419.560	2.300	permanen atau non-volatile	permanen atau non-volatile		
+AOK-04	AOK		171	419.560	421.040	1.480	memori yang menguap	memori yang menguap		
+AOK-04	AOK		172	421.040	421.940	0.900	ini yang volatile	ini yang volatile		
+AOK-04	AOK		173	421.940	423.120	1.180	ini yang	ini yang		
+AOK-04	AOK		174	423.120	426.920	3.800	memori yang permanen	memori yang permanen		
+AOK-04	AOK		175	426.920	429.380	2.460	itu yang non-volatile	itu yang non-volatile		
+AOK-04	AOK		176	429.380	431.200	1.820	ini termasuk	ini termasuk		
+AOK-04	AOK		177	431.200	432.900	1.700	ada di sambil konduktor	ada di sambil konduktor		
+AOK-04	AOK		178	432.900	434.740	1.840	ini ada yang volatile	ini ada yang volatile		
+AOK-04	AOK		179	434.740	436.520	1.780	ataupun non-volatile	ataupun non-volatile		
+AOK-04	AOK		180	436.520	438.680	2.160	ada magnetic pada umumnya	ada magnetic pada umumnya		
+AOK-04	AOK		181	438.680	441.100	2.420	yang non-volatile	yang non-volatile		
+AOK-04	AOK		182	441.100	444.420	3.320	memori yang non-erisable	memori yang non-erisable		
+AOK-04	AOK		183	444.420	446.220	1.800	ini pada ROM	ini pada ROM		
+AOK-04	AOK		184	446.220	448.660	2.440	misalkan ya, pada ROM ataupun DVD ROM	misalkan ya, pada ROM ataupun DVD ROM		
+AOK-04	AOK		185	448.660	449.980	1.320	itu yang	itu yang		
+AOK-04	AOK		186	449.980	452.040	2.060	supportnya hanya sekali program	supportnya hanya sekali program		
+AOK-04	AOK		187	452.040	454.100	2.060	sedangkan pada memori	sedangkan pada memori		
+AOK-04	AOK		188	454.100	456.460	2.360	RAM, itu adalah merupakan memori	RAM, itu adalah merupakan memori		
+AOK-04	AOK		189	456.460	458.840	2.380	yang aksesnya	yang aksesnya		
+AOK-04	AOK		190	458.840	460.320	1.480	bisa secara acak	bisa secara acak		
+AOK-04	AOK		191	460.320	462.300	1.980	oleh karena tidak kenal dengan	oleh karena tidak kenal dengan		
+AOK-04	AOK		192	462.300	464.520	2.220	RAM random access	RAM random access		
+AOK-04	AOK		193	464.520	466.440	1.920	memori, hierarki memori	memori, hierarki memori		
+AOK-04	AOK		194	466.440	468.240	1.800	secara prinsip	secara prinsip		
+AOK-04	AOK		195	468.240	470.280	2.040	bahwasannya hierarki memori ini adalah	bahwasannya hierarki memori ini adalah		
+AOK-04	AOK		196	470.280	471.920	1.640	bagaimana	bagaimana		
+AOK-04	AOK		197	471.920	474.140	2.220	posisi	posisi		
+AOK-04	AOK		198	474.140	475.840	1.700	yang utama	yang utama		
+AOK-04	AOK		199	475.840	478.020	2.180	dari posisi teratas dalam sistem	dari posisi teratas dalam sistem		
+AOK-04	AOK		200	478.020	478.720	0.700	memori	memori		
+AOK-04	AOK		201	478.720	481.680	2.960	ini adalah hierarki memori	ini adalah hierarki memori		
+AOK-04	AOK		202	481.680	483.960	2.280	yang menjadi memori	yang menjadi memori		
+AOK-04	AOK		203	483.960	485.720	1.760	yang ada di dalam	yang ada di dalam		
+AOK-04	AOK		204	485.720	487.900	2.180	komputer, yaitu mulai dari	komputer, yaitu mulai dari		
+AOK-04	AOK		205	487.900	490.160	2.260	register yang ada di dalam CPU, cache yang ada	register yang ada di dalam CPU, cache yang ada		
+AOK-04	AOK		206	490.160	492.240	2.080	di dalam CPU, main memori yang ada	di dalam CPU, main memori yang ada		
+AOK-04	AOK		207	492.240	494.120	1.880	di dalam board	di dalam board		
+AOK-04	AOK		208	494.120	496.000	1.880	komputer kita	komputer kita		
+AOK-04	AOK		209	496.000	497.800	1.800	sedangkan yang di	sedangkan yang di		
+AOK-04	AOK		210	497.800	499.580	1.780	luar atau di	luar atau di		
+AOK-04	AOK		211	499.580	501.320	1.740	outboard	outboard		
+AOK-04	AOK		212	501.320	504.300	2.980	ini termasuk memory hard disk	ini termasuk memory hard disk		
+AOK-04	AOK		213	504.300	506.020	1.720	cd-rom, cd-rw	cd-rom, cd-rw		
+AOK-04	AOK		214	506.020	507.860	1.840	dvd-rw, dvd-ram	dvd-rw, dvd-ram		
+AOK-04	AOK		215	507.860	509.300	1.440	ataupun blu-ray	ataupun blu-ray		
+AOK-04	AOK		216	509.300	512.220	2.920	dan yang di bagian	dan yang di bagian		
+AOK-04	AOK		217	512.220	514.280	2.060	yang paling bawah ini adalah magnetic tip	yang paling bawah ini adalah magnetic tip		
+AOK-04	AOK		218	514.280	515.960	1.680	yang sekarang sudah tidak ada	yang sekarang sudah tidak ada		
+AOK-04	AOK		219	515.960	517.560	1.600	tidak digunakan lagi karena	tidak digunakan lagi karena		
+AOK-04	AOK		220	517.560	520.060	2.500	sudah dengan	sudah dengan		
+AOK-04	AOK		221	520.060	521.320	1.260	perkembangan teknologi	perkembangan teknologi		
+AOK-04	AOK		222	521.320	524.360	3.040	menggunakan teknologi	menggunakan teknologi		
+AOK-04	AOK		223	524.360	525.760	1.400	teknologi penyimpanan	teknologi penyimpanan		
+AOK-04	AOK		224	525.760	527.660	1.900	yang bisa digantikan dengan	yang bisa digantikan dengan		
+AOK-04	AOK		225	527.660	530.000	2.340	CD ataupun DVD	CD ataupun DVD		
+AOK-04	AOK		226	530.000	532.240	2.240	pada hirarki ini	pada hirarki ini		
+AOK-04	AOK		227	532.240	534.060	1.820	jadi semakin atas ini adalah	jadi semakin atas ini adalah		
+AOK-04	AOK		228	534.060	535.560	1.500	semakin cepat artinya	semakin cepat artinya		
+AOK-04	AOK		229	535.560	538.440	2.880	kecepatan akses	kecepatan akses		
+AOK-04	AOK		230	538.440	540.020	1.580	baca tulis dari	baca tulis dari		
+AOK-04	AOK		231	540.020	542.040	2.020	media memori tersebut	media memori tersebut		
+AOK-04	AOK		232	542.040	544.480	2.440	semakin ke atas adalah semakin tinggi	semakin ke atas adalah semakin tinggi		
+AOK-04	AOK		233	544.480	546.480	2.000	semakin ke bawah adalah semakin	semakin ke bawah adalah semakin		
+AOK-04	AOK		234	546.480	548.720	2.240	rendah	rendah		
+AOK-04	AOK		235	548.720	550.940	2.220	kecepatan aksesnya	kecepatan aksesnya		
+AOK-04	AOK		236	550.940	554.060	3.120	di dalam performa	di dalam performa		
+AOK-04	AOK		237	554.060	555.800	1.740	pembacaan memori	pembacaan memori		
+AOK-04	AOK		238	555.800	558.180	2.380	padahal nanti di dalam	padahal nanti di dalam		
+AOK-04	AOK		239	558.180	559.920	1.740	terkait dengan	terkait dengan		
+AOK-04	AOK		240	559.920	561.620	1.700	cache, nanti ada	cache, nanti ada		
+AOK-04	AOK		241	561.620	563.520	1.900	cache multi-level	cache multi-level		
+AOK-04	AOK		242	563.520	565.640	2.120	multi-level cache	multi-level cache		
+AOK-04	AOK		243	565.640	567.420	1.780	yang nanti sangat berperan di dalam	yang nanti sangat berperan di dalam		
+AOK-04	AOK		244	567.420	569.700	2.280	mempercepat akses pembacaan	mempercepat akses pembacaan		
+AOK-04	AOK		245	569.700	571.460	1.760	memori, di dalam	memori, di dalam		
+AOK-04	AOK		246	571.460	575.060	3.600	mekanisme penyimpanan	mekanisme penyimpanan		
+AOK-04	AOK		247	575.060	577.540	2.480	penyimpanan di	penyimpanan di		
+AOK-04	AOK		248	577.540	579.260	1.720	memori	memori		
+AOK-04	AOK		249	579.260	581.500	2.240	bahwasannya penggunaan	bahwasannya penggunaan		
+AOK-04	AOK		250	581.500	583.520	2.020	multi-level	multi-level		
+AOK-04	AOK		251	583.520	585.440	1.920	memori	memori		
+AOK-04	AOK		252	585.440	588.660	3.220	nanti akan di case terutama	nanti akan di cache terutama		
+AOK-04	AOK		253	588.660	591.500	2.840	itu adalah sangat penting	itu adalah sangat penting		
+AOK-04	AOK		254	591.500	594.660	3.160	di dalam mempercepat akses memori	di dalam mempercepat akses memori		
+AOK-04	AOK		255	594.660	598.920	4.260	dengan perkembangan	dengan perkembangan		
+AOK-04	AOK		256	598.920	600.280	1.360	ataupun dengan pertimbangan	ataupun dengan pertimbangan		
+AOK-04	AOK		257	600.280	603.700	3.420	kecepatan maupun biaya	kecepatan maupun biaya		
+AOK-04	AOK		258	603.700	606.720	3.020	data disimpan di dalam memori	data disimpan di dalam memori		
+AOK-04	AOK		259	606.720	608.580	1.860	sifatnya ada yang bisa permanen	sifatnya ada yang bisa permanen		
+AOK-04	AOK		260	608.580	610.660	2.080	dan padahal ini untuk eksternal	dan padahal ini untuk eksternal		
+AOK-04	AOK		261	610.660	612.660	2.000	itu yang sifatnya permanen	itu yang sifatnya permanen		
+AOK-04	AOK		262	612.660	615.260	2.600	sedangkan disk case	sedangkan disk cache		
+AOK-04	AOK		263	615.260	621.300	6.040	Ini digunakan untuk mempercepat akses pembacaan ke disk	Ini digunakan untuk mempercepat akses pembacaan ke disk		
+AOK-04	AOK		264	621.300	627.700	6.400	Baik, kita masuk ke dalam topik cache memory	Baik, kita masuk ke dalam topik cache memory		
+AOK-04	AOK		265	627.700	633.640	5.940	Cache memory ini adalah merupakan bagian dari CPU sebenarnya	Cache memory ini adalah merupakan bagian dari CPU sebenarnya		
+AOK-04	AOK		266	633.640	640.500	6.860	Yaitu suatu mekanisme untuk mempercepat akses pembacaan dari main memory ke dalam CPU	Yaitu suatu mekanisme untuk mempercepat akses pembacaan dari main memory ke dalam CPU		
+AOK-04	AOK		267	640.500	642.720	2.220	cache memory ini adalah	cache memory ini adalah		
+AOK-04	AOK		268	642.720	644.760	2.040	merupakan jenis memory yang	merupakan jenis memory yang		
+AOK-04	AOK		269	644.760	647.240	2.480	static	static		
+AOK-04	AOK		270	647.240	648.560	1.320	sedangkan	sedangkan		
+AOK-04	AOK		271	648.560	651.020	2.460	main memory ini adalah dynamic	main memory ini adalah dynamic		
+AOK-04	AOK		272	651.020	653.680	2.660	perbedaan antara	perbedaan antara		
+AOK-04	AOK		273	653.680	655.440	1.760	static RAM	static RAM		
+AOK-04	AOK		274	655.440	657.100	1.660	dan dynamic RAM	dan dynamic RAM		
+AOK-04	AOK		275	657.100	659.020	1.920	itu pada sisi kecepatan	itu pada sisi kecepatan		
+AOK-04	AOK		276	659.020	659.860	0.840	jadi	jadi		
+AOK-04	AOK		277	659.860	663.500	3.640	kecepatan CPU	kecepatan CPU		
+AOK-04	AOK		278	663.500	665.080	1.580	atau kecepatan cache	atau kecepatan cache		
+AOK-04	AOK		279	665.080	667.560	2.480	dibandingkan dengan kecepatan main memory	dibandingkan dengan kecepatan main memory		
+AOK-04	AOK		280	667.560	668.360	0.800	dalam hal ini	dalam hal ini		
+AOK-04	AOK		281	668.360	670.680	2.320	dynamic RAM ini	dynamic RAM ini		
+AOK-04	AOK		282	670.680	672.760	2.080	cukup jauh	cukup jauh		
+AOK-04	AOK		283	672.760	675.160	2.400	perbedaan kecepatannya	perbedaan kecepatannya		
+AOK-04	AOK		284	675.160	676.780	1.620	oleh karena itu untuk	oleh karena itu untuk		
+AOK-04	AOK		285	676.780	677.740	0.960	mengatasi	mengatasi		
+AOK-04	AOK		286	677.740	681.080	3.340	kecepatan dari pembacaan	kecepatan dari pembacaan		
+AOK-04	AOK		287	681.080	683.020	1.940	main memory inilah digunakan cache	main memory inilah digunakan cache		
+AOK-04	AOK		288	683.020	685.140	2.120	dimana cache ini adalah merupakan	dimana cache ini adalah merupakan		
+AOK-04	AOK		289	685.140	686.960	1.820	memori static	memori static		
+AOK-04	AOK		290	686.960	688.920	1.960	static RAM yang kecepatannya	static RAM yang kecepatannya		
+AOK-04	AOK		291	688.920	690.780	1.860	pada umumnya adalah sama seperti	pada umumnya adalah sama seperti		
+AOK-04	AOK		292	690.780	692.820	2.040	kecepatan clock	kecepatan clock		
+AOK-04	AOK		293	692.820	694.300	1.480	pada sistem	pada sistem		
+AOK-04	AOK		294	694.300	695.900	1.600	sistem bus di	sistem bus di		
+AOK-04	AOK		295	695.900	697.720	1.820	komputer	komputer		
+AOK-04	AOK		296	697.720	700.740	3.020	kenapa ini bisa	kenapa ini bisa		
+AOK-04	AOK		297	700.740	702.580	1.840	mempercepat	mempercepat		
+AOK-04	AOK		298	702.580	704.760	2.180	akses main memory	akses main memory		
+AOK-04	AOK		299	704.760	705.780	1.020	karena pada umumnya	karena pada umumnya		
+AOK-04	AOK		300	705.780	708.300	2.520	akses dari CPU ini	akses dari CPU ini		
+AOK-04	AOK		301	708.300	710.440	2.140	banyak yang loop	banyak yang loop		
+AOK-04	AOK		302	710.440	712.680	2.240	di perulangan banyak perulangan	di perulangan banyak perulangan		
+AOK-04	AOK		303	712.680	713.920	1.240	perulangan, baik itu	perulangan, baik itu		
+AOK-04	AOK		304	713.920	715.900	1.980	instruksi maupun	instruksi maupun		
+AOK-04	AOK		305	715.900	718.660	2.760	data	data		
+AOK-04	AOK		306	718.660	720.720	2.060	sehingga ketika	sehingga ketika		
+AOK-04	AOK		307	720.720	722.320	1.600	CPU akan mengakses	CPU akan mengakses		
+AOK-04	AOK		308	722.320	724.600	2.280	aplikasi, program, data	aplikasi, program, data		
+AOK-04	AOK		309	724.600	726.740	2.140	maka nanti lebih banyak	maka nanti lebih banyak		
+AOK-04	AOK		310	726.740	729.060	2.320	mengambil data-data	mengambil data-data		
+AOK-04	AOK		311	729.060	731.040	1.980	ataupun program-program yang ada di	ataupun program-program yang ada di		
+AOK-04	AOK		312	731.040	732.460	1.420	yang ada di cache	yang ada di cache		
+AOK-04	AOK		313	732.460	735.000	2.540	apabila program itu memang sudah berganti	apabila program itu memang sudah berganti		
+AOK-04	AOK		314	735.000	735.840	0.840	maka nanti akan	maka nanti akan		
+AOK-04	AOK		315	735.840	738.120	2.280	digantikan dengan	digantikan dengan		
+AOK-04	AOK		316	738.120	740.480	2.360	instruksi ataupun	instruksi ataupun		
+AOK-04	AOK		317	740.480	742.940	2.460	data yang	data yang		
+AOK-04	AOK		318	742.940	744.780	1.840	ada di memory, artinya	ada di main memory, artinya		
+AOK-04	AOK		319	744.780	746.820	2.040	sesekali tetap bahwasannya	sesekali tetap bahwasannya		
+AOK-04	AOK		320	746.820	748.740	1.920	CPU nanti akan	CPU nanti akan		
+AOK-04	AOK		321	748.740	750.640	1.900	mengambil data yang dari memory	mengambil data yang dari memory		
+AOK-04	AOK		322	750.640	752.580	1.940	tetapi sekali	tetapi sekali		
+AOK-04	AOK		323	752.580	754.840	2.260	instruksi ataupun data itu	instruksi ataupun data itu		
+AOK-04	AOK		324	754.840	756.840	2.000	diambil, maka dia akan tersimpan	diambil, maka dia akan tersimpan		
+AOK-04	AOK		325	756.840	758.840	2.000	di cache	di cache		
+AOK-04	AOK		326	758.840	760.620	1.780	memori, sehingga ini bisa menjadi	memori, sehingga ini bisa menjadi		
+AOK-04	AOK		327	760.620	762.680	2.060	sebuah buffer	sebuah buffer		
+AOK-04	AOK		328	762.680	763.920	1.240	akses	akses		
+AOK-04	AOK		329	763.920	766.940	3.020	pembacaan antara	pembacaan antara		
+AOK-04	AOK		330	766.940	768.480	1.540	CPU dengan cache, itu	CPU dengan cache, itu		
+AOK-04	AOK		331	768.480	771.020	2.540	menggunakan word transfer	menggunakan word transfer		
+AOK-04	AOK		332	771.020	773.020	2.000	artinya, sekaligus	artinya, sekaligus		
+AOK-04	AOK		333	773.020	774.220	1.200	dalam satu	dalam satu		
+AOK-04	AOK		334	774.220	776.020	1.800	dalam satu	dalam satu		
+AOK-04	AOK		335	776.020	778.940	2.920	address, dalam satu address	address, dalam satu address		
+AOK-04	AOK		336	778.940	780.040	1.100	pembacaan cache ini	pembacaan cache ini		
+AOK-04	AOK		337	780.040	782.460	2.420	akan dibaca	akan dibaca		
+AOK-04	AOK		338	782.460	783.440	0.980	sekian	sekian		
+AOK-04	AOK		339	783.440	786.500	3.060	sekian data	eee sekian data		
+AOK-04	AOK		340	786.500	787.180	0.680	yang berupa	yang berupa		
+AOK-04	AOK		341	787.180	788.940	1.760	berupa word	berupa word		
+AOK-04	AOK		342	788.940	791.580	2.640	sedangkan pembacaan dari	sedangkan pembacaan dari		
+AOK-04	AOK		343	791.580	793.820	2.240	main memory nanti berupa	main memory nanti berupa		
+AOK-04	AOK		344	793.820	795.880	2.060	blok, artinya sekian blok	blok, artinya sekian blok		
+AOK-04	AOK		345	795.880	798.260	2.380	address pada main memory	address pada main memory		
+AOK-04	AOK		346	798.260	799.680	1.420	ini akan diambil secara	ini akan diambil secara		
+AOK-04	AOK		347	799.680	801.920	2.240	perhutang dan nanti akan disimpan	berurutan dan nanti akan disimpan		
+AOK-04	AOK		348	801.920	802.500	0.580	ke dalam	ke dalam		
+AOK-04	AOK		349	802.500	806.160	3.660	alamat cache ini	alamat cache ini		
+AOK-04	AOK		350	806.160	809.800	3.640	pada teknologi	pada teknologi		
+AOK-04	AOK		351	809.800	811.780	1.980	CPU modern dimana	CPU modern dimana		
+AOK-04	AOK		352	811.780	822.580	10.800	memiliki multi-core, maka penggunaan cache ini menggunakan multi-level. Jadi cache level 1,	memiliki multi-core, maka penggunaan cache ini menggunakan multi-level. Jadi cache level 1,		
+AOK-04	AOK		353	822.580	831.220	8.640	level 2, level 3, dan sampai ke main memory. Artinya apa? Bahwasanya di dalam buffering	level 2, level 3, dan sampai ke main memory. Artinya apa? Bahwasanya di dalam buffering		
+AOK-04	AOK		354	831.220	838.960	7.740	data ataupun instruksi yang dari main memory ini akan yang paling sering diakses adalah pada level	data ataupun instruksi yang dari main memory ini akan yang paling sering diakses adalah pada level		
+AOK-04	AOK		355	838.960	848.960	10.000	yang nantinya akan mem-buffer pada instruksi dan data, level 2 ini pada umumnya pada disiapkan untuk	yang nantinya akan mem-buffer pada instruksi dan data, level 2 ini pada umumnya pada disiapkan untuk		
+AOK-04	AOK		356	848.960	854.960	6.000	mem-buffer pada masing-masing core, sedangkan level 3 ini secara umum, jadi semua buffering	mem-buffer pada masing-masing core, sedangkan level 3 ini secara umum, jadi semua buffering		
+AOK-04	AOK		357	854.960	865.960	11.000	data ataupun instruksi nanti akan ada di level 3, maksudnya pada umumnya dari sisi kapasitas level	data ataupun instruksi nanti akan ada di level 3, maksudnya pada umumnya dari sisi kapasitas level		
+AOK-04	AOK		358	865.960	878.860	12.900	3 ini yang paling besar, 2 ini yang agak lebih kecil, dan lapor 1 ini yang paling kecil karena nanti langsung menuju kepada instruksi dan data pada akses dari CPU.	3 ini yang paling besar, 2 ini yang agak lebih kecil, dan lapor 1 ini yang paling kecil karena nanti langsung menuju kepada instruksi dan data pada akses dari CPU.		
+AOK-04	AOK		359	878.860	886.640	7.780	bahwasannya antara cache memori dengan main memori	bahwasannya antara cache memori dengan main memori		
+AOK-04	AOK		360	886.640	888.140	1.500	ini adalah gambarannya	ini adalah gambarannya		
+AOK-04	AOK		361	888.140	892.480	4.340	disini adalah satu blok data yang nantinya akan dimasukkan ke dalam	disini adalah satu blok data yang nantinya akan dimasukkan ke dalam		
+AOK-04	AOK		362	892.480	899.740	7.260	satu alamat tag memori yang ada di dalam cache	satu alamat tag memori yang ada di dalam cache		
+AOK-04	AOK		363	899.740	902.620	2.880	mekanisme pembacaan cache-nya	mekanisme pembacaan cache-nya		
+AOK-04	AOK		364	902.620	908.420	5.800	bahwasannya pada saat pembacaan awal dari prosesor	bahwasannya pada saat pembacaan awal dari prosesor		
+AOK-04	AOK		365	908.420	913.940	5.520	Untuk membaca data atau membaca instruksi	Untuk membaca data atau membaca instruksi		
+AOK-04	AOK		366	913.940	916.080	2.140	Maka nanti akan dicek apakah ada	Maka nanti akan dicek apakah ada		
+AOK-04	AOK		367	916.080	918.820	2.740	Ketika ada di case maka langsung diambil	Ketika ada di cache maka langsung diambil		
+AOK-04	AOK		368	918.820	920.420	1.600	Tapi kalau ketika tidak ada case	Tapi kalau ketika tidak ada cache		
+AOK-04	AOK		369	920.420	924.100	3.680	Maka nanti akan diakses melalui main memory	Maka nanti akan diakses melalui main memory		
+AOK-04	AOK		370	924.100	926.480	2.380	Kemudian nanti akan masuk	Kemudian nanti akan masuk		
+AOK-04	AOK		371	926.480	930.780	4.300	Jadi ketika masuk ini akan secara otomatis	Jadi ketika masuk ini akan secara otomatis		
+AOK-04	AOK		372	930.780	935.360	4.580	Akan langsung juga tersimpan di case memory	Akan langsung juga tersimpan di cache memory		
+AOK-04	AOK		373	935.360	938.400	3.040	Jadi sekali tersimpan maka untuk pembacaan selanjutnya	Jadi sekali tersimpan maka untuk pembacaan selanjutnya		
+AOK-04	AOK		374	938.400	940.900	2.500	akan menggunakan	akan menggunakan		
+AOK-04	AOK		375	940.900	942.980	2.080	cache	cache		
+AOK-04	AOK		376	942.980	945.580	2.600	seperti ini adalah	seperti ini adalah		
+AOK-04	AOK		377	945.580	947.560	1.980	mekanisme pembacaan	mekanisme pembacaan		
+AOK-04	AOK		378	947.560	949.020	1.460	cache memory	cache memory		
+AOK-04	AOK		379	949.020	951.820	2.800	bahwasannya prosesor nanti akan	bahwasannya prosesor nanti akan		
+AOK-04	AOK		380	951.820	953.920	2.100	mengecek keberadaan instruksi	mengecek keberadaan instruksi		
+AOK-04	AOK		381	953.920	955.960	2.040	atau data yang di cache ini	atau data yang di cache ini		
+AOK-04	AOK		382	955.960	958.300	2.340	apakah ada, kalau tidak ada maka	apakah ada, kalau tidak ada maka		
+AOK-04	AOK		383	958.300	960.040	1.740	pengambilan data akan dilakukan	pengambilan data akan dilakukan		
+AOK-04	AOK		384	960.040	962.140	2.100	di main memory yang ada di dalam sistem	di main memory yang ada di dalam sistem		
+AOK-04	AOK		385	962.140	964.280	2.140	pass, sehingga nanti pass address	pass, sehingga nanti pass address		
+AOK-04	AOK		386	964.280	965.300	1.020	akan mengalamati	akan mengalamati		
+AOK-04	AOK		387	965.300	968.180	2.880	main memory	main memory		
+AOK-04	AOK		388	968.180	969.460	1.280	kemudian	kemudian		
+AOK-04	AOK		389	969.460	972.180	2.720	bus kontrol	bus kontrol		
+AOK-04	AOK		390	972.180	973.820	1.640	akan memperolehkan pembacaan	akan memperolehkan pembacaan		
+AOK-04	AOK		391	973.820	975.960	2.140	dan data nanti akan	dan data nanti akan		
+AOK-04	AOK		392	975.960	977.460	1.500	masuk melalui bus data ini	masuk melalui bus data ini		
+AOK-04	AOK		393	977.460	979.660	2.200	ketika masuk ke dalam proses	ketika masuk ke dalam proses		
+AOK-04	AOK		394	979.660	981.940	2.280	sekaligus nanti juga akan tersimpan di casing	sekaligus nanti juga akan tersimpan di casing		
+AOK-04	AOK		395	981.940	983.660	1.720	untuk pembacaan selanjutnya akan	untuk pembacaan selanjutnya akan		
+AOK-04	AOK		396	983.660	986.280	2.620	terbaca	terbaca		
+AOK-04	AOK		397	986.280	988.280	2.000	sudah tersimpan dari	sudah tersimpan dari		
+AOK-04	AOK		398	988.280	988.640	0.360	dari	dari		
+AOK-04	AOK		399	988.640	990.320	1.680	case	cache		
+AOK-04	AOK		400	990.320	992.300	1.980	bahwasannya	bahwasannya		
+AOK-04	AOK		401	992.300	995.940	3.640	mekanisme case	mekanisme cache		
+AOK-04	AOK		402	995.940	996.340	0.400	untuk	untuk		
+AOK-04	AOK		403	996.340	999.740	3.400	ketika case itu penuh	ketika cache itu penuh		
+AOK-04	AOK		404	999.740	1001.340	1.600	maka digunakan replacement	maka digunakan replacement		
+AOK-04	AOK		405	1001.340	1002.300	0.960	algoritma	algoritma		
+AOK-04	AOK		406	1002.300	1005.940	3.640	jadi secara fisik	jadi secara fisik		
+AOK-04	AOK		407	1005.940	1007.900	1.960	address yang di case ini	address yang di cache ini		
+AOK-04	AOK		408	1007.900	1008.820	0.920	adalah menggunakan	adalah menggunakan		
+AOK-04	AOK		409	1008.820	1010.880	2.060	logical	logical		
+AOK-04	AOK		410	1010.880	1013.460	2.580	dan physical	dan physical		
+AOK-04	AOK		411	1013.460	1016.480	3.020	jadi physical nanti kaitannya dengan	jadi physical nanti kaitannya dengan		
+AOK-04	AOK		412	1016.480	1020.140	3.660	line data	line data		
+AOK-04	AOK		413	1020.140	1021.940	1.800	kemudian untuk mapping	kemudian untuk mapping		
+AOK-04	AOK		414	1021.940	1022.960	1.020	mapping ke	mapping ke		
+AOK-04	AOK		415	1022.960	1025.760	2.800	main memory bisa digunakan	main memory bisa digunakan		
+AOK-04	AOK		416	1025.760	1027.940	2.180	dengan secara direct asosiatif	dengan secara direct asosiatif		
+AOK-04	AOK		417	1027.940	1029.360	1.420	atau set asosiatif	atau set asosiatif		
+AOK-04	AOK		418	1029.360	1031.860	2.500	nah pada umumnya sekarang untuk teknologi	nah pada umumnya sekarang untuk teknologi		
+AOK-04	AOK		419	1031.860	1033.720	1.860	yang multi core, digunakan	yang multi core, digunakan		
+AOK-04	AOK		420	1033.720	1035.620	1.900	set asosiatif, sehingga	set asosiatif, sehingga		
+AOK-04	AOK		421	1035.620	1037.680	2.060	di dalam alokasinya, di dalam	di dalam alokasinya, di dalam		
+AOK-04	AOK		422	1037.680	1039.360	1.680	alokasi datanya, nanti langsung	alokasi datanya, nanti langsung		
+AOK-04	AOK		423	1039.360	1040.780	1.420	bisa	bisa		
+AOK-04	AOK		424	1040.780	1043.800	3.020	mengalokasikan pada	mengalokasikan pada		
+AOK-04	AOK		425	1043.800	1045.920	2.120	masing-masing core	masing-masing core		
+AOK-04	AOK		426	1045.920	1047.660	1.740	jadi ketika	jadi ketika		
+AOK-04	AOK		427	1047.660	1049.680	2.020	case itu penuh, jadi case	cache itu penuh, jadi cache		
+AOK-04	AOK		428	1049.680	1051.600	1.920	memori itu penuh, maka algoritma	memori itu penuh, maka algoritma		
+AOK-04	AOK		429	1051.600	1053.200	1.600	untuk membuang	untuk membuang		
+AOK-04	AOK		430	1053.200	1056.040	2.840	data yang sudah tersimpan	data yang sudah tersimpan		
+AOK-04	AOK		431	1056.040	1057.080	1.040	di dalam case, jadi	di dalam cache, jadi		
+AOK-04	AOK		432	1057.080	1060.000	2.920	ada yang menggunakan teknologi	ada yang menggunakan teknologi		
+AOK-04	AOK		433	1060.000	1062.020	2.020	LRU, ada VIVU, LRU	LRU, ada FIFO, LFU		
+AOK-04	AOK		434	1062.020	1062.760	0.740	maupun random	maupun random		
+AOK-04	AOK		435	1062.760	1065.200	2.440	replacement algorithm	replacement algorithm		
+AOK-04	AOK		436	1065.200	1068.240	3.040	ini sudah didesain	ini sudah didesain		
+AOK-04	AOK		437	1068.240	1070.100	1.860	ketika pembuatan prosesor	ketika pembuatan prosesor		
+AOK-04	AOK		438	1070.100	1072.300	2.200	dan padomnya sudah ditutupkan	dan pada umumnya sudah ditutupkan		
+AOK-04	AOK		439	1072.300	1074.220	1.920	sudah tertentu	eee sudah tertentu		
+AOK-04	AOK		440	1074.220	1075.740	1.520	jadi padomnya kebanyakan	jadi pada umumnya kebanyakan		
+AOK-04	AOK		441	1075.740	1078.340	2.600	algoritmanya	algoritmanya		
+AOK-04	AOK		442	1078.340	1079.340	1.000	LRU ataupun	LRU ataupun		
+AOK-04	AOK		443	1079.340	1081.740	2.400	LRU, LRU ini	LFU, LFU ini		
+AOK-04	AOK		444	1081.740	1083.900	2.160	list resendi use	Least Frequently Used		
+AOK-04	AOK		445	1083.900	1086.220	2.320	artinya data-data	artinya data-data		
+AOK-04	AOK		446	1086.220	1087.900	1.680	ataupun instruksi-instruksi yang	ataupun instruksi-instruksi yang		
+AOK-04	AOK		447	1087.900	1089.200	1.300	paling	paling		
+AOK-04	AOK		448	1089.200	1091.160	1.960	baru digunakan	baru digunakan		
+AOK-04	AOK		449	1091.160	1093.860	2.700	yang paling update digunakan itu	yang paling update digunakan itu		
+AOK-04	AOK		450	1093.860	1096.560	2.700	dipertahankan sedangkan apabila	dipertahankan sedangkan apabila		
+AOK-04	AOK		451	1096.560	1098.200	1.640	memori case ini	memori cache ini		
+AOK-04	AOK		452	1098.200	1099.900	1.700	penuh maka	penuh maka		
+AOK-04	AOK		453	1099.900	1102.060	2.160	data yang sudah lama tidak diakses	data yang sudah lama tidak diakses		
+AOK-04	AOK		454	1102.060	1104.240	2.180	juga akan dibuang	juga akan dibuang		
+AOK-04	AOK		455	1104.240	1105.200	0.960	sehingga	sehingga		
+AOK-04	AOK		456	1105.200	1107.960	2.760	dan mekanisme write policy ada yang menggunakan	dan mekanisme write policy ada yang menggunakan		
+AOK-04	AOK		457	1107.960	1110.200	2.240	write through ataupun write back	write through ataupun write back		
+AOK-04	AOK		458	1110.200	1110.960	0.760	artinya	artinya		
+AOK-04	AOK		459	1110.960	1113.220	2.260	yang write through itu tanpa	yang write through itu tanpa		
+AOK-04	AOK		460	1113.220	1115.020	1.800	disimpan di cache langsung ke	disimpan di cache langsung ke		
+AOK-04	AOK		461	1115.020	1117.040	2.020	main memory sedangkan write back ini	main memory sedangkan write back ini		
+AOK-04	AOK		462	1117.040	1118.820	1.780	memanfaatkan cache sehingga nanti akan	memanfaatkan cache sehingga nanti akan		
+AOK-04	AOK		463	1118.820	1121.200	2.380	disimpan cache dulu baru controller	disimpan cache dulu baru controller		
+AOK-04	AOK		464	1121.200	1123.220	2.020	dari main memory kita akan	dari main memory kita akan		
+AOK-04	AOK		465	1123.220	1124.400	1.180	meneruskan ke dalam	meneruskan ke dalam		
+AOK-04	AOK		466	1124.400	1127.420	3.020	main memory nah kemudian	main memory nah kemudian		
+AOK-04	AOK		467	1127.420	1129.400	1.980	maksudnya di dalam cache	maksudnya di dalam cache		
+AOK-04	AOK		468	1129.400	1130.520	1.120	ada yang single atau	ada yang single atau		
+AOK-04	AOK		469	1130.520	1133.120	2.600	2 level atau 3 level	2 level atau 3 level		
+AOK-04	AOK		470	1133.120	1134.820	1.700	bahkan juga ada yang sampai 4	bahkan juga ada yang sampai 4		
+AOK-04	AOK		471	1134.820	1136.920	2.100	level	level		
+AOK-04	AOK		472	1136.920	1137.780	0.860	ini adalah	ini adalah		
+AOK-04	AOK		473	1137.780	1140.060	2.280	mekanisme	mekanisme		
+AOK-04	AOK		474	1140.060	1142.300	2.240	kes	kes		
+AOK-04	AOK		475	1142.300	1144.720	2.420	baik, demikian sementara	baik, demikian sementara		
+AOK-04	AOK		476	1144.720	1146.600	1.880	untuk sesi 1	untuk sesi 1		
+AOK-04	AOK		477	1146.600	1147.100	0.500	dalam	dalam		
+AOK-04	AOK		478	1147.100	1149.640	2.540	pertemuan	pertemuan		
+AOK-04	AOK		479	1149.640	1152.420	2.780	perkulian terkait dengan topik kes	perkulian terkait dengan topik kes		
+AOK-04	AOK		480	1152.420	1153.980	1.560	nanti akan kita lanjutkan pada	nanti akan kita lanjutkan pada		
+AOK-04	AOK		481	1153.980	1156.940	2.960	sesi berikutnya	sesi berikutnya		
+AOK-04	AOK		482	1156.940	1157.860	0.920	pada sesi 2	pada sesi 2		
+AOK-04	AOK		483	1157.860	1160.120	2.260	pada pembahasan terkait dengan	pada pembahasan terkait dengan		
+AOK-04	AOK		484	1160.120	1161.720	1.600	kes ini	cache ini		

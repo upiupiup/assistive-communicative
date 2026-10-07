@@ -1,0 +1,377 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+AOK-05	AOK		1	4.370	7.330	2.960	Baik, Assalamualaikum warahmatullahi wabarakatuh	Baik, Assalamualaikum warahmatullahi wabarakatuh		
+AOK-05	AOK		2	7.330	9.670	2.340	Kita bertemu lagi	Kita bertemu lagi		
+AOK-05	AOK		3	9.670	11.210	1.540	dalam metafolia	dalam mata kuliah		
+AOK-05	AOK		4	11.210	13.610	2.400	Arsitektur dan Organisasi	Arsitektur dan Organisasi		
+AOK-05	AOK		5	13.610	14.570	0.960	Komputer	Komputer		
+AOK-05	AOK		6	14.570	17.090	2.520	Pada kali ini kita akan	Pada kali ini kita akan		
+AOK-05	AOK		7	17.090	18.870	1.780	mengambil	mengambil		
+AOK-05	AOK		8	18.870	21.490	2.620	topik terkait	topik terkait		
+AOK-05	AOK		9	21.490	22.930	1.440	dengan memori	dengan memori		
+AOK-05	AOK		10	22.930	24.950	2.020	internal	internal		
+AOK-05	AOK		11	24.950	28.970	4.020	Apa sih memori	Apa sih memori		
+AOK-05	AOK		12	28.970	31.470	2.500	internal? Jadi memori internal	internal? Jadi memori internal		
+AOK-05	AOK		13	31.470	33.230	1.760	adalah memori yang ada di dalam	adalah memori yang ada di dalam		
+AOK-05	AOK		14	33.230	34.990	1.760	sistem	sistem		
+AOK-05	AOK		15	34.990	36.430	1.440	komputer kita	komputer kita		
+AOK-05	AOK		16	36.430	46.970	10.540	Di dalam memori komputer kita secara internal sebenarnya terdiri dari beberapa bagian	Di dalam memori komputer kita secara internal sebenarnya terdiri dari beberapa bagian		
+AOK-05	AOK		17	46.970	54.730	7.760	Yaitu mulai dari register, cache, sampai dengan memori utama	Yaitu mulai dari register, cache, sampai dengan memori utama		
+AOK-05	AOK		18	54.730	59.010	4.280	Atau dikenal dengan RAM	Atau dikenal dengan RAM		
+AOK-05	AOK		19	59.010	67.620	8.610	Bahwasannya untuk sebuah memori sebenarnya tersusun dari satu sel memori	Bahwasannya untuk sebuah memori sebenarnya tersusun dari satu sel memori		
+AOK-05	AOK		20	67.620	70.760	3.140	jadi ini setiap satu bit	jadi ini setiap satu bit		
+AOK-05	AOK		21	70.760	72.920	2.160	memori sebenarnya terdiri	memori sebenarnya terdiri		
+AOK-05	AOK		22	72.920	75.400	2.480	dari satu sel untuk penyimpanannya	dari satu sel untuk penyimpanannya		
+AOK-05	AOK		23	75.400	79.140	3.740	pada saat proses penyimpanan	pada saat proses penyimpanan		
+AOK-05	AOK		24	79.140	81.180	2.040	write, maka terdiri	write, maka terdiri		
+AOK-05	AOK		25	81.180	83.320	2.140	dari select	dari select		
+AOK-05	AOK		26	83.320	85.080	1.760	control maupun data	control maupun data		
+AOK-05	AOK		27	85.080	86.360	1.280	secara	secara		
+AOK-05	AOK		28	86.360	88.920	2.560	organisasi sebenarnya select ini	organisasi sebenarnya select ini		
+AOK-05	AOK		29	88.920	90.620	1.700	berasal dari bus	berasal dari bus		
+AOK-05	AOK		30	90.620	92.580	1.960	alamat	alamat		
+AOK-05	AOK		31	92.580	95.180	2.600	control ini berasal dari bus control	control ini berasal dari bus control		
+AOK-05	AOK		32	95.180	97.200	2.020	dan data in ini dari bus	dan data in ini dari bus		
+AOK-05	AOK		33	97.200	98.140	0.940	data	data		
+AOK-05	AOK		34	98.140	101.260	3.120	demikian pula pada saat operasi	demikian pula pada saat operasi		
+AOK-05	AOK		35	101.260	103.040	1.780	pembacaan data pada	pembacaan data pada		
+AOK-05	AOK		36	103.040	105.060	2.020	satu sel, maka nanti juga akan	satu sel, maka nanti juga akan		
+AOK-05	AOK		37	105.060	106.980	1.920	melibatkan pada bas	melibatkan pada bas		
+AOK-05	AOK		38	106.980	109.780	2.800	alamat, bas kontrol	alamat, bas kontrol		
+AOK-05	AOK		39	109.780	111.780	2.000	maupun bas data	maupun bas data		
+AOK-05	AOK		40	111.780	113.240	1.460	intinya	intinya		
+AOK-05	AOK		41	113.240	115.500	2.260	setiap satu bit data	setiap satu bit data		
+AOK-05	AOK		42	115.500	117.340	1.840	membutuhkan satu sel	membutuhkan satu sel		
+AOK-05	AOK		43	117.340	118.540	1.200	memori	memori		
+AOK-05	AOK		44	118.540	121.180	2.640	memori dalam	memori dalam		
+AOK-05	AOK		45	121.180	122.980	1.800	komputer kita terdiri dari	komputer kita terdiri dari		
+AOK-05	AOK		46	122.980	125.660	2.680	beberapa jenis	beberapa jenis		
+AOK-05	AOK		47	125.660	129.540	3.880	yaitu memori RAM dan ROM pada umumnya	yaitu memori RAM dan ROM pada umumnya		
+AOK-05	AOK		48	129.540	132.960	3.420	tetapi baik RAM maupun ROM	tetapi baik RAM maupun ROM		
+AOK-05	AOK		49	132.960	135.380	2.420	sebenarnya terdiri dari beberapa jenis pula	sebenarnya terdiri dari beberapa jenis pula		
+AOK-05	AOK		50	135.380	137.880	2.500	jadi ROM itu terdiri dari	jadi ROM itu terdiri dari		
+AOK-05	AOK		51	137.880	141.940	4.060	ROM, suatu memori read only	ROM, suatu memori read only		
+AOK-05	AOK		52	141.940	146.980	5.040	yang tidak bisa diprogram ulang	yang eee tidak bisa diprogram ulang		
+AOK-05	AOK		53	146.980	151.600	4.620	kemudian EPROM adalah merupakan ROM	kemudian EPROM adalah merupakan ROM		
+AOK-05	AOK		54	151.600	154.320	2.720	yang bisa diprogram	yang bisa diprogram		
+AOK-05	AOK		55	154.320	155.220	0.900	dan di	dan di		
+AOK-05	AOK		56	155.220	158.320	3.100	hapus untuk diprogram	hapus untuk diprogram		
+AOK-05	AOK		57	158.320	158.720	0.400	ulang	ulang		
+AOK-05	AOK		58	158.720	162.140	3.420	kemudian EEPROM	kemudian EEPROM		
+AOK-05	AOK		59	162.140	164.320	2.180	adalah Electrically Erasable PROM	adalah Electrically Erasable PROM		
+AOK-05	AOK		60	164.320	165.000	0.680	merupakan	merupakan		
+AOK-05	AOK		61	165.000	168.160	3.160	memori ROM yang bisa di	memori ROM yang bisa di		
+AOK-05	AOK		62	168.160	169.520	1.360	hapus secara elektrik	hapus secara elektrik		
+AOK-05	AOK		63	169.520	172.460	2.940	kalau EEPROM ini adalah penghapusannya	kalau EEPROM ini adalah penghapusannya		
+AOK-05	AOK		64	172.460	173.560	1.100	dengan ultraviolet	dengan ultraviolet		
+AOK-05	AOK		65	173.560	176.380	2.820	kemudian baru	kemudian baru		
+AOK-05	AOK		66	176.380	178.300	1.920	bisa program RAM, tetapi EEPROM	bisa program RAM, tetapi EEPROM		
+AOK-05	AOK		67	178.300	179.900	1.600	ini langsung bisa di	ini langsung bisa di		
+AOK-05	AOK		68	179.900	182.540	2.640	kontrol untuk penghapusan	kontrol untuk penghapusan		
+AOK-05	AOK		69	182.540	184.180	1.640	datanya untuk diprogram	datanya untuk diprogram		
+AOK-05	AOK		70	184.180	186.340	2.160	ulang pada sel-sel memorinya	ulang pada sel-sel memorinya		
+AOK-05	AOK		71	186.340	189.860	3.520	pada memori EEPROM ini	pada memori EEPROM ini		
+AOK-05	AOK		72	189.860	193.640	3.780	proses	proses		
+AOK-05	AOK		73	193.640	195.980	2.340	penghapusan datanya	penghapusan datanya		
+AOK-05	AOK		74	195.980	197.540	1.560	masih relatif lama	masih relatif lama		
+AOK-05	AOK		75	197.540	200.060	2.520	daripada memori flash	daripada memori flash		
+AOK-05	AOK		76	200.060	202.020	1.960	ini lengkapnya sebenarnya adalah flash	ini lengkapnya sebenarnya adalah flash		
+AOK-05	AOK		77	202.020	203.320	1.300	memori EEPROM	memori EEPROM		
+AOK-05	AOK		78	203.320	205.720	2.400	merupakan memori	merupakan memori		
+AOK-05	AOK		79	205.720	208.280	2.560	ROM yang bisa diprogram	ROM yang bisa diprogram		
+AOK-05	AOK		80	208.280	210.300	2.020	secara cepat	secara cepat		
+AOK-05	AOK		81	210.300	214.020	3.720	di dalam memori	di dalam memori		
+AOK-05	AOK		82	214.020	217.300	3.280	akses memori	akses memori		
+AOK-05	AOK		83	217.300	219.380	2.080	RAM, memori RAM	RAM, memori RAM		
+AOK-05	AOK		84	219.380	221.880	2.500	sebenarnya terdiri dari dua bagian	sebenarnya terdiri dari dua bagian		
+AOK-05	AOK		85	221.880	222.660	0.780	dari RAM	dari RAM		
+AOK-05	AOK		86	222.660	225.280	2.620	dinamik dan RAM statik	dinamik dan RAM statik		
+AOK-05	AOK		87	225.280	227.600	2.320	RAM dinamik ini	RAM dinamik ini		
+AOK-05	AOK		88	227.600	228.860	1.260	adalah suatu memori	adalah suatu memori		
+AOK-05	AOK		89	228.860	230.760	1.900	dimana selnya adalah	dimana selnya adalah		
+AOK-05	AOK		90	230.760	232.520	1.760	merupakan sel memori	merupakan sel memori		
+AOK-05	AOK		91	232.520	235.680	3.160	dari kapasitif	dari kapasitif		
+AOK-05	AOK		92	235.680	237.440	1.760	sedangkan RAM	sedangkan RAM		
+AOK-05	AOK		93	237.440	239.180	1.740	statik ini adalah merupakan RAM	statik ini adalah merupakan RAM		
+AOK-05	AOK		94	239.180	241.060	1.880	yang selnya itu terdiri dari	yang selnya itu terdiri dari		
+AOK-05	AOK		95	241.060	241.880	0.820	reflop	reflop		
+AOK-05	AOK		96	241.880	252.320	10.440	DRAM atau RAM dinamik ini yang digunakan pada memori utama, main memori di dalam komputer kita	DRAM atau RAM dinamik ini yang digunakan pada memori utama, main memori di dalam komputer kita		
+AOK-05	AOK		97	252.320	265.240	12.920	jadi padahal kalau kita punya komputer dengan kecepatan, dengan menggunakan RAM 4GB, 8GB, 16GB adalah merupakan jenis dinamik	jadi padahal kalau kita punya komputer dengan kecepatan, dengan menggunakan RAM 4GB, 8GB, 16GB adalah merupakan jenis dinamik		
+AOK-05	AOK		98	265.240	275.240	10.000	sedangkan RAM static ini adalah merupakan RAM yang digunakan pada cache memory yang kecepatannya sangat tinggi	sedangkan RAM static ini adalah merupakan RAM yang digunakan pada cache memory yang kecepatannya sangat tinggi		
+AOK-05	AOK		99	275.240	287.470	12.230	ini adalah sel memory static yang sebenarnya ini adalah merupakan concept flip-flop	ini adalah sel memory static yang sebenarnya ini adalah merupakan concept flip-flop		
+AOK-05	AOK		100	287.470	292.010	4.540	sedangkan di sini adalah RAM dynamic di mana selnya adalah sel kapasitor	sedangkan di sini adalah RAM dynamic di mana selnya adalah sel kapasitor		
+AOK-05	AOK		101	292.010	304.770	12.760	Kalau kita lihat dengan sel Dynamic RAM ini adalah merupakan memori yang secara sederhana hanya terdiri dari satu transistor, satu kapasitor	Kalau kita lihat dengan sel Dynamic RAM ini adalah merupakan memori yang secara sederhana hanya terdiri dari satu transistor, satu kapasitor		
+AOK-05	AOK		102	304.770	313.590	8.820	Sedangkan pada Static RAM ini terdiri dari empat transistor flip-flop dan dua transistor untuk fungsi kontrol	Sedangkan pada Static RAM ini terdiri dari empat transistor flip-flop dan dua transistor untuk fungsi kontrol		
+AOK-05	AOK		103	313.590	322.010	8.420	Sehingga yang membedakan antara dynamic RAM dan static RAM ini adalah pada selnya	Sehingga yang membedakan antara dynamic RAM dan static RAM ini adalah pada selnya		
+AOK-05	AOK		104	322.010	326.390	4.380	Sel dynamic RAM ini pasif, sifatnya pasif	Sel dynamic RAM ini pasif, sifatnya pasif		
+AOK-05	AOK		105	326.390	335.530	9.140	Sedangkan sel static RAM yaitu aktif dengan bahan transistor yang membentuk flip-flop ini	Sedangkan sel static RAM yaitu aktif dengan bahan transistor yang membentuk flip-flop ini		
+AOK-05	AOK		106	335.530	340.170	4.640	Sehingga kecepatannya bisa sangat tinggi dibandingkan dengan dynamic RAM	Sehingga kecepatannya bisa sangat tinggi dibandingkan dengan dynamic RAM		
+AOK-05	AOK		107	340.170	347.130	6.960	Oleh karena itu penggunaannya dynamic RAM yang lebih padat, selnya kecil, lebih kecil	Oleh karena itu penggunaannya dynamic RAM yang lebih padat, selnya kecil, lebih kecil		
+AOK-05	AOK		108	347.130	353.410	6.280	Tetapi ada kelambatan dari sisi kecepatan	Tetapi ada kelambatan dari sisi kecepatan		
+AOK-05	AOK		109	353.410	358.370	4.960	Sedangkan pada RAM static ini kecepatannya bisa sangat tinggi	Sedangkan pada RAM static ini kecepatannya bisa sangat tinggi		
+AOK-05	AOK		110	358.370	360.990	2.620	Oleh karena itu digunakan pada cache memory	Oleh karena itu digunakan pada cache memory		
+AOK-05	AOK		111	360.990	385.760	24.770	RAM static atau static RAM dari perangkat yang menggunakan elemen flip-flop, elemen aktif yang akan bisa menyimpan data dalam memory cache.	RAM eee static atau static RAM dari perangkat yang menggunakan elemen flip-flop, elemen aktif yang akan bisa menyimpan data dalam memory cache.		
+AOK-05	AOK		112	385.760	389.640	3.880	Perbedaan antara RAM statik dan RAM dinamik	Perbedaan antara RAM statik dan RAM dinamik		
+AOK-05	AOK		113	389.640	391.800	2.160	Keduanya	Keduanya		
+AOK-05	AOK		114	391.800	395.400	3.600	Keduanya sama-sama volatile	Keduanya sama-sama volatile		
+AOK-05	AOK		115	395.400	397.560	2.160	Jadi sifatnya hanya menyimpan sementara	Jadi sifatnya hanya menyimpan sementara		
+AOK-05	AOK		116	397.560	401.180	3.620	Tetapi sel dinamik ini karena bentuknya lebih kecil	Tetapi sel dinamik ini karena bentuknya lebih kecil		
+AOK-05	AOK		117	401.180	403.400	2.220	Lebih padat	Lebih padat		
+AOK-05	AOK		118	403.400	406.940	3.540	Sehingga lebih murah harganya	Sehingga lebih murah harganya		
+AOK-05	AOK		119	406.940	409.540	2.600	Dan padamunya digunakan pada main memory	Dan pada umumnya digunakan pada main memory		
+AOK-05	AOK		120	409.540	412.060	2.520	Sedangkan RAM statik yang lebih cepat	Sedangkan RAM statik yang lebih cepat		
+AOK-05	AOK		121	412.060	415.300	3.240	Padamnya digunakan pada cache memory	Pada umumnya digunakan pada cache memory		
+AOK-05	AOK		122	415.300	418.020	2.720	Read Only Memory ROM	Read Only Memory ROM		
+AOK-05	AOK		123	418.020	419.180	1.160	adalah merupakan	adalah merupakan		
+AOK-05	AOK		124	419.180	421.420	2.240	suatu memori yang	suatu memori yang		
+AOK-05	AOK		125	421.420	423.240	1.820	sifatnya permanen	sifatnya permanen		
+AOK-05	AOK		126	423.240	425.440	2.200	sehingga untuk menyimpan data-data	sehingga untuk menyimpan data-data		
+AOK-05	AOK		127	425.440	427.900	2.460	permanen di komputer kita itu	permanen di komputer kita itu		
+AOK-05	AOK		128	427.900	430.300	2.400	padahal digunakan pada ROM BIOS	padahal digunakan pada ROM BIOS		
+AOK-05	AOK		129	430.300	431.540	1.240	atau Flash BIOS	atau Flash BIOS		
+AOK-05	AOK		130	431.540	434.440	2.900	karena teknologi yang baru ini	karena teknologi yang baru ini		
+AOK-05	AOK		131	434.440	436.400	1.960	menggunakan teknologi	menggunakan teknologi		
+AOK-05	AOK		132	436.400	438.660	2.260	teknologi Flash	teknologi Flash		
+AOK-05	AOK		133	438.660	440.000	1.340	sehingga	sehingga		
+AOK-05	AOK		134	440.000	442.280	2.280	BIOS kita itu bisa	BIOS kita itu bisa		
+AOK-05	AOK		135	442.280	443.320	1.040	di update kembali	di update kembali		
+AOK-05	AOK		136	443.320	446.580	3.260	Bisa di update dengan teknologi	Bisa di update dengan teknologi		
+AOK-05	AOK		137	446.580	449.340	2.760	Ataupun dengan data firmware terbaru	Ataupun dengan data firmware terbaru		
+AOK-05	AOK		138	449.340	452.100	2.760	Dari vendor membuat komputer kita	Dari vendor membuat komputer kita		
+AOK-05	AOK		139	452.100	460.020	7.920	Pada read only memory ini	Pada read only memory ini		
+AOK-05	AOK		140	460.020	462.520	2.500	Jadi sifatnya permanent	Jadi sifatnya permanent		
+AOK-05	AOK		141	462.520	465.500	2.980	Jadi meskipun komputer kita itu	Jadi meskipun komputer kita itu		
+AOK-05	AOK		142	465.500	468.920	3.420	Kondisinya dimatikan	Kondisinya dimatikan		
+AOK-05	AOK		143	468.920	469.840	0.920	Jatuh dayanya	Jatuh dayanya		
+AOK-05	AOK		144	469.840	472.680	2.840	Read only memory nanti tidak	Read only memory nanti tidak		
+AOK-05	AOK		145	472.680	475.420	2.740	hilang datanya	hilang datanya		
+AOK-05	AOK		146	475.420	477.280	1.860	dan pada umumnya di komputer	dan pada umumnya di komputer		
+AOK-05	AOK		147	477.280	479.000	1.720	kita digunakan flash BIOS	kita digunakan flash BIOS		
+AOK-05	AOK		148	479.000	480.860	1.860	jadi pada saat kita	jadi pada saat kita		
+AOK-05	AOK		149	480.860	483.160	2.300	komputer kita itu di on	komputer kita itu di on		
+AOK-05	AOK		150	483.160	485.340	2.180	maka BIOS itu	maka BIOS itu		
+AOK-05	AOK		151	485.340	487.520	2.180	akan dijalankan	akan dijalankan		
+AOK-05	AOK		152	487.520	488.300	0.780	pertama kali	pertama kali		
+AOK-05	AOK		153	488.300	491.400	3.100	untuk proses konfigurasi	untuk proses konfigurasi		
+AOK-05	AOK		154	491.400	493.140	1.740	dan pengecekan	dan pengecekan		
+AOK-05	AOK		155	493.140	495.120	1.980	perangkat yang ada	perangkat yang ada		
+AOK-05	AOK		156	495.120	497.560	2.440	dan apabila sistem	dan apabila sistem		
+AOK-05	AOK		157	497.560	499.380	1.820	komputer kita itu tidak ada kendala	komputer kita itu tidak ada kendala		
+AOK-05	AOK		158	499.380	501.620	2.240	maka dilakukan, dilanjutkan	maka dilakukan, dilanjutkan		
+AOK-05	AOK		159	501.620	505.000	3.380	dengan boot up operating system	dengan boot up operating system		
+AOK-05	AOK		160	505.000	509.680	4.680	RAM yang bisa diprogram	ROM yang bisa diprogram		
+AOK-05	AOK		161	509.680	511.140	1.460	programmable RAM	programmable ROM		
+AOK-05	AOK		162	511.140	513.360	2.220	jadi yang diprogram sekali	jadi yang diprogram sekali		
+AOK-05	AOK		163	513.360	517.780	4.420	kemudian yang bisa diprogram ulang adalah	kemudian yang bisa diprogram ulang adalah		
+AOK-05	AOK		164	517.780	520.620	2.840	EEPROM maupun FLASH	EPROM, EEPROM, maupun FLASH		
+AOK-05	AOK		165	520.620	526.160	5.540	jadi teknologi yang sekarang banyak digunakan	jadi teknologi yang sekarang banyak digunakan		
+AOK-05	AOK		166	526.160	528.780	2.620	adalah teknologi FLASH	adalah teknologi FLASH		
+AOK-05	AOK		167	528.780	531.540	2.760	FLASH memory sebenarnya nama lengkapnya	FLASH memory sebenarnya nama lengkapnya		
+AOK-05	AOK		168	531.540	534.780	3.240	ini adalah flash memory EEPROM	ini adalah flash memory EEPROM		
+AOK-05	AOK		169	534.780	538.800	4.020	ini bisa diprogram ulang secara cepat	ini bisa diprogram ulang secara cepat		
+AOK-05	AOK		170	538.800	543.320	4.520	yang penggunaannya digunakan pada flash disk kita	yang penggunaannya digunakan pada flash disk kita		
+AOK-05	AOK		171	543.320	546.380	3.060	ataupun pada SSD	ataupun pada SSD		
+AOK-05	AOK		172	546.380	552.540	6.160	jadi SSD ini sebenarnya juga termasuk dari jenis flash memory	jadi SSD ini sebenarnya juga termasuk dari jenis flash memory		
+AOK-05	AOK		173	552.540	556.280	3.740	yang kemampuan untuk penyimpanannya	yang kemampuan untuk penyimpanannya		
+AOK-05	AOK		174	556.280	560.760	4.480	akses datanya bisa lebih cepat	akses datanya bisa lebih cepat		
+AOK-05	AOK		175	560.760	573.280	12.520	Secara organisasi memori komputer kita akan terdiri dari sel array, jadi sel-sel memori itu dibentuk dalam suatu array,	Secara organisasi memori komputer kita akan terdiri dari sel array, jadi sel-sel memori itu dibentuk dalam suatu array,		
+AOK-05	AOK		176	573.280	586.680	13.400	jadi contohnya ini adalah memori dengan array 2048, metriknya, jadi metrik memorinya, 2048 baris, 2048 kolom,	jadi contohnya ini adalah memori dengan array 2048, metriknya, jadi metrik memorinya, 2048 baris, 2048 kolom,		
+AOK-05	AOK		177	586.680	590.240	3.560	dan di setiap sel memori ada 4 sel memori	dan di setiap sel memori ada 4 sel memori		
+AOK-05	AOK		178	590.240	597.640	7.400	dari setiap sel matrik itu ada 4 sel memori	dari setiap sel matrik itu ada 4 sel memori		
+AOK-05	AOK		179	597.640	601.380	3.740	sehingga ini dikatakan 4M x 4	sehingga ini dikatakan 4M x 4		
+AOK-05	AOK		180	601.380	607.100	5.720	artinya 4M ini adalah perkalian dari 2048 baris dan kolom	artinya 4M ini adalah perkalian dari 2048 baris dan kolom		
+AOK-05	AOK		181	607.100	613.080	5.980	kemudian di setiap sel matrik memorinya terdiri dari 4 sel	kemudian di setiap sel matrik memorinya terdiri dari 4 sel		
+AOK-05	AOK		182	613.080	622.960	9.880	Disini ada bus alamat, kemudian ini ada bus data dan bus kontrol untuk pembacaan datanya, aksesnya	Disini ada bus alamat, kemudian ini ada bus data dan bus kontrol untuk pembacaan datanya, aksesnya		
+AOK-05	AOK		183	622.960	631.680	8.720	Secara chip, ini contoh memori EEPROM dan disini adalah memori dynamic RAM, DRAM	Secara chip, ini contoh memori EEPROM dan disini adalah memori dynamic RAM, DRAM		
+AOK-05	AOK		184	631.680	639.720	8.040	Jadi disini adalah bus alamat, kemudian bus data, kemudian ini ada bus kontrolnya	Jadi disini adalah bus alamat, kemudian bus data, kemudian ini ada bus kontrolnya		
+AOK-05	AOK		185	639.720	646.620	6.900	Jadi untuk fungsi pembacaan read ataupun pada saat pemprograman untuk EEPROM	Jadi untuk fungsi pembacaan read ataupun pada saat pemprograman untuk EEPROM		
+AOK-05	AOK		186	646.620	652.900	6.280	Sedangkan dynamic RAM, jadi pas alamat, ini ada pas data, D0 sampai D3 disini	Sedangkan dynamic RAM, jadi pas alamat, ini ada pas data, D0 sampai D3 disini		
+AOK-05	AOK		187	652.900	660.480	7.580	Kemudian pas alamat mulai dari A0 sampai A10	Kemudian pas alamat mulai dari A0 sampai A10		
+AOK-05	AOK		188	660.480	664.300	3.820	Jadi ini adalah untuk addressing datanya disini	Jadi ini adalah untuk addressing datanya disini		
+AOK-05	AOK		189	664.300	666.980	2.680	contoh memori 4x4	contoh memori 4x4		
+AOK-05	AOK		190	666.980	668.320	1.340	4M	4M		
+AOK-05	AOK		191	668.320	670.740	2.420	4M, misalnya ini adalah 4	4M, misalnya ini adalah 4		
+AOK-05	AOK		192	670.740	672.880	2.140	adresnya adalah 4	adresnya adalah 4		
+AOK-05	AOK		193	672.880	674.540	1.660	M, jumlah	M, jumlah		
+AOK-05	AOK		194	674.540	676.600	2.060	adresnya, kemudian setiap	adresnya, kemudian setiap		
+AOK-05	AOK		195	676.600	678.200	1.600	adres isinya adalah 4 gel	adres isinya adalah 4 sel		
+AOK-05	AOK		196	678.200	679.320	1.120	sedangkan disini	sedangkan disini		
+AOK-05	AOK		197	679.320	682.740	3.420	pada EEPROM ini ada 1M	pada EEPROM ini ada 1M		
+AOK-05	AOK		198	682.740	683.860	1.120	balik 8, artinya	balik 8, artinya		
+AOK-05	AOK		199	683.860	686.700	2.840	1 mega adres	1 mega address		
+AOK-05	AOK		200	686.700	688.880	2.180	masing-masing 8	masing-masing 8		
+AOK-05	AOK		201	688.880	690.440	1.560	bit	bit		
+AOK-05	AOK		202	690.440	691.980	1.540	setiap alamat	setiap alamat		
+AOK-05	AOK		203	691.980	694.950	2.970	di dalam	di dalam		
+AOK-05	AOK		204	694.950	697.430	2.480	organisasi modul	organisasi modul		
+AOK-05	AOK		205	697.430	699.110	1.680	memorinya, komputer	memorinya, komputer		
+AOK-05	AOK		206	699.110	701.330	2.220	pada umumnya di dalam penggunaan komputer kita	pada umumnya di dalam penggunaan komputer kita		
+AOK-05	AOK		207	701.330	701.890	0.560	di dalam	di dalam		
+AOK-05	AOK		208	701.890	705.510	3.620	dalam organisasi	dalam organisasi		
+AOK-05	AOK		209	705.510	707.030	1.520	memorinya adalah menggunakan	memorinya adalah menggunakan		
+AOK-05	AOK		210	707.030	709.150	2.120	memori modul, jadi ada memori	memori modul, jadi ada memori		
+AOK-05	AOK		211	709.150	711.270	2.120	modul SIM, ada	modul SIM, ada		
+AOK-05	AOK		212	711.270	712.770	1.500	memori modul DIM	memori modul DIM		
+AOK-05	AOK		213	712.770	714.690	1.920	jadi ini adalah masih	jadi ini adalah masih		
+AOK-05	AOK		214	714.690	716.830	2.140	memori modul SIM yang lama	memori modul SIM yang lama		
+AOK-05	AOK		215	716.830	719.110	2.280	yang hanya kapasitas 1 MB, tapi dalam	yang hanya kapasitas 1 MB, tapi dalam		
+AOK-05	AOK		216	719.110	720.910	1.800	memori modul yang baru	memori modul yang baru		
+AOK-05	AOK		217	720.910	723.270	2.360	dalam satu modul memori	dalam satu modul memori		
+AOK-05	AOK		218	723.270	724.690	1.420	DIM, ada	DIM, ada		
+AOK-05	AOK		219	724.690	726.690	2.000	dual inline memory modul	dual inline memory modul		
+AOK-05	AOK		220	726.690	728.690	2.000	itu memiliki kapasitas	itu memiliki kapasitas		
+AOK-05	AOK		221	728.690	730.510	1.820	yang besar, ada yang 1	yang besar, ada yang 1		
+AOK-05	AOK		222	730.510	732.390	1.880	giga	giga		
+AOK-05	AOK		223	732.390	734.690	2.300	ada yang 2 giga	ada yang 2 giga		
+AOK-05	AOK		224	735.830	736.430	0.600	per	per		
+AOK-05	AOK		225	736.430	738.670	2.240	keping, ada yang	keping, ada yang		
+AOK-05	AOK		226	738.670	740.670	2.000	misalkan yang komputer-komputer	misalkan yang komputer-komputer		
+AOK-05	AOK		227	740.670	741.450	0.780	baru, satu	baru, satu		
+AOK-05	AOK		228	741.450	744.570	3.120	modul memori mungkin 8	modul memori mungkin 8		
+AOK-05	AOK		229	744.570	745.790	1.220	sehingga	sehingga		
+AOK-05	AOK		230	745.790	747.650	1.860	di sana ada dual	di sana ada dual		
+AOK-05	AOK		231	747.650	749.530	1.880	channel	channel		
+AOK-05	AOK		232	749.530	751.870	2.340	dalam kapasitas	dalam kapasitas		
+AOK-05	AOK		233	751.870	754.610	2.740	komputer main memory	komputer main memory		
+AOK-05	AOK		234	754.610	756.290	1.680	kita itu membutuhkan	kita itu membutuhkan		
+AOK-05	AOK		235	756.290	758.130	1.840	2 modul memori	2 modul memori		
+AOK-05	AOK		236	758.130	760.170	2.040	paling tidak pada umumnya karena menggunakan	paling tidak pada umumnya karena menggunakan		
+AOK-05	AOK		237	760.170	760.930	0.760	dual channel	dual channel		
+AOK-05	AOK		238	760.930	764.170	3.240	bus yang	bus yang		
+AOK-05	AOK		239	764.170	765.690	1.520	diada di memori sehingga	diada di memori sehingga		
+AOK-05	AOK		240	765.690	768.450	2.760	untuk kapasitas	untuk kapasitas		
+AOK-05	AOK		241	768.450	769.910	1.460	misalnya	misalnya		
+AOK-05	AOK		242	769.910	772.030	2.120	komputer kita itu menginginkan	komputer kita itu menginginkan		
+AOK-05	AOK		243	772.030	773.690	1.660	8 giga	8 giga		
+AOK-05	AOK		244	773.690	776.210	2.520	dibutuhkan 2x4	dibutuhkan 2x4		
+AOK-05	AOK		245	776.210	778.470	2.260	giga karena membutuhkan	giga karena membutuhkan		
+AOK-05	AOK		246	778.470	780.110	1.640	dual channel	dual channel		
+AOK-05	AOK		247	780.110	781.450	1.340	di dalam	di dalam		
+AOK-05	AOK		248	781.450	784.190	2.740	mekanisme	mekanisme		
+AOK-05	AOK		249	784.190	786.890	2.700	interleave memory	interleave memory		
+AOK-05	AOK		250	786.890	787.290	0.400	dari	dari		
+AOK-05	AOK		251	787.290	790.910	3.620	dari setiap pembacaan	dari setiap pembacaan		
+AOK-05	AOK		252	790.910	792.670	1.760	pembacaan itu melalui	pembacaan itu melalui		
+AOK-05	AOK		253	792.670	794.670	2.000	proses	proses		
+AOK-05	AOK		254	794.670	796.430	1.760	pembacaan	pembacaan		
+AOK-05	AOK		255	796.430	798.550	2.120	dari alamat maupun	dari alamat maupun		
+AOK-05	AOK		256	798.550	800.810	2.260	aksesnya, di setiap RAM	aksesnya, di setiap RAM		
+AOK-05	AOK		257	800.810	802.990	2.180	padahalnya memiliki	pada umumnya memiliki		
+AOK-05	AOK		258	802.990	804.950	1.960	koreksi	koreksi		
+AOK-05	AOK		259	804.950	806.710	1.760	untuk kesalahan, jadi	untuk kesalahan, jadi		
+AOK-05	AOK		260	806.710	808.590	1.880	error correction	error correction		
+AOK-05	AOK		261	808.590	810.910	2.320	dalam suatu memory	dalam suatu memory		
+AOK-05	AOK		262	810.910	811.550	0.640	ini padahalnya	ini padahalnya		
+AOK-05	AOK		263	811.550	813.950	2.400	nanti untuk	nanti untuk		
+AOK-05	AOK		264	813.950	817.090	3.140	mengatasi	mengatasi		
+AOK-05	AOK		265	817.090	819.210	2.120	akibat	akibat		
+AOK-05	AOK		266	819.210	820.350	1.140	adanya kegagalan	adanya kegagalan		
+AOK-05	AOK		267	820.350	822.770	2.420	error pada	error pada		
+AOK-05	AOK		268	822.770	824.750	1.980	secara hardware ataupun	secara hardware ataupun		
+AOK-05	AOK		269	824.750	826.670	1.920	secara software	secara software		
+AOK-05	AOK		270	826.670	828.770	2.100	artinya bahwasannya setiap	artinya bahwasannya setiap		
+AOK-05	AOK		271	828.770	830.210	1.440	satu	satu		
+AOK-05	AOK		272	830.210	832.590	2.380	alamat atau setiap satu	alamat atau setiap satu		
+AOK-05	AOK		273	832.590	833.070	0.480	sel	sel		
+AOK-05	AOK		274	833.070	836.650	3.580	adres dari memori	address dari memori		
+AOK-05	AOK		275	836.650	838.550	1.900	kita itu harus	kita itu harus		
+AOK-05	AOK		276	838.550	839.570	1.020	betul-betul	betul-betul		
+AOK-05	AOK		277	839.570	841.850	2.280	menyimpan	menyimpan		
+AOK-05	AOK		278	841.850	844.110	2.260	datanya, baik itu di level 0	datanya, baik itu di level 0		
+AOK-05	AOK		279	844.110	845.910	1.800	ataupun di level 1	ataupun di level 1		
+AOK-05	AOK		280	845.910	848.030	2.120	sehingga data yang	sehingga data yang		
+AOK-05	AOK		281	848.030	849.550	1.520	disimpan dalam lokasi	disimpan dalam lokasi		
+AOK-05	AOK		282	849.550	852.050	2.500	memori itu harus dijamin	memori itu harus dijamin		
+AOK-05	AOK		283	852.050	853.250	1.200	harus dikaransi	harus digaransi		
+AOK-05	AOK		284	853.250	856.330	3.080	tidak ada kesalahan satu bit pun	tidak ada kesalahan satu bit pun		
+AOK-05	AOK		285	856.330	858.090	1.760	nah kesalahan ini padamnya	nah kesalahan ini pada umumnya		
+AOK-05	AOK		286	858.090	860.050	1.960	dinamakan dengan	dinamakan dengan		
+AOK-05	AOK		287	860.050	861.390	1.340	error correction code	error correction code		
+AOK-05	AOK		288	861.390	863.870	2.480	error correction code ini yang	error correction code ini yang		
+AOK-05	AOK		289	863.870	865.990	2.120	menunjukkan bahwasannya apabila kita	menunjukkan bahwasannya apabila kita		
+AOK-05	AOK		290	865.990	868.350	2.360	menyimpan data pada suatu memori	menyimpan data pada suatu memori		
+AOK-05	AOK		291	868.350	869.370	1.020	dan ternyata	dan ternyata		
+AOK-05	AOK		292	869.370	871.710	2.340	ada satu bit yang salah	ada satu bit yang salah		
+AOK-05	AOK		293	871.710	872.830	1.120	maka akan	maka akan		
+AOK-05	AOK		294	872.830	875.430	2.600	bisa di cek	bisa di cek		
+AOK-05	AOK		295	875.430	877.510	2.080	apakah memang	apakah memang		
+AOK-05	AOK		296	877.510	879.330	1.820	betul bahwasannya memori yang disimpan	betul bahwasannya memori yang disimpan		
+AOK-05	AOK		297	879.330	881.390	2.060	dalam memori itu salah atau	dalam memori itu salah atau		
+AOK-05	AOK		298	881.390	883.110	1.720	tidak, jadi ketika	tidak, jadi ketika		
+AOK-05	AOK		299	883.110	885.230	2.120	ada kesalahan maka	ada kesalahan maka		
+AOK-05	AOK		300	885.230	886.750	1.520	nanti ada	nanti ada		
+AOK-05	AOK		301	886.750	889.250	2.500	error signal yang memberitakan	error signal yang memberitakan		
+AOK-05	AOK		302	889.250	891.090	1.840	pada CPU bahwasannya	pada CPU bahwasannya		
+AOK-05	AOK		303	891.090	893.450	2.360	sebenarnya di dalam memori kita	sebenarnya di dalam memori kita		
+AOK-05	AOK		304	893.450	895.410	1.960	itu ada kesalahan atau	itu ada kesalahan atau		
+AOK-05	AOK		305	895.410	895.810	0.400	error	error		
+AOK-05	AOK		306	895.810	898.950	3.140	kesalahan atau error ini nanti	kesalahan atau error ini nanti		
+AOK-05	AOK		307	898.950	901.550	2.600	prosesor akan menghentikan	prosesor akan menghentikan		
+AOK-05	AOK		308	901.550	902.690	1.140	proses	proses		
+AOK-05	AOK		309	902.690	905.630	2.940	software ketika misalkan itu	software ketika misalkan itu		
+AOK-05	AOK		310	905.630	907.490	1.860	kebetulan yang diakses itu adalah	kebetulan yang diakses itu adalah		
+AOK-05	AOK		311	907.490	909.330	1.840	merupakan software	merupakan software		
+AOK-05	AOK		312	909.330	910.150	0.820	nah	nah		
+AOK-05	AOK		313	910.150	913.150	3.000	koreksi color correction	koreksi color correction		
+AOK-05	AOK		314	913.150	915.550	2.400	ini padahal menggunakan	ini padahal menggunakan		
+AOK-05	AOK		315	915.550	917.690	2.140	pada yang baru, teknologi baru	pada yang baru, teknologi baru		
+AOK-05	AOK		316	917.690	919.130	1.440	adalah menggunakan heming, jadi	adalah menggunakan heming, jadi		
+AOK-05	AOK		317	919.130	921.350	2.220	kombinasi dari beberapa	kombinasi dari beberapa		
+AOK-05	AOK		318	921.350	923.590	2.240	bit yang nantinya bisa menunjukkan	bit yang nantinya bisa menunjukkan		
+AOK-05	AOK		319	923.590	925.730	2.140	bahwasannya bit tersebut	bahwasannya bit tersebut		
+AOK-05	AOK		320	925.730	927.530	1.800	itu benar atau salah	itu benar atau salah		
+AOK-05	AOK		321	927.530	939.950	12.420	Dan ketika benar maka itu harus tetap diadakan dan ketika ada kesalahan maka harus dihentikan	Dan ketika benar maka itu harus tetap diadakan dan ketika ada kesalahan maka harus dihentikan		
+AOK-05	AOK		322	939.950	948.350	8.400	Nah prosesnya untuk setiap kesalahan-kesalahan dari bit tersebut itu bisa tergantung kepada jumlah datanya	Nah prosesnya untuk setiap kesalahan-kesalahan dari bit tersebut itu bisa tergantung kepada jumlah datanya		
+AOK-05	AOK		323	948.350	953.090	4.740	Jadi disini untuk jumlah data bit, untuk setiap data bit, untuk dengan teknologi haming tadi	Jadi disini untuk jumlah data bit, untuk setiap data bit, untuk dengan teknologi haming tadi		
+AOK-05	AOK		324	953.090	956.270	3.180	untuk yang single error correction	untuk yang single error correction		
+AOK-05	AOK		325	956.270	957.590	1.320	sebanyak	sebanyak		
+AOK-05	AOK		326	957.590	960.050	2.460	5 bit, 4 bit	5 bit, 4 bit		
+AOK-05	AOK		327	960.050	961.210	1.160	untuk yang double	untuk yang double		
+AOK-05	AOK		328	961.210	963.970	2.760	correction itu ada 5 bit	correction itu ada 5 bit		
+AOK-05	AOK		329	963.970	965.610	1.640	untuk 8 bit, demikian	untuk 8 bit, demikian		
+AOK-05	AOK		330	965.610	967.550	1.940	untuk data yang lain	untuk data yang lain		
+AOK-05	AOK		331	967.550	969.450	1.900	jadi semakin	jadi semakin		
+AOK-05	AOK		332	969.450	970.930	1.480	semakin besar	semakin besar		
+AOK-05	AOK		333	970.930	973.290	2.360	datanya, mungkin juga	datanya, mungkin juga		
+AOK-05	AOK		334	973.290	975.590	2.300	kebutuhan check bitnya akan juga	kebutuhan check bitnya akan juga		
+AOK-05	AOK		335	975.590	977.650	2.060	semakin besar	semakin besar		
+AOK-05	AOK		336	977.650	979.550	1.900	tetapi dengan	tetapi dengan		
+AOK-05	AOK		337	979.550	981.390	1.840	error correction code ini	error correction code ini		
+AOK-05	AOK		338	981.390	982.150	0.760	akan menjadi	akan menjadi		
+AOK-05	AOK		339	982.150	985.370	3.220	valid data yang disimpan	valid data yang disimpan		
+AOK-05	AOK		340	985.370	987.610	2.240	dalam memori tersebut	dalam memori tersebut		
+AOK-05	AOK		341	987.610	988.690	1.080	ini adalah	ini adalah		
+AOK-05	AOK		342	988.690	990.910	2.220	gambaran nanti	gambaran nanti		
+AOK-05	AOK		343	990.910	992.970	2.060	untuk sebanyak jumlah	untuk sebanyak jumlah		
+AOK-05	AOK		344	992.970	995.070	2.100	data dan	data dan		
+AOK-05	AOK		345	995.070	997.290	2.220	berapa kebutuhan untuk	berapa kebutuhan untuk		
+AOK-05	AOK		346	997.290	998.810	1.520	error correction	error correction		
+AOK-05	AOK		347	998.810	1000.790	1.980	bitnya	bitnya		
+AOK-05	AOK		348	1000.790	1002.190	1.400	jadi secara	jadi secara		
+AOK-05	AOK		349	1002.190	1005.530	3.340	dengan menggunakan teknologi humming itu bisa dihitung	dengan menggunakan teknologi Hamming itu bisa dihitung		
+AOK-05	AOK		350	1005.530	1007.610	2.080	berapa kebutuhan	berapa kebutuhan		
+AOK-05	AOK		351	1007.610	1009.150	1.540	bit maupun apakah	bit maupun apakah		
+AOK-05	AOK		352	1009.150	1011.370	2.220	di dalam stream data	di dalam stream data		
+AOK-05	AOK		353	1011.370	1013.010	1.640	kumpulan datanya yang disimpan dalam	kumpulan datanya yang disimpan dalam		
+AOK-05	AOK		354	1013.010	1015.570	2.560	memori tersebut itu ada kesalahan	memori tersebut itu ada kesalahan		
+AOK-05	AOK		355	1015.570	1016.070	0.500	atau	atau		
+AOK-05	AOK		356	1016.070	1018.590	2.520	tidak, dengan	tidak, dengan		
+AOK-05	AOK		357	1018.590	1020.110	1.520	menggunakan	menggunakan		
+AOK-05	AOK		358	1020.110	1023.730	3.620	secure error	secure error		
+AOK-05	AOK		359	1023.730	1025.290	1.560	correction code yang dari	correction code yang dari		
+AOK-05	AOK		360	1025.290	1026.350	1.060	HAMENG ini, maka nanti	Hamming ini, maka nanti		
+AOK-05	AOK		361	1026.350	1029.110	2.760	setiap data	setiap data		
+AOK-05	AOK		362	1029.110	1031.330	2.220	yang memiliki kesalahan	yang memiliki kesalahan		
+AOK-05	AOK		363	1031.330	1031.770	0.440	itu bisa	itu bisa		
+AOK-05	AOK		364	1031.770	1034.370	2.600	dikoreksi	dikoreksi		
+AOK-05	AOK		365	1034.370	1037.190	2.820	atau ketika ada	atau ketika ada		
+AOK-05	AOK		366	1037.190	1039.170	1.980	erode, maka diperuntukkan	error, maka diperuntukkan		
+AOK-05	AOK		367	1039.170	1039.670	0.500	kepada	kepada		
+AOK-05	AOK		368	1039.670	1043.250	3.580	komputer atau pada CPU	komputer atau pada CPU		
+AOK-05	AOK		369	1043.250	1044.410	1.160	mungkin	mungkin		
+AOK-05	AOK		370	1044.410	1046.470	2.060	demikian untuk sesi	demikian untuk sesi		
+AOK-05	AOK		371	1046.470	1049.450	2.980	pertama	pertama		
+AOK-05	AOK		372	1049.450	1051.010	1.560	di dalam	di dalam		
+AOK-05	AOK		373	1051.010	1053.350	2.340	bagian dari internal	bagian dari internal		
+AOK-05	AOK		374	1053.350	1055.170	1.820	memori ini, nanti kita akan melanjutkan	memori ini, nanti kita akan melanjutkan		
+AOK-05	AOK		375	1055.170	1057.170	2.000	pada sesi modul	pada sesi modul		
+AOK-05	AOK		376	1057.170	1058.990	1.820	kedua	kedua		

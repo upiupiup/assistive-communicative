@@ -1,0 +1,103 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+RPL-09	RPL		1	0.000	11.500	11.500		selamat datang di video materi untuk mata kuliah rekayasa perangkat lunak materi yang kita bahas dalam kesempatan kali ini adalah tentang perancangan arsitektur untuk perangkat lunak selamat menyimak	jalur-wav2vec2	
+RPL-09	RPL		2	13.076	21.616	8.540		topik pembaasan dalam video ini ada tiga pertama adalah tentang apa dan mengapa kita perlu membuat rancangan arsitektur sebuah software	jalur-wav2vec2	
+RPL-09	RPL		3	21.616	33.516	11.900		lalu topik yang kedua adalah tentang berbagai sudut pandang arsitektur dari sebuah software dan topik terakhir atau yang ketiga adalah pola rancangan arsitekturnya mari kita bahas satu persatu	jalur-wav2vec2	
+RPL-09	RPL		4	34.644	43.660	9.016		arsitektur perangkat lunak adalah salah satu luaran dari fase desain yang merupakan fase setelah analisis di dalam siklus rekyasa perangkat lunak	jalur-wav2vec2	
+RPL-09	RPL		5	43.764	57.868	14.104		pada dasarnya arsitektur sebuah sistem atau perangkat lunak dibuat untuk menjelaskan bagaimana suatu sistem perangkat lunak diorganisir atau disusun arsitektur ini juga yang menggambarkan struktur dari software secara keseluruhan	jalur-wav2vec2	
+RPL-09	RPL		6	58.228	73.068	14.840		merancang arsitektur ini juga termasuk aktivitas pada tahap modeling arsitektur perangkat lunak harus memodelkan struktur suatu sistem atau perangkat lunak sereta bagaimana data dan komponen komponen prosedural saling berkolaborasi satu sama lain	jalur-wav2vec2	
+RPL-09	RPL		7	74.516	85.228	10.712		tentu ada alasannya mengapa kita perlu membuat rancangan arsitektur perangkat lunak sekurang kurangnya ada tiga alasan mengapa arsitektur sistem atau perangkat lunak adalah suatu hal yang penting	jalur-wav2vec2	
+RPL-09	RPL		8	85.332	95.724	10.392		pertama rancangan arsitektur dapat digunakan untuk mengkomunikasikan perangkat lunak kepada pihak pihak yang tertarik dengannya misalnya kepada anggota tim rpl	jalur-wav2vec2	
+RPL-09	RPL		9	95.924	103.948	8.024		kedua arsitektur sistem menentukan pekerjaan rekayasa perangkat lunak yang selanjutnya bahkan menentukan keberhasilan sistem	jalur-wav2vec2	
+RPL-09	RPL		10	104.500	115.148	10.648		dan ke tiga arsitektur menggambarkan model yang relatif kecil yang secara intelektual mudah untuk dipahami dan menggambarkan bagaimana suatu sistem distrukturkan	jalur-wav2vec2	
+RPL-09	RPL		11	115.668	126.060	10.392		selain tiga alasan tersebut tentu masih ada alasan alasan lainnya namen demikian tiga hal tersebut sudah cukup menjadi alasan yang kuat untuk membuat rancangan arsitektur	jalur-wav2vec2	
+RPL-09	RPL		12	127.956	141.856	13.900		perancangan arsitektur sistem atau software adalah sebuah proses kreatif di sini kita membuat rancangan organisasi dari sebuah sistem yang harus memenuhi setiap kebutuhan fungsional dan kebutuhan nonfungsional dari sistem tersebut	jalur-wav2vec2	
+RPL-09	RPL		13	141.856	150.220	8.364		oleh karena itu kebutuhan fungsional dan kebutuhan nonfungsional harus sudah diidentifikasikan terlebih dahulu di tahap analisis	jalur-wav2vec2	
+RPL-09	RPL		14	150.516	164.364	13.848		membuat rancangan arsitektur tanpa melalui proses analisis untuk menentukan requirements harus kita hindari setiap perancangan perangkat lunak apapun jenisnya tidak akan berguna jika tidak bisa memenuhi kebutuhan sistemnya	jalur-wav2vec2	
+RPL-09	RPL		15	166.228	176.912	10.684		seperti yang sudah disebutkan tadi perancangan arsitektur adalah proses kreatif tidak ada aturan atau formula khusus yang mengikat tentang proses untuk merancang arsitektur sebuah software	jalur-wav2vec2	
+RPL-09	RPL		16	176.912	183.372	6.460		pada praktiknya rancangan arsitektur software dibuat berdasarkan keputusan putusan yang diambil oleh arsiteknya	jalur-wav2vec2	
+RPL-09	RPL		17	183.508	193.964	10.456		seorang arsitek perangkat lunak dapat menggunakan pertanyaan pertanyaan pada gambar berikut sebagai acuan dalam mengambil keputusan ketika mereka merancang arsitektur perangkat lunak	jalur-wav2vec2	
+RPL-09	RPL		18	194.100	197.248	3.148		pertanyaan pertanyaan tersebut antara lain adalah	jalur-wav2vec2	
+RPL-09	RPL		19	197.248	204.684	7.436		apakah ada arsitektur aplikasi yang bersifat umum dan dapat digunakan sebagi template untuk sistem yang sedang dikembangkan	jalur-wav2vec2	
+RPL-09	RPL		20	205.236	210.796	5.560		lalu kedua bagaimana sistem didistribusikan melintasi perangkat perangkat keras yang ada	jalur-wav2vec2	
+RPL-09	RPL		21	211.540	215.948	4.408		ketiga pola arsitektur seperti apa yang dibuat rancangannya	jalur-wav2vec2	
+RPL-09	RPL		22	216.756	223.212	6.456		ke empat strategi apa yang perlu ditetapkan untuk mengontrol operasi dari setiap komponen di dalam sistem	jalur-wav2vec2	
+RPL-09	RPL		23	223.700	228.588	4.888		lalu ke lima bagaimana arsitektur software sebaiknya di dokumentasikan	jalur-wav2vec2	
+RPL-09	RPL		24	228.820	235.596	6.776		lalu struktur arsitektur seperti apa yang terbaik untuk memenuhi kebutuhan nonfungsional dari sistem yang dikembangkan	jalur-wav2vec2	
+RPL-09	RPL		25	236.052	241.772	5.720		selanjutnya bagaimana komponen di dalam sistem dapat diuraikan menjadi sub sub komponen	jalur-wav2vec2	
+RPL-09	RPL		26	242.004	246.892	4.888		dan terakhir pendekatan apa yang digunakan untuk membat struktur dari sistemnya	jalur-wav2vec2	
+RPL-09	RPL		27	247.092	254.060	6.968		delapan pertanyaan tersebut dapat membantu software engineer dalam mengambil keputusan saat merancang arsitektur sebuah sistem	jalur-wav2vec2	
+RPL-09	RPL		28	256.020	264.528	8.508		merepresentasikan semua informasi yang relevan tentang arsitektur sistem dalam satu buah diagram saja adalah hal yang tidak mungkin untuk dilakukan	jalur-wav2vec2	
+RPL-09	RPL		29	264.528	284.528	20.000		sebagai model grafis sebuah diagram biasanya hanya dapat menampilkan satu perspektif atau satu sudut pandang dari sistem yang akan kita kembangkan adalah hal yang umum jika seorang softwaer engineer membuat lebih dari satu diagram yang merepresentasikan arsitektur sistem untuk dapat memperlihatkan perspektif sistem yang lebih menyeluruh	jalur-wav2vec2	
+RPL-09	RPL		30	284.596	292.300	7.704		ada empat sudut pandang atau perspektif dari arsitektur sistem atau software keempat perspektif tersebut dapat dilihat pada gambar	jalur-wav2vec2	
+RPL-09	RPL		31	292.884	299.372	6.488		perspektif tersebut adalah logical view process view development view  dan physical view	jalur-wav2vec2	
+RPL-09	RPL		32	299.764	305.868	6.104		logical view menunjukkan abstraksi kunci dari sebuah sistem dalam bentuk objek atau kelas objek	jalur-wav2vec2	
+RPL-09	RPL		33	306.068	311.180	5.112		sedangkan process view menunjukkan bagaimana sistem menjalankan suatu proses tertentu	jalur-wav2vec2	
+RPL-09	RPL		34	311.380	320.300	8.920		lalu development view menunjukkan bagaimana sistem diuraikan untuk keperluan pengembangan biasanya tergambarkan komponen komponen sistemnya	jalur-wav2vec2	
+RPL-09	RPL		35	320.372	325.452	5.080		dan terakhir physical view menunjukkan perangkat keras yang berkaitan dengan sistem	jalur-wav2vec2	
+RPL-09	RPL		36	325.716	333.996	8.280		membuat model arsitektur yang merepresentasikan ke empat view ini akan memberikan gambaran yang lebih luas tentang arsitektur dari sistem yang dikembangkan	jalur-wav2vec2	
+RPL-09	RPL		37	335.540	343.628	8.088		walaupun setiap sistem perangkat lunak bersifat unik sistem sistem yang berada dalam sebuah domain aplikasi yang sama memiliki arsitektur yang mirip	jalur-wav2vec2	
+RPL-09	RPL		38	343.700	352.076	8.376		dalam merancang arsitektur software kita bisa memanfaatkan apa yang dinamakan dengan pola arsitektur atau arsitektur pattern	jalur-wav2vec2	
+RPL-09	RPL		39	352.468	362.176	9.708		ide dasar penggunaan pola arsitektur adalah sebagai sebuah cara untuk menggunakan kembali pengetahuan yang sudah ada sebelumnya untuk permasalahan yang sama	jalur-wav2vec2	
+RPL-09	RPL		40	362.176	367.404	5.228		dengan mengikuti pola kita tidak harus membuat rancangan arsitektur benar benar dari nol	jalur-wav2vec2	
+RPL-09	RPL		41	367.476	374.092	6.616		contoh pola arsitektur yang sudah dikenal banyak orang adalah arsitektur model view controller atau mvc	jalur-wav2vec2	
+RPL-09	RPL		42	374.196	383.916	9.720		arsitektur mvc ini dapat digunakan sebagai pola untuk mengatasi permasalahan bagaimana membuat struktur kode program untuk aplikasi berbasis web	jalur-wav2vec2	
+RPL-09	RPL		43	384.148	394.816	10.668		dengan pola mvc ini struktur kode program di kelompokkan menjadi tiga dengan fungsinya masing masing yaitu model yang berisikan kode program untuk menangani masalah bisnis logic	jalur-wav2vec2	
+RPL-09	RPL		44	397.364	412.460	15.096		lalu yang kedua adalah view yang berisikan kode program terkait penyajian informasi ke hadapan pengguna dan terakhir adalah controller yang didalamnya berisi kode program untuk menangani request pengguna saat berinteraksi dengan aplikasi melalui web browser	jalur-wav2vec2	
+RPL-09	RPL		45	414.036	418.384	4.348		contoh pola arsitektur yang kedua adalah data center architecture	jalur-wav2vec2	
+RPL-09	RPL		46	418.384	426.896	8.512		data center architecture merupakan sebuah arsitektur yang berpusat pada data sebuah tempat penyimpanan data berada pada pusat arsitektur	jalur-wav2vec2	
+RPL-09	RPL		47	426.896	431.756	4.860		komponen komponen yang menggunakan atau mengelola data tersebut berada disekelilingnya	jalur-wav2vec2	
+RPL-09	RPL		48	431.924	442.412	10.488		silahkan perhatikan gambar yang muncul agar lebih jelas memahami pola tersebut jumlah aplikasi yang mengikuti pola ini tidak sedikit dan bisa saja lintas domain aplikasi	jalur-wav2vec2	
+RPL-09	RPL		49	443.860	451.980	8.120		selanjutnya ada juga pola arsitektur pipes and filter pipes and filter ini merupakan contoh pola berbentuk data flow arsitektur	jalur-wav2vec2	
+RPL-09	RPL		50	452.116	461.580	9.464		data floq arsitektur sesuai namanya merupakan sebuah arsitektur yang menggambarkan aliran data biasanya diilustrasikan dengan pipa dan filter	jalur-wav2vec2	
+RPL-09	RPL		51	461.620	468.332	6.712		filter berguna untuk memproses data sedangkan pipa menunjukkan ke mana data yang diproses tersebut diteruskan	jalur-wav2vec2	
+RPL-09	RPL		52	468.500	475.724	7.224		filter digambarkan dalam bentuk persegi panjang sedangkan pipes atau pipa adalah garis yang menghubungkan antar filter	jalur-wav2vec2	
+RPL-09	RPL		53	475.892	482.156	6.264		garis yang melambangkan pipa ini memiliki tanda panah yang menunjukkan ke mana aliran data berjalan	jalur-wav2vec2	
+RPL-09	RPL		54	483.732	487.980	4.248		contoh pola arsitektur yang ke tiga adalah call and return architecture	jalur-wav2vec2	
+RPL-09	RPL		55	487.988	495.532	7.544		call and return architecture ini menggambarkan struktur program yang relatif mudah untuk dimodifikasi dan di ubah ukurannya	jalur-wav2vec2	
+RPL-09	RPL		56	495.572	501.100	5.528		biasanya dilakukan dengan memecah fungsi ke dalam beberapa komponen atau subkomponen	jalur-wav2vec2	
+RPL-09	RPL		57	501.140	504.300	3.160		silakan perhatikan gambar agar lebih memahaminya	jalur-wav2vec2	
+RPL-09	RPL		58	504.692	517.932	13.240		contoh pada gambar program utama atau yang kita lihat dibagian paling atas memiliki tiga komponen berupa controller subprogram dan masing masing controller subprogram terdiri atas beberapa aplication subprogram	jalur-wav2vec2	
+RPL-09	RPL		59	518.036	525.772	7.736		suatu subprogram hanya dapat di eksekusi apabila fungsi yang berkaitan dengannya dipanggil oleh program induk di atasnya	jalur-wav2vec2	
+RPL-09	RPL		60	525.812	534.252	8.440		jika sudah di eksekusi luaran yang dihasilkan dari subprogram tersebut diserahkan kembali kepada yang memanggilnya yaitu program induknya	jalur-wav2vec2	
+RPL-09	RPL		61	534.420	539.244	4.824		itulah mengapa pola ini dinamakan sebagai call and return architecture	jalur-wav2vec2	
+RPL-09	RPL		62	539.956	545.324	5.368		pola ini cukup baik digunakan untuk merancang arsitektur program untuk sebuah perangkat lunak	jalur-wav2vec2	
+RPL-09	RPL		63	546.836	559.340	12.504		pola arsitektur berikutnya adalah layered architektur atau arsitektur berlapis sesuai namanya layer arsitektur merupakan sebuah arsitektur yang membagi komponen ke dalam lapisan lapisan	jalur-wav2vec2	
+RPL-09	RPL		64	559.476	563.776	4.300		biasanya setiap lapisan atau layer memiliki fungsi tertentu	jalur-wav2vec2	
+RPL-09	RPL		65	563.776	568.172	4.396		arsitektur dengan pola ini relatif mudah untuk digunakan dan dibuat	jalur-wav2vec2	
+RPL-09	RPL		66	568.308	572.812	4.504		gambar yang terlihat merupakan contoh pola arsitektur untuk layer arsitektur	jalur-wav2vec2	
+RPL-09	RPL		67	572.884	578.400	5.516		biasanya lapisan terluar di isi dengan penjelasan mengenai user interface atau antarmuka	jalur-wav2vec2	
+RPL-09	RPL		68	578.400	584.832	6.432		lapisan di dalamnya adalah application layer yang berisi program program yang menjalankan fungsi tertentu	jalur-wav2vec2	
+RPL-09	RPL		69	584.832	594.156	9.324		lalu di dalamnya lagi ada utility layer yang berisikan program yang biasanya menangani logika proses dan menyediakan fungsi yang sangat spesifik	jalur-wav2vec2	
+RPL-09	RPL		70	594.356	605.292	10.936		dan lebih dalam lagi ada core layer yang berisi pendukung pendukung agar software dapat dijalankan misalnya saja database operating sistem dan lain sebagainya	jalur-wav2vec2	
+RPL-09	RPL		71	605.428	610.124	4.696		hampir semua jenis perangkat lunak dapat menggunakan pola layer arsitektur ini	jalur-wav2vec2	
+RPL-09	RPL		72	611.700	615.616	3.916		pola arsitektur selanjutnya adalah client server architecture	jalur-wav2vec2	
+RPL-09	RPL		73	615.616	622.800	7.184		pada client server architecture sistem digambarkan sebagai satu set servis yang diberikan oleh server terpisah	jalur-wav2vec2	
+RPL-09	RPL		74	622.800	625.836	3.036		client adalah pengguna dari service tersebut	jalur-wav2vec2	
+RPL-09	RPL		75	625.844	629.516	3.672		perhatikan contoh client server arsitektur pada gambar yang terlihat	jalur-wav2vec2	
+RPL-09	RPL		76	629.588	636.332	6.744		ini adalah contoh arsitektur pada aplikasi berbasis web yang menayangkan berbagai jenis file multimedia	jalur-wav2vec2	
+RPL-09	RPL		77	636.596	645.296	8.700		jika mengikuti arsitektur pada gambar ini kita dapat ketahui bahwa aplikasi tersebut menggunakan empat server berbeda dengan fungsi yang spesifik	jalur-wav2vec2	
+RPL-09	RPL		78	645.296	650.400	5.104		satu server untuk web server yang menyediakan informasi tentang film dan foto	jalur-wav2vec2	
+RPL-09	RPL		79	650.400	660.172	9.772		satu server terpisah untuk digunakan sebagai picture server lalu ada satu server untuk video server dan server yang ke empat digunakan untuk catalog server	jalur-wav2vec2	
+RPL-09	RPL		80	661.492	681.492	20.000		setelah memperhatikan enam contoh pola arsitektur aplikasi sebelumnya poin yang ingin disampaikan adalah sebagai seorang software engineer kita dapat memanfatkan pola atau model arsitektur dalam berbagai cara misalnya sebagai starting point dalam proses perancangan arsitektur jika masih awam dengan tipe aplikasi yang dibangun model umum arsitek	jalur-wav2vec2	
+RPL-09	RPL		81	684.116	693.676	9.560		lalu yang kedua sebagai desain checklist jika kita sudah membuat arsitektur untuk aplikasi tertentu maka dapat dibandingkan dengan model arsitektur yang sudah umum	jalur-wav2vec2	
+RPL-09	RPL		82	693.844	702.220	8.376		atau yang ke tiga sebagai dasar pembagian tugas tim perangkat lunak misalnya tim dibagi tugasnya berdasarkan lapisan arsitektur yang dibuat	jalur-wav2vec2	
+RPL-09	RPL		83	702.708	709.804	7.096		atau bisa juga sebagai bahan pertimbangan untuk menggunakan kembali atau me reuse komponen yang ada pada sistem	jalur-wav2vec2	
+RPL-09	RPL		84	710.036	715.116	5.080		dan terakhir juga bisa digunakan sebagai vocabulary saat membicarakan aplikasi	jalur-wav2vec2	
+RPL-09	RPL		85	715.860	729.324	13.464		mengikuti pola yang sudah ada ibarat mengikuti rambu rambu yang menjaga kita agar tidak tersasar mencapai tujuan tentu saja mungkin ada cara lain yang lebih cepat untuk mencapai tujuan tersebut namun risikonya juga lebih besar	jalur-wav2vec2	
+RPL-09	RPL		86	730.548	738.800	8.252		untuk mengakhiri materi kali ini mari kita lihat dua contoh arsitektur aplikasi yang pertama ini adalah arsitektur untuk mesin atm	jalur-wav2vec2	
+RPL-09	RPL		87	738.800	750.572	11.772		ini termasuk jenis arsitektur proses view tadi sudah disebutkan di awal pembahasan kita lihat bahwa arsitektur atm ini dibagi menjadi tiga struktur utama yaitu input proses dan output	jalur-wav2vec2	
+RPL-09	RPL		88	750.708	764.076	13.368		struktur input ini dilakukan pada mesin atmnya di mana di dalamnya terdapat fungsi fungsi program seperti mendapatkan id pelanggan memvalidasi kartu atm dan memilih layanan yang akan digunakan	jalur-wav2vec2	
+RPL-09	RPL		89	764.308	775.020	10.712		pada struktur proses terdapat fungsi yang berkaitan dengan fungsi fungsi pada struktur input yaitu bisa melakukan query terhadap akun terkait atau mengupdate akun tersebut	jalur-wav2vec2	
+RPL-09	RPL		90	775.284	780.652	5.368		fungsi di struktur proses terjadi dalam database server bukan dimesin atm	jalur-wav2vec2	
+RPL-09	RPL		91	781.108	790.028	8.920		struktur yang terakhir adalah output yang didalamnya tersedia fungsi untuk mencetak transaksi mengembalikan kartu dan mengeluarkan uang tunai	jalur-wav2vec2	
+RPL-09	RPL		92	790.100	793.772	3.672		fungsi yang ada pada output ini terjadi di mesin atmnya	jalur-wav2vec2	
+RPL-09	RPL		93	795.700	806.704	11.004		conto arsitektur aplikasi yang kedua adalah untuk sistem informasi perawatan pasien arsitektur ini mengikuti pola layer arsitektur lapisan teratas adalah antarmuka	jalur-wav2vec2	
+RPL-09	RPL		94	806.704	810.956	4.252		lalu ke bawah secara berurutan adalah layer user communication	jalur-wav2vec2	
+RPL-09	RPL		95	810.964	818.348	7.384		layer pengambilan dan modifikasi informasi lalu layer paling bawah berisi transaction management dan juga database	jalur-wav2vec2	
+RPL-09	RPL		96	818.580	823.468	4.888		rancangan arsitektur untuk sistem informasinya dapat dilihat pada gambar sebelah kanan	jalur-wav2vec2	
+RPL-09	RPL		97	823.924	831.372	7.448		layer antarmuka di isi dengan web browser dari sini kita dapat membuat kesimpulan bahwa sistemnya merupakan berbasis web	jalur-wav2vec2	
+RPL-09	RPL		98	831.476	839.212	7.736		lalu pada layer komunikasi pengguna dan otentifikasi ada login role checking menu management dan juga validasi data	jalur-wav2vec2	
+RPL-09	RPL		99	839.412	847.808	8.396		pada layer ketiga berisi security management patient information dan seterusnya yang berkaitan dengan pengambilan dan modifikasi informasi	jalur-wav2vec2	
+RPL-09	RPL		100	847.808	853.356	5.548		sedangkan layer paling bawahnya adalah transaction management dan ada juga database pasien	jalur-wav2vec2	
+RPL-09	RPL		101	853.908	866.988	13.080		jika contoh aplikasi pertama yaitu aplikasi atm tadi jenis arsitekturnya lebih dominan pada process view contoh yang ke dua ini lebih mengarah pada logical view dari arsitektur sistem informasi perawatan pasien	jalur-wav2vec2	
+RPL-09	RPL		102	868.244	880.014	11.770		baiklah dua contoh arsitektur aplikasi tadi mengakhiri pembahasan materi kita kali ini berikut ini adalah dua referensi utama dalam penyusunan video materi ini terima kasih karena anda sudah menyimaknya sampai selesai	jalur-wav2vec2	

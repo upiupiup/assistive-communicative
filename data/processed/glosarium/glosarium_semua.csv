@@ -1,0 +1,1769 @@
+mata_kuliah,entri_id,bentuk_kanonik,bentuk_permukaan,sumber,tanggal_kunci
+AOK,AOK-001,access time,access time,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-001,access time,waktu akses,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-002,accumulator,accumulator,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-002,accumulator,akumulator,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-003,addressing mode,addressing mode,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-003,addressing mode,addressing modes,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-003,addressing mode,mode pengalamatan,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-004,ALU,ALU,materi ajar (BAB 15 - RISC. CISC1.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-004,ALU,unit aritmatika dan logika,materi ajar (BAB 15 - RISC. CISC1.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-005,amdahl's law,amdahl's law,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-005,amdahl's law,hukum amdahl,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-006,ARM,ARM,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-007,arsitektur komputer,arsitektur komputer,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-007,arsitektur komputer,arsitektur,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-008,associative mapping,associative mapping,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-008,associative mapping,pemetaan asosiatif,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-009,benchmark,benchmark,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-009,benchmark,benchmarking,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-010,binary,binary,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-010,binary,biner,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-010,binary,bilangan biner,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-011,bit,bit,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-011,bit,bits,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-012,boolean function,boolean function,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-012,boolean function,fungsi boolean,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-012,boolean function,boolean,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-013,branch,branch,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-013,branch,percabangan,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-014,buffer,buffer,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-014,buffer,buffering,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-015,bus,bus,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-015,bus,bus sistem,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-016,byte,byte,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-016,byte,bytes,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-017,cache,cache,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-017,cache,caches,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-017,cache,cache memory,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-017,cache,memori cache,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-018,cache coherence,cache coherence,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-018,cache coherence,koherensi cache,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-019,cache line,cache line,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-019,cache line,baris cache,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-020,chip,chip,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-021,CISC,CISC,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-021,CISC,complex instruction set computers,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-022,clock,clock,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-022,clock,clock cycle,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-022,clock,frekuensi clock,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-023,cloud computing,cloud computing,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-023,cloud computing,komputasi awan,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-024,cluster,cluster,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-024,cluster,kluster,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-025,combinational circuit,combinational circuit,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-025,combinational circuit,rangkaian kombinasional,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-026,computer arithmetic,computer arithmetic,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-026,computer arithmetic,aritmatika komputer,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-026,computer arithmetic,aritmatika,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-026,computer arithmetic,arithmetic,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-027,control unit,control unit,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-027,control unit,CU,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-027,control unit,unit kontrol,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-028,core,core,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-028,core,cores,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-029,CPI,CPI,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-029,CPI,cycles per instruction,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-029,CPI,cycle per instruction,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-029,CPI,siklus per instruksi,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-030,CPU,CPU,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-030,CPU,central processing unit,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-031,data bus,data bus,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-031,data bus,bus data,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-032,data transfer,data transfer,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-032,data transfer,transfer data,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-033,DDR SDRAM,DDR SDRAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-033,DDR SDRAM,DDR-DRAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-033,DDR SDRAM,DDR,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-034,decoder,decoder,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-034,decoder,dekoder,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-035,device controller,device controller,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-035,device controller,pengontrol I/O,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-035,device controller,I/O controller,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-036,digital logic,digital logic,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-036,digital logic,logika digital,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-036,digital logic,digital system,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-036,digital logic,sistem digital,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-037,direct mapping,direct mapping,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-037,direct mapping,pemetaan langsung,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-038,disk,disk,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-038,disk,disks,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-038,disk,harddisk,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-039,displacement addressing,displacement addressing,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-039,displacement addressing,displacement,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-040,DMA,DMA,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-040,DMA,direct memory access,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-040,DMA,akses memori langsung,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-041,DRAM,DRAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-041,DRAM,RAM dinamis,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-042,EEPROM,EEPROM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-043,elemen penyimpanan,elemen penyimpanan,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-043,elemen penyimpanan,storage element,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-044,embedded system,embedded system,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-044,embedded system,sistem tertanam,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-045,error correction,error correction,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-045,error correction,koreksi kesalahan,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-046,exponent,exponent,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-046,exponent,eksponen,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-047,external memory,external memory,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-047,external memory,memori eksternal,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-048,fetch,fetch,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-048,fetch,instruction fetch,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-049,fixed point,fixed point,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-050,flash memory,flash memory,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-050,flash memory,memori flash,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-050,flash memory,flash,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-051,flip-flop,flip-flop,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-052,floating point,floating point,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-052,floating point,bilangan floating point,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-053,GPU,GPU,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-053,GPU,unit pemrosesan grafis,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-054,I/O,I/O,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-054,I/O,input/output,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-054,I/O,input-output,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-055,I/O module,I/O module,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-055,I/O module,modul I/O,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-056,IEEE 754,IEEE 754,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-057,immediate addressing,immediate addressing,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-057,immediate addressing,immediate,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-058,indikator kinerja,indikator kinerja,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-058,indikator kinerja,performance indicator,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-059,indirect addressing,indirect addressing,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-059,indirect addressing,pengalamatan tidak langsung,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-060,instruction,instruction,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-060,instruction,instructions,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-060,instruction,instruksi,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-061,instruction cycle,instruction cycle,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-061,instruction cycle,siklus instruksi,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-062,instruction format,instruction format,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-062,instruction format,format instruksi,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-063,instruction level parallelism,instruction level parallelism,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-063,instruction level parallelism,paralelisme tingkat instruksi,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-064,instruction set,instruction set,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-064,instruction set,set instruksi,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-064,instruction set,kumpulan instruksi,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-065,integer,integer,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-065,integer,bilangan bulat,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-066,integrated circuit,integrated circuit,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-066,integrated circuit,IC,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-066,integrated circuit,sirkuit terpadu,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-067,interconnection,interconnection,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-067,interconnection,interkoneksi,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-068,interface,interface,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-068,interface,interfacing,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-068,interface,antarmuka,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-069,internal memory,internal memory,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-069,internal memory,memori internal,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-070,interrupt,interrupt,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-070,interrupt,interrupts,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-070,interrupt,interupsi,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-071,interrupt handler,interrupt handler,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-072,IoT,IoT,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-073,ISA,ISA,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-073,ISA,instruction set architecture,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-073,ISA,arsitektur set instruksi,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-074,logic gate,logic gate,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-074,logic gate,gerbang logika,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-074,logic gate,gate,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-074,logic gate,gerbang,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-075,machine instruction,machine instruction,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-075,machine instruction,instruksi mesin,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-076,main memory,main memory,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-076,main memory,memori utama,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-077,mainframe,mainframe,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-078,MAR,MAR,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-079,MBR,MBR,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-080,memori,memori,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-080,memori,memory,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-081,memory cell,memory cell,materi ajar (BAB 5 - Internal Memory.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-081,memory cell,sel memori,materi ajar (BAB 5 - Internal Memory.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-082,memory management,memory management,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-082,memory management,manajemen memori,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-083,MESI,MESI,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-083,MESI,protokol MESI,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-084,microcontroller,microcontroller,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-084,microcontroller,mikrokontroler,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-085,microprocessor,microprocessor,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-085,microprocessor,mikroprosesor,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-086,MIPS,MIPS,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-087,MMU,MMU,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-088,MSB,MSB,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-089,multicore,multicore,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-089,multicore,prosesor multicore,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-090,multiplexer,multiplexer,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-091,multiprocessor,multiprocessor,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-091,multiprocessor,multiprosesor,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-092,multiprogramming,multiprogramming,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-093,multithreading,multithreading,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-094,NAND,NAND,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-095,nonvolatile,nonvolatile,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-096,normalization,normalization,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-096,normalization,normalisasi,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-097,NUMA,NUMA,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-098,opcode,opcode,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-098,opcode,kode operasi,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-099,operand,operand,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-099,operand,operands,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-099,operand,operan,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-100,operating system,operating system,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-100,operating system,sistem operasi,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-100,operating system,OS,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-101,organisasi komputer,organisasi komputer,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-101,organisasi komputer,organisasi,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-102,out-of-order,out-of-order,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-103,page table,page table,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-103,page table,tabel halaman,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-104,paging,paging,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-105,parity,parity,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-105,parity,paritas,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-106,peripheral,peripheral,materi ajar (BAB 7 - Input Output.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-106,peripheral,periferal,materi ajar (BAB 7 - Input Output.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-106,peripheral,perangkat periferal,materi ajar (BAB 7 - Input Output.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-106,peripheral,piranti peripheral,materi ajar (BAB 7 - Input Output.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-107,physical address,physical address,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-107,physical address,alamat fisik,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-108,pipeline,pipeline,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-108,pipeline,pipelining,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-108,pipeline,pipelines,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-108,pipeline,saluran pipa,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-108,pipeline,pipa instruksi,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-109,program counter,program counter,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-109,program counter,pencacah program,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-110,programmed I/O,programmed I/O,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-111,prosesor,prosesor,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-111,prosesor,processor,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-111,prosesor,processors,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-112,RAID,RAID,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-113,RAM,RAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-114,random access,random access,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-114,random access,akses acak,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-115,register,register,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-115,register,registers,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-116,register addressing,register addressing,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-116,register addressing,pengalamatan register,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-117,register file,register file,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-118,register indirect addressing,register indirect addressing,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-118,register indirect addressing,pengalamatan register tidak langsung,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-119,RISC,RISC,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-119,RISC,reduced instruction set computers,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-120,ROM,ROM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-120,ROM,read only memory,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-121,scheduling,scheduling,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-121,scheduling,penjadwalan,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-122,scientific notation,scientific notation,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-122,scientific notation,notasi ilmiah,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-123,sector,sector,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-124,segmentation,segmentation,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-124,segmentation,segmentasi,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-125,semiconductor memory,semiconductor memory,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-125,semiconductor memory,memori semikonduktor,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-126,sign bit,sign bit,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-126,sign bit,bit tanda,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-127,significand,significand,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-128,SIMD,SIMD,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-129,simultaneous multithreading,simultaneous multithreading,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-129,simultaneous multithreading,SMT,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-130,SMP,SMP,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-131,source operand,source operand,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-132,SPARC,SPARC,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-133,SRAM,SRAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-133,SRAM,RAM statis,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-134,SSD,SSD,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-135,stack,stack,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-136,superpipeline,superpipeline,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-137,superscalar,superscalar,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-137,superscalar,superskalar,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-138,tag,tag,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-138,tag,tags,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-139,thread,thread,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-139,thread,utas,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-140,TLB,TLB,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-141,track,track,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-142,transfer rate,transfer rate,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-142,transfer rate,kecepatan transfer,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-143,transistor,transistor,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-144,two's complement,two's complement,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-144,two's complement,twos complement,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-144,two's complement,komplemen dua,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-145,virtual address,virtual address,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-145,virtual address,alamat virtual,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-146,virtual memory,virtual memory,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-146,virtual memory,memori virtual,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-147,volatile,volatile,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-147,volatile,mudah menguap,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-148,word,word,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-148,word,words,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-149,write back,write back,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-150,x86,x86,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-150,x86,intel x86,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+APS,APS-001,abstract class,abstract class,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-001,abstract class,kelas abstrak,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-001,abstract class,klas abstrak,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-002,abstraksi,abstraksi,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-002,abstraksi,abstraction,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-003,acceptance criteria,acceptance criteria,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-004,acceptance testing,acceptance testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-004,acceptance testing,pengujian penerimaan,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-005,activity diagram,activity diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-006,actor,actor,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-006,actor,aktor,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-007,actor generalization,actor generalization,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-007,actor generalization,super-actor,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-007,actor generalization,sub-actors,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-008,adaptability,adaptability,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-009,aggregation,aggregation,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-009,aggregation,agregasi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-010,algoritme,algoritme,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-010,algoritme,algoritma,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-011,alternative flow,alternative flow,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-011,alternative flow,aliran alternatif,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-012,ambiguity,ambiguity,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-012,ambiguity,ambigu,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-013,analisis,analisis,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-013,analisis,analysis,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-014,API,API,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-015,association,association,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-015,association,asosiasi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-016,atribut,atribut,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-016,atribut,attribute,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-016,atribut,attributes,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-017,behavioral,behavioral,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-018,bespoke software,bespoke software,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-019,black-box testing,black-box testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-019,black-box testing,black box testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-019,black-box testing,pengujian black-box,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-020,boilerplate,boilerplate,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-021,boundary class,boundary class,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-021,boundary class,boundary,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-022,CASE tool,CASE tool,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-022,CASE tool,alat bantu CASE,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-023,class diagram,class diagram,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-023,class diagram,diagram kelas,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-023,class diagram,diagram klas,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-024,class stereotype,class stereotype,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-024,class stereotype,class stereotypes,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-025,combined fragment,combined fragment,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-026,command language,command language,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-027,component diagram,component diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-028,composition,composition,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-028,composition,komposisi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-029,consistency,consistency,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-029,consistency,konsistensi,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-030,constraint,constraint,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-030,constraint,constraints,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-030,constraint,batasan,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-031,constructor,constructor,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-031,constructor,konstruktor,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-032,control class,control class,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-033,CRC cards,CRC cards,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-034,creational,creational,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-035,data flow diagram,data flow diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-036,data warehouse,data warehouse,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-037,database,database,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-037,database,basis data,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-038,design pattern,design pattern,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-038,design pattern,pola perancangan,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-038,design pattern,pola desain,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-039,diagram,diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-039,diagram,diagrams,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-040,diagrammatic model,diagrammatic model,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-041,direct manipulation,direct manipulation,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-042,ECB,ECB,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-043,elisitasi,elisitasi,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-043,elisitasi,elisitasi kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-044,entity class,entity class,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-044,entity class,entity,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-045,entity relationship diagram,entity relationship diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-046,error message,error message,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-046,error message,pesan kesalahan,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-047,extend,extend,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-048,facade,facade,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-048,facade,façade,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-049,finite state machine,finite state machine,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-050,formal model,formal model,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-051,formalisasi,formalisasi,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-052,fully dressed,fully dressed,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-053,functional requirement,functional requirement,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-053,functional requirement,kebutuhan fungsional,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-054,generalization,generalization,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-054,generalization,generalisasi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-055,generic software,generic software,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-056,GoF,GoF,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-057,GUI,GUI,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-058,human factors,human factors,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-058,human factors,faktor manusia,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-059,include,include,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-060,information presentation,information presentation,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-060,information presentation,penyajian informasi,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-060,information presentation,presentation,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-061,inheritance,inheritance,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-061,inheritance,pewarisan,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-061,inheritance,penurunan klas,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-062,instansiasi,instansiasi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-062,instansiasi,instance,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-062,instansiasi,instances,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-063,integration testing,integration testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-063,integration testing,pengujian integrasi,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-064,interaction style,interaction style,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-065,interface,interface,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-065,interface,interfaces,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-065,interface,antarmuka,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-066,interface evaluation,interface evaluation,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-067,IRS,IRS,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-068,kebutuhan,kebutuhan,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-068,kebutuhan,requirement,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-068,kebutuhan,requirements,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-069,kelas,kelas,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-069,kelas,class,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-069,kelas,classes,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-069,kelas,klas,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-070,kohesi,kohesi,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-070,kohesi,cohesion,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-070,kohesi,kohesifitas,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-071,komponen,komponen,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-071,komponen,component,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-072,kopling,kopling,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-072,kopling,coupling,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-073,kualitas perangkat lunak,kualitas perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-074,kuesioner,kuesioner,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-075,lifeline,lifeline,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-076,main flow,main flow,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-076,main flow,aliran utama,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-077,manajemen kebutuhan,manajemen kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-078,manajemen perubahan,manajemen perubahan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-079,method,method,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-079,method,methods,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-079,method,metode,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-080,model,model,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-080,model,models,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-081,multiplicity,multiplicity,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-081,multiplicity,kardinalitas,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-082,MVC,MVC,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-083,natural language model,natural language model,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-084,non-functional requirement,non-functional requirement,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-084,non-functional requirement,kebutuhan nonfungsional,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-085,object oriented,object oriented,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-085,object oriented,OO,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-085,object oriented,berorientasi objek,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-085,object oriented,pendekatan objek,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-086,object oriented analysis,object oriented analysis,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-086,object oriented analysis,OOA,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-087,object oriented design,object oriented design,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-087,object oriented design,OOD,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-088,objek,objek,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-088,objek,object,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-088,objek,objects,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-089,observasi,observasi,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-090,observer,observer,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-091,OCL,OCL,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-092,operasi,operasi,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-092,operasi,operation,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-092,operasi,operations,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-093,operation signature,operation signature,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-094,overloading,overloading,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-095,packaging,packaging,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-095,packaging,package,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-095,packaging,packages,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-096,pemodelan,pemodelan,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-097,pengembangan perangkat lunak,pengembangan perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-097,pengembangan perangkat lunak,software development,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-098,pengujian,pengujian,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-099,perancangan,perancangan,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-099,perancangan,design,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-099,perancangan,desain,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-099,perancangan,rancangan,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-100,perancangan arsitektural,perancangan arsitektural,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-100,perancangan arsitektural,arsitektur,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-101,perancangan data,perancangan data,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-102,perancangan interface,perancangan interface,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-102,perancangan interface,interface design,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-103,perancangan komponen,perancangan komponen,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-104,perangkat lunak,perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-104,perangkat lunak,software,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-104,perangkat lunak,PL,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-104,perangkat lunak,sistem perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-104,perangkat lunak,s/w,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-105,postcondition,postcondition,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-105,postcondition,kondisi akhir,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-106,precondition,precondition,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-106,precondition,prakondisi,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-107,primary actor,primary actor,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-107,primary actor,aktor primer,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-108,primary key,primary key,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-108,primary key,kunci primer,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-109,problem domain,problem domain,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-109,problem domain,domain masalah,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-110,proses perangkat lunak,proses perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-110,proses perangkat lunak,proses PL,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-111,prototyping,prototyping,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-112,pseudocode,pseudocode,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-113,rationale,rationale,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-114,real-time system,real-time system,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-114,real-time system,real-time,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-115,refactoring,refactoring,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-116,requirements engineering,requirements engineering,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-116,requirements engineering,RE,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-116,requirements engineering,rekayasa kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-117,reuse,reuse,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-118,secondary actor,secondary actor,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-118,secondary actor,aktor sekunder,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-119,sequence diagram,sequence diagram,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-119,sequence diagram,diagram sekuens,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-120,singleton,singleton,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-121,sistem,sistem,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-121,sistem,system,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-121,sistem,systems,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-122,sistem informasi,sistem informasi,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-123,SMART,SMART,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-124,solution domain,solution domain,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-124,solution domain,domain solusi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-125,spesifikasi kebutuhan,spesifikasi kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-126,SRS,SRS,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-127,stakeholder,stakeholder,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-127,stakeholder,pemangku kepentingan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-128,statechart diagram,statechart diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-129,structural,structural,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-130,sub-sistem,sub-sistem,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-130,sub-sistem,subsistem,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-131,subclass,subclass,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-132,superclass,superclass,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-133,system testing,system testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-133,system testing,pengujian sistem,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-133,system testing,system test,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-134,test case,test case,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-134,test case,test cases,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-134,test case,kasus uji,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-135,traceability,traceability,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-135,traceability,ketertelusuran,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-136,UML,UML,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-137,umpan balik,umpan balik,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-138,understandability,understandability,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-139,unit testing,unit testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-139,unit testing,pengujian unit,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-140,usability,usability,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-141,use case,use case,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-141,use case,use cases,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-141,use case,kasus penggunaan,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-142,use case diagram,use case diagram,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-142,use case diagram,diagram use case,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-143,use case scenario,use case scenario,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-143,use case scenario,UC scenario,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-143,use case scenario,skenario use case,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-143,use case scenario,skenario,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-144,user guidance,user guidance,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-145,user interface,user interface,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-145,user interface,UI,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-145,user interface,antarmuka pengguna,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-146,validasi,validasi,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-146,validasi,validasi kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-147,verifikasi,verifikasi,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-147,verifikasi,verifikasi kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-148,wawancara,wawancara,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-148,wawancara,interview,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-149,white-box testing,white-box testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-149,white-box testing,white box testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-149,white-box testing,pengujian white-box,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-150,wicked problem,wicked problem,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+IMK,IMK-001,accessibility,accessibility,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-001,accessibility,aksesibilitas,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-002,aesthetics,aesthetics,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-002,aesthetics,estetika,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-003,affordance,affordance,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-004,alignment,alignment,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-004,alignment,perataan,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-005,batch processing,batch processing,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-005,batch processing,pemrosesan batch,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-006,button,button,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-006,button,buttons,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-006,button,tombol,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-007,cognitive,cognitive,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-007,cognitive,kognitif,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-008,cognitive walkthrough,cognitive walkthrough,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-008,cognitive walkthrough,penelusuran kognitif,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-009,colour,colour,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-009,colour,colours,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-009,colour,warna,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-010,colour blindness,colour blindness,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-010,colour blindness,buta warna,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-011,command line interface,command line interface,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-011,command line interface,antarmuka baris perintah,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-012,computer,computer,materi ajar (e3-chap-02.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-012,computer,computers,materi ajar (e3-chap-02.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-012,computer,komputer,materi ajar (e3-chap-02.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-013,consistency,consistency,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-013,consistency,konsistensi,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-014,constraint,constraint,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-014,constraint,constraints,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-014,constraint,batasan,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-015,context-aware,context-aware,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-015,context-aware,peka konteks,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-016,deductive reasoning,deductive reasoning,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-016,deductive reasoning,deduction,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-016,deductive reasoning,penalaran deduktif,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-017,design,design,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-017,design,designs,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-017,design,desain,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-017,design,perancangan,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-018,design pattern,design pattern,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-018,design pattern,pola desain,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-018,design pattern,pola perancangan,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-019,design process,design process,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-019,design process,proses desain,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-020,design rationale,design rationale,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-020,design rationale,rasional desain,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-021,design rules,design rules,materi ajar (e3-chap-07.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-021,design rules,aturan desain,materi ajar (e3-chap-07.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-022,dialogue box,dialogue box,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-022,dialogue box,kotak dialog,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-023,direct manipulation,direct manipulation,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-023,direct manipulation,manipulasi langsung,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-024,disability,disability,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-024,disability,disabilitas,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-025,display,display,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,displays,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,screen,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,screens,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,layar,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,tampilan,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-026,documentation,documentation,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-026,documentation,dokumentasi,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-027,dpi,dpi,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-027,dpi,titik per inci,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-028,dyslexia,dyslexia,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-028,dyslexia,disleksia,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-029,earcon,earcon,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-029,earcon,earcons,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-030,effectiveness,effectiveness,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-030,effectiveness,efektivitas,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-031,efficiency,efficiency,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-031,efficiency,efisiensi,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-032,emotion,emotion,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-032,emotion,emosi,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-033,equitable use,equitable use,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-033,equitable use,penggunaan yang adil,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-034,ergonomics,ergonomics,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-034,ergonomics,ergonomi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-035,error,error,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-035,error,errors,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-035,error,kesalahan,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-036,ethnography,ethnography,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-036,ethnography,etnografi,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-037,evaluation,evaluation,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-037,evaluation,evaluasi,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-038,execution/evaluation loop,execution/evaluation loop,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-038,execution/evaluation loop,siklus eksekusi dan evaluasi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-039,feedback,feedback,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-039,feedback,umpan balik,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-040,fitts' law,fitts' law,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-040,fitts' law,hukum Fitts,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-041,flexibility,flexibility,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-041,flexibility,fleksibilitas,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-042,font,font,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-042,font,fonts,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-042,font,jenis huruf,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-043,gesture,gesture,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-043,gesture,gestur,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-044,goal,goal,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-044,goal,goals,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-044,goal,tujuan,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-045,golden rules,golden rules,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-045,golden rules,aturan emas,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-046,grouping,grouping,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-046,grouping,pengelompokan,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-047,guideline,guideline,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-047,guideline,guidelines,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-047,guideline,panduan,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-048,gulf of evaluation,gulf of evaluation,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-048,gulf of evaluation,jurang evaluasi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-049,gulf of execution,gulf of execution,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-049,gulf of execution,jurang eksekusi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-050,haptic,haptic,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-050,haptic,haptik,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-051,hearing,hearing,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-051,hearing,auditory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-051,hearing,pendengaran,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-052,hearing impairment,hearing impairment,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-052,hearing impairment,gangguan pendengaran,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-052,hearing impairment,tunarungu,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-053,heuristic,heuristic,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-053,heuristic,heuristics,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-053,heuristic,heuristik,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-054,heuristic evaluation,heuristic evaluation,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-054,heuristic evaluation,evaluasi heuristik,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-055,human,human,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-055,human,humans,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-055,human,manusia,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-056,human error,human error,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-056,human error,kesalahan manusia,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-057,human factors,human factors,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-057,human factors,faktor manusia,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-058,human-computer interaction,human-computer interaction,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-058,human-computer interaction,HCI,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-058,human-computer interaction,interaksi manusia dan komputer,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-058,human-computer interaction,IMK,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-059,hypertext,hypertext,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-059,hypertext,hiperteks,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-060,icon,icon,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-060,icon,icons,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-060,icon,ikon,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-061,inclusive design,inclusive design,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-061,inclusive design,desain inklusif,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-062,individual differences,individual differences,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-062,individual differences,perbedaan individu,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-063,inductive reasoning,inductive reasoning,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-063,inductive reasoning,induction,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-063,inductive reasoning,penalaran induktif,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-064,interaction,interaction,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-064,interaction,interactions,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-064,interaction,interaksi,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-065,interaction design,interaction design,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-065,interaction design,perancangan interaksi,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-065,interaction design,desain interaksi,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-066,interaction framework,interaction framework,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-066,interaction framework,kerangka interaksi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-067,interaction style,interaction style,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-067,interaction style,interaction styles,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-067,interaction style,gaya interaksi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-068,interactivity,interactivity,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-068,interactivity,interactive,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-068,interactivity,interaktivitas,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-069,interface,interface,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-069,interface,interfaces,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-069,interface,antarmuka,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-070,internet,internet,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-071,iterative design,iterative design,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-071,iterative design,iteration,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-071,iterative design,perancangan iteratif,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-071,iterative design,desain iteratif,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-072,keyboard,keyboard,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-072,keyboard,keyboards,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-072,keyboard,papan ketik,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-073,layout,layout,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-073,layout,tata letak,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-074,LCD,LCD,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-074,LCD,layar kristal cair,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-075,learnability,learnability,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-075,learnability,kemudahan dipelajari,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-076,long-term memory,long-term memory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-076,long-term memory,LTM,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-076,long-term memory,memori jangka panjang,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-077,memory,memory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-077,memory,memori,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-078,mental model,mental model,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-078,mental model,model mental,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-079,menu,menu,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-079,menu,menus,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-080,metaphor,metaphor,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-080,metaphor,metafora,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-081,mode,mode,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-081,mode,moda,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-082,mouse,mouse,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-083,multimedia,multimedia,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-084,multimodality,multimodality,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-084,multimodality,multimodal,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-085,natural language,natural language,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-085,natural language,bahasa alami,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-086,navigation,navigation,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-086,navigation,navigasi,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-087,network,network,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-087,network,networks,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-087,network,jaringan,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-088,norman's model,norman's model,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-088,norman's model,model Norman,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-089,OCR,OCR,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-089,OCR,pengenalan karakter optik,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-090,palette,palette,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-090,palette,palettes,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-091,paradigm,paradigm,materi ajar (e3-chap-04.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-091,paradigm,paradigms,materi ajar (e3-chap-04.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-091,paradigm,paradigma,materi ajar (e3-chap-04.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-092,perceptible information,perceptible information,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-092,perceptible information,informasi yang dapat dipersepsi,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-093,persona,persona,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-094,pixel,pixel,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-094,pixel,pixels,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-094,pixel,piksel,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-095,pointer,pointer,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-095,pointer,pointers,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-095,pointer,penunjuk,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-096,principle,principle,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-096,principle,principles,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-096,principle,prinsip,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-097,problem solving,problem solving,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-097,problem solving,pemecahan masalah,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-098,prototype,prototype,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-098,prototype,prototypes,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-098,prototype,prototipe,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-099,prototyping,prototyping,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-099,prototyping,pembuatan prototipe,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-100,questionnaire,questionnaire,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-100,questionnaire,questionnaires,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-100,questionnaire,kuesioner,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-100,questionnaire,angket,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-101,RAM,RAM,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-101,RAM,memori akses acak,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-102,rapid prototyping,rapid prototyping,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-102,rapid prototyping,rapid prototyping tool,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-102,rapid prototyping,rapid prototyping tools,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-102,rapid prototyping,purwarupa cepat,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-103,recall,recall,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-103,recall,mengingat kembali,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-104,recognition,recognition,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-104,recognition,pengenalan,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-105,requirements,requirements,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-105,requirements,kebutuhan,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-106,resolution,resolution,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-106,resolution,resolusi,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-107,robustness,robustness,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-108,satisfaction,satisfaction,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-108,satisfaction,kepuasan,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-109,scanner,scanner,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-109,scanner,scanners,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-109,scanner,pemindai,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-110,scenario,scenario,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-110,scenario,scenarios,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-110,scenario,skenario,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-111,screen design,screen design,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-111,screen design,desain layar,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-112,screen reader,screen reader,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-112,screen reader,pembaca layar,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-113,semantic memory,semantic memory,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-113,semantic memory,semantic,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-113,semantic memory,memori semantik,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-114,sensory memory,sensory memory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-114,sensory memory,memori sensorik,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-115,short-term memory,short-term memory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-115,short-term memory,STM,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-115,short-term memory,memori jangka pendek,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-115,short-term memory,memori kerja,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-116,sign language,sign language,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-116,sign language,bahasa isyarat,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-117,software life cycle,software life cycle,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-117,software life cycle,life cycle,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-117,software life cycle,siklus hidup perangkat lunak,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-118,speech recognition,speech recognition,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-118,speech recognition,pengenalan suara,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-118,speech recognition,pengenalan ucapan,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-119,speech synthesis,speech synthesis,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-119,speech synthesis,sintesis ucapan,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-119,speech synthesis,sintesis suara,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-120,spreadsheet,spreadsheet,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-120,spreadsheet,spreadsheets,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-120,spreadsheet,lembar kerja,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-121,standard,standard,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-121,standard,standards,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-121,standard,standar,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-122,storyboard,storyboard,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-123,System Usability Scale,System Usability Scale,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-123,System Usability Scale,SUS,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-123,System Usability Scale,skala kegunaan sistem,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-124,task,task,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-124,task,tasks,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-124,task,tugas,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-125,task analysis,task analysis,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-125,task analysis,analisis tugas,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-126,task completion rate,task completion rate,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-126,task completion rate,success rate,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-126,task completion rate,tingkat penyelesaian tugas,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-127,task completion time,task completion time,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-127,task completion time,time on task,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-127,task completion time,waktu penyelesaian tugas,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-128,think-aloud,think-aloud,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-128,think-aloud,think aloud,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-128,think-aloud,think-aloud protocol,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-128,think-aloud,pikir keras,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-129,time-sharing,time-sharing,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-129,time-sharing,timesharing,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-129,time-sharing,berbagi waktu,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-130,touchpad,touchpad,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-131,trackball,trackball,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-132,tutorial,tutorial,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-133,universal design,universal design,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-133,universal design,desain universal,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-134,usability,usability,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-135,usability engineering,usability engineering,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-135,usability engineering,rekayasa usability,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-136,usability specification,usability specification,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-136,usability specification,spesifikasi usability,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-137,usability testing,usability testing,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-137,usability testing,user testing,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-137,usability testing,pengujian usability,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-137,usability testing,uji usability,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-137,usability testing,pengujian kebergunaan,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-138,user,user,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-138,user,users,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-138,user,pengguna,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-139,user experience,user experience,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-139,user experience,pengalaman pengguna,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-140,user interface,user interface,materi ajar (e3-chap-08.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-140,user interface,UI,materi ajar (e3-chap-08.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-140,user interface,antarmuka pengguna,materi ajar (e3-chap-08.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-141,user support,user support,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-141,user support,dukungan pengguna,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-142,virtual reality,virtual reality,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-142,virtual reality,VR,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-142,virtual reality,realitas virtual,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-143,vision,vision,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-143,vision,visual,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-143,vision,penglihatan,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-144,visual impairment,visual impairment,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-144,visual impairment,gangguan penglihatan,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-144,visual impairment,tunanetra,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-145,white space,white space,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-145,white space,ruang kosong,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-146,widget,widget,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-147,WIMP,WIMP,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-148,window,window,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-148,window,windows,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-148,window,jendela,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-149,World Wide Web,World Wide Web,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-149,World Wide Web,web,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-150,WYSIWYG,WYSIWYG,materi ajar (e3-chap-02.pdf),2026-10-01
+JARNIR,JARNIR-001,6LoWPAN,6LoWPAN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-002,access point,access point,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-002,access point,AP,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-002,access point,titik akses,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-003,acknowledgment,acknowledgment,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-003,acknowledgment,ack,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-004,activation by personalization,activation by personalization,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-005,ad hoc network,ad hoc network,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-005,ad hoc network,jaringan ad hoc,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-006,agregasi,agregasi,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-006,agregasi,diagregasi,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-007,amplitude modulation,amplitude modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-008,amplitudo,amplitudo,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-008,amplitudo,amplitude,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-009,antena,antena,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-010,attenuation,attenuation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-010,attenuation,atenuasi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-010,attenuation,redaman,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-011,authentication,authentication,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-011,authentication,autentikasi,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-012,bandwidth,bandwidth,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-012,bandwidth,lebar pita,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-013,beacon,beacon,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-014,beamforming,beamforming,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-015,BlockAck,BlockAck,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-015,BlockAck,block ack,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-016,bluetooth,bluetooth,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-017,Bluetooth Low Energy,Bluetooth Low Energy,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-018,BSS,BSS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-018,BSS,basic service set,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-018,BSS,himpunan layanan dasar,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-019,CDMA,CDMA,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-020,chirp spread spectrum,chirp spread spectrum,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-021,clear channel assessment,clear channel assessment,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-021,clear channel assessment,CCA,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-022,control plane,control plane,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-022,control plane,bidang kontrol,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-023,convolutional coding,convolutional coding,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-023,convolutional coding,BCC,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-024,CSMA,CSMA,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-025,CSMA/CA,CSMA/CA,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-026,data frame,data frame,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-027,data rate,data rate,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-027,data rate,laju data,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-028,daya rendah,daya rendah,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-029,downlink,downlink,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-030,DSSS,DSSS,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-031,EDCA,EDCA,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-032,encoding,encoding,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-032,encoding,pengkodean,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-033,end device,end device,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-033,end device,perangkat ujung,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-034,energy efficiency,energy efficiency,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-034,energy efficiency,efisiensi energi,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-035,enkripsi,enkripsi,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-036,EPS bearer,EPS bearer,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-037,evolved packet system,evolved packet system,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-037,evolved packet system,EPS,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-038,fasa,fasa,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-038,fasa,phase,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-039,FDMA,FDMA,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-040,FHSS,FHSS,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-040,FHSS,lompatan frekuensi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-041,fragmentasi,fragmentasi,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-042,frame,frame,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-042,frame,framing,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-042,frame,bingkai,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-042,frame,pembingkaian,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-043,frekuensi,frekuensi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-043,frekuensi,frequency,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-044,frequency division duplexing,frequency division duplexing,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-044,frequency division duplexing,FDD,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-045,frequency division multiplexing,frequency division multiplexing,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-045,frequency division multiplexing,FDM,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-046,frequency modulation,frequency modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-047,frequency reuse,frequency reuse,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-047,frequency reuse,penggunaan ulang frekuensi,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-048,full function device,full function device,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-048,full function device,FFD,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-049,gateway,gateway,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-050,gelombang pembawa,gelombang pembawa,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-050,gelombang pembawa,carrier,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-051,gelombang radio,gelombang radio,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-052,GSM,GSM,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-053,guard,guard,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-054,guard interval,guard interval,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-054,guard interval,GI,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-055,handover,handover,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-055,handover,handoff,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-055,handover,serah terima,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-056,hidden terminal,hidden terminal,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-056,hidden terminal,terminal tersembunyi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-057,IEEE 802.11,IEEE 802.11,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-057,IEEE 802.11,802.11,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-058,IEEE 802.11ac,IEEE 802.11ac,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-059,IEEE 802.11ax,IEEE 802.11ax,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-059,IEEE 802.11ax,802.11ax,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-059,IEEE 802.11ax,11ax,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-060,IEEE 802.11n,IEEE 802.11n,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-060,IEEE 802.11n,802.11n,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-061,IEEE 802.15,IEEE 802.15,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-061,IEEE 802.15,802.15,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-062,IEEE 802.15.1,IEEE 802.15.1,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-063,IEEE 802.15.4,IEEE 802.15.4,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-063,IEEE 802.15.4,LR-WPAN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-064,inter frame space,inter frame space,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-064,inter frame space,IFS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-065,interferensi,interferensi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-066,Internet of Things,Internet of Things,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-066,Internet of Things,IoT,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-066,Internet of Things,internet of things,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-067,ISM,ISM,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-067,ISM,industri sains dan medis,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-068,jaringan nirkabel,jaringan nirkabel,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-069,jaringan seluler,jaringan seluler,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-069,jaringan seluler,jaringan selular,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-069,jaringan seluler,seluler,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-070,join-accept,join-accept,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-071,join-request,join-request,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-071,join-request,rejoin-request,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,kanal,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,channel,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,channels,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,kanal komunikasi,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,saluran,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-073,kelas A,kelas A,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-074,konsumsi daya,konsumsi daya,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-074,konsumsi daya,power consumption,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-075,local area network,local area network,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-075,local area network,LAN,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-075,local area network,jaringan lokal,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-076,LoRa,LoRa,materi ajar (06 - WAN - Long Range Radio.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-077,LoRaWAN,LoRaWAN,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-078,LPWAN,LPWAN,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-078,LPWAN,low power wide area network,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-078,LPWAN,jaringan area luas berdaya rendah,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-079,LTE,LTE,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-079,LTE,long term evolution,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-080,LTE attach,LTE attach,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-081,MAC,MAC,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-081,MAC,kontrol akses media,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-082,MAC layer,MAC layer,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-082,MAC layer,lapisan MAC,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-083,MCS,MCS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-083,MCS,modulation coding scheme,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-083,MCS,modulation and coding scheme,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-084,media transmisi,media transmisi,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-084,media transmisi,media komunikasi,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-085,message integrity code,message integrity code,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-085,message integrity code,MIC,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-086,MIMO,MIMO,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-086,MIMO,multi input multi output,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-086,MIMO,multi antena,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-087,mobilitas,mobilitas,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-087,mobilitas,mobility,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-087,mobilitas,dukungan mobilitas,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-088,mobility management entity,mobility management entity,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-088,mobility management entity,MME,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-089,modulasi,modulasi,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-089,modulasi,modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-090,modulasi digital,modulasi digital,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-091,MPDU,MPDU,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-092,MQTT,MQTT,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-092,MQTT,message queuing telemetry transport,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-093,multi-carrier modulation,multi-carrier modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-093,multi-carrier modulation,MCM,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-093,multi-carrier modulation,modulasi multi carrier,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-094,multiple access,multiple access,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-094,multiple access,multi access,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-094,multiple access,akses jamak,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-095,multiplexing,multiplexing,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-096,network allocation vector,network allocation vector,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-096,network allocation vector,NAV,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-097,network server,network server,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-098,nirkabel,nirkabel,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-098,nirkabel,wireless,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-099,node,node,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-099,node,simpul,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-100,noise,noise,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-100,noise,derau,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-101,OFDMA,OFDMA,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-102,orthogonal frequency division multiplexing,orthogonal frequency division multiplexing,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-102,orthogonal frequency division multiplexing,OFDM,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-103,over the air activation,over the air activation,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-103,over the air activation,OTAA,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-104,packet data network gateway,packet data network gateway,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-104,packet data network gateway,PGW,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-105,PAN coordinator,PAN coordinator,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-106,path loss,path loss,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-106,path loss,rugi lintasan,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-107,payload,payload,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-107,payload,muatan,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-108,peer-to-peer,peer-to-peer,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-109,personal area network,personal area network,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-109,personal area network,PAN,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-109,personal area network,jaringan personal,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-110,phase shift keying,phase shift keying,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-111,PHY layer,PHY layer,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-111,PHY layer,PHY,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-111,PHY layer,lapisan fisik,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-112,piconet,piconet,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-113,PPDU,PPDU,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-114,propagasi,propagasi,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-115,protokol,protokol,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-115,protokol,protocol,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-115,protokol,protocols,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-116,protokol MAC,protokol MAC,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-116,protokol MAC,MAC protocol,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-117,quadrature amplitude modulation,quadrature amplitude modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-117,quadrature amplitude modulation,QAM,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-118,quality of service,quality of service,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-118,quality of service,QoS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-118,quality of service,kualitas layanan,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-119,receive window,receive window,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-119,receive window,jendela penerimaan,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-120,receiver address,receiver address,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-120,receiver address,RA,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-120,receiver address,alamat penerima,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-121,reduced function device,reduced function device,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-121,reduced function device,RFD,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-122,routing protocol,routing protocol,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-122,routing protocol,routing protocols,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-122,routing protocol,protokol routing,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-122,routing protocol,protokol perutean,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-123,RTS/CTS,RTS/CTS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-124,SC-FDMA,SC-FDMA,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-125,sel,sel,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-126,sensor node,sensor node,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-126,sensor node,simpul sensor,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-127,service set,service set,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-127,service set,himpunan layanan,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-128,serving gateway,serving gateway,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-128,serving gateway,SGW,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-129,SIFS,SIFS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-130,sinyal,sinyal,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-131,spektrum,spektrum,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-131,spektrum,spektrum frekuensi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-131,spektrum,spektrum radio,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-132,spreading factor,spreading factor,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-132,spreading factor,spreading factors,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-132,spreading factor,faktor penyebaran,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-133,sub carrier,sub carrier,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-134,TDMA,TDMA,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-135,time division multiplexing,time division multiplexing,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-136,time slot,time slot,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-136,time slot,slot waktu,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-137,topologi bintang,topologi bintang,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-137,topologi bintang,star,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-138,transmisi,transmisi,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-139,transmitter address,transmitter address,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-139,transmitter address,TA,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-139,transmitter address,alamat pengirim,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-140,trigger frame,trigger frame,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-141,uplink,uplink,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-142,user equipment,user equipment,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-142,user equipment,UE,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-142,user equipment,perangkat pengguna,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-143,UWB,UWB,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-144,Wi-Fi,Wi-Fi,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-144,Wi-Fi,WiFi,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-144,Wi-Fi,Wi-Fi Alliance,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-145,wide area network,wide area network,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-145,wide area network,WAN,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-145,wide area network,jaringan area luas,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-146,wireless local area network,wireless local area network,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-146,wireless local area network,jaringan lokal nirkabel,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-147,wireless personal area network,wireless personal area network,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-147,wireless personal area network,WPAN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-147,wireless personal area network,Wireless PAN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-147,wireless personal area network,jaringan personal nirkabel,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-148,wireless sensor network,wireless sensor network,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-148,wireless sensor network,WSN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-148,wireless sensor network,jaringan sensor nirkabel,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-149,wireless wide area network,wireless wide area network,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-149,wireless wide area network,wireless WAN,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-149,wireless wide area network,jaringan area luas nirkabel,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-150,ZigBee,ZigBee,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-150,ZigBee,zigbee,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-001,abstraction,abstraction,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-001,abstraction,abstraksi,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-002,access point,access point,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-003,ACM,ACM,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-004,algorithm,algorithm,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-004,algorithm,algoritma,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-004,algorithm,algorithms,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-005,analytical thinking,analytical thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-006,analytics,analytics,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-006,analytics,analisis data,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-007,application software,application software,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-007,application software,perangkat lunak aplikasi,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-007,application software,program aplikasi,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-007,application software,aplikasi,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-008,argumen,argumen,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-009,artificial intelligence,artificial intelligence,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-009,artificial intelligence,AI,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-010,augmented reality,augmented reality,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-010,augmented reality,AR,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-011,backbone,backbone,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-012,bibliography,bibliography,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-012,bibliography,daftar pustaka,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-013,big data,big data,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-014,blockchain,blockchain,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-015,booting,booting,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-015,booting,boot,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-016,bootloader,bootloader,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-017,brainware,brainware,materi ajar (04 Brainware  (Profesi di bidang IT).pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-017,brainware,manusia pengguna teknologi,materi ajar (04 Brainware  (Profesi di bidang IT).pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-018,bus,bus,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-018,bus,bus data,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-019,business analyst,business analyst,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-020,citation,citation,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-020,citation,kutipan,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-020,citation,citations,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-021,client,client,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-021,client,klien,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-022,cloud computing,cloud computing,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-022,cloud computing,cloud,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-022,cloud computing,awan,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-023,cognitive technology,cognitive technology,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-023,cognitive technology,cognitive technologies,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-024,computational thinking,computational thinking,materi ajar (Computational Thinking-PKK.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-025,computer network,computer network,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-025,computer network,jaringan komputer,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-026,control unit,control unit,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-026,control unit,CU,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-026,control unit,unit kendali,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-027,core,core,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-028,CPU,CPU,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-028,CPU,prosesor,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-028,CPU,processor,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-029,cracking,cracking,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-030,critical thinking,critical thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-030,critical thinking,berpikir kritis,materi ajar (11 Critical Thinking  Analytical Thinking.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-030,critical thinking,pemikiran kritis,materi ajar (11 Critical Thinking  Analytical Thinking.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-031,cyber ethics,cyber ethics,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-032,cybercrime,cybercrime,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-032,cybercrime,kejahatan siber,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-032,cybercrime,kejahatan komputer,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-032,cybercrime,cyber crime,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-033,data analyst,data analyst,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-034,data scientist,data scientist,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-035,database,database,materi ajar (05 Database dan Pengembangan Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-035,database,basis data,materi ajar (05 Database dan Pengembangan Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-036,DBMS,DBMS,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-037,decomposition,decomposition,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-037,decomposition,dekomposisi,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-038,digital culture,digital culture,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-038,digital culture,budaya digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-039,digital ethics,digital ethics,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-039,digital ethics,etika digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-040,digital safety,digital safety,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-040,digital safety,keamanan digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-041,digital skills,digital skills,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-041,digital skills,digital skill,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-041,digital skills,kecakapan digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-042,distributed ledger,distributed ledger,materi ajar (Materi 02. Peran dan Profesi Keilmuan Komputer.pdf),2026-10-01
+PKK,PKK-042,distributed ledger,distributed ledger technology,materi ajar (Materi 02. Peran dan Profesi Keilmuan Komputer.pdf),2026-10-01
+PKK,PKK-042,distributed ledger,buku besar terdistribusi,materi ajar (Materi 02. Peran dan Profesi Keilmuan Komputer.pdf),2026-10-01
+PKK,PKK-043,e-learning,e-learning,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-044,etika,etika,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-044,etika,etika komputer,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-045,etika pribadi,etika pribadi,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-046,expansion slot,expansion slot,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-046,expansion slot,plug-in expansion card,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-046,expansion slot,expansion card,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-047,game developer,game developer,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-048,gateway,gateway,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-049,GIS,GIS,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-050,Google Docs,Google Docs,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-051,GSM,GSM,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-051,GSM,global system for mobile communication,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-052,hak cipta,hak cipta,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-052,hak cipta,copyright,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-053,hak paten,hak paten,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-053,hak paten,paten,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-053,hak paten,patent,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-054,HAKI,HAKI,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-054,HAKI,hak kekayaan intelektual,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-054,HAKI,hak milik intelektual,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-054,HAKI,intellectual property,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-055,hard disk,hard disk,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-055,hard disk,hard disks,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-056,hardware,hardware,materi ajar (03 Sistem Komputer Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-056,hardware,perangkat keras,materi ajar (03 Sistem Komputer Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-057,hukum de morgan,hukum de morgan,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-057,hukum de morgan,de morgan,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-057,hukum de morgan,hukum logika,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-058,human computer interaction,human computer interaction,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-059,informatika,informatika,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-060,input,input,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-061,intel,intel,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-061,intel,pentium,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-062,internet,internet,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-063,Internet of Things,Internet of Things,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-064,IT support,IT support,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-065,keilmuan komputer,keilmuan komputer,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-065,keilmuan komputer,ilmu komputer,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-065,keilmuan komputer,computer science,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-066,keyboard,keyboard,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-067,KKNI,KKNI,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-067,KKNI,indonesian qualification framework,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-068,kode etik,kode etik,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-068,kode etik,etika profesi,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-068,kode etik,code of ethics,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-068,kode etik,kode etik perguruan tinggi,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-068,kode etik,kode etik perusahaan,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-069,kompetensi,kompetensi,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,kompetensi dasar lulusan,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,kompetensi dasar lulusan TI,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,kompetensi lulusan,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,graduate competency,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,profil lulusan,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-071,komputer,komputer,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-071,komputer,computer,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-071,komputer,computers,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-072,konklusi,konklusi,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-072,konklusi,kesimpulan,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-073,kurikulum,kurikulum,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-073,kurikulum,curriculum,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-074,life long learning,life long learning,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-075,literasi 4.0,literasi 4.0,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-075,literasi 4.0,literasi baru,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-076,literasi data,literasi data,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-076,literasi data,data literacy,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-077,literasi digital,literasi digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-077,literasi digital,kurikulum literasi digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-078,literasi manusia,literasi manusia,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-078,literasi manusia,human literacy,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-079,literasi teknologi,literasi teknologi,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-079,literasi teknologi,technology literacy,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-080,LMS,LMS,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-081,logical thinking,logical thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-081,logical thinking,berpikir logis,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-082,logika fuzzy,logika fuzzy,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-083,logika informatika,logika informatika,materi ajar (Logika Informatika-PKK.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-083,logika informatika,logika,materi ajar (Logika Informatika-PKK.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-084,machine learning,machine learning,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-085,memory,memory,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-085,memory,memori,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-085,memory,memori utama,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-086,merek dagang,merek dagang,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-086,merek dagang,merk dagang,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-086,merek dagang,trademark,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-086,merek dagang,trade mark,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-087,Microsoft Excel,Microsoft Excel,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-087,Microsoft Excel,spreadsheet,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-088,model,model,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-088,model,pemodelan,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-089,monitor,monitor,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-090,moodle,moodle,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-091,moore's law,moore's law,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-091,moore's law,hukum moore,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-092,mouse,mouse,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-093,MS-DOS,MS-DOS,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-093,MS-DOS,DOS,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-094,netiquette,netiquette,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-095,network,network,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-095,network,jaringan,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-095,network,networking,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-096,network engineer,network engineer,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-097,operating system,operating system,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-097,operating system,operating systems,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-097,operating system,OS,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-097,operating system,sistem operasi,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-098,optical disc,optical disc,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-098,optical disc,DVD,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-099,output,output,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-099,output,keluaran,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-100,pattern,pattern,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-100,pattern,pola,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-100,pattern,patterns,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-101,pattern recognition,pattern recognition,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-102,pembajakan,pembajakan,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-102,pembajakan,piracy,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-102,pembajakan,software piracy,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-102,pembajakan,pembajakan perangkat lunak,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-103,penalaran,penalaran,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-104,pengembangan software,pengembangan software,materi ajar (05 Database dan Pengembangan Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-105,premis,premis,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-106,printer,printer,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-107,problem solving,problem solving,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-107,problem solving,pemecahan masalah,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-107,problem solving,memecahkan masalah,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-107,problem solving,penyelesaian masalah,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-108,profesi,profesi,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-108,profesi,professional,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-108,profesi,profesional,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-109,programmer,programmer,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-110,programming language,programming language,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-111,protocol,protocol,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-111,protocol,protokol,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-112,prototyping,prototyping,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-112,prototyping,prototype,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-112,prototyping,prototipe,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-113,quantum computing,quantum computing,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-113,quantum computing,komputasi kuantum,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-114,rahasia dagang,rahasia dagang,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-114,rahasia dagang,trade secret,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-115,RAM,RAM,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-115,RAM,DRAM,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-115,RAM,SRAM,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-116,read/write head,read/write head,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-116,read/write head,read write head,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-116,read/write head,read/write heads,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-117,rekayasa perangkat lunak,rekayasa perangkat lunak,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-117,rekayasa perangkat lunak,software engineering,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-117,rekayasa perangkat lunak,RPL,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-118,repository,repository,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-118,repository,e-repository,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-119,requirement,requirement,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-119,requirement,kebutuhan,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-120,revolusi industri 4.0,revolusi industri 4.0,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-121,rumpun keilmuan,rumpun keilmuan,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-121,rumpun keilmuan,rumpun keilmuan komputer,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-122,satelit,satelit,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-123,scanner,scanner,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-124,SDLC,SDLC,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-124,SDLC,software development life cycle,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-124,SDLC,siklus hidup pengembangan sistem,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-125,security,security,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-125,security,keamanan,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-126,sertifikasi,sertifikasi,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-127,server,server,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-128,sistem informasi,sistem informasi,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-128,sistem informasi,information systems,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-129,sistem komputer,sistem komputer,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-130,software,software,materi ajar (03 Sistem Komputer Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-130,software,perangkat lunak,materi ajar (03 Sistem Komputer Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-131,software engineer,software engineer,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-132,spiral,spiral,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-132,spiral,model spiral,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-133,stakeholder,stakeholder,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-134,storage,storage,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-134,storage,penyimpanan,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-135,system analyst,system analyst,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-136,systems thinking,systems thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-136,systems thinking,system thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-137,table of contents,table of contents,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-137,table of contents,daftar isi,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-138,teknik komputer,teknik komputer,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-138,teknik komputer,computer engineering,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-139,teknologi informasi,teknologi informasi,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,information technology,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,TI,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,IT,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,TIK,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,information and communication technology,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-140,testing,testing,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-140,testing,pengujian,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-141,touchpad,touchpad,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-141,touchpad,trackpad,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-142,trackball,trackball,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-143,transistor,transistor,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-144,tren,tren,materi ajar (04 Brainware  (Profesi di bidang IT).pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-144,tren,perkembangan teknologi,materi ajar (04 Brainware  (Profesi di bidang IT).pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-145,types of thinking,types of thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-146,virus,virus,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-146,virus,virus komputer,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-147,waterfall,waterfall,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-147,waterfall,model waterfall,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-147,waterfall,waterfall model,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-148,Wi-Fi,Wi-Fi,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-149,windows,windows,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-150,wireless,wireless,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-150,wireless,nirkabel,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-150,wireless,jaringan nirkabel,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+RPL,RPL-001,abstraction,abstraction,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-001,abstraction,abstraksi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-002,acceptance testing,acceptance testing,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-003,agile,agile,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-003,agile,agile manifesto,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-004,agile unified process,agile unified process,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-004,agile unified process,AUP,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-005,ambiguity,ambiguity,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-005,ambiguity,ambiguous,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-006,architectural design,architectural design,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-007,bespoke software,bespoke software,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-007,bespoke software,custom software,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-008,black box testing,black box testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-009,boilerplate,boilerplate,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-010,bug,bug,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-011,change management,change management,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-012,class diagram,class diagram,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-013,coding standard,coding standard,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-014,compatibility,compatibility,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-014,compatibility,kompatibilitas,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-015,completeness,completeness,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-015,completeness,complete,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-016,component design,component design,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-017,component-based software engineering,component-based software engineering,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-017,component-based software engineering,CBSE,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-017,component-based software engineering,rekayasa perangkat lunak berbasis komponen,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-018,composition,composition,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-018,composition,komposisi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-019,configuration management,configuration management,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-019,configuration management,manajemen konfigurasi,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-020,consistency,consistency,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-020,consistency,consistent,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-021,constraint,constraint,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-021,constraint,constraints,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-021,constraint,batasan,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-021,constraint,kendala,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-022,customer,customer,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-022,customer,customers,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-022,customer,pelanggan,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-023,customer testing,customer testing,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-024,daily scrum,daily scrum,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-025,data design,data design,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-026,data flow model,data flow model,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-027,decomposition,decomposition,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-027,decomposition,dekomposisi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-028,deliverable,deliverable,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-028,deliverable,deliverables,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-029,delivery,delivery,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-029,delivery,delivered,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-030,deployment,deployment,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-030,deployment,penyebaran perangkat lunak,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-031,developer,developer,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-031,developer,developers,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-031,developer,pengembang,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-032,development team,development team,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-033,distributed system,distributed system,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-033,distributed system,sistem terdistribusi,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-034,DSDM,DSDM,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-034,DSDM,dynamic systems development method,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-035,embedded system,embedded system,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-035,embedded system,sistem tertanam,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-035,embedded system,embedded software,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-035,embedded system,perangkat lunak tertanam,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-036,estimation,estimation,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-037,ethnography,ethnography,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-038,extreme programming,extreme programming,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-038,extreme programming,XP,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-039,feasibility study,feasibility study,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-039,feasibility study,studi kelayakan,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-040,feature,feature,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-040,feature,features,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-040,feature,fitur,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-041,feature creep,feature creep,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-042,feature description,feature description,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-043,feature identification,feature identification,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-044,feature list,feature list,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-045,functional requirement,functional requirement,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-045,functional requirement,kebutuhan fungsional,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-045,functional requirement,functional,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-046,functional suitability,functional suitability,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-047,generic software,generic software,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-047,generic software,perangkat lunak generik,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-048,hybrid,hybrid,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-049,implementation,implementation,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-049,implementation,implementasi,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-050,incremental,incremental,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-051,integration testing,integration testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-052,interface design,interface design,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-053,interview,interview,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-053,interview,interviewing,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-054,iterative,iterative,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-055,kegagalan perangkat lunak,kegagalan perangkat lunak,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-055,kegagalan perangkat lunak,software failure,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-055,kegagalan perangkat lunak,kegagalan PL,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-056,kualitas perangkat lunak,kualitas perangkat lunak,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-056,kualitas perangkat lunak,software quality,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-057,maintainability,maintainability,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-057,maintainability,maintenance,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-057,maintainability,pemeliharaan,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-057,maintainability,kemudahan pemeliharaan,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-058,manajemen proyek,manajemen proyek,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-058,manajemen proyek,project management,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-059,model,model,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-059,model,models,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-060,modeling,modeling,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-060,modeling,pemodelan,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-060,modeling,pemodelan kebutuhan,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-061,natural language,natural language,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-061,natural language,bahasa natural,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-062,notation,notation,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-062,notation,notasi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-063,object oriented analysis,object oriented analysis,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-064,observation,observation,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-065,perangkat lunak,perangkat lunak,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-065,perangkat lunak,software,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-065,perangkat lunak,PL,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-066,performance,performance,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-066,performance,unjuk kerja,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-067,performance efficiency,performance efficiency,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-067,performance efficiency,efisiensi kinerja,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-068,persona,persona,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-068,persona,personas,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-069,phase,phase,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-069,phase,phases,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-069,phase,fase,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-070,portability,portability,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-070,portability,portabilitas,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-071,problem,problem,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-071,problem,masalah,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-071,problem,permasalahan,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-072,problem domain,problem domain,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-072,problem domain,domain masalah,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-073,product backlog,product backlog,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-074,product management,product management,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-075,product manager,product manager,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-075,product manager,PM,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-075,product manager,manajer produk,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-076,product owner,product owner,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-077,product roadmap,product roadmap,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-078,product software engineering,product software engineering,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-079,product vision,product vision,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-079,product vision,visi produk,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-080,programming,programming,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-081,programming language,programming language,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-082,project planning,project planning,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-082,project planning,perencanaan proyek,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-083,prototyping,prototyping,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-083,prototyping,prototype,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-083,prototyping,prototipe,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-084,quality assurance,quality assurance,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-085,rational unified process,rational unified process,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-085,rational unified process,RUP,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-086,rationale,rationale,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-087,rekayasa perangkat lunak,rekayasa perangkat lunak,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-087,rekayasa perangkat lunak,software engineering,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-087,rekayasa perangkat lunak,RPL,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-088,release,release,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-089,requirement,requirement,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-089,requirement,requirements,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-089,requirement,kebutuhan,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-089,requirement,kebutuhan PL,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-090,requirement gathering,requirement gathering,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-090,requirement gathering,requirements gathering,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-090,requirement gathering,pengumpulan kebutuhan,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-091,requirement statement,requirement statement,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-091,requirement statement,requirement statements,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-091,requirement statement,pernyataan kebutuhan,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-092,requirements analysis,requirements analysis,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-092,requirements analysis,analisis kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-093,requirements definition,requirements definition,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-093,requirements definition,definisi kebutuhan,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,requirements elicitation,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,elisitasi kebutuhan,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,elisitasi,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,elicitation,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,penggalian dan analisis kebutuhan,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-095,requirements engineering,requirements engineering,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-095,requirements engineering,rekayasa kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-095,requirements engineering,RE,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-096,requirements management,requirements management,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-096,requirements management,manajemen kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-097,requirements specification,requirements specification,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-097,requirements specification,spesifikasi kebutuhan,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-098,requirements validation,requirements validation,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-098,requirements validation,validasi kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-099,requirements verification,requirements verification,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-099,requirements verification,verifikasi kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-100,review and inspection,review and inspection,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-100,review and inspection,review,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-101,risk management,risk management,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-101,risk management,manajemen risiko,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-102,scenario,scenario,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-102,scenario,scenarios,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-102,scenario,skenario,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-103,scheduling,scheduling,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-104,scope creep,scope creep,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-105,scrum,scrum,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-105,scrum,scrum framework,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-106,scrum master,scrum master,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-107,scrum team,scrum team,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-108,SDLC,SDLC,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-108,SDLC,software development life cycle,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-108,SDLC,siklus hidup pengembangan perangkat lunak,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-108,SDLC,model SDLC,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-108,SDLC,life cycle,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-109,security,security,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-110,service-oriented architecture,service-oriented architecture,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-110,service-oriented architecture,SOA,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-110,service-oriented architecture,arsitektur berorientasi layanan,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-110,service-oriented architecture,service-oriented,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-111,SMART,SMART,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-112,software as a service,software as a service,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-113,software component,software component,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-113,software component,komponen perangkat lunak,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-113,software component,komponen PL,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-114,software design,software design,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf); buku pedoman kurikulum 2024",2026-10-01
+RPL,RPL-114,software design,desain perangkat lunak,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf); buku pedoman kurikulum 2024",2026-10-01
+RPL,RPL-114,software design,design,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf); buku pedoman kurikulum 2024",2026-10-01
+RPL,RPL-114,software design,perancangan,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf); buku pedoman kurikulum 2024",2026-10-01
+RPL,RPL-115,software development,software development,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-115,software development,pengembangan perangkat lunak,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-115,software development,pengembangan PL,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-116,software evolution,software evolution,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-116,software evolution,evolusi perangkat lunak,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-117,software maintenance,software maintenance,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-117,software maintenance,pemeliharaan perangkat lunak,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-118,software measurement,software measurement,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-119,software process,software process,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-119,software process,proses perangkat lunak,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-119,software process,proses PL,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-120,software product,software product,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-120,software product,software products,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-120,software product,produk perangkat lunak,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-121,software programmer,software programmer,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-122,software project,software project,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-122,software project,proyek perangkat lunak,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-122,software project,projek PL,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-122,software project,proyek PL,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-123,software specification,software specification,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-124,software validation,software validation,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-125,solution domain,solution domain,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-125,solution domain,domain solusi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-126,spiral,spiral,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-127,sprint,sprint,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-127,sprint,sprints,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-128,SRS,SRS,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-129,stakeholder,stakeholder,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-129,stakeholder,stakeholders,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-129,stakeholder,pemangku kepentingan,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-130,system requirements,system requirements,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-130,system requirements,kebutuhan sistem,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-131,test case,test case,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-132,testing,testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-132,testing,pengujian,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-133,traceability,traceability,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-134,trade-off,trade-off,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-135,UML,UML,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-136,unit testing,unit testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-137,usability,usability,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-138,user,user,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-138,user,users,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-138,user,pengguna,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-138,user,end-user,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-139,user interface,user interface,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-140,user interface design,user interface design,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-141,user requirements,user requirements,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-141,user requirements,kebutuhan pengguna,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-142,user story,user story,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-142,user story,user stories,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-142,user story,cerita pengguna,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-143,V&V,V&V,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-144,v-model,v-model,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-145,validation,validation,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-145,validation,validasi,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-146,verification,verification,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-146,verification,verifikasi,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-147,version management,version management,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-148,waterfall,waterfall,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-149,web service,web service,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-149,web service,layanan web,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-149,web service,web services,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-150,white box testing,white box testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01

@@ -1,0 +1,279 @@
+mata_kuliah,entri_id,bentuk_kanonik,bentuk_permukaan,sumber,tanggal_kunci
+JARNIR,JARNIR-001,6LoWPAN,6LoWPAN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-002,access point,access point,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-002,access point,AP,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-002,access point,titik akses,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-003,acknowledgment,acknowledgment,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-003,acknowledgment,ack,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-004,activation by personalization,activation by personalization,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-005,ad hoc network,ad hoc network,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-005,ad hoc network,jaringan ad hoc,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-006,agregasi,agregasi,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-006,agregasi,diagregasi,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-007,amplitude modulation,amplitude modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-008,amplitudo,amplitudo,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-008,amplitudo,amplitude,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-009,antena,antena,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-010,attenuation,attenuation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-010,attenuation,atenuasi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-010,attenuation,redaman,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-011,authentication,authentication,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-011,authentication,autentikasi,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-012,bandwidth,bandwidth,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-012,bandwidth,lebar pita,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-013,beacon,beacon,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-014,beamforming,beamforming,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-015,BlockAck,BlockAck,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-015,BlockAck,block ack,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-016,bluetooth,bluetooth,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-017,Bluetooth Low Energy,Bluetooth Low Energy,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-018,BSS,BSS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-018,BSS,basic service set,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-018,BSS,himpunan layanan dasar,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-019,CDMA,CDMA,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-020,chirp spread spectrum,chirp spread spectrum,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-021,clear channel assessment,clear channel assessment,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-021,clear channel assessment,CCA,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-022,control plane,control plane,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-022,control plane,bidang kontrol,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-023,convolutional coding,convolutional coding,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-023,convolutional coding,BCC,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-024,CSMA,CSMA,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-025,CSMA/CA,CSMA/CA,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-026,data frame,data frame,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-027,data rate,data rate,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-027,data rate,laju data,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-028,daya rendah,daya rendah,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-029,downlink,downlink,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-030,DSSS,DSSS,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-031,EDCA,EDCA,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-032,encoding,encoding,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-032,encoding,pengkodean,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-033,end device,end device,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-033,end device,perangkat ujung,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-034,energy efficiency,energy efficiency,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-034,energy efficiency,efisiensi energi,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-035,enkripsi,enkripsi,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-036,EPS bearer,EPS bearer,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-037,evolved packet system,evolved packet system,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-037,evolved packet system,EPS,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-038,fasa,fasa,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-038,fasa,phase,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-039,FDMA,FDMA,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-040,FHSS,FHSS,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-040,FHSS,lompatan frekuensi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-041,fragmentasi,fragmentasi,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-042,frame,frame,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-042,frame,framing,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-042,frame,bingkai,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-042,frame,pembingkaian,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-043,frekuensi,frekuensi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-043,frekuensi,frequency,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-044,frequency division duplexing,frequency division duplexing,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-044,frequency division duplexing,FDD,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-045,frequency division multiplexing,frequency division multiplexing,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-045,frequency division multiplexing,FDM,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-046,frequency modulation,frequency modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-047,frequency reuse,frequency reuse,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-047,frequency reuse,penggunaan ulang frekuensi,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-048,full function device,full function device,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-048,full function device,FFD,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-049,gateway,gateway,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-050,gelombang pembawa,gelombang pembawa,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-050,gelombang pembawa,carrier,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-051,gelombang radio,gelombang radio,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-052,GSM,GSM,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-053,guard,guard,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-054,guard interval,guard interval,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-054,guard interval,GI,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-055,handover,handover,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-055,handover,handoff,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-055,handover,serah terima,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-056,hidden terminal,hidden terminal,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-056,hidden terminal,terminal tersembunyi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-057,IEEE 802.11,IEEE 802.11,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-057,IEEE 802.11,802.11,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-058,IEEE 802.11ac,IEEE 802.11ac,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-059,IEEE 802.11ax,IEEE 802.11ax,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-059,IEEE 802.11ax,802.11ax,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-059,IEEE 802.11ax,11ax,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-060,IEEE 802.11n,IEEE 802.11n,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-060,IEEE 802.11n,802.11n,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-061,IEEE 802.15,IEEE 802.15,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-061,IEEE 802.15,802.15,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-062,IEEE 802.15.1,IEEE 802.15.1,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-063,IEEE 802.15.4,IEEE 802.15.4,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-063,IEEE 802.15.4,LR-WPAN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-064,inter frame space,inter frame space,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-064,inter frame space,IFS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-065,interferensi,interferensi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-066,Internet of Things,Internet of Things,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-066,Internet of Things,IoT,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-066,Internet of Things,internet of things,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-067,ISM,ISM,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-067,ISM,industri sains dan medis,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-068,jaringan nirkabel,jaringan nirkabel,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-069,jaringan seluler,jaringan seluler,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-069,jaringan seluler,jaringan selular,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-069,jaringan seluler,seluler,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-070,join-accept,join-accept,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-071,join-request,join-request,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-071,join-request,rejoin-request,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,kanal,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,channel,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,channels,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,kanal komunikasi,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-072,kanal,saluran,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-073,kelas A,kelas A,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-074,konsumsi daya,konsumsi daya,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-074,konsumsi daya,power consumption,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-075,local area network,local area network,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-075,local area network,LAN,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-075,local area network,jaringan lokal,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-076,LoRa,LoRa,materi ajar (06 - WAN - Long Range Radio.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-077,LoRaWAN,LoRaWAN,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-078,LPWAN,LPWAN,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-078,LPWAN,low power wide area network,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-078,LPWAN,jaringan area luas berdaya rendah,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-079,LTE,LTE,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-079,LTE,long term evolution,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-080,LTE attach,LTE attach,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-081,MAC,MAC,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-081,MAC,kontrol akses media,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-082,MAC layer,MAC layer,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-082,MAC layer,lapisan MAC,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-083,MCS,MCS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-083,MCS,modulation coding scheme,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-083,MCS,modulation and coding scheme,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-084,media transmisi,media transmisi,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-084,media transmisi,media komunikasi,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-085,message integrity code,message integrity code,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-085,message integrity code,MIC,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-086,MIMO,MIMO,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-086,MIMO,multi input multi output,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-086,MIMO,multi antena,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-087,mobilitas,mobilitas,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-087,mobilitas,mobility,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-087,mobilitas,dukungan mobilitas,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-088,mobility management entity,mobility management entity,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-088,mobility management entity,MME,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-089,modulasi,modulasi,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-089,modulasi,modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-090,modulasi digital,modulasi digital,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-091,MPDU,MPDU,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-092,MQTT,MQTT,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-092,MQTT,message queuing telemetry transport,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-093,multi-carrier modulation,multi-carrier modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-093,multi-carrier modulation,MCM,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-093,multi-carrier modulation,modulasi multi carrier,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-094,multiple access,multiple access,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-094,multiple access,multi access,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-094,multiple access,akses jamak,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-095,multiplexing,multiplexing,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-096,network allocation vector,network allocation vector,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-096,network allocation vector,NAV,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-097,network server,network server,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-098,nirkabel,nirkabel,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-098,nirkabel,wireless,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-099,node,node,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-099,node,simpul,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-100,noise,noise,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-100,noise,derau,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-101,OFDMA,OFDMA,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-102,orthogonal frequency division multiplexing,orthogonal frequency division multiplexing,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-102,orthogonal frequency division multiplexing,OFDM,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-103,over the air activation,over the air activation,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-103,over the air activation,OTAA,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-104,packet data network gateway,packet data network gateway,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-104,packet data network gateway,PGW,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-105,PAN coordinator,PAN coordinator,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-106,path loss,path loss,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-106,path loss,rugi lintasan,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-107,payload,payload,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-107,payload,muatan,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-108,peer-to-peer,peer-to-peer,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-109,personal area network,personal area network,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-109,personal area network,PAN,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-109,personal area network,jaringan personal,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-110,phase shift keying,phase shift keying,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-111,PHY layer,PHY layer,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-111,PHY layer,PHY,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-111,PHY layer,lapisan fisik,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-112,piconet,piconet,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-113,PPDU,PPDU,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-114,propagasi,propagasi,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-115,protokol,protokol,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-115,protokol,protocol,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-115,protokol,protocols,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-116,protokol MAC,protokol MAC,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-116,protokol MAC,MAC protocol,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-117,quadrature amplitude modulation,quadrature amplitude modulation,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-117,quadrature amplitude modulation,QAM,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-118,quality of service,quality of service,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-118,quality of service,QoS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-118,quality of service,kualitas layanan,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-119,receive window,receive window,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-119,receive window,jendela penerimaan,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-120,receiver address,receiver address,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-120,receiver address,RA,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-120,receiver address,alamat penerima,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-121,reduced function device,reduced function device,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-121,reduced function device,RFD,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-122,routing protocol,routing protocol,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-122,routing protocol,routing protocols,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-122,routing protocol,protokol routing,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-122,routing protocol,protokol perutean,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-123,RTS/CTS,RTS/CTS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-124,SC-FDMA,SC-FDMA,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-125,sel,sel,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-126,sensor node,sensor node,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-126,sensor node,simpul sensor,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-127,service set,service set,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-127,service set,himpunan layanan,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-128,serving gateway,serving gateway,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-128,serving gateway,SGW,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-129,SIFS,SIFS,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-130,sinyal,sinyal,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-131,spektrum,spektrum,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-131,spektrum,spektrum frekuensi,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-131,spektrum,spektrum radio,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-132,spreading factor,spreading factor,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-132,spreading factor,spreading factors,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-132,spreading factor,faktor penyebaran,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-133,sub carrier,sub carrier,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-134,TDMA,TDMA,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-135,time division multiplexing,time division multiplexing,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-136,time slot,time slot,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-136,time slot,slot waktu,materi ajar (02 - Modulasi dan Multiplexing.pdf),2026-10-01
+JARNIR,JARNIR-137,topologi bintang,topologi bintang,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-137,topologi bintang,star,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf),2026-10-01
+JARNIR,JARNIR-138,transmisi,transmisi,materi ajar (02 - Modulasi dan Multiplexing.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-139,transmitter address,transmitter address,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-139,transmitter address,TA,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-139,transmitter address,alamat pengirim,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-140,trigger frame,trigger frame,materi ajar (04 - Teknologi Wireless LAN.pdf),2026-10-01
+JARNIR,JARNIR-141,uplink,uplink,materi ajar (06 - WAN - Long Range Radio.pdf),2026-10-01
+JARNIR,JARNIR-142,user equipment,user equipment,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-142,user equipment,UE,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-142,user equipment,perangkat pengguna,materi ajar (05 - Jaringan Seluler.pdf),2026-10-01
+JARNIR,JARNIR-143,UWB,UWB,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-144,Wi-Fi,Wi-Fi,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-144,Wi-Fi,WiFi,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-144,Wi-Fi,Wi-Fi Alliance,materi ajar (04 - Teknologi Wireless LAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-145,wide area network,wide area network,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-145,wide area network,WAN,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-145,wide area network,jaringan area luas,buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-146,wireless local area network,wireless local area network,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-146,wireless local area network,jaringan lokal nirkabel,materi ajar (01 - Pengantar Teknologi Nirkabel.pdf),2026-10-01
+JARNIR,JARNIR-147,wireless personal area network,wireless personal area network,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-147,wireless personal area network,WPAN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-147,wireless personal area network,Wireless PAN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-147,wireless personal area network,jaringan personal nirkabel,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-148,wireless sensor network,wireless sensor network,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-148,wireless sensor network,WSN,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-148,wireless sensor network,jaringan sensor nirkabel,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-149,wireless wide area network,wireless wide area network,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-149,wireless wide area network,wireless WAN,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-149,wireless wide area network,jaringan area luas nirkabel,materi ajar (05 - Jaringan Seluler.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-150,ZigBee,ZigBee,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01
+JARNIR,JARNIR-150,ZigBee,zigbee,materi ajar (03 - IEEE 802.15 - Wireless PAN.pdf); buku pedoman kurikulum 2024,2026-10-01

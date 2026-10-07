@@ -1,0 +1,107 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+JARNIR-03	JARNIR		1	6.292	18.156	11.864		materi kali ini kita akan membahas tentang jenis jenis jaringan berdasarkan cakupannya jadi ada yang namanya pan itu personal area network	jalur-wav2vec2	
+JARNIR-03	JARNIR		2	18.164	38.164	20.000		ada lan lokal area network ada juga man metropolitan area network kemudian ada juga wan wide area netwoek dan trakhir internet sesuai dengan nama mata pelajaran kita teknologi jaringan berbasis luas atau wan maka nanti kit	jalur-wav2vec2	
+JARNIR-03	JARNIR		3	38.164	42.220	4.056		kita akan fokus pada pembahasan wan	jalur-wav2vec2	
+JARNIR-03	JARNIR		4	42.548	62.548	20.000		tapi sebelum kita memasuki wan kalian harus tahu apa itu pan apa itu lan man wan internet saya yakin ketika dikelas sepuluh kalian sudah pernah dengar kata kata ini jadi di sini akan saya jelaskan singkat saja yang pertama akan kita bahas adalah personal area network atau	jalur-wav2vec2	
+JARNIR-03	JARNIR		5	63.348	71.424	8.076		pan adalah jaringan yang digunakan untuk komunikasi antar perangkat dengan jarak yang sangat dekat	jalur-wav2vec2	
+JARNIR-03	JARNIR		6	71.424	90.220	18.796		jangkauan pan antara empat sampai sepuluh meter saja dan dapat digunakan untuk komunikasi antara perangkat pribadi sendiri jadi pan itu network atau jaringan yang dia hanya bisa digunakan pada jarak yang dekat	jalur-wav2vec2	
+JARNIR-03	JARNIR		7	91.604	107.308	15.704		kegunaannya yang pertama menghubungkan perangkat komputer sebagai media komunikasi antara perangkat sendiri atau  komunikasi personal kemudian transfer data antar perangkat pribadi	jalur-wav2vec2	
+JARNIR-03	JARNIR		8	109.748	115.020	5.272		teknologi yang digunakan pada pan ini adalah yang pertama infrared	jalur-wav2vec2	
+JARNIR-03	JARNIR		9	115.092	123.276	8.184		kemudian usb universal serial bus ada bluetooth dan wireless	jalur-wav2vec2	
+JARNIR-03	JARNIR		10	124.980	130.860	5.880		ini teknologi teknologi ini kan hanya bisa kita gunakan dalam jarak yang dekat	jalur-wav2vec2	
+JARNIR-03	JARNIR		11	133.524	147.372	13.848		cara kerjanya dengan cara menghubungkan perangkat lokal atau sharing data atau informasi dengan jarak yang lebih kecil dibandingkan dengan lan itu tadi jaraknya empat sampai sepuluh semeter saja	jalur-wav2vec2	
+JARNIR-03	JARNIR		12	149.044	160.940	11.896		contohnya yang pertama kita menghubungkan smartphone dengan laptop menggunakan bluetooth bluetooth ini kan gak bisa jauh jauh nah ini termasuk dalam pan	jalur-wav2vec2	
+JARNIR-03	JARNIR		13	161.172	170.316	9.144		kemudian menghubungkan mouse dengan laptop menggunakan bluetooth atau dengan menggunakan usb	jalur-wav2vec2	
+JARNIR-03	JARNIR		14	171.828	183.916	12.088		kemudian menghubungkan printer dengan laptop bisa dengan bluetooth atau usb atau juga wireless printer kan sekarang ada printer wireless	jalur-wav2vec2	
+JARNIR-03	JARNIR		15	184.084	190.380	6.296		kemundian transfer file dari smartphone ke laptop menggunakan wifi	jalur-wav2vec2	
+JARNIR-03	JARNIR		16	190.420	210.420	20.000		menghubungkan printer dengan laptop menggunakan wifi itu tadi ada kan ya menghubungkan printer dengan laptop bisa bluetooth bisa usb bisa wifi dan menyalakan ac tv dengan smartphone menggunakan infrared nah ini contoh contoh penggunaan pan jadi kita	jalur-wav2vec2	
+JARNIR-03	JARNIR		17	210.420	213.900	3.480		tidak bisa menggunakan	jalur-wav2vec2	
+JARNIR-03	JARNIR		18	214.356	222.828	8.472		pan ini dalam jarak yang jauh misalnya kita nyalakan ac tv menggunakan smartphone tapi di	jalur-wav2vec2	
+JARNIR-03	JARNIR		19	222.868	240.032	17.164		enggak usah jauh jauh di rumah dari rumah tetangga engga akan bisa kemudian kita menghubungkan mouse dengan laptop ya mousenya dimana laptopnya dimana itu kan enggak akan nyambung seperti itu	jalur-wav2vec2	
+JARNIR-03	JARNIR		20	240.032	248.304	8.272		ini juga menghubungan printer dengan laptop menggunakan wifi juga gak bisa jauh jauh kalau kan wifi itu cakupannya terbatas	jalur-wav2vec2	
+JARNIR-03	JARNIR		21	248.304	253.388	5.084		cakupan wifi itu kan area yang bisa dijangkau oleh	jalur-wav2vec2	
+JARNIR-03	JARNIR		22	253.556	269.804	16.248		perangkat memancar yang memancarkan sinyal wifi itu kan juga terbatas makanya kalau printernya dimana laptopnya dimana dengan jarak yang jauh juga tidak akan bisa terhubung jadi pan adalah jaringan yang	jalur-wav2vec2	
+JARNIR-03	JARNIR		23	270.164	274.316	4.152		digunakan untuk jarak yang dekat	jalur-wav2vec2	
+JARNIR-03	JARNIR		24	275.316	283.820	8.504		kemudian lan lokal area network lan ini lebih luas cakupannya daripada pan	jalur-wav2vec2	
+JARNIR-03	JARNIR		25	285.428	305.428	20.000		jaringan dengan cakupan yang wilayahnya kecil tapi lebih besar dari pan seperti jaringan yang ada di kom jaringan komputer yang ada di gedung yang ada di sebuah kampus atau sekolah jaringan yang ada di kantor di rumah atau dalam sa	jalur-wav2vec2	
+JARNIR-03	JARNIR		26	307.412	317.260	9.848		lan ini teknologinya menggunakan ieee delapan nol dua titik tiga sekali lagi lan itu lebih besar daripada	jalur-wav2vec2	
+JARNIR-03	JARNIR		27	317.524	327.056	9.532		pan kalau pan tadi cuma empat sampai sepuluh meter menggunakan bluetooth infrared gitu kalau lan ini biasanya kita sudah pakai kabel	jalur-wav2vec2	
+JARNIR-03	JARNIR		28	327.056	343.308	16.252		jadi jangkauannya bisa satu gedung bisa tapi menggunakan kabel satu ruangan biasanya mengunakan kabel gitu atau biasanya kalau di laboratorium komputer itu kita menggunakan lan	jalur-wav2vec2	
+JARNIR-03	JARNIR		29	345.748	358.288	12.540		salah satu komputer dalam jaringan lan biasanya digunakan sebagai server yang mengatur seluruh sistem di jaringan itu bedanya dengan pan kalau di lan itu ada yang namanya server	jalur-wav2vec2	
+JARNIR-03	JARNIR		30	360.000	366.316	6.316		tugasnya untuk mengatur seluruh jaringan yang ada di satu lan itu	jalur-wav2vec2	
+JARNIR-03	JARNIR		31	366.708	386.444	19.736		lan dapat menghubungkan sebuah perangkat ke internet dengan menggunakan bebera berbagai perangkat jaringan yang cukup sederhana bisa menggunakan kabel utp hub switch router dan lain sebagainya jadi ini ya ini gambarnya biasanya di lan itu ada servernya kemudian	jalur-wav2vec2	
+JARNIR-03	JARNIR		32	386.452	391.244	4.792		ada yang namanya perangkat tambahan yang digunakan untuk	jalur-wav2vec2	
+JARNIR-03	JARNIR		33	391.348	395.404	4.056		menghubungkan client clientnya	jalur-wav2vec2	
+JARNIR-03	JARNIR		34	396.180	407.788	11.608		jadi di sini di gambar ini ada hub bisa kita menggunakan hub atau switch atau router terserah jadi ada perangkat tambahan di sini di mana	jalur-wav2vec2	
+JARNIR-03	JARNIR		35	408.436	414.700	6.264		client clientnya ini akan terhubung ke server melalui hub atas switch	jalur-wav2vec2	
+JARNIR-03	JARNIR		36	415.124	425.964	10.840		seperti itu jadi kalau pun dalam satu gedung servernya cuman satu itu tidak masalah jadi nanti ada nanti hub atau switchnya yang banyak	jalur-wav2vec2	
+JARNIR-03	JARNIR		37	432.500	452.140	19.640		karakteristik lan yang pertama mempunyai pusat data yang lebih tinggi daripada pan karena ada yang namanya server tadi jadi ada pusat datanya kemudian meliputi wilayah geografi yang sempit lebih sempit dari man dan wan tapi lebih luas dari pan	jalur-wav2vec2	
+JARNIR-03	JARNIR		38	452.884	471.820	18.936		tidak membutuhkan jalur telekomunikasi yang disewa dari operator telekomunikasi nah ini karakteristik lan yang khusus yaitu jadi kalau kita mau membangun sebuah jaringan lan kita tetap bisa berkomunikasi dalam suatu ruangan saya contohkan dalam satu ruangan misalnya	jalur-wav2vec2	
+JARNIR-03	JARNIR		39	471.988	480.268	8.280		tanpa kita harus connect ke internet kita itu bisa berkomunikasi dalam satu ruangan itu jadi tidak membutuhkan	jalur-wav2vec2	
+JARNIR-03	JARNIR		40	483.316	499.008	15.692		tapi kalau kita dalam jaringan lan itu mau terkoneksi ke internet misalnya di suatu ruangan itu pingin ke internet ya kita harus menyewa operator komunikasi agar kita bisa terkoneksi ke internet	jalur-wav2vec2	
+JARNIR-03	JARNIR		41	499.008	506.476	7.468		tapi tanpa internet pun dalam sebuah jaringan lan kita tetap bisa berkomunikasi	jalur-wav2vec2	
+JARNIR-03	JARNIR		42	508.212	527.724	19.512		alat untuk membangun lan yang pertama kita bisa mengunakan router disini ada gambarnya router biasanya digunakan untuk koneksi ke internet koneksi ke modem kemudian switch switch ini switch atau hub digunakan untuk	jalur-wav2vec2	
+JARNIR-03	JARNIR		43	527.892	533.004	5.112		menghubungkan client client client ini tadi ke server	jalur-wav2vec2	
+JARNIR-03	JARNIR		44	533.460	541.484	8.024		kemudian ada ethernat ethernet card biasanya untuk di pc atau di laptop	jalur-wav2vec2	
+JARNIR-03	JARNIR		45	544.352	547.628	3.276		menghubungkan dengan kabel	jalur-wav2vec2	
+JARNIR-03	JARNIR		46	551.572	558.444	6.872		biasanya memang lan itu menggunakan koneksinya medianya mengunakan kabel utp	jalur-wav2vec2	
+JARNIR-03	JARNIR		47	558.484	562.380	3.896		kemudian modem nah modem ini digunakan kalau kita mau ber	jalur-wav2vec2	
+JARNIR-03	JARNIR		48	566.004	575.436	9.432		peralatan ada crimping tool lan tester gunting dan lain lain ini digunakan untuk membuat kabel lan	jalur-wav2vec2	
+JARNIR-03	JARNIR		49	575.508	582.316	6.808		dari kabel utp itu nanti ada harusnya kelas satu kalian sudah belajar membuat	jalur-wav2vec2	
+JARNIR-03	JARNIR		50	582.356	588.140	5.784		kabel lan yang menggunakan crimping tool jadi ada susunan warnanya itu	jalur-wav2vec2	
+JARNIR-03	JARNIR		51	589.908	593.196	3.288		kemudian keuntungan lan lebih irit	jalur-wav2vec2	
+JARNIR-03	JARNIR		52	594.740	605.292	10.552		lebih irit penggunaan kabelnya koneksi transfer antar client atau antar node dan komputer bekerja dengan cepat	jalur-wav2vec2	
+JARNIR-03	JARNIR		53	605.716	616.492	10.776		karena tadi lingkupnya kecil jadi dia cepat tidak memerlukan operator telekomunikasi untuk dapat membangun sebuah lan	jalur-wav2vec2	
+JARNIR-03	JARNIR		54	616.500	620.928	4.428		jadi bisa disimpulkan lan itu adalah jaringan	jalur-wav2vec2	
+JARNIR-03	JARNIR		55	620.928	628.908	7.980		yang lebih besar dari pan cakupannya bisa satu gedung satu sekolah satu rangan satu rumah	jalur-wav2vec2	
+JARNIR-03	JARNIR		56	629.012	645.296	16.284		itu kita mengunakan jaringan lan jaringan lan itu karakteristiknya yang paling pertama adalah kita tidak perlu menggunakan atau kita tidak perlu menyewa operator telekomunikasi untuk berkomunikasi	jalur-wav2vec2	
+JARNIR-03	JARNIR		57	645.296	652.460	7.164		tapi kalau kita mau terkoneksi ke internet ya kita tatap membutuhkan operator telekomunikasi tadi	jalur-wav2vec2	
+JARNIR-03	JARNIR		58	654.964	658.316	3.352		selajutnya metropolitan area network atau man	jalur-wav2vec2	
+JARNIR-03	JARNIR		59	658.708	665.452	6.744		namanya metropolitan area network jadi ini lebih besar lagi daripada lan	jalur-wav2vec2	
+JARNIR-03	JARNIR		60	665.972	678.316	12.344		menurut wikipedia man adalah jaringan dalam suatu kota dengan transfer data berkecepatan tinggi yang menghubungkan berbagai lokasi seperti	jalur-wav2vec2	
+JARNIR-03	JARNIR		61	678.484	682.592	4.108		kampus perkantoran pemerintahan dan sebagainya	jalur-wav2vec2	
+JARNIR-03	JARNIR		62	682.592	687.372	4.780		jaringan man ini adalah gabungan dari jaringan lan	jalur-wav2vec2	
+JARNIR-03	JARNIR		63	688.308	693.484	5.176		man ini lebih besar lagi daripada lan jadi man tuh biasanya	jalur-wav2vec2	
+JARNIR-03	JARNIR		64	693.652	698.060	4.408		jaringan dalam suatu kota jadi	jalur-wav2vec2	
+JARNIR-03	JARNIR		65	698.228	708.588	10.360		dalam satu kota iku semuanya terkoneksi dari perkantoran pemerintahan sekolah sekolah semuanya mempunyai koneksi	jalur-wav2vec2	
+JARNIR-03	JARNIR		66	708.724	719.276	10.552		seperti gambar ini jadi man itu terdiri dari lan lan misalnya ini sekolah ini perkantoran ini pemerintahan ini	jalur-wav2vec2	
+JARNIR-03	JARNIR		67	719.828	724.588	4.760		kampus atau yang ini apa lagi	jalur-wav2vec2	
+JARNIR-03	JARNIR		68	724.692	730.444	5.752		rumah juga bisa itu tergabung semuanya terkoneksi dalam man	jalur-wav2vec2	
+JARNIR-03	JARNIR		69	733.524	741.760	8.236		jangkauan man ini antar antara lima sampai lima puluh kilometer jadi cakupannya	jalur-wav2vec2	
+JARNIR-03	JARNIR		70	741.760	746.028	4.268		dari lima sampai lima puluh kilometer	jalur-wav2vec2	
+JARNIR-03	JARNIR		71	746.068	753.100	7.032		man ini merupakan jaringan yang tepat untuk membangun jaringan antar kantor dalam satu kota	jalur-wav2vec2	
+JARNIR-03	JARNIR		72	753.268	769.036	15.768		jadi kaya misalnya man itu kita bisa menganalogikan gak ada kantor pusat pusat misalnya terus di kelurahan kelurahan itu ada kantor cabangnya itu bisa kita koneksikan dengan menggunakan man	jalur-wav2vec2	
+JARNIR-03	JARNIR		73	770.196	790.196	20.000		untuk bisa membuat jaringan man biasanya dibutuhkan operator telekopnikasi yang mana dapat menghubungkan antara jaringan kompiuter satu dengan jaringan komputer yang lainya jadi seperti gambar di sini man itu terdiri dari misai disini kampus terus goverment building pemerintahan	jalur-wav2vec2	
+JARNIR-03	JARNIR		74	790.196	798.284	8.088		dan lain sebaginya itu terkoneksi dalam satu jaringan itu man	jalur-wav2vec2	
+JARNIR-03	JARNIR		75	798.964	815.852	16.888		untuk koneksi man itu diasanya menggunakan wireless dan fo kalau wireless biasanya menggunakan sistem tembak sinyal mengunakan antena dari jarak sekian sampai sekian kilometer jadi pakai atena	jalur-wav2vec2	
+JARNIR-03	JARNIR		76	815.988	824.620	8.632		kemudian kalau menggunakan kabel yag kabelnya pake kabel fo yang biasanya ditanam dibawah jalan	jalur-wav2vec2	
+JARNIR-03	JARNIR		77	827.408	835.404	7.996		yang kornya atau yang kabel gedenya itu di tanam di bawah tanah	jalur-wav2vec2	
+JARNIR-03	JARNIR		78	837.108	842.016	4.908		karakteristik untuk man jadi cakupannya luas	jalur-wav2vec2	
+JARNIR-03	JARNIR		79	842.016	846.892	4.876		dari lima sampai lima puluh kilometer itu masih bisa dijangkau oleh man	jalur-wav2vec2	
+JARNIR-03	JARNIR		80	846.996	853.196	6.200		kemudian mam man umumnya tidak dimiliki oleh satu organisasi	jalur-wav2vec2	
+JARNIR-03	JARNIR		81	853.428	861.356	7.928		terus man sering bertindak sebagai jaringan kecepatan tinggi yang memungkinkan berbagai sumber daya antar daerah	jalur-wav2vec2	
+JARNIR-03	JARNIR		82	861.460	866.540	5.080		man berukuran lebih besar dan biasanya memakai teknologi yang sama dengan lan	jalur-wav2vec2	
+JARNIR-03	JARNIR		83	866.964	881.708	14.744		hanya memiliki satu atau dua bua kabel dan tidak memiliki elemen switching yang berfungsi untuk mengatur paket melalui beberapa output kabel jadi biasanya tadi saya bilang teknologinya biasanya menggunakan wireless	jalur-wav2vec2	
+JARNIR-03	JARNIR		84	881.812	885.228	3.416		kalau pun pakai kabel kabelnya pakai kabel fo	jalur-wav2vec2	
+JARNIR-03	JARNIR		85	886.964	904.332	17.368		keuntungannya yang pertama server kantor pusat dapat berfungsi sebagai pusat data dari kantor cabang seperti yang saya bilang tadi jadi kalau man karena dalam satu kota jadi itu kayak ada kantor pusat dan ada kantor cabangnya seperti itu	jalur-wav2vec2	
+JARNIR-03	JARNIR		86	907.540	924.940	17.400		transaksi yang ada dijaringan man itu real time jadi data di server pusat itu diupdate saat itu juga jadi misalnya di kantor cabang sedang melakukan update data maka yang dikantor pusat secara real time juga mengupdate datanya	jalur-wav2vec2	
+JARNIR-03	JARNIR		87	925.172	932.108	6.936		cakupan wilayahnya lebih luas sehingga komunikasinya lebih efisien	jalur-wav2vec2	
+JARNIR-03	JARNIR		88	932.884	940.000	7.116		komunikasi yang dilakukan antara satu kantor dengan lainnya bisa menggunakan chatting email atau yang lainnya	jalur-wav2vec2	
+JARNIR-03	JARNIR		89	940.000	943.308	3.308		bisa juga dengan video conference	jalur-wav2vec2	
+JARNIR-03	JARNIR		90	943.476	947.180	3.704		keamanan dari jaringan komputer man lebih baik	jalur-wav2vec2	
+JARNIR-03	JARNIR		91	947.796	953.388	5.592		kekurangannya biayanya pasti lebih mahal daripada jaringan lan	jalur-wav2vec2	
+JARNIR-03	JARNIR		92	953.492	956.576	3.084		instalasinya tidak mudah	jalur-wav2vec2	
+JARNIR-03	JARNIR		93	956.576	976.576	20.000		jika terjadi trouble pada jaringan itu agak rumit untuk mengatasinya sehingga butuh waktu yang lumayan lama untuk memperbaiki troublenya dapat menjadi target dari para hacker atau para craker yang digunakan untuk keuntungan priba	jalur-wav2vec2	
+JARNIR-03	JARNIR		94	976.576	981.388	4.812		badi jadi semakin luas jaringan itu maka	jalur-wav2vec2	
+JARNIR-03	JARNIR		95	982.164	985.516	3.352		semakin rentan juga keamanannya	jalur-wav2vec2	
+JARNIR-03	JARNIR		96	985.524	990.284	4.760		bisa dihack atau dicrack oleh orang orang yang tidak bertanggung jawab	jalur-wav2vec2	
+JARNIR-03	JARNIR		97	991.476	1011.476	20.000		jadi untuk man kesimpulannya man ini jaringannya lebih besar daripada lan yaitu mencakup satu kota lima sampai lima puluh kilometer jangkauannya dan man ini sebenarnya terdiri dari beberapa lan sa	jalur-wav2vec2	
+JARNIR-03	JARNIR		98	1011.476	1021.292	9.816		nya kan tadi kalau sekolah itu mengunakan jaringan lan kemudian satu gedung perkantoran pakao lan jadi sekolah dan	jalur-wav2vec2	
+JARNIR-03	JARNIR		99	1021.332	1025.740	4.408		dan perkantoran bisa terhebung dengan yang namanya man	jalur-wav2vec2	
+JARNIR-03	JARNIR		100	1027.668	1031.660	3.992		wide area network atau wan disinalah nanti	jalur-wav2vec2	
+JARNIR-03	JARNIR		101	1032.084	1040.492	8.408		banyak pembahasan yang akan kita dalami yaitu di matari wan wide area network	jalur-wav2vec2	
+JARNIR-03	JARNIR		102	1041.460	1053.104	11.644		menurut wikipedia wan adalah jaringan komputer yang mencakup area yang besar sebagai contoh jaringan antar wilayah itu antar kota	jalur-wav2vec2	
+JARNIR-03	JARNIR		103	1053.104	1058.540	5.436		antar negara atau bisa juga antar benua	jalur-wav2vec2	
+JARNIR-03	JARNIR		104	1058.708	1072.524	13.816		jadi dapat di definisikan juga sebagai jaringan komputer yang membutuhkan router dan saluran komunikasi publik jadi ini seperti di gambarnya maaf init typo ini london ya	jalur-wav2vec2	
+JARNIR-03	JARNIR		105	1072.596	1080.332	7.736		misalnya negara london india amerika ini saling terkoneksi menggunakan jaringan wan	jalur-wav2vec2	
+JARNIR-03	JARNIR		106	1080.372	1089.994	9.621		kalau man tadi cuman dalam satu kota kalau wan itu sudah beda kota jadi misalnya samarinda dengan balik	jalur-wav2vec2	

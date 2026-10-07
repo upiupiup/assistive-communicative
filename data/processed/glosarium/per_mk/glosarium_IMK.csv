@@ -1,0 +1,356 @@
+mata_kuliah,entri_id,bentuk_kanonik,bentuk_permukaan,sumber,tanggal_kunci
+IMK,IMK-001,accessibility,accessibility,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-001,accessibility,aksesibilitas,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-002,aesthetics,aesthetics,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-002,aesthetics,estetika,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-003,affordance,affordance,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-004,alignment,alignment,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-004,alignment,perataan,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-005,batch processing,batch processing,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-005,batch processing,pemrosesan batch,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-006,button,button,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-006,button,buttons,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-006,button,tombol,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-007,cognitive,cognitive,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-007,cognitive,kognitif,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-008,cognitive walkthrough,cognitive walkthrough,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-008,cognitive walkthrough,penelusuran kognitif,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-009,colour,colour,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-009,colour,colours,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-009,colour,warna,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-010,colour blindness,colour blindness,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-010,colour blindness,buta warna,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-011,command line interface,command line interface,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-011,command line interface,antarmuka baris perintah,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-012,computer,computer,materi ajar (e3-chap-02.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-012,computer,computers,materi ajar (e3-chap-02.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-012,computer,komputer,materi ajar (e3-chap-02.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-013,consistency,consistency,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-013,consistency,konsistensi,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-014,constraint,constraint,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-014,constraint,constraints,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-014,constraint,batasan,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-015,context-aware,context-aware,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-015,context-aware,peka konteks,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-016,deductive reasoning,deductive reasoning,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-016,deductive reasoning,deduction,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-016,deductive reasoning,penalaran deduktif,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-017,design,design,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-017,design,designs,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-017,design,desain,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-017,design,perancangan,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-018,design pattern,design pattern,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-018,design pattern,pola desain,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-018,design pattern,pola perancangan,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-019,design process,design process,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-019,design process,proses desain,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-020,design rationale,design rationale,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-020,design rationale,rasional desain,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-021,design rules,design rules,materi ajar (e3-chap-07.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-021,design rules,aturan desain,materi ajar (e3-chap-07.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-022,dialogue box,dialogue box,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-022,dialogue box,kotak dialog,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-023,direct manipulation,direct manipulation,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-023,direct manipulation,manipulasi langsung,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-024,disability,disability,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-024,disability,disabilitas,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-025,display,display,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,displays,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,screen,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,screens,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,layar,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-025,display,tampilan,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-026,documentation,documentation,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-026,documentation,dokumentasi,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-027,dpi,dpi,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-027,dpi,titik per inci,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-028,dyslexia,dyslexia,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-028,dyslexia,disleksia,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-029,earcon,earcon,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-029,earcon,earcons,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-030,effectiveness,effectiveness,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-030,effectiveness,efektivitas,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-031,efficiency,efficiency,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-031,efficiency,efisiensi,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-032,emotion,emotion,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-032,emotion,emosi,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-033,equitable use,equitable use,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-033,equitable use,penggunaan yang adil,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-034,ergonomics,ergonomics,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-034,ergonomics,ergonomi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-035,error,error,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-035,error,errors,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-035,error,kesalahan,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-036,ethnography,ethnography,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-036,ethnography,etnografi,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-037,evaluation,evaluation,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-037,evaluation,evaluasi,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-038,execution/evaluation loop,execution/evaluation loop,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-038,execution/evaluation loop,siklus eksekusi dan evaluasi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-039,feedback,feedback,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-039,feedback,umpan balik,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-040,fitts' law,fitts' law,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-040,fitts' law,hukum Fitts,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-041,flexibility,flexibility,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-041,flexibility,fleksibilitas,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-042,font,font,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-042,font,fonts,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-042,font,jenis huruf,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-043,gesture,gesture,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-043,gesture,gestur,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-044,goal,goal,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-044,goal,goals,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-044,goal,tujuan,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-045,golden rules,golden rules,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-045,golden rules,aturan emas,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-046,grouping,grouping,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-046,grouping,pengelompokan,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-047,guideline,guideline,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-047,guideline,guidelines,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-047,guideline,panduan,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-048,gulf of evaluation,gulf of evaluation,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-048,gulf of evaluation,jurang evaluasi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-049,gulf of execution,gulf of execution,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-049,gulf of execution,jurang eksekusi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-050,haptic,haptic,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-050,haptic,haptik,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-051,hearing,hearing,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-051,hearing,auditory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-051,hearing,pendengaran,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-052,hearing impairment,hearing impairment,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-052,hearing impairment,gangguan pendengaran,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-052,hearing impairment,tunarungu,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-053,heuristic,heuristic,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-053,heuristic,heuristics,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-053,heuristic,heuristik,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-054,heuristic evaluation,heuristic evaluation,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-054,heuristic evaluation,evaluasi heuristik,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-055,human,human,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-055,human,humans,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-055,human,manusia,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-056,human error,human error,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-056,human error,kesalahan manusia,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-057,human factors,human factors,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-057,human factors,faktor manusia,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-058,human-computer interaction,human-computer interaction,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-058,human-computer interaction,HCI,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-058,human-computer interaction,interaksi manusia dan komputer,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-058,human-computer interaction,IMK,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-059,hypertext,hypertext,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-059,hypertext,hiperteks,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-060,icon,icon,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-060,icon,icons,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-060,icon,ikon,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-061,inclusive design,inclusive design,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-061,inclusive design,desain inklusif,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-062,individual differences,individual differences,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-062,individual differences,perbedaan individu,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-063,inductive reasoning,inductive reasoning,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-063,inductive reasoning,induction,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-063,inductive reasoning,penalaran induktif,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-064,interaction,interaction,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-064,interaction,interactions,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-064,interaction,interaksi,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-065,interaction design,interaction design,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-065,interaction design,perancangan interaksi,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-065,interaction design,desain interaksi,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-066,interaction framework,interaction framework,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-066,interaction framework,kerangka interaksi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-067,interaction style,interaction style,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-067,interaction style,interaction styles,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-067,interaction style,gaya interaksi,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-068,interactivity,interactivity,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-068,interactivity,interactive,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-068,interactivity,interaktivitas,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-069,interface,interface,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-069,interface,interfaces,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-069,interface,antarmuka,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-070,internet,internet,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-071,iterative design,iterative design,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-071,iterative design,iteration,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-071,iterative design,perancangan iteratif,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-071,iterative design,desain iteratif,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-072,keyboard,keyboard,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-072,keyboard,keyboards,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-072,keyboard,papan ketik,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-073,layout,layout,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-073,layout,tata letak,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-074,LCD,LCD,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-074,LCD,layar kristal cair,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-075,learnability,learnability,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-075,learnability,kemudahan dipelajari,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-076,long-term memory,long-term memory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-076,long-term memory,LTM,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-076,long-term memory,memori jangka panjang,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-077,memory,memory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-077,memory,memori,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-078,mental model,mental model,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-078,mental model,model mental,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-079,menu,menu,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-079,menu,menus,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-080,metaphor,metaphor,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-080,metaphor,metafora,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-081,mode,mode,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-081,mode,moda,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-082,mouse,mouse,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-083,multimedia,multimedia,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-084,multimodality,multimodality,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-084,multimodality,multimodal,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-085,natural language,natural language,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-085,natural language,bahasa alami,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-086,navigation,navigation,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-086,navigation,navigasi,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-087,network,network,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-087,network,networks,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-087,network,jaringan,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-088,norman's model,norman's model,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-088,norman's model,model Norman,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-089,OCR,OCR,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-089,OCR,pengenalan karakter optik,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-090,palette,palette,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-090,palette,palettes,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-091,paradigm,paradigm,materi ajar (e3-chap-04.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-091,paradigm,paradigms,materi ajar (e3-chap-04.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-091,paradigm,paradigma,materi ajar (e3-chap-04.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-092,perceptible information,perceptible information,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-092,perceptible information,informasi yang dapat dipersepsi,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-093,persona,persona,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-094,pixel,pixel,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-094,pixel,pixels,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-094,pixel,piksel,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-095,pointer,pointer,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-095,pointer,pointers,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-095,pointer,penunjuk,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-096,principle,principle,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-096,principle,principles,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-096,principle,prinsip,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-097,problem solving,problem solving,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-097,problem solving,pemecahan masalah,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-098,prototype,prototype,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-098,prototype,prototypes,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-098,prototype,prototipe,materi ajar (e3-chap-05.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-099,prototyping,prototyping,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-099,prototyping,pembuatan prototipe,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-100,questionnaire,questionnaire,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-100,questionnaire,questionnaires,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-100,questionnaire,kuesioner,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-100,questionnaire,angket,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-101,RAM,RAM,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-101,RAM,memori akses acak,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-102,rapid prototyping,rapid prototyping,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-102,rapid prototyping,rapid prototyping tool,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-102,rapid prototyping,rapid prototyping tools,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-102,rapid prototyping,purwarupa cepat,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-103,recall,recall,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-103,recall,mengingat kembali,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-104,recognition,recognition,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-104,recognition,pengenalan,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-105,requirements,requirements,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-105,requirements,kebutuhan,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-106,resolution,resolution,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-106,resolution,resolusi,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-107,robustness,robustness,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-108,satisfaction,satisfaction,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-108,satisfaction,kepuasan,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-109,scanner,scanner,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-109,scanner,scanners,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-109,scanner,pemindai,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-110,scenario,scenario,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-110,scenario,scenarios,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-110,scenario,skenario,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-111,screen design,screen design,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-111,screen design,desain layar,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-112,screen reader,screen reader,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-112,screen reader,pembaca layar,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-113,semantic memory,semantic memory,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-113,semantic memory,semantic,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-113,semantic memory,memori semantik,materi ajar (e3-chap-08.pdf),2026-10-01
+IMK,IMK-114,sensory memory,sensory memory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-114,sensory memory,memori sensorik,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-115,short-term memory,short-term memory,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-115,short-term memory,STM,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-115,short-term memory,memori jangka pendek,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-115,short-term memory,memori kerja,materi ajar (e3-chap-01.pdf),2026-10-01
+IMK,IMK-116,sign language,sign language,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-116,sign language,bahasa isyarat,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-117,software life cycle,software life cycle,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-117,software life cycle,life cycle,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-117,software life cycle,siklus hidup perangkat lunak,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-118,speech recognition,speech recognition,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-118,speech recognition,pengenalan suara,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-118,speech recognition,pengenalan ucapan,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-119,speech synthesis,speech synthesis,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-119,speech synthesis,sintesis ucapan,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-119,speech synthesis,sintesis suara,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-120,spreadsheet,spreadsheet,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-120,spreadsheet,spreadsheets,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-120,spreadsheet,lembar kerja,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-121,standard,standard,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-121,standard,standards,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-121,standard,standar,materi ajar (e3-chap-07.pdf),2026-10-01
+IMK,IMK-122,storyboard,storyboard,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-123,System Usability Scale,System Usability Scale,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-123,System Usability Scale,SUS,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-123,System Usability Scale,skala kegunaan sistem,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-124,task,task,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-124,task,tasks,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-124,task,tugas,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-125,task analysis,task analysis,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-125,task analysis,analisis tugas,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-126,task completion rate,task completion rate,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-126,task completion rate,success rate,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-126,task completion rate,tingkat penyelesaian tugas,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-127,task completion time,task completion time,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-127,task completion time,time on task,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-127,task completion time,waktu penyelesaian tugas,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-128,think-aloud,think-aloud,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-128,think-aloud,think aloud,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-128,think-aloud,think-aloud protocol,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-128,think-aloud,pikir keras,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-129,time-sharing,time-sharing,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-129,time-sharing,timesharing,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-129,time-sharing,berbagi waktu,materi ajar (e3-chap-04.pdf),2026-10-01
+IMK,IMK-130,touchpad,touchpad,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-131,trackball,trackball,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-132,tutorial,tutorial,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-133,universal design,universal design,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-133,universal design,desain universal,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-134,usability,usability,materi ajar (e3-chap-06.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-135,usability engineering,usability engineering,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-135,usability engineering,rekayasa usability,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-136,usability specification,usability specification,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-136,usability specification,spesifikasi usability,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-137,usability testing,usability testing,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-137,usability testing,user testing,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-137,usability testing,pengujian usability,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-137,usability testing,uji usability,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-137,usability testing,pengujian kebergunaan,buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-138,user,user,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-138,user,users,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-138,user,pengguna,materi ajar (e3-chap-03.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-139,user experience,user experience,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-139,user experience,pengalaman pengguna,materi ajar (e3-chap-06.pdf),2026-10-01
+IMK,IMK-140,user interface,user interface,materi ajar (e3-chap-08.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-140,user interface,UI,materi ajar (e3-chap-08.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-140,user interface,antarmuka pengguna,materi ajar (e3-chap-08.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-141,user support,user support,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-141,user support,dukungan pengguna,materi ajar (e3-chap-11.pdf),2026-10-01
+IMK,IMK-142,virtual reality,virtual reality,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-142,virtual reality,VR,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-142,virtual reality,realitas virtual,materi ajar (e3-chap-02.pdf),2026-10-01
+IMK,IMK-143,vision,vision,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-143,vision,visual,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-143,vision,penglihatan,materi ajar (e3-chap-01.pdf); buku pedoman kurikulum 2024,2026-10-01
+IMK,IMK-144,visual impairment,visual impairment,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-144,visual impairment,gangguan penglihatan,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-144,visual impairment,tunanetra,materi ajar (e3-chap-10.pdf),2026-10-01
+IMK,IMK-145,white space,white space,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-145,white space,ruang kosong,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-146,widget,widget,materi ajar (e3-chap-05.pdf),2026-10-01
+IMK,IMK-147,WIMP,WIMP,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-148,window,window,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-148,window,windows,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-148,window,jendela,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-149,World Wide Web,World Wide Web,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-149,World Wide Web,web,materi ajar (e3-chap-03.pdf),2026-10-01
+IMK,IMK-150,WYSIWYG,WYSIWYG,materi ajar (e3-chap-02.pdf),2026-10-01

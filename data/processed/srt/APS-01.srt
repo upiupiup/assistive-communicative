@@ -1,0 +1,659 @@
+1
+00:00:02,000 --> 00:00:10,260
+Halo semuanya, saya Fida Mastrika dan dalam video tentang analisis dan desain sistem kali ini saya akan menjelaskan
+
+2
+00:00:10,260 --> 00:00:15,220
+apa yang dimaksud dengan analisis dan desain sistem.
+
+3
+00:00:15,840 --> 00:00:24,600
+Dalam dua video sebelumnya, saya sudah menjelaskan tentang apa itu sistem dan jenis-jenis tentang sistem informasi bisnis.
+
+4
+00:00:24,600 --> 00:00:32,480
+Kalau kalian belum nonton videonya, silakan klik link dari video-video tersebut dulu di dalam description box di bawah.
+
+5
+00:00:32,940 --> 00:00:36,640
+Kalau yang sudah nonton, ayo kita langsung ke materi kali ini.
+
+6
+00:00:53,880 --> 00:01:00,820
+Oke, kita masuk ke penjelasan tentang apa itu analisis dan desain dari sebuah sistem.
+
+7
+00:01:00,820 --> 00:01:05,200
+secara umum analisis dan desain sistem itu adalah
+
+8
+00:01:05,200 --> 00:01:12,900
+langkah-langkah atau proses untuk mengembangkan sistem informasi yang berkualitas
+
+9
+00:01:12,900 --> 00:01:18,820
+apa itu sistem informasi dan bagaimana jenis-jenis dari sistem informasi
+
+10
+00:01:18,820 --> 00:01:21,900
+sudah saya jelaskan di video saya sebelumnya
+
+11
+00:01:21,900 --> 00:01:26,400
+kalau kalian belum nonton silakan tonton video saya sebelumnya dulu ya
+
+12
+00:01:26,400 --> 00:01:35,160
+tujuannya adalah untuk menambah efisiensi operasi yang dilakukan oleh organisasi
+
+13
+00:01:35,160 --> 00:01:40,480
+dan mempermudah pengolahan informasi untuk pendukung keputusan
+
+14
+00:01:40,480 --> 00:01:44,300
+jadi disini ada kata kuncinya ya
+
+15
+00:01:44,300 --> 00:01:49,300
+ada membangun dan mengembangkan sistem informasi yang berkualitas
+
+16
+00:01:49,300 --> 00:01:53,300
+nah kita bayangkan disini ada sebuah perusahaan
+
+17
+00:01:53,300 --> 00:01:55,920
+perusahaannya itu atau sebuah badan ya
+
+18
+00:01:55,920 --> 00:02:00,140
+yang awalnya sudah mempunyai sebuah sistem
+
+19
+00:02:00,140 --> 00:02:05,360
+sistem itu ada dua, ada yang terkomputerisasi dan tidak terkomputerisasi
+
+20
+00:02:05,360 --> 00:02:12,720
+sistem informasi yang akan kita rancang dalam seri video analisis dan desain sistem ini adalah
+
+21
+00:02:12,720 --> 00:02:16,720
+sistem yang hampir semuanya terkomputerisasi
+
+22
+00:02:16,720 --> 00:02:21,120
+nah ini kenapa ada membangun atau mengembangkan
+
+23
+00:02:21,120 --> 00:02:26,400
+jadi sebuah badan tersebut pastinya sudah mempunyai sistem sebelumnya
+
+24
+00:02:26,400 --> 00:02:30,960
+sebelum kita membangun atau mengembangkan sistem yang baru
+
+25
+00:02:30,960 --> 00:02:38,660
+sistem yang sudah ada tersebut kita akan memindahkan
+
+26
+00:02:38,660 --> 00:02:43,960
+sesuatu yang dulunya dikerjakan tidak terkomputerisasi
+
+27
+00:02:43,960 --> 00:02:48,620
+atau sebagian terkomputerisasi ke dalam sebuah sistem informasi
+
+28
+00:02:48,620 --> 00:02:51,400
+yang hampir semuanya terkomputerisasi
+
+29
+00:02:51,400 --> 00:02:57,660
+nah itu adalah pokok dari materi dari analisis dan desain sistem
+
+30
+00:02:57,660 --> 00:03:02,620
+jadi dari yang tidak terkomputerisasi
+
+31
+00:03:02,620 --> 00:03:05,100
+atau hanya sebagian kecil terkomputerisasi
+
+32
+00:03:05,100 --> 00:03:11,000
+ke dalam sesuatu yang semuanya atau hampir semuanya terkomputerisasi
+
+33
+00:03:11,000 --> 00:03:15,720
+dan untuk mendesain sebuah sistem dan menganalisis sebuah sistem
+
+34
+00:03:15,720 --> 00:03:21,560
+kita jangan melupakan alur dari sistem yang sudah ada sebelumnya
+
+35
+00:03:21,560 --> 00:03:26,940
+oke, saya lanjutkan
+
+36
+00:03:26,940 --> 00:03:33,180
+dalam menganalisis dan mengembangkan sebuah sistem itu ada yang namanya
+
+37
+00:03:33,180 --> 00:03:36,120
+sistem development life cycle
+
+38
+00:03:36,120 --> 00:03:39,060
+yang namanya life cycle itu siklus
+
+39
+00:03:39,060 --> 00:03:44,220
+jadi dalam membangun atau mengembangkan sebuah sistem secara umum
+
+40
+00:03:44,220 --> 00:03:53,120
+Ini ada 5 tahapan yang paling pokok yang ada di setiap cara untuk membangun sebuah sistem
+
+41
+00:03:53,120 --> 00:03:57,560
+Kalau kalian cari di internet mungkin ada yang tahapannya lebih dari 5
+
+42
+00:03:57,560 --> 00:04:04,760
+Nah itu bisa saja, tapi yang 5 ini adalah yang paling pokok
+
+43
+00:04:04,760 --> 00:04:08,300
+Yang pertama itu ada planning atau perencanaan
+
+44
+00:04:08,300 --> 00:04:10,380
+Yang kedua ada analisis
+
+45
+00:04:10,380 --> 00:04:14,380
+yang ketiga ada design setelah itu ada implementasi
+
+46
+00:04:14,380 --> 00:04:17,220
+dan yang terakhir ada support
+
+47
+00:04:17,220 --> 00:04:24,000
+nah dalam series video analysis dan design system kita akan lebih banyak ke dua tahapan ini ya
+
+48
+00:04:24,000 --> 00:04:29,780
+oke berarti nggak ada coding ya karena codingnya ada di tahap implementation
+
+49
+00:04:29,780 --> 00:04:34,240
+jadi kita lebih banyak ke tahap analisis dan tahap design
+
+50
+00:04:34,240 --> 00:04:40,920
+Nah, analisis dan desain ini tergabung dalam sebuah sistem development life cycle
+
+51
+00:04:40,920 --> 00:04:46,140
+yang sebenarnya tidak terpisahkan dengan planning, implementation, dan support.
+
+52
+00:04:48,700 --> 00:04:52,140
+Selanjutnya, sistem planning.
+
+53
+00:04:52,320 --> 00:04:54,020
+Kita bahas dari awal dulu ya.
+
+54
+00:04:54,420 --> 00:04:58,880
+Sistem planning ini fokusnya adalah untuk mencari alasan
+
+55
+00:04:58,880 --> 00:05:02,320
+mengapa kalian membuat sebuah sistem.
+
+56
+00:05:02,320 --> 00:05:12,380
+Tentunya dalam perusahaan atau dalam badan yang kalian ingin buatkan sistem itu pasti ada permasalahan dulu ya di awal
+
+57
+00:05:12,380 --> 00:05:20,960
+Dan sistem kalian itu harus mempunyai tujuan untuk memperbaiki atau mengurangi beban dari permasalahan tersebut
+
+58
+00:05:20,960 --> 00:05:29,820
+Jadi jangan kalian yang mempunyai ide untuk membuat sebuah sistem tanpa tahu permasalahan sebenarnya
+
+59
+00:05:29,820 --> 00:05:35,460
+tapi kalian berangkatlah dari apa yang terjadi di perusahaan tersebut
+
+60
+00:05:35,460 --> 00:05:40,160
+dan kalian mencari apa yang bisa kalian bantu untuk selesaikan
+
+61
+00:05:40,160 --> 00:05:45,080
+dan fokusnya adalah bagaimana cara tim mengembangkan sistem ini
+
+62
+00:05:45,080 --> 00:05:48,660
+ini termasuk berapa lama waktu yang dibutuhkan
+
+63
+00:05:48,660 --> 00:05:55,200
+terus berapa banyak anggota timnya dan berapa biaya yang dibutuhkan
+
+64
+00:05:55,200 --> 00:05:59,080
+langkah-langkahnya secara umum adalah mengidentifikasi kesempatan
+
+65
+00:05:59,080 --> 00:06:04,140
+Di sini kalian cari tahu apa permasalahan dari perusahaan atau badan tersebut
+
+66
+00:06:04,140 --> 00:06:06,820
+Setelah itu menganalisa keuntungan
+
+67
+00:06:06,820 --> 00:06:09,280
+Kalau kalian adalah tim pengembang sistem
+
+68
+00:06:09,280 --> 00:06:13,380
+Tentunya tidak mau rugi setelah mengembangkan sistem
+
+69
+00:06:13,380 --> 00:06:16,620
+Malah tidak mendapatkan untung
+
+70
+00:06:16,620 --> 00:06:18,680
+Tapi kalian analisis dulu keuntungannya
+
+71
+00:06:18,680 --> 00:06:21,720
+Dengan bagaimana cara tim kalian mengerjakan
+
+72
+00:06:21,720 --> 00:06:23,580
+Berapa orang yang dipekerjakan
+
+73
+00:06:23,580 --> 00:06:25,540
+Berapa lama yang dibutuhkan
+
+74
+00:06:25,540 --> 00:06:29,980
+Setelah itu kalian menyusun rencana kerja
+
+75
+00:06:29,980 --> 00:06:38,340
+Setelah itu tugasnya dibagikan sesuai dengan jumlah anggota tim dan peran dari anggota tim tersebut
+
+76
+00:06:38,340 --> 00:06:41,820
+Nah itu termasuk dalam sistem planning
+
+77
+00:06:41,820 --> 00:06:46,220
+Selanjutnya sistem analisis, apa yang dikerjakan
+
+78
+00:06:46,220 --> 00:06:51,260
+Yang dikerjakan adalah membuat model logis dari sistem yang baru
+
+79
+00:06:51,260 --> 00:06:59,660
+sistem yang baru ini terkomputerisasi tapi tidak meninggalkan semua proses yang ada pada sistem lama
+
+80
+00:06:59,660 --> 00:07:06,620
+karena proses atau alur dari sistem lama itu tidak bisa semuanya kita tinggalkan
+
+81
+00:07:06,620 --> 00:07:16,460
+kalaupun perlu kita tinggalkan berarti alur dari sistem yang baru itu memang benar-benar bisa meningkatkan efisiensi dari pekerja
+
+82
+00:07:16,460 --> 00:07:20,040
+dari pegawai atau orang-orang yang ada dalam perusahaan tersebut
+
+83
+00:07:20,040 --> 00:07:26,560
+selanjutnya kita harus tahu siapa saja yang akan menggunakan sistem tersebut
+
+84
+00:07:26,560 --> 00:07:30,000
+dan apa saja yang dapat dilakukan oleh sistem
+
+85
+00:07:30,000 --> 00:07:33,980
+dan kapan dan di mana sistem ini dapat digunakan
+
+86
+00:07:33,980 --> 00:07:38,580
+kan ada juga sistem yang tidak bisa digunakan di tempat lain
+
+87
+00:07:38,580 --> 00:07:46,940
+misalnya sistem yang hanya bisa diakses di area gedung dari sebuah perusahaan
+
+88
+00:07:46,940 --> 00:07:51,660
+atau yang hanya dalam satu komputer stand alone misalnya ya
+
+89
+00:07:51,660 --> 00:07:55,200
+nah itu harus kalian tentukan dalam tahap analisis
+
+90
+00:07:55,200 --> 00:08:01,860
+langkah-langkahnya adalah mengumpulkan kebutuhan sistem atau sistem requirement
+
+91
+00:08:01,860 --> 00:08:08,260
+nah apa itu kebutuhan sistem atau sistem requirement ini akan saya jelaskan di video saya selanjutnya ya
+
+92
+00:08:08,260 --> 00:08:13,600
+oke selanjutnya sistem desain
+
+93
+00:08:13,600 --> 00:08:20,580
+Sistem desain fokusnya adalah untuk membuat model fisik yang sesuai dengan kebutuhan sistem atau sistem requirement.
+
+94
+00:08:20,920 --> 00:08:33,180
+Sebelumnya di analisis kita mendefinisikan sistem requirementnya apa, setelah itu saat kita mendesain kita membuat model yang sesuai dengan apa yang kita definisikan sebelumnya.
+
+95
+00:08:33,180 --> 00:08:46,240
+Dan pada saat ini kita mengidentifikasi bagaimana cara sistem ini bekerja nantinya, dan kita juga mendesain alur kerja sistem atau bisnis prosesnya seperti apa.
+
+96
+00:08:47,040 --> 00:08:56,180
+Langkah-langkahnya adalah kita bisa mendesain arsitektur sistem, kita juga bisa mendesain interface-nya nanti seperti apa.
+
+97
+00:08:56,180 --> 00:09:00,000
+selanjutnya, untuk sistem
+
+98
+00:09:00,000 --> 00:09:00,800
+implementation
+
+99
+00:09:00,800 --> 00:09:04,000
+fokusnya ini adalah penyampaian
+
+100
+00:09:04,000 --> 00:09:06,040
+dan support dari sistem
+
+101
+00:09:06,040 --> 00:09:07,780
+yang sudah terselesaikan
+
+102
+00:09:07,780 --> 00:09:09,540
+langkah-langkahnya
+
+103
+00:09:09,540 --> 00:09:12,020
+kita programming disini
+
+104
+00:09:12,020 --> 00:09:14,040
+kodenya
+
+105
+00:09:14,040 --> 00:09:15,800
+ditulis, setelah itu dites
+
+106
+00:09:15,800 --> 00:09:18,020
+dan didokumentasikan
+
+107
+00:09:18,020 --> 00:09:19,740
+dan sistem itu di install
+
+108
+00:09:19,740 --> 00:09:21,560
+di tempat yang seharusnya
+
+109
+00:09:21,560 --> 00:09:23,080
+dia bekerja
+
+110
+00:09:23,080 --> 00:09:25,940
+termasuk juga
+
+111
+00:09:25,940 --> 00:09:47,480
+Kita mengkonversi data sistem lama, misalnya tidak terkomputerisasi, terus kita pindahkan ke sistem yang terkomputerisasi, kita harus mengubah data yang dalam bentuk fisik sebelumnya itu kita ubah dalam data bentuk digital setelahnya kita mentraining dari user yang akan menggunakan sistem.
+
+112
+00:09:47,480 --> 00:09:59,780
+dan kita membantu perusahaan tersebut untuk mengadakan transisi atau perubahan dari sistem sebelumnya ke sistem yang baru.
+
+113
+00:10:00,440 --> 00:10:12,320
+Setelah itu ada evaluasi juga untuk kita menetapkan bahwa sistem itu apakah sudah berjalan dengan baik atau belum.
+
+114
+00:10:12,320 --> 00:10:17,680
+itu semua termasuk di dalam implementation
+
+115
+00:10:17,680 --> 00:10:21,580
+selanjutnya ada sistem support and security
+
+116
+00:10:21,580 --> 00:10:24,900
+jadi IT staff di sana, di perusahaan tersebut
+
+117
+00:10:24,900 --> 00:10:31,500
+memaintain, memelihara, dan juga misalnya memperbaiki
+
+118
+00:10:31,500 --> 00:10:37,160
+dan menjaga sistem yang sudah terinstal pada perusahaan tersebut
+
+119
+00:10:37,160 --> 00:10:55,480
+Maintenance itu termasuk membetulkan error atau misalnya ada kesalahan dan mengadaptasi sistem tersebut ke perubahan-perubahan yang terjadi di dalam lingkungan perusahaan.
+
+120
+00:10:55,480 --> 00:11:10,260
+Enhancement di sini artinya adalah untuk menambahkan new features atau fitur-fitur baru, apa yang bisa dikerjakan oleh sistem, dan keuntungan dari penggunaan sistem tersebut.
+
+121
+00:11:10,260 --> 00:11:22,140
+Security di sini menjaga sistem dari ancaman eksternal juga ancaman internal.
+
+122
+00:11:22,860 --> 00:11:29,360
+Misalnya seperti kebocoran data seperti itu ya, dan itu termasuk di sistem security.
+
+123
+00:11:30,280 --> 00:11:34,260
+Saya lanjutkan ke sistem analisis.
+
+124
+00:11:34,260 --> 00:11:36,340
+sistem analisis, disini
+
+125
+00:11:36,340 --> 00:11:38,200
+ada dua metode yang
+
+126
+00:11:38,200 --> 00:11:40,440
+bisa kalian gunakan untuk menganalisis
+
+127
+00:11:40,440 --> 00:11:41,640
+sebuah sistem
+
+128
+00:11:41,640 --> 00:11:44,100
+ada structured analysis dan
+
+129
+00:11:44,100 --> 00:11:45,920
+ada object oriented atau
+
+130
+00:11:45,920 --> 00:11:47,740
+OO analysis, ini
+
+131
+00:11:47,740 --> 00:11:50,300
+yang mana yang harus kalian pilih nanti
+
+132
+00:11:50,300 --> 00:11:51,740
+ini tergantung dari
+
+133
+00:11:51,740 --> 00:11:54,160
+jenis
+
+134
+00:11:54,160 --> 00:11:56,420
+pemrograman mana yang akan kalian gunakan
+
+135
+00:11:56,420 --> 00:11:58,120
+kalau kalian menggunakan structured
+
+136
+00:11:58,120 --> 00:11:59,880
+programming silahkan menggunakan
+
+137
+00:11:59,880 --> 00:12:02,080
+structured analysis, kalau kalian
+
+138
+00:12:02,080 --> 00:12:04,040
+menggunakan object oriented programming
+
+139
+00:12:04,040 --> 00:12:05,540
+silakan menggunakan
+
+140
+00:12:05,540 --> 00:12:07,360
+Object Oriented Analysis
+
+141
+00:12:07,360 --> 00:12:09,360
+dalam seri video ini
+
+142
+00:12:09,360 --> 00:12:11,240
+saya akan membahas tentang
+
+143
+00:12:11,240 --> 00:12:13,560
+Stock Chat Analysis terlebih dahulu
+
+144
+00:12:13,560 --> 00:12:15,060
+setelah itu baru
+
+145
+00:12:15,060 --> 00:12:16,860
+Object Oriented atau
+
+146
+00:12:16,860 --> 00:12:19,640
+OO Analysis di beberapa video
+
+147
+00:12:19,640 --> 00:12:20,520
+setelahnya
+
+148
+00:12:20,520 --> 00:12:25,060
+oke, bagaimana tentang materi hari ini
+
+149
+00:12:25,060 --> 00:12:26,940
+semoga bisa menambah
+
+150
+00:12:26,940 --> 00:12:28,620
+wawasan kalian dalam
+
+151
+00:12:28,620 --> 00:12:31,200
+mengertikan apa yang dimaksud
+
+152
+00:12:31,200 --> 00:12:32,880
+dengan analisis dan
+
+153
+00:12:32,880 --> 00:12:34,960
+design system dan siapa tim
+
+154
+00:12:34,960 --> 00:12:38,000
+yang tergabung dalam analisis dan desain sistem
+
+155
+00:12:38,000 --> 00:12:42,180
+nah materi yang saya gunakan untuk pembuatan video ini
+
+156
+00:12:42,180 --> 00:12:43,380
+ada beberapa ya
+
+157
+00:12:43,380 --> 00:12:46,420
+itu kalian bisa cek
+
+158
+00:12:46,420 --> 00:12:49,100
+dimana saya mendapatkan materi tersebut
+
+159
+00:12:49,100 --> 00:12:51,520
+dalam description box yang ada di bawah
+
+160
+00:12:51,520 --> 00:12:53,580
+ada buku yang saya gunakan
+
+161
+00:12:53,580 --> 00:12:56,660
+dan juga ada sumber dari internet yang saya gunakan
+
+162
+00:12:56,660 --> 00:12:58,420
+silakan kunjungi
+
+163
+00:12:58,420 --> 00:13:01,700
+atau silakan baca juga buku yang saya gunakan
+
+164
+00:13:01,700 --> 00:13:04,400
+dalam pembuatan video ini
+
+165
+00:13:04,400 --> 00:13:08,040
+Oke, sampai ketemu di video saya yang selanjutnya

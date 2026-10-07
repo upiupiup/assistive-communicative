@@ -1,0 +1,680 @@
+1
+00:00:03,120 --> 00:00:06,080
+Oke, Assalamualaikum warahmatullahi wabarakatuh
+
+2
+00:00:06,080 --> 00:00:09,440
+Bertemu lagi dengan saya, Hanas
+
+3
+00:00:09,440 --> 00:00:13,440
+Pada topik ketiga
+
+4
+00:00:13,440 --> 00:00:18,320
+Dari materi arsitektur dan organisasi komputer
+
+5
+00:00:18,320 --> 00:00:22,400
+Dengan materi processor structure and function
+
+6
+00:00:22,400 --> 00:00:24,980
+Bagian ke satu
+
+7
+00:00:24,980 --> 00:00:30,730
+Pada bab ini
+
+8
+00:00:30,730 --> 00:00:34,110
+Akan dijaparkan
+
+9
+00:00:34,110 --> 00:00:44,730
+Jadi pada video ini dijaparkan terkait arsitektur dan organisasi dari prosesor pada suatu komputer
+
+10
+00:00:44,730 --> 00:00:52,690
+Nah kemudian arsitektur dan organisasi yang akan dijelaskan di sini, di video ini
+
+11
+00:00:52,690 --> 00:00:56,470
+Ya ini organisasi prosesor itu sendiri
+
+12
+00:00:56,470 --> 00:00:59,330
+Dan organisasi register
+
+13
+00:00:59,330 --> 00:01:11,000
+Oke, kita masuk ke bagian inti dari video ini
+
+14
+00:01:11,000 --> 00:01:14,040
+Yaitu processor structure and function
+
+15
+00:01:14,040 --> 00:01:19,360
+Nah, dewasa ini sebuah sistem komputer
+
+16
+00:01:19,360 --> 00:01:21,660
+Ini terdiri dari CPU
+
+17
+00:01:21,660 --> 00:01:27,100
+Jadi hampir seluruh perangkat elektronik berbasis komputer
+
+18
+00:01:27,100 --> 00:01:29,300
+Yang memiliki CPU
+
+19
+00:01:29,300 --> 00:01:33,680
+dan memiliki sejumlah device controller
+
+20
+00:01:33,680 --> 00:01:40,120
+yang dihubungkan melalui bus yang menjadikan akses ke memori
+
+21
+00:01:40,120 --> 00:01:47,340
+seperti yang kita tahu bahwa struktur dari sistem perbasis komputer itu harus ada CPU
+
+22
+00:01:47,340 --> 00:01:57,140
+kemudian memori dan perangkat input output yang dihubungkan oleh sistem bus
+
+23
+00:01:57,140 --> 00:02:03,180
+Nah, setiap device controller ini bertugas mengatur perangkat spesifik
+
+24
+00:02:03,180 --> 00:02:10,820
+Misalkan disk drive, audio, display, atau perangkat lain yang terhubung pada sebuah sistem tersebut
+
+25
+00:02:10,820 --> 00:02:20,400
+Nah, CPU dan device controller dapat dijalankan atau mereka bisa bekerja dalam satu waktu secara bersamaan
+
+26
+00:02:20,400 --> 00:02:29,700
+Nah namun demikian dibutuhkan mekanisme sinkronisasi untuk mengatur akses ke memori
+
+27
+00:02:29,700 --> 00:02:37,400
+Bagaimana agar dia bisa cepat ditampilkan, bagaimana agar tidak bertabrakan, dan seterusnya
+
+28
+00:02:38,600 --> 00:02:48,780
+Nah jika kita ingat-ingat instruction cycle dari sebuah komputer seperti yang dijelaskan pada video sebelumnya
+
+29
+00:02:48,780 --> 00:03:00,920
+Ya, ini instruction cycle pada komputer ini mulai ada fetch, indirect, execute, kemudian fetch lagi, atau ada interrupt.
+
+30
+00:03:02,720 --> 00:03:14,260
+Nah, oke, oleh karena itu, pada sebuah processor organization, jadi pada sebuah CPU, oke, kita fokusnya di sini, pada video ini,
+
+31
+00:03:14,260 --> 00:03:19,320
+yakni mulai ALU, register, dan control unit
+
+32
+00:03:19,320 --> 00:03:25,420
+nah, pada video sebelumnya telah dijelaskan ALU ini siapa
+
+33
+00:03:25,420 --> 00:03:30,040
+alu ini adalah arithmetic and logic unit
+
+34
+00:03:30,040 --> 00:03:34,840
+dia bertugas membentuk fungsi pengolahan data komputer
+
+35
+00:03:34,840 --> 00:03:41,780
+jadi mulai kalkulasi, misalkan perjumlahan, penjumlahan, pembagian, pengurangan
+
+36
+00:03:41,780 --> 00:03:44,600
+Dan seterusnya misalkan N or not
+
+37
+00:03:44,600 --> 00:03:47,900
+Nah ini yang mengoperasikan adalah si ALU
+
+38
+00:03:47,900 --> 00:03:56,380
+Nah kemudian kontrol unit ini bertugas mengontrol operasi CPU secara keseluruhan
+
+39
+00:03:56,380 --> 00:04:02,280
+Dan mengontrol komputer sehingga terjadi sinkronisasi kerja antara komponen komputer
+
+40
+00:04:02,280 --> 00:04:04,680
+Mulai data keluar masuk
+
+41
+00:04:04,680 --> 00:04:08,620
+Yang dioperasikan alu ini siapa
+
+42
+00:04:08,620 --> 00:04:10,980
+Yang dioperasikan register ini siapa
+
+43
+00:04:10,980 --> 00:04:14,260
+Nah ini yang mengontrol adalah si kontrol unit
+
+44
+00:04:14,260 --> 00:04:16,600
+Nah alunya biar nggak bingung
+
+45
+00:04:16,600 --> 00:04:20,680
+Dia harus mengeksekusi apa, kerjanya seperti apa
+
+46
+00:04:20,680 --> 00:04:26,300
+Register juga kerjanya apa, kapan, dan apa yang dikerjakan
+
+47
+00:04:26,300 --> 00:04:29,340
+Itu yang mengontrol adalah kontrol unit
+
+48
+00:04:29,340 --> 00:04:33,180
+Hingga data yang keluar
+
+49
+00:04:33,180 --> 00:04:37,740
+Entah itu control bus, data bus, atau address bus
+
+50
+00:04:37,740 --> 00:04:42,600
+Oke, tentu saja disini ada yang mentranslasikan
+
+51
+00:04:42,600 --> 00:04:48,300
+Nah, yang mengatur kinerjanya ini adalah si control unit
+
+52
+00:04:48,300 --> 00:04:52,260
+Oke, nah kemudian register ini siapa?
+
+53
+00:04:53,080 --> 00:04:56,680
+Nah, register ini adalah media penyimpanan internal
+
+54
+00:04:56,680 --> 00:05:00,440
+Atau memori internal pada sebuah CPU
+
+55
+00:05:00,440 --> 00:05:07,140
+Yang digunakan pada saat proses pengolahan data
+
+56
+00:05:07,140 --> 00:05:14,270
+Nah, secara internal, struktur internal
+
+57
+00:05:14,270 --> 00:05:20,690
+Jadi di dalamnya CPU ini juga ada yang namanya bus
+
+58
+00:05:20,690 --> 00:05:31,510
+Nah, bus ini dia dipergunakan untuk berkomunikasi antara register, control unit, dan CPU itu sendiri
+
+59
+00:05:31,510 --> 00:05:33,290
+ALU itu sendiri, sorry
+
+60
+00:05:33,290 --> 00:05:33,990
+ALU
+
+61
+00:05:33,990 --> 00:05:38,010
+Nah, pada sebuah ALU ini ada status flag
+
+62
+00:05:38,010 --> 00:05:42,330
+Kemudian shifter untuk shift bit
+
+63
+00:05:42,330 --> 00:05:44,670
+Misalkan shift register atau dan lain-lain
+
+64
+00:05:44,670 --> 00:05:46,830
+Atau complement
+
+65
+00:05:46,830 --> 00:05:50,250
+Komplement bilangan yang dioperasikan
+
+66
+00:05:50,250 --> 00:05:55,030
+Kemudian ada bagian besarnya untuk eksekusi operasi
+
+67
+00:05:55,030 --> 00:06:01,070
+Yakni Arithmetic and Boolean Logic
+
+68
+00:06:01,070 --> 00:06:03,770
+Jadi Arithmetic and Boolean Logic
+
+69
+00:06:03,770 --> 00:06:07,650
+Oke, mereka ini saling berkomunikasi
+
+70
+00:06:07,650 --> 00:06:11,190
+Nah, kemudian ada yang namanya Control Paths
+
+71
+00:06:11,190 --> 00:06:19,010
+Ya, kontrol pad ini untuk mengontrol mulai internal bus, register, dan alu
+
+72
+00:06:19,010 --> 00:06:26,790
+Jadi, si kontrol unit ini mengontrol komponen-komponen pada CPU ini melalui kontrol pad
+
+73
+00:06:26,790 --> 00:06:36,400
+Oke, nah, kemudian kita berkenalan lebih lanjut dengan register
+
+74
+00:06:36,400 --> 00:06:40,820
+User Visible Register yang pertama
+
+75
+00:06:40,820 --> 00:06:43,600
+Register ini memungkinkan programmer
+
+76
+00:06:43,600 --> 00:06:46,300
+Bahasa mesin, programmer
+
+77
+00:06:46,300 --> 00:06:50,400
+Assembler, bahasa assembler istilahnya
+
+78
+00:06:50,400 --> 00:06:53,060
+Ini bahasa assembler dan bahasa mesin
+
+79
+00:06:53,060 --> 00:06:56,960
+Ini bagaimana meminimalkan referensi main memory
+
+80
+00:06:56,960 --> 00:07:00,600
+Dengan mengoptimalkan penggunaan register
+
+81
+00:07:00,600 --> 00:07:06,240
+Nah, di dalamnya CPU ada register apa saja
+
+82
+00:07:06,240 --> 00:07:14,400
+Yang user visible register atau register yang bisa dilihat oleh user dengan baik
+
+83
+00:07:14,400 --> 00:07:17,060
+Yang pertama adalah general purpose
+
+84
+00:07:17,060 --> 00:07:20,180
+Jadi general purpose register
+
+85
+00:07:20,180 --> 00:07:27,500
+General purpose register ini digunakan untuk berbagai fungsi oleh programmer
+
+86
+00:07:27,500 --> 00:07:32,900
+Sehingga bisa lebih fleksibel dan membuat instruksi lebih cepat di proses
+
+87
+00:07:32,900 --> 00:07:36,620
+Yang kedua adalah data register
+
+88
+00:07:36,620 --> 00:07:42,620
+Data register ini hanya dapat dipakai untuk menampung data
+
+89
+00:07:42,620 --> 00:07:45,840
+Jadi menampung saja
+
+90
+00:07:45,840 --> 00:07:48,640
+Dan tidak dapat digunakan untuk kalkulasi
+
+91
+00:07:48,640 --> 00:07:50,880
+Jadi untuk menyimpan sementara
+
+92
+00:07:50,880 --> 00:07:54,340
+Kemudian register address
+
+93
+00:07:54,340 --> 00:07:58,560
+Register address ini mirip general purpose
+
+94
+00:07:58,560 --> 00:08:03,280
+Namun dipakai untuk menyimpan alamat
+
+95
+00:08:03,280 --> 00:08:05,340
+Alamat data itu
+
+96
+00:08:05,340 --> 00:08:09,040
+Alamat data yang diolah oleh CPU
+
+97
+00:08:09,040 --> 00:08:14,740
+Kemudian ada register condition codes
+
+98
+00:08:14,740 --> 00:08:17,680
+Biasanya di set per bit
+
+99
+00:08:17,680 --> 00:08:22,220
+Nah condition codes ini merupakan kode dengan kondisinya
+
+100
+00:08:22,220 --> 00:08:25,960
+Yang sudah diperhubungkan pada instruksi program
+
+101
+00:08:25,960 --> 00:08:35,520
+Oke, condition code ini bentuknya juga bahasa assembler dalam bentuk bahasa mesin sih lebih tepatnya
+
+102
+00:08:35,520 --> 00:08:38,400
+Dalam bentuk hexadecimal
+
+103
+00:08:38,400 --> 00:08:41,800
+Oke, itu user visible register
+
+104
+00:08:41,800 --> 00:08:47,200
+Yang kedua adalah control dan status register
+
+105
+00:08:47,200 --> 00:08:53,580
+Oke, register ini dipergunakan oleh unit control untuk mengontrol operasi CPU
+
+106
+00:08:53,580 --> 00:08:57,580
+Dan oleh program sistem operasi untuk mengontrol eksekusi program
+
+107
+00:08:57,580 --> 00:09:00,320
+Oke, mohon maaf, ini ada kesalahan ya
+
+108
+00:09:00,320 --> 00:09:02,840
+Harusnya ini kontrol dan status register
+
+109
+00:09:02,840 --> 00:09:09,220
+Nah, kontrol dan status register ini terdiri dari yang pertama program counter
+
+110
+00:09:09,220 --> 00:09:12,480
+Atau pencacah program
+
+111
+00:09:12,480 --> 00:09:16,020
+Ini berisi alamat instruksi yang akan diambil
+
+112
+00:09:16,020 --> 00:09:21,600
+Jadi counter misalkan ada pada langkah ke satu
+
+113
+00:09:21,600 --> 00:09:24,780
+Maka counternya akan menghitung ke satu
+
+114
+00:09:24,780 --> 00:09:25,960
+Kemudian langkah kedua
+
+115
+00:09:25,960 --> 00:09:28,880
+Counternya juga akan increment ke dua
+
+116
+00:09:28,880 --> 00:09:29,800
+Dan seterusnya
+
+117
+00:09:29,800 --> 00:09:33,020
+Kemudian yang kedua adalah
+
+118
+00:09:33,020 --> 00:09:34,500
+Instruction register
+
+119
+00:09:34,500 --> 00:09:36,980
+Yakni berisi instruksi
+
+120
+00:09:36,980 --> 00:09:38,620
+Yang terakhir diambil
+
+121
+00:09:38,620 --> 00:09:40,660
+Jadi di memori
+
+122
+00:09:40,660 --> 00:09:42,640
+Tadi ada sekumpulan
+
+123
+00:09:42,640 --> 00:09:44,020
+Banyak instruksi
+
+124
+00:09:44,020 --> 00:09:47,080
+ee data ini
+
+125
+00:09:47,080 --> 00:09:48,740
+Mau diolah dengan instruksi apa
+
+126
+00:09:48,740 --> 00:09:50,520
+Instruksi apa ini
+
+127
+00:09:50,520 --> 00:09:51,920
+Tadi misalkan instruksi X
+
+128
+00:09:51,920 --> 00:09:56,220
+Instruksi X diambil dan disimpan ke IR
+
+129
+00:09:56,220 --> 00:09:57,660
+Instruction Register
+
+130
+00:09:57,660 --> 00:10:03,000
+Nah, yang akan dilakukan eksekusi oleh CPU ini
+
+131
+00:10:03,000 --> 00:10:06,280
+Dia yang tersimpan di Instruction Register
+
+132
+00:10:06,280 --> 00:10:11,880
+Nah, kemudian yang kedua ada Memory Address
+
+133
+00:10:11,880 --> 00:10:14,200
+Yang ketiga dan keempat
+
+134
+00:10:14,200 --> 00:10:17,920
+Ini adalah Memory Address dan Buffer Register
+
+135
+00:10:17,920 --> 00:10:22,940
+Oke, yang address ini berisi alamat sebuah lokasi dalam memori
+
+136
+00:10:22,940 --> 00:10:27,260
+Jadi data itu tadi ada pada memori nomor berapa
+
+137
+00:10:27,260 --> 00:10:31,100
+Nah, itu disimpan oleh MAR
+
+138
+00:10:31,100 --> 00:10:36,720
+Nah, memori buffer register itu isinya alamat memori itu apa ya?
+
+139
+00:10:36,720 --> 00:10:41,580
+Yang mentranslasikan atau menyimpan ini adalah memori buffer register
+
+140
+00:10:41,580 --> 00:10:45,380
+Ya, jadi kalau ada sebuah data yang mau diolah
+
+141
+00:10:45,380 --> 00:10:48,920
+Diolahnya itu pada langkah keberapa
+
+142
+00:10:48,920 --> 00:10:51,560
+Nah ini oleh program counter
+
+143
+00:10:51,560 --> 00:10:55,460
+Nah kemudian diolah dengan instruksi apa
+
+144
+00:10:55,460 --> 00:10:58,680
+Nah instruksinya tadi yang nyimpen IR
+
+145
+00:10:58,680 --> 00:10:59,680
+Instruction Register
+
+146
+00:10:59,680 --> 00:11:04,060
+Oke data ini tadi di memori keberapa
+
+147
+00:11:04,060 --> 00:11:06,300
+Nah yang nyimpen MAR
+
+148
+00:11:06,300 --> 00:11:09,160
+Kemudian data ini isinya apa
+
+149
+00:11:09,160 --> 00:11:11,320
+Data ini siapa
+
+150
+00:11:11,320 --> 00:11:13,520
+Nah ini yang nyimpen si MBR
+
+151
+00:11:13,520 --> 00:11:16,040
+atau memory buffer register
+
+152
+00:11:16,040 --> 00:11:17,620
+ya oke
+
+153
+00:11:17,620 --> 00:11:19,360
+itu kontrol dan status
+
+154
+00:11:19,360 --> 00:11:20,980
+register
+
+155
+00:11:20,980 --> 00:11:22,880
+nah
+
+156
+00:11:22,880 --> 00:11:26,100
+ya kita sampai di penghujung
+
+157
+00:11:26,100 --> 00:11:27,640
+video ini
+
+158
+00:11:27,640 --> 00:11:29,560
+ya bahwa disini tadi telah
+
+159
+00:11:29,560 --> 00:11:32,060
+dijelaskan organisasi prosesor
+
+160
+00:11:32,060 --> 00:11:33,340
+mulai dari alu
+
+161
+00:11:33,340 --> 00:11:35,620
+control unit, register
+
+162
+00:11:35,620 --> 00:11:37,800
+kemudian di bus sendiri
+
+163
+00:11:37,800 --> 00:11:39,160
+ada data address dan control
+
+164
+00:11:39,160 --> 00:11:41,980
+serta mekanisme
+
+165
+00:11:41,980 --> 00:11:43,020
+komunikasinya
+
+166
+00:11:43,020 --> 00:11:54,240
+Nah, serta register organization, bahwa ada user visible register, ini yang bisa dibaca oleh user dan bisa diprogram.
+
+167
+00:11:54,380 --> 00:12:03,520
+Nah, namun ada yang tidak bisa dibaca ataupun diotak-atik oleh user secara langsung, yakni kontrol dan status register.
+
+168
+00:12:03,520 --> 00:12:10,620
+Terima kasih atas perhatiannya
+
+169
+00:12:10,620 --> 00:12:14,620
+Sampai ketemu lagi di kesempatan yang lain
+
+170
+00:12:14,620 --> 00:12:18,220
+Wassalamualaikum warahmatullahi wabarakatuh
+

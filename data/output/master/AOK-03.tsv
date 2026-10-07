@@ -1,0 +1,171 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+AOK-03	AOK		1	3.120	6.080	2.960	Oke, Assalamualaikum warahmatullahi wabarakatuh	Oke, Assalamualaikum warahmatullahi wabarakatuh		
+AOK-03	AOK		2	6.080	9.440	3.360	Bertemu lagi dengan saya, Hanas	Bertemu lagi dengan saya, Hanas		
+AOK-03	AOK		3	9.440	13.440	4.000	Pada topik ketiga	Pada topik ketiga		
+AOK-03	AOK		4	13.440	18.320	4.880	Dari materi arsitektur dan organisasi komputer	Dari materi arsitektur dan organisasi komputer		
+AOK-03	AOK		5	18.320	22.400	4.080	Dengan materi prosesor structure and function	Dengan materi processor structure and function		
+AOK-03	AOK		6	22.400	24.980	2.580	Bagian ke satu	Bagian ke satu		
+AOK-03	AOK		7	24.980	30.730	5.750	Pada bab ini	Pada bab ini		
+AOK-03	AOK		8	30.730	34.110	3.380	Akan dijaparkan	Akan dijaparkan		
+AOK-03	AOK		9	34.110	44.730	10.620	Jadi pada video ini dijaparkan terkait arsitektur dan organisasi dari prosesor pada suatu komputer	Jadi pada video ini dijaparkan terkait arsitektur dan organisasi dari prosesor pada suatu komputer		
+AOK-03	AOK		10	44.730	52.690	7.960	Nah kemudian arsitektur dan organisasi yang akan dijelaskan di sini, di video ini	Nah kemudian arsitektur dan organisasi yang akan dijelaskan di sini, di video ini		
+AOK-03	AOK		11	52.690	56.470	3.780	Ya ini organisasi prosesor itu sendiri	Ya ini organisasi prosesor itu sendiri		
+AOK-03	AOK		12	56.470	59.330	2.860	Dan organisasi register	Dan organisasi register		
+AOK-03	AOK		13	59.330	71.000	11.670	Oke, kita masuk ke bagian inti dari video ini	Oke, kita masuk ke bagian inti dari video ini		
+AOK-03	AOK		14	71.000	74.040	3.040	Yaitu prosesor structure and function	Yaitu processor structure and function		
+AOK-03	AOK		15	74.040	79.360	5.320	Nah, dewasa ini sebuah sistem komputer	Nah, dewasa ini sebuah sistem komputer		
+AOK-03	AOK		16	79.360	81.660	2.300	Ini terdiri dari CPU	Ini terdiri dari CPU		
+AOK-03	AOK		17	81.660	87.100	5.440	Jadi hampir seluruh perangkat elektronik berbasis komputer	Jadi hampir seluruh perangkat elektronik berbasis komputer		
+AOK-03	AOK		18	87.100	89.300	2.200	Yang memiliki CPU	Yang memiliki CPU		
+AOK-03	AOK		19	89.300	93.680	4.380	dan memiliki sejumlah device controller	dan memiliki sejumlah device controller		
+AOK-03	AOK		20	93.680	100.120	6.440	yang dihubungkan melalui bus yang menjadikan akses ke memori	yang dihubungkan melalui bus yang menjadikan akses ke memori		
+AOK-03	AOK		21	100.120	107.340	7.220	seperti yang kita tahu bahwa struktur dari sistem perbasis komputer itu harus ada CPU	seperti yang kita tahu bahwa struktur dari sistem perbasis komputer itu harus ada CPU		
+AOK-03	AOK		22	107.340	117.140	9.800	kemudian memori dan perangkat input output yang dihubungkan oleh sistem bus	kemudian memori dan perangkat input output yang dihubungkan oleh sistem bus		
+AOK-03	AOK		23	117.140	123.180	6.040	Nah, setiap device controller ini bertugas mengatur perangkat spesifik	Nah, setiap device controller ini bertugas mengatur perangkat spesifik		
+AOK-03	AOK		24	123.180	130.820	7.640	Misalkan disk drive, audio, display, atau perangkat lain yang terhubung pada sebuah sistem tersebut	Misalkan disk drive, audio, display, atau perangkat lain yang terhubung pada sebuah sistem tersebut		
+AOK-03	AOK		25	130.820	140.400	9.580	Nah, CPU dan device controller dapat dijalankan atau mereka bisa bekerja dalam satu waktu secara bersamaan	Nah, CPU dan device controller dapat dijalankan atau mereka bisa bekerja dalam satu waktu secara bersamaan		
+AOK-03	AOK		26	140.400	149.700	9.300	Nah namun demikian dibutuhkan mekanisme sinkronisasi untuk mengatur akses ke memori	Nah namun demikian dibutuhkan mekanisme sinkronisasi untuk mengatur akses ke memori		
+AOK-03	AOK		27	149.700	157.400	7.700	Bagaimana agar dia bisa cepat ditampilkan, bagaimana agar tidak bertabrakan, dan seterusnya	Bagaimana agar dia bisa cepat ditampilkan, bagaimana agar tidak bertabrakan, dan seterusnya		
+AOK-03	AOK		28	158.600	168.780	10.180	Nah jika kita ingat-ingat instruction cycle dari sebuah komputer seperti yang dijelaskan pada video sebelumnya	Nah jika kita ingat-ingat instruction cycle dari sebuah komputer seperti yang dijelaskan pada video sebelumnya		
+AOK-03	AOK		29	168.780	180.920	12.140	Ya, ini instruction cycle pada komputer ini mulai ada fetch, indirect, execute, kemudian fetch lagi, atau ada interim.	Ya, ini instruction cycle pada komputer ini mulai ada fetch, indirect, execute, kemudian fetch lagi, atau ada interrupt.		
+AOK-03	AOK		30	182.720	194.260	11.540	Nah, oke, oleh karena itu, pada sebuah processor organization, jadi pada sebuah CPU, oke, kita fokusnya di sini, pada video ini,	Nah, oke, oleh karena itu, pada sebuah processor organization, jadi pada sebuah CPU, oke, kita fokusnya di sini, pada video ini,		
+AOK-03	AOK		31	194.260	199.320	5.060	yakni mulai alu, register, dan control unit	yakni mulai ALU, register, dan control unit		
+AOK-03	AOK		32	199.320	205.420	6.100	nah, pada video sebelumnya telah dijelaskan alu ini siapa	nah, pada video sebelumnya telah dijelaskan ALU ini siapa		
+AOK-03	AOK		33	205.420	210.040	4.620	alu ini adalah arithmetic and logic unit	alu ini adalah arithmetic and logic unit		
+AOK-03	AOK		34	210.040	214.840	4.800	dia bertugas membentuk fungsi pengolahan data komputer	dia bertugas membentuk fungsi pengolahan data komputer		
+AOK-03	AOK		35	214.840	221.780	6.940	jadi mulai kalkulasi, misalkan perjumlahan, penjumlahan, pembagian, pengurangan	jadi mulai kalkulasi, misalkan perjumlahan, penjumlahan, pembagian, pengurangan		
+AOK-03	AOK		36	221.780	224.600	2.820	Dan seterusnya misalkan N or not	Dan seterusnya misalkan N or not		
+AOK-03	AOK		37	224.600	227.900	3.300	Nah ini yang mengoperasikan adalah si alu	Nah ini yang mengoperasikan adalah si ALU		
+AOK-03	AOK		38	227.900	236.380	8.480	Nah kemudian kontrol unit ini bertugas mengontrol operasi CPU secara keseluruhan	Nah kemudian kontrol unit ini bertugas mengontrol operasi CPU secara keseluruhan		
+AOK-03	AOK		39	236.380	242.280	5.900	Dan mengontrol komputer sehingga terjadi sinkronisasi kerja antara komponen komputer	Dan mengontrol komputer sehingga terjadi sinkronisasi kerja antara komponen komputer		
+AOK-03	AOK		40	242.280	244.680	2.400	Mulai data keluar masuk	Mulai data keluar masuk		
+AOK-03	AOK		41	244.680	248.620	3.940	Yang dioperasikan alu ini siapa	Yang dioperasikan alu ini siapa		
+AOK-03	AOK		42	248.620	250.980	2.360	Yang dioperasikan register ini siapa	Yang dioperasikan register ini siapa		
+AOK-03	AOK		43	250.980	254.260	3.280	Nah ini yang mengontrol adalah si kontrol unit	Nah ini yang mengontrol adalah si kontrol unit		
+AOK-03	AOK		44	254.260	256.600	2.340	Nah alunya biar nggak bingung	Nah alunya biar nggak bingung		
+AOK-03	AOK		45	256.600	260.680	4.080	Dia harus mengeksekusi apa, kerjanya seperti apa	Dia harus mengeksekusi apa, kerjanya seperti apa		
+AOK-03	AOK		46	260.680	266.300	5.620	Register juga kerjanya apa, kapan, dan apa yang dikerjakan	Register juga kerjanya apa, kapan, dan apa yang dikerjakan		
+AOK-03	AOK		47	266.300	269.340	3.040	Itu yang mengontrol adalah kontrol unit	Itu yang mengontrol adalah kontrol unit		
+AOK-03	AOK		48	269.340	273.180	3.840	Hingga data yang keluar	Hingga data yang keluar		
+AOK-03	AOK		49	273.180	277.740	4.560	Entah itu kontrol bus, data bus, atau adres bus	Entah itu control bus, data bus, atau address bus		
+AOK-03	AOK		50	277.740	282.600	4.860	Oke, tentu saja disini ada yang mentranslasikan	Oke, tentu saja disini ada yang mentranslasikan		
+AOK-03	AOK		51	282.600	288.300	5.700	Nah, yang mengatur kinerjanya ini adalah si control unit	Nah, yang mengatur kinerjanya ini adalah si control unit		
+AOK-03	AOK		52	288.300	292.260	3.960	Oke, nah kemudian register ini siapa?	Oke, nah kemudian register ini siapa?		
+AOK-03	AOK		53	293.080	296.680	3.600	Nah, register ini adalah media penyimpanan internal	Nah, register ini adalah media penyimpanan internal		
+AOK-03	AOK		54	296.680	300.440	3.760	Atau memori internal pada sebuah CPU	Atau memori internal pada sebuah CPU		
+AOK-03	AOK		55	300.440	307.140	6.700	Yang digunakan pada saat proses pengolahan data	Yang digunakan pada saat proses pengolahan data		
+AOK-03	AOK		56	307.140	314.270	7.130	Nah, secara internal, struktur internal	Nah, secara internal, struktur internal		
+AOK-03	AOK		57	314.270	320.690	6.420	Jadi di dalamnya CPU ini juga ada yang namanya bus	Jadi di dalamnya CPU ini juga ada yang namanya bus		
+AOK-03	AOK		58	320.690	331.510	10.820	Nah, bus ini dia dipergunakan untuk berkomunikasi antara register, control unit, dan CPU itu sendiri	Nah, bus ini dia dipergunakan untuk berkomunikasi antara register, control unit, dan CPU itu sendiri		
+AOK-03	AOK		59	331.510	333.290	1.780	ALU itu sendiri, sorry	ALU itu sendiri, sorry		
+AOK-03	AOK		60	333.290	333.990	0.700	ALU	ALU		
+AOK-03	AOK		61	333.990	338.010	4.020	Nah, pada sebuah ALU ini ada status flag	Nah, pada sebuah ALU ini ada status flag		
+AOK-03	AOK		62	338.010	342.330	4.320	Kemudian shifter untuk shift bit	Kemudian shifter untuk shift bit		
+AOK-03	AOK		63	342.330	344.670	2.340	Misalkan shift register atau dan lain-lain	Misalkan shift register atau dan lain-lain		
+AOK-03	AOK		64	344.670	346.830	2.160	Atau komplement	Atau complement		
+AOK-03	AOK		65	346.830	350.250	3.420	Komplement bilangan yang dioperasikan	Komplement bilangan yang dioperasikan		
+AOK-03	AOK		66	350.250	355.030	4.780	Kemudian ada bagian besarnya untuk eksekusi operasi	Kemudian ada bagian besarnya untuk eksekusi operasi		
+AOK-03	AOK		67	355.030	361.070	6.040	Yakni aritmetik and bolehan logik	Yakni Arithmetic and Boolean Logic		
+AOK-03	AOK		68	361.070	363.770	2.700	Jadi aritmetik and bolehan logik	Jadi Arithmetic and Boolean Logic		
+AOK-03	AOK		69	363.770	367.650	3.880	Oke, mereka ini saling berkomunikasi	Oke, mereka ini saling berkomunikasi		
+AOK-03	AOK		70	367.650	371.190	3.540	Nah, kemudian ada yang namanya kontrol pad	Nah, kemudian ada yang namanya Control Paths		
+AOK-03	AOK		71	371.190	379.010	7.820	Ya, kontrol pad ini untuk mengontrol mulai internal bus, register, dan alu	Ya, kontrol pad ini untuk mengontrol mulai internal bus, register, dan alu		
+AOK-03	AOK		72	379.010	386.790	7.780	Jadi, si kontrol unit ini mengontrol komponen-komponen pada CPU ini melalui kontrol pad	Jadi, si kontrol unit ini mengontrol komponen-komponen pada CPU ini melalui kontrol pad		
+AOK-03	AOK		73	386.790	396.400	9.610	Oke, nah, kemudian kita berkenalan lebih lanjut dengan register	Oke, nah, kemudian kita berkenalan lebih lanjut dengan register		
+AOK-03	AOK		74	396.400	400.820	4.420	User Visible Register yang pertama	User Visible Register yang pertama		
+AOK-03	AOK		75	400.820	403.600	2.780	Register ini memungkinkan programmer	Register ini memungkinkan programmer		
+AOK-03	AOK		76	403.600	406.300	2.700	Bahasa mesin, programmer	Bahasa mesin, programmer		
+AOK-03	AOK		77	406.300	410.400	4.100	Assembler, bahasa assembler istilahnya	Assembler, bahasa assembler istilahnya		
+AOK-03	AOK		78	410.400	413.060	2.660	Ini bahasa assembler dan bahasa mesin	Ini bahasa assembler dan bahasa mesin		
+AOK-03	AOK		79	413.060	416.960	3.900	Ini bagaimana meminimalkan referensi main memory	Ini bagaimana meminimalkan referensi main memory		
+AOK-03	AOK		80	416.960	420.600	3.640	Dengan mengoptimalkan penggunaan register	Dengan mengoptimalkan penggunaan register		
+AOK-03	AOK		81	420.600	426.240	5.640	Nah, di dalamnya CPU ada register apa saja	Nah, di dalamnya CPU ada register apa saja		
+AOK-03	AOK		82	426.240	434.400	8.160	Yang user visible register atau register yang bisa dilihat oleh user dengan baik	Yang user visible register atau register yang bisa dilihat oleh user dengan baik		
+AOK-03	AOK		83	434.400	437.060	2.660	Yang pertama adalah general purpose	Yang pertama adalah general purpose		
+AOK-03	AOK		84	437.060	440.180	3.120	Jadi general purpose register	Jadi general purpose register		
+AOK-03	AOK		85	440.180	447.500	7.320	General purpose register ini digunakan untuk berbagai fungsi oleh programmer	General purpose register ini digunakan untuk berbagai fungsi oleh programmer		
+AOK-03	AOK		86	447.500	452.900	5.400	Sehingga bisa lebih fleksibel dan membuat instruksi lebih cepat di proses	Sehingga bisa lebih fleksibel dan membuat instruksi lebih cepat di proses		
+AOK-03	AOK		87	452.900	456.620	3.720	Yang kedua adalah data register	Yang kedua adalah data register		
+AOK-03	AOK		88	456.620	462.620	6.000	Data register ini hanya dapat dipakai untuk menampung data	Data register ini hanya dapat dipakai untuk menampung data		
+AOK-03	AOK		89	462.620	465.840	3.220	Jadi menampung saja	Jadi menampung saja		
+AOK-03	AOK		90	465.840	468.640	2.800	Dan tidak dapat digunakan untuk kalkulasi	Dan tidak dapat digunakan untuk kalkulasi		
+AOK-03	AOK		91	468.640	470.880	2.240	Jadi untuk menyimpan sementara	Jadi untuk menyimpan sementara		
+AOK-03	AOK		92	470.880	474.340	3.460	Kemudian register address	Kemudian register address		
+AOK-03	AOK		93	474.340	478.560	4.220	Register address ini mirip general purpose	Register address ini mirip general purpose		
+AOK-03	AOK		94	478.560	483.280	4.720	Namun dipakai untuk menyimpan alamat	Namun dipakai untuk menyimpan alamat		
+AOK-03	AOK		95	483.280	485.340	2.060	Alamat data itu	Alamat data itu		
+AOK-03	AOK		96	485.340	489.040	3.700	Alamat data yang diolah oleh CPU	Alamat data yang diolah oleh CPU		
+AOK-03	AOK		97	489.040	494.740	5.700	Kemudian ada register condition codes	Kemudian ada register condition codes		
+AOK-03	AOK		98	494.740	497.680	2.940	Biasanya di set per bit	Biasanya di set per bit		
+AOK-03	AOK		99	497.680	502.220	4.540	Nah condition codes ini merupakan kode dengan kondisinya	Nah condition codes ini merupakan kode dengan kondisinya		
+AOK-03	AOK		100	502.220	505.960	3.740	Yang sudah diperhubungkan pada instruksi program	Yang sudah diperhubungkan pada instruksi program		
+AOK-03	AOK		101	505.960	515.520	9.560	Oke, condition code ini bentuknya juga bahasa assembler dalam bentuk bahasa mesin sih lebih tepatnya	Oke, condition code ini bentuknya juga bahasa assembler dalam bentuk bahasa mesin sih lebih tepatnya		
+AOK-03	AOK		102	515.520	518.400	2.880	Dalam bentuk hexadecimal	Dalam bentuk hexadecimal		
+AOK-03	AOK		103	518.400	521.800	3.400	Oke, itu user visible register	Oke, itu user visible register		
+AOK-03	AOK		104	521.800	527.200	5.400	Yang kedua adalah control dan status register	Yang kedua adalah control dan status register		
+AOK-03	AOK		105	527.200	533.580	6.380	Oke, register ini dipergunakan oleh unit control untuk mengontrol operasi CPU	Oke, register ini dipergunakan oleh unit control untuk mengontrol operasi CPU		
+AOK-03	AOK		106	533.580	537.580	4.000	Dan oleh program sistem operasi untuk mengontrol eksekusi program	Dan oleh program sistem operasi untuk mengontrol eksekusi program		
+AOK-03	AOK		107	537.580	540.320	2.740	Oke, mohon maaf, ini ada kesalahan ya	Oke, mohon maaf, ini ada kesalahan ya		
+AOK-03	AOK		108	540.320	542.840	2.520	Harusnya ini kontrol dan status register	Harusnya ini kontrol dan status register		
+AOK-03	AOK		109	542.840	549.220	6.380	Nah, kontrol dan status register ini terdiri dari yang pertama program counter	Nah, kontrol dan status register ini terdiri dari yang pertama program counter		
+AOK-03	AOK		110	549.220	552.480	3.260	Atau pencacah program	Atau pencacah program		
+AOK-03	AOK		111	552.480	556.020	3.540	Ini berisi alamat instruksi yang akan diambil	Ini berisi alamat instruksi yang akan diambil		
+AOK-03	AOK		112	556.020	561.600	5.580	Jadi counter misalkan ada pada langkah ke satu	Jadi counter misalkan ada pada langkah ke satu		
+AOK-03	AOK		113	561.600	564.780	3.180	Maka counternya akan menghitung ke satu	Maka counternya akan menghitung ke satu		
+AOK-03	AOK		114	564.780	565.960	1.180	Kemudian langkah kedua	Kemudian langkah kedua		
+AOK-03	AOK		115	565.960	568.880	2.920	Counternya juga akan increment ke dua	Counternya juga akan increment ke dua		
+AOK-03	AOK		116	568.880	569.800	0.920	Dan seterusnya	Dan seterusnya		
+AOK-03	AOK		117	569.800	573.020	3.220	Kemudian yang kedua adalah	Kemudian yang kedua adalah		
+AOK-03	AOK		118	573.020	574.500	1.480	Instruction register	Instruction register		
+AOK-03	AOK		119	574.500	576.980	2.480	Yakni berisi instruksi	Yakni berisi instruksi		
+AOK-03	AOK		120	576.980	578.620	1.640	Yang terakhir diambil	Yang terakhir diambil		
+AOK-03	AOK		121	578.620	580.660	2.040	Jadi di memori	Jadi di memori		
+AOK-03	AOK		122	580.660	582.640	1.980	Tadi ada sekumpulan	Tadi ada sekumpulan		
+AOK-03	AOK		123	582.640	584.020	1.380	Banyak instruksi	Banyak instruksi		
+AOK-03	AOK		124	584.020	587.080	3.060	Data ini	ee data ini		
+AOK-03	AOK		125	587.080	588.740	1.660	Mau diolah dengan instruksi apa	Mau diolah dengan instruksi apa		
+AOK-03	AOK		126	588.740	590.520	1.780	Instruksi apa ini	Instruksi apa ini		
+AOK-03	AOK		127	590.520	591.920	1.400	Tadi misalkan instruksi X	Tadi misalkan instruksi X		
+AOK-03	AOK		128	591.920	596.220	4.300	Instruksi X diambil dan disimpan ke IR	Instruksi X diambil dan disimpan ke IR		
+AOK-03	AOK		129	596.220	597.660	1.440	Instruction Register	Instruction Register		
+AOK-03	AOK		130	597.660	603.000	5.340	Nah, yang akan dilakukan eksekusi oleh CPU ini	Nah, yang akan dilakukan eksekusi oleh CPU ini		
+AOK-03	AOK		131	603.000	606.280	3.280	Dia yang tersimpan di Instruction Register	Dia yang tersimpan di Instruction Register		
+AOK-03	AOK		132	606.280	611.880	5.600	Nah, kemudian yang kedua ada Memory Address	Nah, kemudian yang kedua ada Memory Address		
+AOK-03	AOK		133	611.880	614.200	2.320	Yang ketiga dan keempat	Yang ketiga dan keempat		
+AOK-03	AOK		134	614.200	617.920	3.720	Ini adalah Memory Address dan Buffer Register	Ini adalah Memory Address dan Buffer Register		
+AOK-03	AOK		135	617.920	622.940	5.020	Oke, yang address ini berisi alamat sebuah lokasi dalam memori	Oke, yang address ini berisi alamat sebuah lokasi dalam memori		
+AOK-03	AOK		136	622.940	627.260	4.320	Jadi data itu tadi ada pada memori nomor berapa	Jadi data itu tadi ada pada memori nomor berapa		
+AOK-03	AOK		137	627.260	631.100	3.840	Nah, itu disimpan oleh MAR	Nah, itu disimpan oleh MAR		
+AOK-03	AOK		138	631.100	636.720	5.620	Nah, memori buffer register itu isinya alamat memori itu apa ya?	Nah, memori buffer register itu isinya alamat memori itu apa ya?		
+AOK-03	AOK		139	636.720	641.580	4.860	Yang mentranslasikan atau menyimpan ini adalah memori buffer register	Yang mentranslasikan atau menyimpan ini adalah memori buffer register		
+AOK-03	AOK		140	641.580	645.380	3.800	Ya, jadi kalau ada sebuah data yang mau diolah	Ya, jadi kalau ada sebuah data yang mau diolah		
+AOK-03	AOK		141	645.380	648.920	3.540	Diolahnya itu pada langkah keberapa	Diolahnya itu pada langkah keberapa		
+AOK-03	AOK		142	648.920	651.560	2.640	Nah ini oleh program counter	Nah ini oleh program counter		
+AOK-03	AOK		143	651.560	655.460	3.900	Nah kemudian diolah dengan instruksi apa	Nah kemudian diolah dengan instruksi apa		
+AOK-03	AOK		144	655.460	658.680	3.220	Nah instruksinya tadi yang nyimpen IR	Nah instruksinya tadi yang nyimpen IR		
+AOK-03	AOK		145	658.680	659.680	1.000	Instruction Register	Instruction Register		
+AOK-03	AOK		146	659.680	664.060	4.380	Oke data ini tadi di memori keberapa	Oke data ini tadi di memori keberapa		
+AOK-03	AOK		147	664.060	666.300	2.240	Nah yang nyimpen MAR	Nah yang nyimpen MAR		
+AOK-03	AOK		148	666.300	669.160	2.860	Kemudian data ini isinya apa	Kemudian data ini isinya apa		
+AOK-03	AOK		149	669.160	671.320	2.160	Data ini siapa	Data ini siapa		
+AOK-03	AOK		150	671.320	673.520	2.200	Nah ini yang nyimpen si MPR	Nah ini yang nyimpen si MBR		
+AOK-03	AOK		151	673.520	676.040	2.520	atau memory buffer register	atau memory buffer register		
+AOK-03	AOK		152	676.040	677.620	1.580	ya oke	ya oke		
+AOK-03	AOK		153	677.620	679.360	1.740	itu kontrol dan status	itu kontrol dan status		
+AOK-03	AOK		154	679.360	680.980	1.620	register	register		
+AOK-03	AOK		155	680.980	682.880	1.900	nah	nah		
+AOK-03	AOK		156	682.880	686.100	3.220	ya kita sampai di penghujung	ya kita sampai di penghujung		
+AOK-03	AOK		157	686.100	687.640	1.540	video ini	video ini		
+AOK-03	AOK		158	687.640	689.560	1.920	ya bahwa disini tadi telah	ya bahwa disini tadi telah		
+AOK-03	AOK		159	689.560	692.060	2.500	dijelaskan organisasi prosesor	dijelaskan organisasi prosesor		
+AOK-03	AOK		160	692.060	693.340	1.280	mulai dari alu	mulai dari alu		
+AOK-03	AOK		161	693.340	695.620	2.280	control unit, register	control unit, register		
+AOK-03	AOK		162	695.620	697.800	2.180	kemudian di bus sendiri	kemudian di bus sendiri		
+AOK-03	AOK		163	697.800	699.160	1.360	ada data address dan control	ada data address dan control		
+AOK-03	AOK		164	699.160	701.980	2.820	serta mekanisme	serta mekanisme		
+AOK-03	AOK		165	701.980	703.020	1.040	komunikasinya	komunikasinya		
+AOK-03	AOK		166	703.020	714.240	11.220	Nah, serta register organization, bahwa ada user visible register, ini yang bisa dibaca oleh user dan bisa diprogram.	Nah, serta register organization, bahwa ada user visible register, ini yang bisa dibaca oleh user dan bisa diprogram.		
+AOK-03	AOK		167	714.380	723.520	9.140	Nah, namun ada yang tidak bisa dibaca ataupun diotak-atik oleh user secara langsung, yakni kontrol dan status register.	Nah, namun ada yang tidak bisa dibaca ataupun diotak-atik oleh user secara langsung, yakni kontrol dan status register.		
+AOK-03	AOK		168	723.520	730.620	7.100	Terima kasih atas perhatiannya	Terima kasih atas perhatiannya		
+AOK-03	AOK		169	730.620	734.620	4.000	Sampai ketemu lagi di kesempatan yang lain	Sampai ketemu lagi di kesempatan yang lain		
+AOK-03	AOK		170	734.620	738.220	3.600	Wassalamualaikum warahmatullahi wabarakatuh	Wassalamualaikum warahmatullahi wabarakatuh		

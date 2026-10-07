@@ -1,0 +1,1769 @@
+mata_kuliah,entri_id,bentuk_kanonik,bentuk_permukaan,frekuensi_bentuk,frekuensi_entri,file_terbanyak
+AOK,AOK-001,access time,access time,3,15,BAB 4 - Cache memory.pdf
+AOK,AOK-001,access time,waktu akses,12,15,BAB 4 - Cache memory.pdf
+AOK,AOK-002,accumulator,accumulator,9,10,Bab 11 - ISA Addressing.pdf
+AOK,AOK-002,accumulator,akumulator,1,10,Bab 11 - ISA Addressing.pdf
+AOK,AOK-003,addressing mode,addressing mode,2,22,Bab 11 - ISA Addressing.pdf
+AOK,AOK-003,addressing mode,addressing modes,9,22,Bab 11 - ISA Addressing.pdf
+AOK,AOK-003,addressing mode,mode pengalamatan,11,22,Bab 11 - ISA Addressing.pdf
+AOK,AOK-004,ALU,ALU,36,40,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-004,ALU,unit aritmatika dan logika,0,40,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-005,amdahl's law,amdahl's law,0,0,
+AOK,AOK-005,amdahl's law,hukum amdahl,0,0,
+AOK,AOK-006,ARM,ARM,42,42,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-007,arsitektur komputer,arsitektur komputer,2,46,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-007,arsitektur komputer,arsitektur,43,46,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-008,associative mapping,associative mapping,1,6,BAB 4 - Cache memory.pdf
+AOK,AOK-008,associative mapping,pemetaan asosiatif,4,6,BAB 4 - Cache memory.pdf
+AOK,AOK-009,benchmark,benchmark,0,0,
+AOK,AOK-009,benchmark,benchmarking,0,0,
+AOK,AOK-010,binary,binary,18,51,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-010,binary,biner,25,51,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-010,binary,bilangan biner,8,51,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-011,bit,bit,137,185,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-011,bit,bits,48,185,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-012,boolean function,boolean function,0,7,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-012,boolean function,fungsi boolean,3,7,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-012,boolean function,boolean,4,7,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-013,branch,branch,16,21,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-013,branch,percabangan,4,21,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-014,buffer,buffer,23,28,BAB 5 - Internal Memory.pdf
+AOK,AOK-014,buffer,buffering,5,28,BAB 5 - Internal Memory.pdf
+AOK,AOK-015,bus,bus,56,61,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-015,bus,bus sistem,3,61,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-016,byte,byte,40,47,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-016,byte,bytes,7,47,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-017,cache,cache,279,300,BAB 4 - Cache memory.pdf
+AOK,AOK-017,cache,caches,8,300,BAB 4 - Cache memory.pdf
+AOK,AOK-017,cache,cache memory,8,300,BAB 4 - Cache memory.pdf
+AOK,AOK-017,cache,memori cache,5,300,BAB 4 - Cache memory.pdf
+AOK,AOK-018,cache coherence,cache coherence,0,15,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-018,cache coherence,koherensi cache,15,15,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-019,cache line,cache line,4,13,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-019,cache line,baris cache,9,13,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-020,chip,chip,53,54,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-021,CISC,CISC,14,17,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-021,CISC,complex instruction set computers,3,17,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-022,clock,clock,4,9,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-022,clock,clock cycle,3,9,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-022,clock,frekuensi clock,1,9,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-023,cloud computing,cloud computing,8,15,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-023,cloud computing,komputasi awan,7,15,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-024,cluster,cluster,13,22,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-024,cluster,kluster,7,22,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-025,combinational circuit,combinational circuit,0,5,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-025,combinational circuit,rangkaian kombinasional,5,5,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-026,computer arithmetic,computer arithmetic,0,21,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-026,computer arithmetic,aritmatika komputer,1,21,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-026,computer arithmetic,aritmatika,17,21,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-026,computer arithmetic,arithmetic,3,21,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-027,control unit,control unit,15,25,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-027,control unit,CU,6,25,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-027,control unit,unit kontrol,4,25,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-028,core,core,47,59,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-028,core,cores,12,59,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-029,CPI,CPI,0,0,
+AOK,AOK-029,CPI,cycles per instruction,0,0,
+AOK,AOK-029,CPI,cycle per instruction,0,0,
+AOK,AOK-029,CPI,siklus per instruksi,0,0,
+AOK,AOK-030,CPU,CPU,119,122,BAB 7 - Input Output.pdf
+AOK,AOK-030,CPU,central processing unit,3,122,BAB 7 - Input Output.pdf
+AOK,AOK-031,data bus,data bus,3,9,Bab 2 - Performance Issues and Top Level View of Computer Function.pdf
+AOK,AOK-031,data bus,bus data,6,9,Bab 2 - Performance Issues and Top Level View of Computer Function.pdf
+AOK,AOK-032,data transfer,data transfer,0,13,BAB 7 - Input Output.pdf
+AOK,AOK-032,data transfer,transfer data,13,13,BAB 7 - Input Output.pdf
+AOK,AOK-033,DDR SDRAM,DDR SDRAM,2,10,BAB 5 - Internal Memory.pdf
+AOK,AOK-033,DDR SDRAM,DDR-DRAM,3,10,BAB 5 - Internal Memory.pdf
+AOK,AOK-033,DDR SDRAM,DDR,4,10,BAB 5 - Internal Memory.pdf
+AOK,AOK-034,decoder,decoder,6,9,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-034,decoder,dekoder,2,9,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-035,device controller,device controller,3,7,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-035,device controller,pengontrol I/O,1,7,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-035,device controller,I/O controller,3,7,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-036,digital logic,digital logic,0,4,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-036,digital logic,logika digital,4,4,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-036,digital logic,digital system,0,4,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-036,digital logic,sistem digital,0,4,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-037,direct mapping,direct mapping,3,6,BAB 4 - Cache memory.pdf
+AOK,AOK-037,direct mapping,pemetaan langsung,2,6,BAB 4 - Cache memory.pdf
+AOK,AOK-038,disk,disk,78,90,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-038,disk,disks,7,90,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-038,disk,harddisk,3,90,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-039,displacement addressing,displacement addressing,3,11,Bab 11 - ISA Addressing.pdf
+AOK,AOK-039,displacement addressing,displacement,8,11,Bab 11 - ISA Addressing.pdf
+AOK,AOK-040,DMA,DMA,13,16,BAB 7 - Input Output.pdf
+AOK,AOK-040,DMA,direct memory access,3,16,BAB 7 - Input Output.pdf
+AOK,AOK-040,DMA,akses memori langsung,0,16,BAB 7 - Input Output.pdf
+AOK,AOK-041,DRAM,DRAM,22,25,BAB 5 - Internal Memory.pdf
+AOK,AOK-041,DRAM,RAM dinamis,2,25,BAB 5 - Internal Memory.pdf
+AOK,AOK-042,EEPROM,EEPROM,5,6,BAB 5 - Internal Memory.pdf
+AOK,AOK-043,elemen penyimpanan,elemen penyimpanan,0,0,
+AOK,AOK-043,elemen penyimpanan,storage element,0,0,
+AOK,AOK-044,embedded system,embedded system,10,11,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-044,embedded system,sistem tertanam,0,11,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-045,error correction,error correction,5,10,BAB 5 - Internal Memory.pdf
+AOK,AOK-045,error correction,koreksi kesalahan,3,10,BAB 5 - Internal Memory.pdf
+AOK,AOK-046,exponent,exponent,29,33,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-046,exponent,eksponen,4,33,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-047,external memory,external memory,1,7,BAB 4 - Cache memory.pdf
+AOK,AOK-047,external memory,memori eksternal,6,7,BAB 4 - Cache memory.pdf
+AOK,AOK-048,fetch,fetch,21,31,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-048,fetch,instruction fetch,9,31,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-049,fixed point,fixed point,7,7,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-050,flash memory,flash memory,9,15,BAB 5 - Internal Memory.pdf
+AOK,AOK-050,flash memory,memori flash,2,15,BAB 5 - Internal Memory.pdf
+AOK,AOK-050,flash memory,flash,4,15,BAB 5 - Internal Memory.pdf
+AOK,AOK-051,flip-flop,flip-flop,9,9,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-052,floating point,floating point,33,37,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-052,floating point,bilangan floating point,4,37,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-053,GPU,GPU,10,11,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-053,GPU,unit pemrosesan grafis,1,11,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-054,I/O,I/O,108,115,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-054,I/O,input/output,6,115,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-054,I/O,input-output,1,115,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-055,I/O module,I/O module,5,49,BAB 7 - Input Output.pdf
+AOK,AOK-055,I/O module,modul I/O,44,49,BAB 7 - Input Output.pdf
+AOK,AOK-056,IEEE 754,IEEE 754,7,7,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-057,immediate addressing,immediate addressing,2,11,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-057,immediate addressing,immediate,9,11,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-058,indikator kinerja,indikator kinerja,0,0,
+AOK,AOK-058,indikator kinerja,performance indicator,0,0,
+AOK,AOK-059,indirect addressing,indirect addressing,3,6,Bab 11 - ISA Addressing.pdf
+AOK,AOK-059,indirect addressing,pengalamatan tidak langsung,3,6,Bab 11 - ISA Addressing.pdf
+AOK,AOK-060,instruction,instruction,71,280,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-060,instruction,instructions,20,280,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-060,instruction,instruksi,189,280,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-061,instruction cycle,instruction cycle,6,9,Bab 2 - Performance Issues and Top Level View of Computer Function.pdf
+AOK,AOK-061,instruction cycle,siklus instruksi,3,9,Bab 2 - Performance Issues and Top Level View of Computer Function.pdf
+AOK,AOK-062,instruction format,instruction format,7,18,Bab 11 - ISA Addressing.pdf
+AOK,AOK-062,instruction format,format instruksi,11,18,Bab 11 - ISA Addressing.pdf
+AOK,AOK-063,instruction level parallelism,instruction level parallelism,4,7,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-063,instruction level parallelism,paralelisme tingkat instruksi,1,7,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-064,instruction set,instruction set,2,22,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-064,instruction set,set instruksi,16,22,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-064,instruction set,kumpulan instruksi,4,22,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-065,integer,integer,35,39,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-065,integer,bilangan bulat,4,39,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-066,integrated circuit,integrated circuit,2,10,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-066,integrated circuit,IC,8,10,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-066,integrated circuit,sirkuit terpadu,0,10,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-067,interconnection,interconnection,9,16,Bab 2 - Performance Issues and Top Level View of Computer Function.pdf
+AOK,AOK-067,interconnection,interkoneksi,5,16,Bab 2 - Performance Issues and Top Level View of Computer Function.pdf
+AOK,AOK-068,interface,interface,13,26,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-068,interface,interfacing,0,26,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-068,interface,antarmuka,13,26,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-069,internal memory,internal memory,1,8,BAB 4 - Cache memory.pdf
+AOK,AOK-069,internal memory,memori internal,7,8,BAB 4 - Cache memory.pdf
+AOK,AOK-070,interrupt,interrupt,23,71,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-070,interrupt,interrupts,6,71,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-070,interrupt,interupsi,41,71,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-071,interrupt handler,interrupt handler,7,7,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-072,IoT,IoT,5,6,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-073,ISA,ISA,6,15,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-073,ISA,instruction set architecture,5,15,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-073,ISA,arsitektur set instruksi,4,15,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-074,logic gate,logic gate,0,19,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-074,logic gate,gerbang logika,2,19,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-074,logic gate,gate,9,19,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-074,logic gate,gerbang,8,19,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-075,machine instruction,machine instruction,2,17,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-075,machine instruction,instruksi mesin,15,17,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-076,main memory,main memory,50,96,BAB 4 - Cache memory.pdf
+AOK,AOK-076,main memory,memori utama,46,96,BAB 4 - Cache memory.pdf
+AOK,AOK-077,mainframe,mainframe,9,9,BAB 4 - Cache memory.pdf
+AOK,AOK-078,MAR,MAR,5,7,BAB 5 - Internal Memory.pdf
+AOK,AOK-079,MBR,MBR,6,8,BAB 5 - Internal Memory.pdf
+AOK,AOK-080,memori,memori,178,280,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-080,memori,memory,102,280,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-081,memory cell,memory cell,5,10,BAB 5 - Internal Memory.pdf
+AOK,AOK-081,memory cell,sel memori,5,10,BAB 5 - Internal Memory.pdf
+AOK,AOK-082,memory management,memory management,2,12,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-082,memory management,manajemen memori,10,12,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-083,MESI,MESI,5,11,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-083,MESI,protokol MESI,4,11,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-084,microcontroller,microcontroller,0,6,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-084,microcontroller,mikrokontroler,6,6,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-085,microprocessor,microprocessor,9,18,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-085,microprocessor,mikroprosesor,9,18,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-086,MIPS,MIPS,9,9,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-087,MMU,MMU,6,8,BAB 4 - Cache memory.pdf
+AOK,AOK-088,MSB,MSB,5,6,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-089,multicore,multicore,13,16,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-089,multicore,prosesor multicore,2,16,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-090,multiplexer,multiplexer,3,4,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-091,multiprocessor,multiprocessor,2,12,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-091,multiprocessor,multiprosesor,10,12,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-092,multiprogramming,multiprogramming,13,13,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-093,multithreading,multithreading,16,17,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-094,NAND,NAND,6,6,BAB 5 - Internal Memory.pdf
+AOK,AOK-095,nonvolatile,nonvolatile,9,9,BAB 5 - Internal Memory.pdf
+AOK,AOK-096,normalization,normalization,0,8,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-096,normalization,normalisasi,8,8,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-097,NUMA,NUMA,14,14,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-098,opcode,opcode,11,14,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-098,opcode,kode operasi,1,14,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-099,operand,operand,77,89,Bab 11 - ISA Addressing.pdf
+AOK,AOK-099,operand,operands,5,89,Bab 11 - ISA Addressing.pdf
+AOK,AOK-099,operand,operan,7,89,Bab 11 - ISA Addressing.pdf
+AOK,AOK-100,operating system,operating system,26,71,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-100,operating system,sistem operasi,24,71,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-100,operating system,OS,21,71,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-101,organisasi komputer,organisasi komputer,0,47,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-101,organisasi komputer,organisasi,47,47,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-102,out-of-order,out-of-order,7,7,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-103,page table,page table,12,15,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-103,page table,tabel halaman,3,15,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-104,paging,paging,9,9,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-105,parity,parity,1,9,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-105,parity,paritas,8,9,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-106,peripheral,peripheral,15,21,BAB 7 - Input Output.pdf
+AOK,AOK-106,peripheral,periferal,1,21,BAB 7 - Input Output.pdf
+AOK,AOK-106,peripheral,perangkat periferal,1,21,BAB 7 - Input Output.pdf
+AOK,AOK-106,peripheral,piranti peripheral,4,21,BAB 7 - Input Output.pdf
+AOK,AOK-107,physical address,physical address,10,16,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-107,physical address,alamat fisik,6,16,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-108,pipeline,pipeline,55,68,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-108,pipeline,pipelining,6,68,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-108,pipeline,pipelines,4,68,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-108,pipeline,saluran pipa,1,68,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-108,pipeline,pipa instruksi,2,68,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-109,program counter,program counter,9,10,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-109,program counter,pencacah program,1,10,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-110,programmed I/O,programmed I/O,7,7,BAB 7 - Input Output.pdf
+AOK,AOK-111,prosesor,prosesor,132,212,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-111,prosesor,processor,70,212,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-111,prosesor,processors,10,212,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-112,RAID,RAID,17,18,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-113,RAM,RAM,8,9,BAB 5 - Internal Memory.pdf
+AOK,AOK-114,random access,random access,2,6,BAB 4 - Cache memory.pdf
+AOK,AOK-114,random access,akses acak,4,6,BAB 4 - Cache memory.pdf
+AOK,AOK-115,register,register,147,176,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-115,register,registers,29,176,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-116,register addressing,register addressing,4,6,Bab 11 - ISA Addressing.pdf
+AOK,AOK-116,register addressing,pengalamatan register,2,6,Bab 11 - ISA Addressing.pdf
+AOK,AOK-117,register file,register file,13,15,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-118,register indirect addressing,register indirect addressing,3,7,Bab 11 - ISA Addressing.pdf
+AOK,AOK-118,register indirect addressing,pengalamatan register tidak langsung,4,7,Bab 11 - ISA Addressing.pdf
+AOK,AOK-119,RISC,RISC,26,29,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-119,RISC,reduced instruction set computers,3,29,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-120,ROM,ROM,10,16,BAB 5 - Internal Memory.pdf
+AOK,AOK-120,ROM,read only memory,6,16,BAB 5 - Internal Memory.pdf
+AOK,AOK-121,scheduling,scheduling,7,17,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-121,scheduling,penjadwalan,10,17,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-122,scientific notation,scientific notation,0,6,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-122,scientific notation,notasi ilmiah,6,6,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-123,sector,sector,9,9,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-124,segmentation,segmentation,0,7,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-124,segmentation,segmentasi,7,7,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-125,semiconductor memory,semiconductor memory,1,10,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-125,semiconductor memory,memori semikonduktor,9,10,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-126,sign bit,sign bit,11,12,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-126,sign bit,bit tanda,1,12,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-127,significand,significand,35,36,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-128,SIMD,SIMD,11,12,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-129,simultaneous multithreading,simultaneous multithreading,2,8,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-129,simultaneous multithreading,SMT,6,8,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-130,SMP,SMP,14,17,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-131,source operand,source operand,7,7,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-132,SPARC,SPARC,12,12,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-133,SRAM,SRAM,8,11,BAB 5 - Internal Memory.pdf
+AOK,AOK-133,SRAM,RAM statis,2,11,BAB 5 - Internal Memory.pdf
+AOK,AOK-134,SSD,SSD,11,12,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-135,stack,stack,18,18,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-136,superpipeline,superpipeline,5,6,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-137,superscalar,superscalar,32,33,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-137,superscalar,superskalar,1,33,Bab 13 - ILP and Superscalar.pdf
+AOK,AOK-138,tag,tag,34,37,BAB 4 - Cache memory.pdf
+AOK,AOK-138,tag,tags,3,37,BAB 4 - Cache memory.pdf
+AOK,AOK-139,thread,thread,15,29,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-139,thread,utas,11,29,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-140,TLB,TLB,18,20,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-141,track,track,15,15,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-142,transfer rate,transfer rate,2,8,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-142,transfer rate,kecepatan transfer,6,8,BAB 6 - Memori Eksternal.pdf
+AOK,AOK-143,transistor,transistor,9,9,Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf
+AOK,AOK-144,two's complement,two's complement,2,11,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-144,two's complement,twos complement,8,11,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-144,two's complement,komplemen dua,1,11,FIX Bab 9 - Aritmatika Komputer.pdf
+AOK,AOK-145,virtual address,virtual address,9,18,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-145,virtual address,alamat virtual,9,18,BAB 15 - RISC. CISC1.pdf
+AOK,AOK-146,virtual memory,virtual memory,1,14,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-146,virtual memory,memori virtual,13,14,BAB 8 - Dukungan Sistem Operasi.pdf
+AOK,AOK-147,volatile,volatile,3,6,BAB 4 - Cache memory.pdf
+AOK,AOK-147,volatile,mudah menguap,3,6,BAB 4 - Cache memory.pdf
+AOK,AOK-148,word,word,36,45,BAB 4 - Cache memory.pdf
+AOK,AOK-148,word,words,9,45,BAB 4 - Cache memory.pdf
+AOK,AOK-149,write back,write back,9,9,BAB 17 Parallel Processing Multicore.pdf
+AOK,AOK-150,x86,x86,17,28,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+AOK,AOK-150,x86,intel x86,11,28,FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf
+APS,APS-001,abstract class,abstract class,0,1,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-001,abstract class,kelas abstrak,0,1,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-001,abstract class,klas abstrak,1,1,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-002,abstraksi,abstraksi,4,9,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-002,abstraksi,abstraction,5,9,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-003,acceptance criteria,acceptance criteria,1,1,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-004,acceptance testing,acceptance testing,0,0,
+APS,APS-004,acceptance testing,pengujian penerimaan,0,0,
+APS,APS-005,activity diagram,activity diagram,1,1,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-006,actor,actor,4,18,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-006,actor,aktor,13,18,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-007,actor generalization,actor generalization,1,9,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-007,actor generalization,super-actor,4,9,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-007,actor generalization,sub-actors,4,9,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-008,adaptability,adaptability,4,4,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-009,aggregation,aggregation,7,12,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-009,aggregation,agregasi,5,12,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-010,algoritme,algoritme,2,3,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-010,algoritme,algoritma,1,3,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-011,alternative flow,alternative flow,0,5,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-011,alternative flow,aliran alternatif,3,5,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-012,ambiguity,ambiguity,1,5,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-012,ambiguity,ambigu,2,5,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-013,analisis,analisis,24,29,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-013,analisis,analysis,5,29,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-014,API,API,2,3,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-015,association,association,7,8,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-015,association,asosiasi,1,8,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-016,atribut,atribut,28,39,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-016,atribut,attribute,4,39,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-016,atribut,attributes,7,39,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-017,behavioral,behavioral,12,12,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-018,bespoke software,bespoke software,0,2,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-019,black-box testing,black-box testing,0,0,
+APS,APS-019,black-box testing,black box testing,0,0,
+APS,APS-019,black-box testing,pengujian black-box,0,0,
+APS,APS-020,boilerplate,boilerplate,1,3,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-021,boundary class,boundary class,0,6,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-021,boundary class,boundary,5,6,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-022,CASE tool,CASE tool,1,3,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-022,CASE tool,alat bantu CASE,0,3,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-023,class diagram,class diagram,17,17,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-023,class diagram,diagram kelas,0,17,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-023,class diagram,diagram klas,0,17,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-024,class stereotype,class stereotype,0,3,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-024,class stereotype,class stereotypes,3,3,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-025,combined fragment,combined fragment,0,2,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-026,command language,command language,1,2,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-027,component diagram,component diagram,1,1,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-028,composition,composition,8,10,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-028,composition,komposisi,2,10,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-029,consistency,consistency,3,6,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-029,consistency,konsistensi,3,6,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-030,constraint,constraint,14,27,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-030,constraint,constraints,6,27,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-030,constraint,batasan,7,27,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-031,constructor,constructor,2,3,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-031,constructor,konstruktor,1,3,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-032,control class,control class,0,1,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-033,CRC cards,CRC cards,1,1,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-034,creational,creational,4,4,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-035,data flow diagram,data flow diagram,1,3,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-036,data warehouse,data warehouse,2,5,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-037,database,database,3,3,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-037,database,basis data,0,3,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-038,design pattern,design pattern,3,5,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-038,design pattern,pola perancangan,2,5,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-038,design pattern,pola desain,0,5,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-039,diagram,diagram,16,19,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-039,diagram,diagrams,3,19,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-040,diagrammatic model,diagrammatic model,0,2,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-041,direct manipulation,direct manipulation,2,2,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-042,ECB,ECB,3,3,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-043,elisitasi,elisitasi,9,12,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-043,elisitasi,elisitasi kebutuhan,2,12,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-044,entity class,entity class,0,13,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-044,entity class,entity,12,13,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-045,entity relationship diagram,entity relationship diagram,1,4,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-046,error message,error message,4,6,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-046,error message,pesan kesalahan,0,6,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-047,extend,extend,2,3,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-048,facade,facade,2,5,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-048,facade,façade,3,5,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-049,finite state machine,finite state machine,0,1,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-050,formal model,formal model,0,2,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-051,formalisasi,formalisasi,2,2,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-052,fully dressed,fully dressed,1,1,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-053,functional requirement,functional requirement,0,2,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-053,functional requirement,kebutuhan fungsional,0,2,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-054,generalization,generalization,5,11,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-054,generalization,generalisasi,6,11,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-055,generic software,generic software,1,3,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-056,GoF,GoF,0,4,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-057,GUI,GUI,2,2,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-058,human factors,human factors,1,2,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-058,human factors,faktor manusia,1,2,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-059,include,include,4,5,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-060,information presentation,information presentation,4,10,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-060,information presentation,penyajian informasi,1,10,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-060,information presentation,presentation,5,10,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-061,inheritance,inheritance,5,10,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-061,inheritance,pewarisan,1,10,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-061,inheritance,penurunan klas,4,10,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-062,instansiasi,instansiasi,4,14,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-062,instansiasi,instance,7,14,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-062,instansiasi,instances,3,14,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-063,integration testing,integration testing,0,0,
+APS,APS-063,integration testing,pengujian integrasi,0,0,
+APS,APS-064,interaction style,interaction style,1,2,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-065,interface,interface,16,21,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-065,interface,interfaces,4,21,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-065,interface,antarmuka,0,21,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-066,interface evaluation,interface evaluation,1,1,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-067,IRS,IRS,2,2,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-068,kebutuhan,kebutuhan,56,96,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-068,kebutuhan,requirement,21,96,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-068,kebutuhan,requirements,19,96,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-069,kelas,kelas,0,112,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-069,kelas,class,50,112,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-069,kelas,classes,18,112,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-069,kelas,klas,44,112,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-070,kohesi,kohesi,1,13,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-070,kohesi,cohesion,9,13,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-070,kohesi,kohesifitas,3,13,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-071,komponen,komponen,14,17,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-071,komponen,component,3,17,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-072,kopling,kopling,6,12,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-072,kopling,coupling,6,12,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-073,kualitas perangkat lunak,kualitas perangkat lunak,4,4,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-074,kuesioner,kuesioner,0,3,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-075,lifeline,lifeline,1,1,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-076,main flow,main flow,1,4,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-076,main flow,aliran utama,3,4,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-077,manajemen kebutuhan,manajemen kebutuhan,3,3,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-078,manajemen perubahan,manajemen perubahan,1,1,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-079,method,method,2,11,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-079,method,methods,5,11,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-079,method,metode,4,11,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-080,model,model,50,57,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-080,model,models,7,57,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-081,multiplicity,multiplicity,0,1,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-081,multiplicity,kardinalitas,0,1,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-082,MVC,MVC,3,4,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-083,natural language model,natural language model,0,2,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-084,non-functional requirement,non-functional requirement,0,1,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-084,non-functional requirement,kebutuhan nonfungsional,0,1,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-085,object oriented,object oriented,1,19,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-085,object oriented,OO,10,19,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-085,object oriented,berorientasi objek,7,19,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-085,object oriented,pendekatan objek,1,19,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-086,object oriented analysis,object oriented analysis,0,3,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-086,object oriented analysis,OOA,3,3,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-087,object oriented design,object oriented design,1,4,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-087,object oriented design,OOD,3,4,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-088,objek,objek,49,105,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-088,objek,object,40,105,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-088,objek,objects,14,105,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-089,observasi,observasi,2,3,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-090,observer,observer,10,10,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-091,OCL,OCL,1,1,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-092,operasi,operasi,28,35,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-092,operasi,operation,3,35,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-092,operasi,operations,4,35,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-093,operation signature,operation signature,1,1,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-094,overloading,overloading,1,1,APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf
+APS,APS-095,packaging,packaging,1,7,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-095,packaging,package,3,7,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-095,packaging,packages,3,7,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-096,pemodelan,pemodelan,46,48,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-097,pengembangan perangkat lunak,pengembangan perangkat lunak,3,6,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-097,pengembangan perangkat lunak,software development,3,6,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-098,pengujian,pengujian,9,10,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-099,perancangan,perancangan,39,88,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-099,perancangan,design,43,88,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-099,perancangan,desain,5,88,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-099,perancangan,rancangan,1,88,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-100,perancangan arsitektural,perancangan arsitektural,1,2,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-100,perancangan arsitektural,arsitektur,1,2,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-101,perancangan data,perancangan data,2,2,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-102,perancangan interface,perancangan interface,1,5,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-102,perancangan interface,interface design,4,5,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-103,perancangan komponen,perancangan komponen,2,2,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-104,perangkat lunak,perangkat lunak,15,75,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-104,perangkat lunak,software,20,75,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-104,perangkat lunak,PL,33,75,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-104,perangkat lunak,sistem perangkat lunak,1,75,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-104,perangkat lunak,s/w,6,75,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-105,postcondition,postcondition,0,4,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-105,postcondition,kondisi akhir,3,4,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-106,precondition,precondition,0,4,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-106,precondition,prakondisi,3,4,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-107,primary actor,primary actor,3,4,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-107,primary actor,aktor primer,1,4,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-108,primary key,primary key,1,1,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-108,primary key,kunci primer,0,1,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-109,problem domain,problem domain,13,18,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-109,problem domain,domain masalah,5,18,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-110,proses perangkat lunak,proses perangkat lunak,2,3,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-110,proses perangkat lunak,proses PL,1,3,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-111,prototyping,prototyping,3,5,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-112,pseudocode,pseudocode,3,4,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-113,rationale,rationale,4,4,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-114,real-time system,real-time system,0,5,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-114,real-time system,real-time,5,5,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-115,refactoring,refactoring,1,3,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-116,requirements engineering,requirements engineering,1,12,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-116,requirements engineering,RE,6,12,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-116,requirements engineering,rekayasa kebutuhan,5,12,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-117,reuse,reuse,8,12,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-118,secondary actor,secondary actor,1,1,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-118,secondary actor,aktor sekunder,0,1,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-119,sequence diagram,sequence diagram,13,13,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-119,sequence diagram,diagram sekuens,0,13,APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf
+APS,APS-120,singleton,singleton,7,7,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-121,sistem,sistem,93,186,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-121,sistem,system,67,186,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-121,sistem,systems,26,186,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-122,sistem informasi,sistem informasi,3,3,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-123,SMART,SMART,1,2,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-124,solution domain,solution domain,6,10,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-124,solution domain,domain solusi,4,10,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-125,spesifikasi kebutuhan,spesifikasi kebutuhan,3,4,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-126,SRS,SRS,5,5,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-127,stakeholder,stakeholder,10,11,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-127,stakeholder,pemangku kepentingan,0,11,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-128,statechart diagram,statechart diagram,2,5,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-129,structural,structural,4,4,APS-Bab5e-Pola-perancangan-v2.0.pdf
+APS,APS-130,sub-sistem,sub-sistem,5,8,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-130,sub-sistem,subsistem,0,8,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-131,subclass,subclass,3,3,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-132,superclass,superclass,4,5,APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf
+APS,APS-133,system testing,system testing,0,0,
+APS,APS-133,system testing,pengujian sistem,0,0,
+APS,APS-133,system testing,system test,0,0,
+APS,APS-134,test case,test case,0,0,
+APS,APS-134,test case,test cases,0,0,
+APS,APS-134,test case,kasus uji,0,0,
+APS,APS-135,traceability,traceability,2,4,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-135,traceability,ketertelusuran,0,4,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-136,UML,UML,6,8,APS-Bab2-Konsep-pemodelan-v2.0.pdf
+APS,APS-137,umpan balik,umpan balik,1,3,APS-Bab1-Pengantar-v1.0.pdf
+APS,APS-138,understandability,understandability,3,3,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+APS,APS-139,unit testing,unit testing,0,0,
+APS,APS-139,unit testing,pengujian unit,0,0,
+APS,APS-140,usability,usability,1,1,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-141,use case,use case,19,22,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-141,use case,use cases,3,22,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-141,use case,kasus penggunaan,0,22,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-142,use case diagram,use case diagram,9,9,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-142,use case diagram,diagram use case,0,9,APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf
+APS,APS-143,use case scenario,use case scenario,3,17,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-143,use case scenario,UC scenario,3,17,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-143,use case scenario,skenario use case,0,17,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-143,use case scenario,skenario,11,17,APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf
+APS,APS-144,user guidance,user guidance,2,2,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-145,user interface,user interface,4,15,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-145,user interface,UI,11,15,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-145,user interface,antarmuka pengguna,0,15,APS-Bab5f-Perancangan-UI-v2.0.pdf
+APS,APS-146,validasi,validasi,7,9,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-146,validasi,validasi kebutuhan,0,9,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-147,verifikasi,verifikasi,4,6,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-147,verifikasi,verifikasi kebutuhan,1,6,APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf
+APS,APS-148,wawancara,wawancara,1,3,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-148,wawancara,interview,2,3,APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf
+APS,APS-149,white-box testing,white-box testing,0,0,
+APS,APS-149,white-box testing,white box testing,0,0,
+APS,APS-149,white-box testing,pengujian white-box,0,0,
+APS,APS-150,wicked problem,wicked problem,2,2,APS-Bab5a-Konsep-perancangan-v2.0.pdf
+IMK,IMK-001,accessibility,accessibility,0,0,
+IMK,IMK-001,accessibility,aksesibilitas,0,0,
+IMK,IMK-002,aesthetics,aesthetics,2,3,e3-chap-05.pdf
+IMK,IMK-002,aesthetics,estetika,0,3,e3-chap-05.pdf
+IMK,IMK-003,affordance,affordance,3,5,e3-chap-03.pdf
+IMK,IMK-004,alignment,alignment,10,10,e3-chap-05.pdf
+IMK,IMK-004,alignment,perataan,0,10,e3-chap-05.pdf
+IMK,IMK-005,batch processing,batch processing,7,7,e3-chap-04.pdf
+IMK,IMK-005,batch processing,pemrosesan batch,0,7,e3-chap-04.pdf
+IMK,IMK-006,button,button,6,31,e3-chap-05.pdf
+IMK,IMK-006,button,buttons,25,31,e3-chap-05.pdf
+IMK,IMK-006,button,tombol,0,31,e3-chap-05.pdf
+IMK,IMK-007,cognitive,cognitive,2,2,e3-chap-01.pdf
+IMK,IMK-007,cognitive,kognitif,0,2,e3-chap-01.pdf
+IMK,IMK-008,cognitive walkthrough,cognitive walkthrough,0,0,
+IMK,IMK-008,cognitive walkthrough,penelusuran kognitif,0,0,
+IMK,IMK-009,colour,colour,18,22,e3-chap-02.pdf
+IMK,IMK-009,colour,colours,4,22,e3-chap-02.pdf
+IMK,IMK-009,colour,warna,0,22,e3-chap-02.pdf
+IMK,IMK-010,colour blindness,colour blindness,2,4,e3-chap-05.pdf
+IMK,IMK-010,colour blindness,buta warna,0,4,e3-chap-05.pdf
+IMK,IMK-011,command line interface,command line interface,2,2,e3-chap-03.pdf
+IMK,IMK-011,command line interface,antarmuka baris perintah,0,2,e3-chap-03.pdf
+IMK,IMK-012,computer,computer,29,46,e3-chap-02.pdf
+IMK,IMK-012,computer,computers,15,46,e3-chap-02.pdf
+IMK,IMK-012,computer,komputer,2,46,e3-chap-02.pdf
+IMK,IMK-013,consistency,consistency,6,6,e3-chap-07.pdf
+IMK,IMK-013,consistency,konsistensi,0,6,e3-chap-07.pdf
+IMK,IMK-014,constraint,constraint,0,10,e3-chap-05.pdf
+IMK,IMK-014,constraint,constraints,10,10,e3-chap-05.pdf
+IMK,IMK-014,constraint,batasan,0,10,e3-chap-05.pdf
+IMK,IMK-015,context-aware,context-aware,0,1,e3-chap-04.pdf
+IMK,IMK-015,context-aware,peka konteks,0,1,e3-chap-04.pdf
+IMK,IMK-016,deductive reasoning,deductive reasoning,1,4,e3-chap-01.pdf
+IMK,IMK-016,deductive reasoning,deduction,3,4,e3-chap-01.pdf
+IMK,IMK-016,deductive reasoning,penalaran deduktif,0,4,e3-chap-01.pdf
+IMK,IMK-017,design,design,86,94,e3-chap-05.pdf
+IMK,IMK-017,design,designs,7,94,e3-chap-05.pdf
+IMK,IMK-017,design,desain,1,94,e3-chap-05.pdf
+IMK,IMK-017,design,perancangan,0,94,e3-chap-05.pdf
+IMK,IMK-018,design pattern,design pattern,0,3,e3-chap-07.pdf
+IMK,IMK-018,design pattern,pola desain,0,3,e3-chap-07.pdf
+IMK,IMK-018,design pattern,pola perancangan,0,3,e3-chap-07.pdf
+IMK,IMK-019,design process,design process,5,5,e3-chap-06.pdf
+IMK,IMK-019,design process,proses desain,0,5,e3-chap-06.pdf
+IMK,IMK-020,design rationale,design rationale,8,8,e3-chap-06.pdf
+IMK,IMK-020,design rationale,rasional desain,0,8,e3-chap-06.pdf
+IMK,IMK-021,design rules,design rules,9,9,e3-chap-07.pdf
+IMK,IMK-021,design rules,aturan desain,0,9,e3-chap-07.pdf
+IMK,IMK-022,dialogue box,dialogue box,1,4,e3-chap-03.pdf
+IMK,IMK-022,dialogue box,kotak dialog,0,4,e3-chap-03.pdf
+IMK,IMK-023,direct manipulation,direct manipulation,4,5,e3-chap-04.pdf
+IMK,IMK-023,direct manipulation,manipulasi langsung,0,5,e3-chap-04.pdf
+IMK,IMK-024,disability,disability,1,3,e3-chap-10.pdf
+IMK,IMK-024,disability,disabilitas,0,3,e3-chap-10.pdf
+IMK,IMK-025,display,display,12,103,e3-chap-02.pdf
+IMK,IMK-025,display,displays,18,103,e3-chap-02.pdf
+IMK,IMK-025,display,screen,60,103,e3-chap-02.pdf
+IMK,IMK-025,display,screens,11,103,e3-chap-02.pdf
+IMK,IMK-025,display,layar,1,103,e3-chap-02.pdf
+IMK,IMK-025,display,tampilan,1,103,e3-chap-02.pdf
+IMK,IMK-026,documentation,documentation,7,7,e3-chap-11.pdf
+IMK,IMK-026,documentation,dokumentasi,0,7,e3-chap-11.pdf
+IMK,IMK-027,dpi,dpi,10,12,e3-chap-02.pdf
+IMK,IMK-027,dpi,titik per inci,0,12,e3-chap-02.pdf
+IMK,IMK-028,dyslexia,dyslexia,1,1,e3-chap-10.pdf
+IMK,IMK-028,dyslexia,disleksia,0,1,e3-chap-10.pdf
+IMK,IMK-029,earcon,earcon,1,7,e3-chap-10.pdf
+IMK,IMK-029,earcon,earcons,6,7,e3-chap-10.pdf
+IMK,IMK-030,effectiveness,effectiveness,3,3,e3-chap-06.pdf
+IMK,IMK-030,effectiveness,efektivitas,0,3,e3-chap-06.pdf
+IMK,IMK-031,efficiency,efficiency,4,4,e3-chap-06.pdf
+IMK,IMK-031,efficiency,efisiensi,0,4,e3-chap-06.pdf
+IMK,IMK-032,emotion,emotion,10,10,e3-chap-01.pdf
+IMK,IMK-032,emotion,emosi,0,10,e3-chap-01.pdf
+IMK,IMK-033,equitable use,equitable use,1,1,e3-chap-10.pdf
+IMK,IMK-033,equitable use,penggunaan yang adil,0,1,e3-chap-10.pdf
+IMK,IMK-034,ergonomics,ergonomics,8,8,e3-chap-03.pdf
+IMK,IMK-034,ergonomics,ergonomi,0,8,e3-chap-03.pdf
+IMK,IMK-035,error,error,16,28,e3-chap-11.pdf
+IMK,IMK-035,error,errors,12,28,e3-chap-11.pdf
+IMK,IMK-035,error,kesalahan,0,28,e3-chap-11.pdf
+IMK,IMK-036,ethnography,ethnography,1,1,e3-chap-05.pdf
+IMK,IMK-036,ethnography,etnografi,0,1,e3-chap-05.pdf
+IMK,IMK-037,evaluation,evaluation,10,13,e3-chap-03.pdf
+IMK,IMK-037,evaluation,evaluasi,3,13,e3-chap-03.pdf
+IMK,IMK-038,execution/evaluation loop,execution/evaluation loop,4,4,e3-chap-03.pdf
+IMK,IMK-038,execution/evaluation loop,siklus eksekusi dan evaluasi,0,4,e3-chap-03.pdf
+IMK,IMK-039,feedback,feedback,14,14,e3-chap-08.pdf
+IMK,IMK-039,feedback,umpan balik,0,14,e3-chap-08.pdf
+IMK,IMK-040,fitts' law,fitts' law,1,1,e3-chap-01.pdf
+IMK,IMK-040,fitts' law,hukum Fitts,0,1,e3-chap-01.pdf
+IMK,IMK-041,flexibility,flexibility,7,7,e3-chap-07.pdf
+IMK,IMK-041,flexibility,fleksibilitas,0,7,e3-chap-07.pdf
+IMK,IMK-042,font,font,7,16,e3-chap-02.pdf
+IMK,IMK-042,font,fonts,9,16,e3-chap-02.pdf
+IMK,IMK-042,font,jenis huruf,0,16,e3-chap-02.pdf
+IMK,IMK-043,gesture,gesture,4,5,e3-chap-10.pdf
+IMK,IMK-043,gesture,gestur,0,5,e3-chap-10.pdf
+IMK,IMK-044,goal,goal,28,32,e3-chap-03.pdf
+IMK,IMK-044,goal,goals,4,32,e3-chap-03.pdf
+IMK,IMK-044,goal,tujuan,0,32,e3-chap-03.pdf
+IMK,IMK-045,golden rules,golden rules,4,4,e3-chap-07.pdf
+IMK,IMK-045,golden rules,aturan emas,0,4,e3-chap-07.pdf
+IMK,IMK-046,grouping,grouping,13,13,e3-chap-05.pdf
+IMK,IMK-046,grouping,pengelompokan,0,13,e3-chap-05.pdf
+IMK,IMK-047,guideline,guideline,0,13,e3-chap-07.pdf
+IMK,IMK-047,guideline,guidelines,13,13,e3-chap-07.pdf
+IMK,IMK-047,guideline,panduan,0,13,e3-chap-07.pdf
+IMK,IMK-048,gulf of evaluation,gulf of evaluation,1,1,e3-chap-03.pdf
+IMK,IMK-048,gulf of evaluation,jurang evaluasi,0,1,e3-chap-03.pdf
+IMK,IMK-049,gulf of execution,gulf of execution,1,1,e3-chap-03.pdf
+IMK,IMK-049,gulf of execution,jurang eksekusi,0,1,e3-chap-03.pdf
+IMK,IMK-050,haptic,haptic,7,7,e3-chap-02.pdf
+IMK,IMK-050,haptic,haptik,0,7,e3-chap-02.pdf
+IMK,IMK-051,hearing,hearing,2,6,e3-chap-01.pdf
+IMK,IMK-051,hearing,auditory,4,6,e3-chap-01.pdf
+IMK,IMK-051,hearing,pendengaran,0,6,e3-chap-01.pdf
+IMK,IMK-052,hearing impairment,hearing impairment,1,1,e3-chap-10.pdf
+IMK,IMK-052,hearing impairment,gangguan pendengaran,0,1,e3-chap-10.pdf
+IMK,IMK-052,hearing impairment,tunarungu,0,1,e3-chap-10.pdf
+IMK,IMK-053,heuristic,heuristic,0,4,e3-chap-07.pdf
+IMK,IMK-053,heuristic,heuristics,4,4,e3-chap-07.pdf
+IMK,IMK-053,heuristic,heuristik,0,4,e3-chap-07.pdf
+IMK,IMK-054,heuristic evaluation,heuristic evaluation,0,0,
+IMK,IMK-054,heuristic evaluation,evaluasi heuristik,0,0,
+IMK,IMK-055,human,human,10,15,e3-chap-01.pdf
+IMK,IMK-055,human,humans,5,15,e3-chap-01.pdf
+IMK,IMK-055,human,manusia,0,15,e3-chap-01.pdf
+IMK,IMK-056,human error,human error,3,3,e3-chap-05.pdf
+IMK,IMK-056,human error,kesalahan manusia,0,3,e3-chap-05.pdf
+IMK,IMK-057,human factors,human factors,1,1,e3-chap-03.pdf
+IMK,IMK-057,human factors,faktor manusia,0,1,e3-chap-03.pdf
+IMK,IMK-058,human-computer interaction,human-computer interaction,2,11,e3-chap-03.pdf
+IMK,IMK-058,human-computer interaction,HCI,7,11,e3-chap-03.pdf
+IMK,IMK-058,human-computer interaction,interaksi manusia dan komputer,0,11,e3-chap-03.pdf
+IMK,IMK-058,human-computer interaction,IMK,2,11,e3-chap-03.pdf
+IMK,IMK-059,hypertext,hypertext,6,6,e3-chap-04.pdf
+IMK,IMK-059,hypertext,hiperteks,0,6,e3-chap-04.pdf
+IMK,IMK-060,icon,icon,6,19,e3-chap-03.pdf
+IMK,IMK-060,icon,icons,11,19,e3-chap-03.pdf
+IMK,IMK-060,icon,ikon,2,19,e3-chap-03.pdf
+IMK,IMK-061,inclusive design,inclusive design,0,0,
+IMK,IMK-061,inclusive design,desain inklusif,0,0,
+IMK,IMK-062,individual differences,individual differences,1,1,e3-chap-01.pdf
+IMK,IMK-062,individual differences,perbedaan individu,0,1,e3-chap-01.pdf
+IMK,IMK-063,inductive reasoning,inductive reasoning,1,4,e3-chap-01.pdf
+IMK,IMK-063,inductive reasoning,induction,3,4,e3-chap-01.pdf
+IMK,IMK-063,inductive reasoning,penalaran induktif,0,4,e3-chap-01.pdf
+IMK,IMK-064,interaction,interaction,59,64,e3-chap-03.pdf
+IMK,IMK-064,interaction,interactions,4,64,e3-chap-03.pdf
+IMK,IMK-064,interaction,interaksi,1,64,e3-chap-03.pdf
+IMK,IMK-065,interaction design,interaction design,3,3,e3-chap-05.pdf
+IMK,IMK-065,interaction design,perancangan interaksi,0,3,e3-chap-05.pdf
+IMK,IMK-065,interaction design,desain interaksi,0,3,e3-chap-05.pdf
+IMK,IMK-066,interaction framework,interaction framework,2,3,e3-chap-03.pdf
+IMK,IMK-066,interaction framework,kerangka interaksi,0,3,e3-chap-03.pdf
+IMK,IMK-067,interaction style,interaction style,1,4,e3-chap-03.pdf
+IMK,IMK-067,interaction style,interaction styles,3,4,e3-chap-03.pdf
+IMK,IMK-067,interaction style,gaya interaksi,0,4,e3-chap-03.pdf
+IMK,IMK-068,interactivity,interactivity,3,18,e3-chap-04.pdf
+IMK,IMK-068,interactivity,interactive,15,18,e3-chap-04.pdf
+IMK,IMK-068,interactivity,interaktivitas,0,18,e3-chap-04.pdf
+IMK,IMK-069,interface,interface,35,56,e3-chap-03.pdf
+IMK,IMK-069,interface,interfaces,20,56,e3-chap-03.pdf
+IMK,IMK-069,interface,antarmuka,1,56,e3-chap-03.pdf
+IMK,IMK-070,internet,internet,4,4,e3-chap-02.pdf
+IMK,IMK-071,iterative design,iterative design,5,9,e3-chap-06.pdf
+IMK,IMK-071,iterative design,iteration,4,9,e3-chap-06.pdf
+IMK,IMK-071,iterative design,perancangan iteratif,0,9,e3-chap-06.pdf
+IMK,IMK-071,iterative design,desain iteratif,0,9,e3-chap-06.pdf
+IMK,IMK-072,keyboard,keyboard,14,19,e3-chap-02.pdf
+IMK,IMK-072,keyboard,keyboards,5,19,e3-chap-02.pdf
+IMK,IMK-072,keyboard,papan ketik,0,19,e3-chap-02.pdf
+IMK,IMK-073,layout,layout,10,10,e3-chap-02.pdf
+IMK,IMK-073,layout,tata letak,0,10,e3-chap-02.pdf
+IMK,IMK-074,LCD,LCD,5,5,e3-chap-02.pdf
+IMK,IMK-074,LCD,layar kristal cair,0,5,e3-chap-02.pdf
+IMK,IMK-075,learnability,learnability,4,4,e3-chap-07.pdf
+IMK,IMK-075,learnability,kemudahan dipelajari,0,4,e3-chap-07.pdf
+IMK,IMK-076,long-term memory,long-term memory,4,15,e3-chap-01.pdf
+IMK,IMK-076,long-term memory,LTM,11,15,e3-chap-01.pdf
+IMK,IMK-076,long-term memory,memori jangka panjang,0,15,e3-chap-01.pdf
+IMK,IMK-077,memory,memory,18,18,e3-chap-01.pdf
+IMK,IMK-077,memory,memori,0,18,e3-chap-01.pdf
+IMK,IMK-078,mental model,mental model,0,2,e3-chap-01.pdf
+IMK,IMK-078,mental model,model mental,0,2,e3-chap-01.pdf
+IMK,IMK-079,menu,menu,31,49,e3-chap-03.pdf
+IMK,IMK-079,menu,menus,18,49,e3-chap-03.pdf
+IMK,IMK-080,metaphor,metaphor,4,4,e3-chap-04.pdf
+IMK,IMK-080,metaphor,metafora,0,4,e3-chap-04.pdf
+IMK,IMK-081,mode,mode,8,10,e3-chap-10.pdf
+IMK,IMK-081,mode,moda,0,10,e3-chap-10.pdf
+IMK,IMK-082,mouse,mouse,28,28,e3-chap-02.pdf
+IMK,IMK-083,multimedia,multimedia,2,4,e3-chap-10.pdf
+IMK,IMK-084,multimodality,multimodality,2,4,e3-chap-10.pdf
+IMK,IMK-084,multimodality,multimodal,0,4,e3-chap-10.pdf
+IMK,IMK-085,natural language,natural language,5,5,e3-chap-03.pdf
+IMK,IMK-085,natural language,bahasa alami,0,5,e3-chap-03.pdf
+IMK,IMK-086,navigation,navigation,7,8,e3-chap-05.pdf
+IMK,IMK-086,navigation,navigasi,1,8,e3-chap-05.pdf
+IMK,IMK-087,network,network,8,15,e3-chap-02.pdf
+IMK,IMK-087,network,networks,6,15,e3-chap-02.pdf
+IMK,IMK-087,network,jaringan,1,15,e3-chap-02.pdf
+IMK,IMK-088,norman's model,norman's model,3,4,e3-chap-03.pdf
+IMK,IMK-088,norman's model,model Norman,0,4,e3-chap-03.pdf
+IMK,IMK-089,OCR,OCR,3,4,e3-chap-02.pdf
+IMK,IMK-089,OCR,pengenalan karakter optik,0,4,e3-chap-02.pdf
+IMK,IMK-090,palette,palette,2,5,e3-chap-03.pdf
+IMK,IMK-090,palette,palettes,3,5,e3-chap-03.pdf
+IMK,IMK-091,paradigm,paradigm,10,18,e3-chap-04.pdf
+IMK,IMK-091,paradigm,paradigms,8,18,e3-chap-04.pdf
+IMK,IMK-091,paradigm,paradigma,0,18,e3-chap-04.pdf
+IMK,IMK-092,perceptible information,perceptible information,1,1,e3-chap-10.pdf
+IMK,IMK-092,perceptible information,informasi yang dapat dipersepsi,0,1,e3-chap-10.pdf
+IMK,IMK-093,persona,persona,2,2,e3-chap-05.pdf
+IMK,IMK-094,pixel,pixel,2,9,e3-chap-02.pdf
+IMK,IMK-094,pixel,pixels,7,9,e3-chap-02.pdf
+IMK,IMK-094,pixel,piksel,0,9,e3-chap-02.pdf
+IMK,IMK-095,pointer,pointer,4,8,e3-chap-03.pdf
+IMK,IMK-095,pointer,pointers,4,8,e3-chap-03.pdf
+IMK,IMK-095,pointer,penunjuk,0,8,e3-chap-03.pdf
+IMK,IMK-096,principle,principle,1,21,e3-chap-07.pdf
+IMK,IMK-096,principle,principles,20,21,e3-chap-07.pdf
+IMK,IMK-096,principle,prinsip,0,21,e3-chap-07.pdf
+IMK,IMK-097,problem solving,problem solving,10,10,e3-chap-01.pdf
+IMK,IMK-097,problem solving,pemecahan masalah,0,10,e3-chap-01.pdf
+IMK,IMK-098,prototype,prototype,2,6,e3-chap-05.pdf
+IMK,IMK-098,prototype,prototypes,4,6,e3-chap-05.pdf
+IMK,IMK-098,prototype,prototipe,0,6,e3-chap-05.pdf
+IMK,IMK-099,prototyping,prototyping,9,9,e3-chap-05.pdf
+IMK,IMK-099,prototyping,pembuatan prototipe,0,9,e3-chap-05.pdf
+IMK,IMK-100,questionnaire,questionnaire,0,0,
+IMK,IMK-100,questionnaire,questionnaires,0,0,
+IMK,IMK-100,questionnaire,kuesioner,0,0,
+IMK,IMK-100,questionnaire,angket,0,0,
+IMK,IMK-101,RAM,RAM,9,10,e3-chap-02.pdf
+IMK,IMK-101,RAM,memori akses acak,0,10,e3-chap-02.pdf
+IMK,IMK-102,rapid prototyping,rapid prototyping,0,0,
+IMK,IMK-102,rapid prototyping,rapid prototyping tool,0,0,
+IMK,IMK-102,rapid prototyping,rapid prototyping tools,0,0,
+IMK,IMK-102,rapid prototyping,purwarupa cepat,0,0,
+IMK,IMK-103,recall,recall,4,4,e3-chap-01.pdf
+IMK,IMK-103,recall,mengingat kembali,0,4,e3-chap-01.pdf
+IMK,IMK-104,recognition,recognition,4,4,e3-chap-01.pdf
+IMK,IMK-104,recognition,pengenalan,0,4,e3-chap-01.pdf
+IMK,IMK-105,requirements,requirements,13,13,e3-chap-06.pdf
+IMK,IMK-105,requirements,kebutuhan,0,13,e3-chap-06.pdf
+IMK,IMK-106,resolution,resolution,5,5,e3-chap-02.pdf
+IMK,IMK-106,resolution,resolusi,0,5,e3-chap-02.pdf
+IMK,IMK-107,robustness,robustness,4,6,e3-chap-07.pdf
+IMK,IMK-108,satisfaction,satisfaction,7,7,e3-chap-06.pdf
+IMK,IMK-108,satisfaction,kepuasan,0,7,e3-chap-06.pdf
+IMK,IMK-109,scanner,scanner,3,7,e3-chap-02.pdf
+IMK,IMK-109,scanner,scanners,4,7,e3-chap-02.pdf
+IMK,IMK-109,scanner,pemindai,0,7,e3-chap-02.pdf
+IMK,IMK-110,scenario,scenario,2,12,e3-chap-05.pdf
+IMK,IMK-110,scenario,scenarios,9,12,e3-chap-05.pdf
+IMK,IMK-110,scenario,skenario,1,12,e3-chap-05.pdf
+IMK,IMK-111,screen design,screen design,4,4,e3-chap-05.pdf
+IMK,IMK-111,screen design,desain layar,0,4,e3-chap-05.pdf
+IMK,IMK-112,screen reader,screen reader,0,2,e3-chap-10.pdf
+IMK,IMK-112,screen reader,pembaca layar,0,2,e3-chap-10.pdf
+IMK,IMK-113,semantic memory,semantic memory,1,10,e3-chap-08.pdf
+IMK,IMK-113,semantic memory,semantic,9,10,e3-chap-08.pdf
+IMK,IMK-113,semantic memory,memori semantik,0,10,e3-chap-08.pdf
+IMK,IMK-114,sensory memory,sensory memory,1,1,e3-chap-01.pdf
+IMK,IMK-114,sensory memory,memori sensorik,0,1,e3-chap-01.pdf
+IMK,IMK-115,short-term memory,short-term memory,5,10,e3-chap-01.pdf
+IMK,IMK-115,short-term memory,STM,4,10,e3-chap-01.pdf
+IMK,IMK-115,short-term memory,memori jangka pendek,0,10,e3-chap-01.pdf
+IMK,IMK-115,short-term memory,memori kerja,0,10,e3-chap-01.pdf
+IMK,IMK-116,sign language,sign language,1,1,e3-chap-10.pdf
+IMK,IMK-116,sign language,bahasa isyarat,0,1,e3-chap-10.pdf
+IMK,IMK-117,software life cycle,software life cycle,0,9,e3-chap-06.pdf
+IMK,IMK-117,software life cycle,life cycle,8,9,e3-chap-06.pdf
+IMK,IMK-117,software life cycle,siklus hidup perangkat lunak,0,9,e3-chap-06.pdf
+IMK,IMK-118,speech recognition,speech recognition,4,4,e3-chap-10.pdf
+IMK,IMK-118,speech recognition,pengenalan suara,0,4,e3-chap-10.pdf
+IMK,IMK-118,speech recognition,pengenalan ucapan,0,4,e3-chap-10.pdf
+IMK,IMK-119,speech synthesis,speech synthesis,3,3,e3-chap-10.pdf
+IMK,IMK-119,speech synthesis,sintesis ucapan,0,3,e3-chap-10.pdf
+IMK,IMK-119,speech synthesis,sintesis suara,0,3,e3-chap-10.pdf
+IMK,IMK-120,spreadsheet,spreadsheet,2,5,e3-chap-03.pdf
+IMK,IMK-120,spreadsheet,spreadsheets,3,5,e3-chap-03.pdf
+IMK,IMK-120,spreadsheet,lembar kerja,0,5,e3-chap-03.pdf
+IMK,IMK-121,standard,standard,1,12,e3-chap-07.pdf
+IMK,IMK-121,standard,standards,11,12,e3-chap-07.pdf
+IMK,IMK-121,standard,standar,0,12,e3-chap-07.pdf
+IMK,IMK-122,storyboard,storyboard,0,1,e3-chap-06.pdf
+IMK,IMK-123,System Usability Scale,System Usability Scale,0,0,
+IMK,IMK-123,System Usability Scale,SUS,0,0,
+IMK,IMK-123,System Usability Scale,skala kegunaan sistem,0,0,
+IMK,IMK-124,task,task,26,47,e3-chap-11.pdf
+IMK,IMK-124,task,tasks,17,47,e3-chap-11.pdf
+IMK,IMK-124,task,tugas,4,47,e3-chap-11.pdf
+IMK,IMK-125,task analysis,task analysis,3,3,e3-chap-05.pdf
+IMK,IMK-125,task analysis,analisis tugas,0,3,e3-chap-05.pdf
+IMK,IMK-126,task completion rate,task completion rate,0,0,
+IMK,IMK-126,task completion rate,success rate,0,0,
+IMK,IMK-126,task completion rate,tingkat penyelesaian tugas,0,0,
+IMK,IMK-127,task completion time,task completion time,0,0,
+IMK,IMK-127,task completion time,time on task,0,0,
+IMK,IMK-127,task completion time,waktu penyelesaian tugas,0,0,
+IMK,IMK-128,think-aloud,think-aloud,0,0,
+IMK,IMK-128,think-aloud,think aloud,0,0,
+IMK,IMK-128,think-aloud,think-aloud protocol,0,0,
+IMK,IMK-128,think-aloud,pikir keras,0,0,
+IMK,IMK-129,time-sharing,time-sharing,2,7,e3-chap-04.pdf
+IMK,IMK-129,time-sharing,timesharing,5,7,e3-chap-04.pdf
+IMK,IMK-129,time-sharing,berbagi waktu,0,7,e3-chap-04.pdf
+IMK,IMK-130,touchpad,touchpad,2,4,e3-chap-02.pdf
+IMK,IMK-131,trackball,trackball,3,4,e3-chap-02.pdf
+IMK,IMK-132,tutorial,tutorial,2,4,e3-chap-11.pdf
+IMK,IMK-133,universal design,universal design,2,2,e3-chap-10.pdf
+IMK,IMK-133,universal design,desain universal,0,2,e3-chap-10.pdf
+IMK,IMK-134,usability,usability,21,21,e3-chap-06.pdf
+IMK,IMK-135,usability engineering,usability engineering,4,4,e3-chap-06.pdf
+IMK,IMK-135,usability engineering,rekayasa usability,0,4,e3-chap-06.pdf
+IMK,IMK-136,usability specification,usability specification,4,4,e3-chap-06.pdf
+IMK,IMK-136,usability specification,spesifikasi usability,0,4,e3-chap-06.pdf
+IMK,IMK-137,usability testing,usability testing,0,0,
+IMK,IMK-137,usability testing,user testing,0,0,
+IMK,IMK-137,usability testing,pengujian usability,0,0,
+IMK,IMK-137,usability testing,uji usability,0,0,
+IMK,IMK-137,usability testing,pengujian kebergunaan,0,0,
+IMK,IMK-138,user,user,109,139,e3-chap-03.pdf
+IMK,IMK-138,user,users,24,139,e3-chap-03.pdf
+IMK,IMK-138,user,pengguna,6,139,e3-chap-03.pdf
+IMK,IMK-139,user experience,user experience,1,1,e3-chap-06.pdf
+IMK,IMK-139,user experience,pengalaman pengguna,0,1,e3-chap-06.pdf
+IMK,IMK-140,user interface,user interface,1,6,e3-chap-08.pdf
+IMK,IMK-140,user interface,UI,5,6,e3-chap-08.pdf
+IMK,IMK-140,user interface,antarmuka pengguna,0,6,e3-chap-08.pdf
+IMK,IMK-141,user support,user support,7,7,e3-chap-11.pdf
+IMK,IMK-141,user support,dukungan pengguna,0,7,e3-chap-11.pdf
+IMK,IMK-142,virtual reality,virtual reality,5,11,e3-chap-02.pdf
+IMK,IMK-142,virtual reality,VR,6,11,e3-chap-02.pdf
+IMK,IMK-142,virtual reality,realitas virtual,0,11,e3-chap-02.pdf
+IMK,IMK-143,vision,vision,9,22,e3-chap-01.pdf
+IMK,IMK-143,vision,visual,13,22,e3-chap-01.pdf
+IMK,IMK-143,vision,penglihatan,0,22,e3-chap-01.pdf
+IMK,IMK-144,visual impairment,visual impairment,1,1,e3-chap-10.pdf
+IMK,IMK-144,visual impairment,gangguan penglihatan,0,1,e3-chap-10.pdf
+IMK,IMK-144,visual impairment,tunanetra,0,1,e3-chap-10.pdf
+IMK,IMK-145,white space,white space,5,5,e3-chap-05.pdf
+IMK,IMK-145,white space,ruang kosong,0,5,e3-chap-05.pdf
+IMK,IMK-146,widget,widget,4,6,e3-chap-05.pdf
+IMK,IMK-147,WIMP,WIMP,9,10,e3-chap-03.pdf
+IMK,IMK-148,window,window,9,25,e3-chap-03.pdf
+IMK,IMK-148,window,windows,16,25,e3-chap-03.pdf
+IMK,IMK-148,window,jendela,0,25,e3-chap-03.pdf
+IMK,IMK-149,World Wide Web,World Wide Web,1,20,e3-chap-03.pdf
+IMK,IMK-149,World Wide Web,web,17,20,e3-chap-03.pdf
+IMK,IMK-150,WYSIWYG,WYSIWYG,3,5,e3-chap-02.pdf
+JARNIR,JARNIR-001,6LoWPAN,6LoWPAN,3,4,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-002,access point,access point,2,10,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-002,access point,AP,7,10,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-002,access point,titik akses,0,10,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-003,acknowledgment,acknowledgment,2,9,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-003,acknowledgment,ack,6,9,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-004,activation by personalization,activation by personalization,2,4,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-005,ad hoc network,ad hoc network,0,3,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-005,ad hoc network,jaringan ad hoc,0,3,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-006,agregasi,agregasi,9,15,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-006,agregasi,diagregasi,3,15,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-007,amplitude modulation,amplitude modulation,1,3,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-008,amplitudo,amplitudo,7,10,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-008,amplitudo,amplitude,3,10,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-009,antena,antena,4,5,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-010,attenuation,attenuation,2,2,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-010,attenuation,atenuasi,0,2,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-010,attenuation,redaman,0,2,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-011,authentication,authentication,4,5,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-011,authentication,autentikasi,1,5,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-012,bandwidth,bandwidth,14,14,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-012,bandwidth,lebar pita,0,14,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-013,beacon,beacon,2,3,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-014,beamforming,beamforming,0,0,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-015,BlockAck,BlockAck,3,7,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-015,BlockAck,block ack,3,7,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-016,bluetooth,bluetooth,19,19,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-017,Bluetooth Low Energy,Bluetooth Low Energy,1,1,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-018,BSS,BSS,0,0,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-018,BSS,basic service set,0,0,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-018,BSS,himpunan layanan dasar,0,0,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-019,CDMA,CDMA,7,9,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-020,chirp spread spectrum,chirp spread spectrum,2,4,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-021,clear channel assessment,clear channel assessment,0,5,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-021,clear channel assessment,CCA,4,5,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-022,control plane,control plane,3,3,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-022,control plane,bidang kontrol,0,3,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-023,convolutional coding,convolutional coding,1,6,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-023,convolutional coding,BCC,4,6,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-024,CSMA,CSMA,2,5,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-025,CSMA/CA,CSMA/CA,0,3,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-026,data frame,data frame,5,5,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-027,data rate,data rate,15,15,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-027,data rate,laju data,0,15,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-028,daya rendah,daya rendah,1,3,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-029,downlink,downlink,10,10,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-030,DSSS,DSSS,7,8,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-031,EDCA,EDCA,4,5,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-032,encoding,encoding,1,4,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-032,encoding,pengkodean,0,4,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-033,end device,end device,3,4,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-033,end device,perangkat ujung,0,4,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-034,energy efficiency,energy efficiency,0,0,
+JARNIR,JARNIR-034,energy efficiency,efisiensi energi,0,0,
+JARNIR,JARNIR-035,enkripsi,enkripsi,3,8,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-036,EPS bearer,EPS bearer,6,10,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-037,evolved packet system,evolved packet system,1,4,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-037,evolved packet system,EPS,3,4,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-038,fasa,fasa,8,12,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-038,fasa,phase,4,12,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-039,FDMA,FDMA,6,6,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-040,FHSS,FHSS,3,5,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-040,FHSS,lompatan frekuensi,0,5,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-041,fragmentasi,fragmentasi,9,12,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-042,frame,frame,35,36,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-042,frame,framing,0,36,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-042,frame,bingkai,0,36,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-042,frame,pembingkaian,0,36,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-043,frekuensi,frekuensi,38,52,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-043,frekuensi,frequency,14,52,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-044,frequency division duplexing,frequency division duplexing,0,6,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-044,frequency division duplexing,FDD,4,6,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-045,frequency division multiplexing,frequency division multiplexing,1,4,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-045,frequency division multiplexing,FDM,3,4,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-046,frequency modulation,frequency modulation,1,3,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-047,frequency reuse,frequency reuse,0,2,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-047,frequency reuse,penggunaan ulang frekuensi,0,2,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-048,full function device,full function device,2,7,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-048,full function device,FFD,5,7,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-049,gateway,gateway,5,5,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-050,gelombang pembawa,gelombang pembawa,14,20,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-050,gelombang pembawa,carrier,4,20,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-051,gelombang radio,gelombang radio,7,7,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-052,GSM,GSM,5,6,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-053,guard,guard,3,5,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-054,guard interval,guard interval,1,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-054,guard interval,GI,3,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-055,handover,handover,0,0,
+JARNIR,JARNIR-055,handover,handoff,0,0,
+JARNIR,JARNIR-055,handover,serah terima,0,0,
+JARNIR,JARNIR-056,hidden terminal,hidden terminal,3,4,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-056,hidden terminal,terminal tersembunyi,0,4,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-057,IEEE 802.11,IEEE 802.11,5,12,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-057,IEEE 802.11,802.11,7,12,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-058,IEEE 802.11ac,IEEE 802.11ac,0,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-059,IEEE 802.11ax,IEEE 802.11ax,21,31,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-059,IEEE 802.11ax,802.11ax,5,31,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-059,IEEE 802.11ax,11ax,3,31,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-060,IEEE 802.11n,IEEE 802.11n,1,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-060,IEEE 802.11n,802.11n,3,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-061,IEEE 802.15,IEEE 802.15,1,4,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-061,IEEE 802.15,802.15,3,4,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-062,IEEE 802.15.1,IEEE 802.15.1,9,10,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-063,IEEE 802.15.4,IEEE 802.15.4,17,26,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-063,IEEE 802.15.4,LR-WPAN,7,26,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-064,inter frame space,inter frame space,1,5,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-064,inter frame space,IFS,4,5,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-065,interferensi,interferensi,7,9,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-066,Internet of Things,Internet of Things,1,3,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-066,Internet of Things,IoT,2,3,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-066,Internet of Things,internet of things,0,3,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-067,ISM,ISM,2,3,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-067,ISM,industri sains dan medis,0,3,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-068,jaringan nirkabel,jaringan nirkabel,14,15,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-069,jaringan seluler,jaringan seluler,24,30,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-069,jaringan seluler,jaringan selular,1,30,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-069,jaringan seluler,seluler,5,30,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-070,join-accept,join-accept,7,8,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-071,join-request,join-request,6,9,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-071,join-request,rejoin-request,3,9,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-072,kanal,kanal,38,51,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-072,kanal,channel,4,51,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-072,kanal,channels,3,51,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-072,kanal,kanal komunikasi,6,51,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-072,kanal,saluran,0,51,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-073,kelas A,kelas A,8,8,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-074,konsumsi daya,konsumsi daya,1,4,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-074,konsumsi daya,power consumption,3,4,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-075,local area network,local area network,0,0,
+JARNIR,JARNIR-075,local area network,LAN,0,0,
+JARNIR,JARNIR-075,local area network,jaringan lokal,0,0,
+JARNIR,JARNIR-076,LoRa,LoRa,27,27,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-077,LoRaWAN,LoRaWAN,37,37,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-078,LPWAN,LPWAN,0,0,
+JARNIR,JARNIR-078,LPWAN,low power wide area network,0,0,
+JARNIR,JARNIR-078,LPWAN,jaringan area luas berdaya rendah,0,0,
+JARNIR,JARNIR-079,LTE,LTE,39,45,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-079,LTE,long term evolution,6,45,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-080,LTE attach,LTE attach,4,4,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-081,MAC,MAC,7,9,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-081,MAC,kontrol akses media,0,9,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-082,MAC layer,MAC layer,26,26,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-082,MAC layer,lapisan MAC,0,26,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-083,MCS,MCS,0,0,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-083,MCS,modulation coding scheme,0,0,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-083,MCS,modulation and coding scheme,0,0,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-084,media transmisi,media transmisi,1,3,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-084,media transmisi,media komunikasi,2,3,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-085,message integrity code,message integrity code,2,5,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-085,message integrity code,MIC,3,5,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-086,MIMO,MIMO,5,11,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-086,MIMO,multi input multi output,4,11,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-086,MIMO,multi antena,2,11,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-087,mobilitas,mobilitas,0,0,
+JARNIR,JARNIR-087,mobilitas,mobility,0,0,
+JARNIR,JARNIR-087,mobilitas,dukungan mobilitas,0,0,
+JARNIR,JARNIR-088,mobility management entity,mobility management entity,1,4,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-088,mobility management entity,MME,3,4,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-089,modulasi,modulasi,26,31,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-089,modulasi,modulation,5,31,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-090,modulasi digital,modulasi digital,12,12,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-091,MPDU,MPDU,3,6,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-092,MQTT,MQTT,0,0,
+JARNIR,JARNIR-092,MQTT,message queuing telemetry transport,0,0,
+JARNIR,JARNIR-093,multi-carrier modulation,multi-carrier modulation,1,12,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-093,multi-carrier modulation,MCM,4,12,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-093,multi-carrier modulation,modulasi multi carrier,5,12,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-094,multiple access,multiple access,31,37,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-094,multiple access,multi access,5,37,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-094,multiple access,akses jamak,0,37,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-095,multiplexing,multiplexing,17,19,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-096,network allocation vector,network allocation vector,1,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-096,network allocation vector,NAV,3,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-097,network server,network server,4,5,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-098,nirkabel,nirkabel,23,30,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-098,nirkabel,wireless,7,30,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-099,node,node,30,32,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-099,node,simpul,0,32,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-100,noise,noise,6,6,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-100,noise,derau,0,6,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-101,OFDMA,OFDMA,20,21,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-102,orthogonal frequency division multiplexing,orthogonal frequency division multiplexing,1,22,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-102,orthogonal frequency division multiplexing,OFDM,21,22,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-103,over the air activation,over the air activation,2,9,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-103,over the air activation,OTAA,6,9,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-104,packet data network gateway,packet data network gateway,1,7,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-104,packet data network gateway,PGW,5,7,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-105,PAN coordinator,PAN coordinator,3,5,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-106,path loss,path loss,1,1,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-106,path loss,rugi lintasan,0,1,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-107,payload,payload,5,5,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-107,payload,muatan,0,5,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-108,peer-to-peer,peer-to-peer,3,3,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-109,personal area network,personal area network,0,8,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-109,personal area network,PAN,1,8,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-109,personal area network,jaringan personal,7,8,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-110,phase shift keying,phase shift keying,2,3,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-111,PHY layer,PHY layer,3,23,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-111,PHY layer,PHY,18,23,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-111,PHY layer,lapisan fisik,0,23,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-112,piconet,piconet,4,4,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-113,PPDU,PPDU,6,7,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-114,propagasi,propagasi,7,8,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-115,protokol,protokol,5,12,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-115,protokol,protocol,4,12,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-115,protokol,protocols,3,12,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-116,protokol MAC,protokol MAC,0,0,
+JARNIR,JARNIR-116,protokol MAC,MAC protocol,0,0,
+JARNIR,JARNIR-117,quadrature amplitude modulation,quadrature amplitude modulation,0,8,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-117,quadrature amplitude modulation,QAM,4,8,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-118,quality of service,quality of service,0,11,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-118,quality of service,QoS,11,11,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-118,quality of service,kualitas layanan,0,11,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-119,receive window,receive window,4,4,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-119,receive window,jendela penerimaan,0,4,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-120,receiver address,receiver address,2,6,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-120,receiver address,RA,4,6,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-120,receiver address,alamat penerima,0,6,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-121,reduced function device,reduced function device,2,5,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-121,reduced function device,RFD,3,5,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-122,routing protocol,routing protocol,0,0,
+JARNIR,JARNIR-122,routing protocol,routing protocols,0,0,
+JARNIR,JARNIR-122,routing protocol,protokol routing,0,0,
+JARNIR,JARNIR-122,routing protocol,protokol perutean,0,0,
+JARNIR,JARNIR-123,RTS/CTS,RTS/CTS,4,10,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-124,SC-FDMA,SC-FDMA,14,15,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-125,sel,sel,5,6,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-126,sensor node,sensor node,0,0,
+JARNIR,JARNIR-126,sensor node,simpul sensor,0,0,
+JARNIR,JARNIR-127,service set,service set,6,6,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-127,service set,himpunan layanan,0,6,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-128,serving gateway,serving gateway,0,4,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-128,serving gateway,SGW,3,4,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-129,SIFS,SIFS,3,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-130,sinyal,sinyal,25,25,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-131,spektrum,spektrum,8,20,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-131,spektrum,spektrum frekuensi,3,20,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-131,spektrum,spektrum radio,7,20,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-132,spreading factor,spreading factor,3,6,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-132,spreading factor,spreading factors,3,6,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-132,spreading factor,faktor penyebaran,0,6,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-133,sub carrier,sub carrier,9,9,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-134,TDMA,TDMA,6,7,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-135,time division multiplexing,time division multiplexing,1,3,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-136,time slot,time slot,2,4,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-136,time slot,slot waktu,2,4,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-137,topologi bintang,topologi bintang,0,6,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-137,topologi bintang,star,4,6,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-138,transmisi,transmisi,14,16,02 - Modulasi dan Multiplexing.pdf
+JARNIR,JARNIR-139,transmitter address,transmitter address,1,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-139,transmitter address,TA,3,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-139,transmitter address,alamat pengirim,0,4,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-140,trigger frame,trigger frame,0,0,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-141,uplink,uplink,9,10,06 - WAN - Long Range Radio.pdf
+JARNIR,JARNIR-142,user equipment,user equipment,2,12,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-142,user equipment,UE,9,12,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-142,user equipment,perangkat pengguna,1,12,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-143,UWB,UWB,1,2,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-144,Wi-Fi,Wi-Fi,23,32,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-144,Wi-Fi,WiFi,3,32,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-144,Wi-Fi,Wi-Fi Alliance,3,32,04 - Teknologi Wireless LAN.pdf
+JARNIR,JARNIR-145,wide area network,wide area network,0,0,
+JARNIR,JARNIR-145,wide area network,WAN,0,0,
+JARNIR,JARNIR-145,wide area network,jaringan area luas,0,0,
+JARNIR,JARNIR-146,wireless local area network,wireless local area network,0,6,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-146,wireless local area network,jaringan lokal nirkabel,1,6,01 - Pengantar Teknologi Nirkabel.pdf
+JARNIR,JARNIR-147,wireless personal area network,wireless personal area network,0,5,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-147,wireless personal area network,WPAN,3,5,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-147,wireless personal area network,Wireless PAN,1,5,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-147,wireless personal area network,jaringan personal nirkabel,0,5,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-148,wireless sensor network,wireless sensor network,0,1,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-148,wireless sensor network,WSN,1,1,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-148,wireless sensor network,jaringan sensor nirkabel,0,1,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-149,wireless wide area network,wireless wide area network,0,2,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-149,wireless wide area network,wireless WAN,2,2,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-149,wireless wide area network,jaringan area luas nirkabel,0,2,05 - Jaringan Seluler.pdf
+JARNIR,JARNIR-150,ZigBee,ZigBee,5,10,03 - IEEE 802.15 - Wireless PAN.pdf
+JARNIR,JARNIR-150,ZigBee,zigbee,4,10,03 - IEEE 802.15 - Wireless PAN.pdf
+PKK,PKK-001,abstraction,abstraction,15,37,Computational Thinking-PKK.pdf
+PKK,PKK-001,abstraction,abstraksi,22,37,Computational Thinking-PKK.pdf
+PKK,PKK-002,access point,access point,0,0,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-003,ACM,ACM,7,8,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-004,algorithm,algorithm,4,15,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-004,algorithm,algoritma,8,15,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-004,algorithm,algorithms,3,15,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-005,analytical thinking,analytical thinking,3,4,11 Critical Thinking  Analytical Thinking.pdf
+PKK,PKK-006,analytics,analytics,8,14,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-006,analytics,analisis data,6,14,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-007,application software,application software,4,60,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-007,application software,perangkat lunak aplikasi,5,60,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-007,application software,program aplikasi,6,60,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-007,application software,aplikasi,43,60,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-008,argumen,argumen,9,9,Logika Informatika-PKK.pdf
+PKK,PKK-009,artificial intelligence,artificial intelligence,1,13,14-Trend Perkembangan IT.pdf
+PKK,PKK-009,artificial intelligence,AI,10,13,14-Trend Perkembangan IT.pdf
+PKK,PKK-010,augmented reality,augmented reality,0,4,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-010,augmented reality,AR,4,4,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-011,backbone,backbone,0,0,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-012,bibliography,bibliography,6,9,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-012,bibliography,daftar pustaka,3,9,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-013,big data,big data,12,13,14-Trend Perkembangan IT.pdf
+PKK,PKK-014,blockchain,blockchain,4,4,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-015,booting,booting,6,11,03 Sistem Komputer Software.pdf
+PKK,PKK-015,booting,boot,4,11,03 Sistem Komputer Software.pdf
+PKK,PKK-016,bootloader,bootloader,7,8,03 Sistem Komputer Software.pdf
+PKK,PKK-017,brainware,brainware,20,20,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-017,brainware,manusia pengguna teknologi,0,20,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-018,bus,bus,14,24,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-018,bus,bus data,3,24,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-019,business analyst,business analyst,2,4,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-020,citation,citation,3,18,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-020,citation,kutipan,12,18,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-020,citation,citations,3,18,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-021,client,client,1,9,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-021,client,klien,8,9,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-022,cloud computing,cloud computing,4,24,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-022,cloud computing,cloud,15,24,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-022,cloud computing,awan,4,24,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-023,cognitive technology,cognitive technology,5,10,14-Trend Perkembangan IT.pdf
+PKK,PKK-023,cognitive technology,cognitive technologies,3,10,14-Trend Perkembangan IT.pdf
+PKK,PKK-024,computational thinking,computational thinking,21,22,Computational Thinking-PKK.pdf
+PKK,PKK-025,computer network,computer network,0,14,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-025,computer network,jaringan komputer,14,14,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-026,control unit,control unit,4,12,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-026,control unit,CU,4,12,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-026,control unit,unit kendali,4,12,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-027,core,core,7,7,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-028,CPU,CPU,12,23,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-028,CPU,prosesor,8,23,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-028,CPU,processor,3,23,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-029,cracking,cracking,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-030,critical thinking,critical thinking,23,32,11 Critical Thinking  Analytical Thinking.pdf
+PKK,PKK-030,critical thinking,berpikir kritis,9,32,11 Critical Thinking  Analytical Thinking.pdf
+PKK,PKK-030,critical thinking,pemikiran kritis,0,32,11 Critical Thinking  Analytical Thinking.pdf
+PKK,PKK-031,cyber ethics,cyber ethics,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-032,cybercrime,cybercrime,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-032,cybercrime,kejahatan siber,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-032,cybercrime,kejahatan komputer,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-032,cybercrime,cyber crime,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-033,data analyst,data analyst,2,4,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-034,data scientist,data scientist,2,2,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-035,database,database,9,31,05 Database dan Pengembangan Software.pdf
+PKK,PKK-035,database,basis data,21,31,05 Database dan Pengembangan Software.pdf
+PKK,PKK-036,DBMS,DBMS,10,11,05 Database dan Pengembangan Software.pdf
+PKK,PKK-037,decomposition,decomposition,7,17,Computational Thinking-PKK.pdf
+PKK,PKK-037,decomposition,dekomposisi,10,17,Computational Thinking-PKK.pdf
+PKK,PKK-038,digital culture,digital culture,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-038,digital culture,budaya digital,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-039,digital ethics,digital ethics,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-039,digital ethics,etika digital,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-040,digital safety,digital safety,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-040,digital safety,keamanan digital,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-041,digital skills,digital skills,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-041,digital skills,digital skill,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-041,digital skills,kecakapan digital,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-042,distributed ledger,distributed ledger,0,7,Materi 02. Peran dan Profesi Keilmuan Komputer.pdf
+PKK,PKK-042,distributed ledger,distributed ledger technology,3,7,Materi 02. Peran dan Profesi Keilmuan Komputer.pdf
+PKK,PKK-042,distributed ledger,buku besar terdistribusi,4,7,Materi 02. Peran dan Profesi Keilmuan Komputer.pdf
+PKK,PKK-043,e-learning,e-learning,12,14,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-044,etika,etika,8,11,Etika dalam keilmuan komputer.pdf
+PKK,PKK-044,etika,etika komputer,3,11,Etika dalam keilmuan komputer.pdf
+PKK,PKK-045,etika pribadi,etika pribadi,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-046,expansion slot,expansion slot,1,1,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-046,expansion slot,plug-in expansion card,0,1,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-046,expansion slot,expansion card,0,1,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-047,game developer,game developer,2,4,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-048,gateway,gateway,0,0,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-049,GIS,GIS,2,4,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-050,Google Docs,Google Docs,9,9,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-051,GSM,GSM,1,1,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-051,GSM,global system for mobile communication,0,1,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-052,hak cipta,hak cipta,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-052,hak cipta,copyright,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-053,hak paten,hak paten,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-053,hak paten,paten,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-053,hak paten,patent,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-054,HAKI,HAKI,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-054,HAKI,hak kekayaan intelektual,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-054,HAKI,hak milik intelektual,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-054,HAKI,intellectual property,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-055,hard disk,hard disk,5,9,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-055,hard disk,hard disks,4,9,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-056,hardware,hardware,18,39,03 Sistem Komputer Software.pdf
+PKK,PKK-056,hardware,perangkat keras,21,39,03 Sistem Komputer Software.pdf
+PKK,PKK-057,hukum de morgan,hukum de morgan,1,8,Logika Informatika-PKK.pdf
+PKK,PKK-057,hukum de morgan,de morgan,3,8,Logika Informatika-PKK.pdf
+PKK,PKK-057,hukum de morgan,hukum logika,4,8,Logika Informatika-PKK.pdf
+PKK,PKK-058,human computer interaction,human computer interaction,2,4,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-059,informatika,informatika,7,8,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-060,input,input,18,20,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-061,intel,intel,8,16,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-061,intel,pentium,8,16,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-062,internet,internet,31,33,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-063,Internet of Things,Internet of Things,11,12,14-Trend Perkembangan IT.pdf
+PKK,PKK-064,IT support,IT support,2,10,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-065,keilmuan komputer,keilmuan komputer,20,35,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-065,keilmuan komputer,ilmu komputer,7,35,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-065,keilmuan komputer,computer science,8,35,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-066,keyboard,keyboard,7,7,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-067,KKNI,KKNI,2,3,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-067,KKNI,indonesian qualification framework,0,3,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-068,kode etik,kode etik,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-068,kode etik,etika profesi,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-068,kode etik,code of ethics,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-068,kode etik,kode etik perguruan tinggi,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-068,kode etik,kode etik perusahaan,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-069,kompetensi,kompetensi,1,1,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-070,kompetensi dasar lulusan,kompetensi dasar lulusan,0,0,
+PKK,PKK-070,kompetensi dasar lulusan,kompetensi dasar lulusan TI,0,0,
+PKK,PKK-070,kompetensi dasar lulusan,kompetensi lulusan,0,0,
+PKK,PKK-070,kompetensi dasar lulusan,graduate competency,0,0,
+PKK,PKK-070,kompetensi dasar lulusan,profil lulusan,0,0,
+PKK,PKK-071,komputer,komputer,131,145,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-071,komputer,computer,9,145,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-071,komputer,computers,5,145,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-072,konklusi,konklusi,8,15,Logika Informatika-PKK.pdf
+PKK,PKK-072,konklusi,kesimpulan,7,15,Logika Informatika-PKK.pdf
+PKK,PKK-073,kurikulum,kurikulum,3,7,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-073,kurikulum,curriculum,4,7,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-074,life long learning,life long learning,1,1,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-075,literasi 4.0,literasi 4.0,0,3,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-075,literasi 4.0,literasi baru,3,3,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-076,literasi data,literasi data,0,0,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-076,literasi data,data literacy,0,0,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-077,literasi digital,literasi digital,0,3,Etika dalam keilmuan komputer.pdf
+PKK,PKK-077,literasi digital,kurikulum literasi digital,3,3,Etika dalam keilmuan komputer.pdf
+PKK,PKK-078,literasi manusia,literasi manusia,0,0,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-078,literasi manusia,human literacy,0,0,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-079,literasi teknologi,literasi teknologi,0,0,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-079,literasi teknologi,technology literacy,0,0,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-080,LMS,LMS,12,13,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-081,logical thinking,logical thinking,4,7,11 Critical Thinking  Analytical Thinking.pdf
+PKK,PKK-081,logical thinking,berpikir logis,3,7,11 Critical Thinking  Analytical Thinking.pdf
+PKK,PKK-082,logika fuzzy,logika fuzzy,2,4,Logika Informatika-PKK.pdf
+PKK,PKK-083,logika informatika,logika informatika,4,62,Logika Informatika-PKK.pdf
+PKK,PKK-083,logika informatika,logika,55,62,Logika Informatika-PKK.pdf
+PKK,PKK-084,machine learning,machine learning,1,3,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-085,memory,memory,7,40,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-085,memory,memori,17,40,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-085,memory,memori utama,14,40,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-086,merek dagang,merek dagang,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-086,merek dagang,merk dagang,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-086,merek dagang,trademark,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-086,merek dagang,trade mark,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-087,Microsoft Excel,Microsoft Excel,0,9,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-087,Microsoft Excel,spreadsheet,6,9,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-088,model,model,42,45,05 Database dan Pengembangan Software.pdf
+PKK,PKK-088,model,pemodelan,3,45,05 Database dan Pengembangan Software.pdf
+PKK,PKK-089,monitor,monitor,8,8,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-090,moodle,moodle,7,7,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-091,moore's law,moore's law,0,0,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-091,moore's law,hukum moore,0,0,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-092,mouse,mouse,7,7,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-093,MS-DOS,MS-DOS,1,13,03 Sistem Komputer Software.pdf
+PKK,PKK-093,MS-DOS,DOS,12,13,03 Sistem Komputer Software.pdf
+PKK,PKK-094,netiquette,netiquette,5,5,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-095,network,network,5,71,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-095,network,jaringan,63,71,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-095,network,networking,3,71,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-096,network engineer,network engineer,2,2,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-097,operating system,operating system,2,54,03 Sistem Komputer Software.pdf
+PKK,PKK-097,operating system,operating systems,5,54,03 Sistem Komputer Software.pdf
+PKK,PKK-097,operating system,OS,6,54,03 Sistem Komputer Software.pdf
+PKK,PKK-097,operating system,sistem operasi,41,54,03 Sistem Komputer Software.pdf
+PKK,PKK-098,optical disc,optical disc,0,9,03 Sistem Komputer Software.pdf
+PKK,PKK-098,optical disc,DVD,6,9,03 Sistem Komputer Software.pdf
+PKK,PKK-099,output,output,16,20,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-099,output,keluaran,4,20,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-100,pattern,pattern,6,24,09 Computational Thinking.pdf
+PKK,PKK-100,pattern,pola,14,24,09 Computational Thinking.pdf
+PKK,PKK-100,pattern,patterns,4,24,09 Computational Thinking.pdf
+PKK,PKK-101,pattern recognition,pattern recognition,7,9,Computational Thinking-PKK.pdf
+PKK,PKK-102,pembajakan,pembajakan,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-102,pembajakan,piracy,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-102,pembajakan,software piracy,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-102,pembajakan,pembajakan perangkat lunak,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-103,penalaran,penalaran,7,8,Logika Informatika-PKK.pdf
+PKK,PKK-104,pengembangan software,pengembangan software,4,7,05 Database dan Pengembangan Software.pdf
+PKK,PKK-105,premis,premis,8,8,Logika Informatika-PKK.pdf
+PKK,PKK-106,printer,printer,17,17,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-107,problem solving,problem solving,4,23,09 Computational Thinking.pdf
+PKK,PKK-107,problem solving,pemecahan masalah,4,23,09 Computational Thinking.pdf
+PKK,PKK-107,problem solving,memecahkan masalah,12,23,09 Computational Thinking.pdf
+PKK,PKK-107,problem solving,penyelesaian masalah,3,23,09 Computational Thinking.pdf
+PKK,PKK-108,profesi,profesi,8,15,Etika dalam keilmuan komputer.pdf
+PKK,PKK-108,profesi,professional,4,15,Etika dalam keilmuan komputer.pdf
+PKK,PKK-108,profesi,profesional,3,15,Etika dalam keilmuan komputer.pdf
+PKK,PKK-109,programmer,programmer,8,9,03 Sistem Komputer Software.pdf
+PKK,PKK-110,programming language,programming language,0,4,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-111,protocol,protocol,1,8,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-111,protocol,protokol,5,8,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-112,prototyping,prototyping,3,12,05 Database dan Pengembangan Software.pdf
+PKK,PKK-112,prototyping,prototype,5,12,05 Database dan Pengembangan Software.pdf
+PKK,PKK-112,prototyping,prototipe,4,12,05 Database dan Pengembangan Software.pdf
+PKK,PKK-113,quantum computing,quantum computing,5,13,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-113,quantum computing,komputasi kuantum,6,13,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-114,rahasia dagang,rahasia dagang,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-114,rahasia dagang,trade secret,0,0,Etika dalam keilmuan komputer.pdf
+PKK,PKK-115,RAM,RAM,11,20,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-115,RAM,DRAM,4,20,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-115,RAM,SRAM,3,20,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-116,read/write head,read/write head,0,0,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-116,read/write head,read write head,0,0,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-116,read/write head,read/write heads,0,0,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-117,rekayasa perangkat lunak,rekayasa perangkat lunak,2,22,05 Database dan Pengembangan Software.pdf
+PKK,PKK-117,rekayasa perangkat lunak,software engineering,10,22,05 Database dan Pengembangan Software.pdf
+PKK,PKK-117,rekayasa perangkat lunak,RPL,10,22,05 Database dan Pengembangan Software.pdf
+PKK,PKK-118,repository,repository,7,13,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-118,repository,e-repository,3,13,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-119,requirement,requirement,4,33,05 Database dan Pengembangan Software.pdf
+PKK,PKK-119,requirement,kebutuhan,27,33,05 Database dan Pengembangan Software.pdf
+PKK,PKK-120,revolusi industri 4.0,revolusi industri 4.0,3,5,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-121,rumpun keilmuan,rumpun keilmuan,0,5,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-121,rumpun keilmuan,rumpun keilmuan komputer,5,5,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-122,satelit,satelit,8,8,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-123,scanner,scanner,7,9,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-124,SDLC,SDLC,6,21,05 Database dan Pengembangan Software.pdf
+PKK,PKK-124,SDLC,software development life cycle,3,21,05 Database dan Pengembangan Software.pdf
+PKK,PKK-124,SDLC,siklus hidup pengembangan sistem,12,21,05 Database dan Pengembangan Software.pdf
+PKK,PKK-125,security,security,2,15,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-125,security,keamanan,8,15,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-126,sertifikasi,sertifikasi,3,6,Etika dalam keilmuan komputer.pdf
+PKK,PKK-127,server,server,13,13,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-128,sistem informasi,sistem informasi,9,14,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-128,sistem informasi,information systems,3,14,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-129,sistem komputer,sistem komputer,29,29,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-130,software,software,33,101,03 Sistem Komputer Software.pdf
+PKK,PKK-130,software,perangkat lunak,68,101,03 Sistem Komputer Software.pdf
+PKK,PKK-131,software engineer,software engineer,4,4,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-132,spiral,spiral,1,7,05 Database dan Pengembangan Software.pdf
+PKK,PKK-132,spiral,model spiral,4,7,05 Database dan Pengembangan Software.pdf
+PKK,PKK-133,stakeholder,stakeholder,8,8,09 Computational Thinking.pdf
+PKK,PKK-134,storage,storage,0,18,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-134,storage,penyimpanan,17,18,"12 Repository directory online, elearning tools, google service.pdf"
+PKK,PKK-135,system analyst,system analyst,2,5,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-136,systems thinking,systems thinking,2,14,11 Critical Thinking  Analytical Thinking.pdf
+PKK,PKK-136,systems thinking,system thinking,12,14,11 Critical Thinking  Analytical Thinking.pdf
+PKK,PKK-137,table of contents,table of contents,11,30,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-137,table of contents,daftar isi,17,30,"13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf"
+PKK,PKK-138,teknik komputer,teknik komputer,5,9,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-138,teknik komputer,computer engineering,4,9,"01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf"
+PKK,PKK-139,teknologi informasi,teknologi informasi,4,44,Etika dalam keilmuan komputer.pdf
+PKK,PKK-139,teknologi informasi,information technology,4,44,Etika dalam keilmuan komputer.pdf
+PKK,PKK-139,teknologi informasi,TI,18,44,Etika dalam keilmuan komputer.pdf
+PKK,PKK-139,teknologi informasi,IT,5,44,Etika dalam keilmuan komputer.pdf
+PKK,PKK-139,teknologi informasi,TIK,13,44,Etika dalam keilmuan komputer.pdf
+PKK,PKK-139,teknologi informasi,information and communication technology,0,44,Etika dalam keilmuan komputer.pdf
+PKK,PKK-140,testing,testing,0,8,05 Database dan Pengembangan Software.pdf
+PKK,PKK-140,testing,pengujian,7,8,05 Database dan Pengembangan Software.pdf
+PKK,PKK-141,touchpad,touchpad,1,2,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-141,touchpad,trackpad,1,2,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-142,trackball,trackball,1,1,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-143,transistor,transistor,7,9,"02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf"
+PKK,PKK-144,tren,tren,2,8,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-144,tren,perkembangan teknologi,6,8,04 Brainware  (Profesi di bidang IT).pdf
+PKK,PKK-145,types of thinking,types of thinking,12,12,11 Critical Thinking  Analytical Thinking.pdf
+PKK,PKK-146,virus,virus,5,9,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-146,virus,virus komputer,3,9,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-147,waterfall,waterfall,1,8,05 Database dan Pengembangan Software.pdf
+PKK,PKK-147,waterfall,model waterfall,3,8,05 Database dan Pengembangan Software.pdf
+PKK,PKK-147,waterfall,waterfall model,4,8,05 Database dan Pengembangan Software.pdf
+PKK,PKK-148,Wi-Fi,Wi-Fi,7,7,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-149,windows,windows,11,11,03 Sistem Komputer Software.pdf
+PKK,PKK-150,wireless,wireless,12,31,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-150,wireless,nirkabel,13,31,"06 Jaringan Komputer, Internet, security.pdf"
+PKK,PKK-150,wireless,jaringan nirkabel,4,31,"06 Jaringan Komputer, Internet, security.pdf"
+RPL,RPL-001,abstraction,abstraction,1,34,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-001,abstraction,abstraksi,32,34,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-002,acceptance testing,acceptance testing,6,6,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-003,agile,agile,6,11,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-003,agile,agile manifesto,3,11,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-004,agile unified process,agile unified process,3,8,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-004,agile unified process,AUP,5,8,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-005,ambiguity,ambiguity,1,9,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-005,ambiguity,ambiguous,6,9,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-006,architectural design,architectural design,1,5,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-007,bespoke software,bespoke software,0,6,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-007,bespoke software,custom software,3,6,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-008,black box testing,black box testing,1,1,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-009,boilerplate,boilerplate,2,4,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-010,bug,bug,0,4,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-011,change management,change management,2,4,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-012,class diagram,class diagram,2,2,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-013,coding standard,coding standard,0,1,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-014,compatibility,compatibility,0,0,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-014,compatibility,kompatibilitas,0,0,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-015,completeness,completeness,2,10,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-015,completeness,complete,8,10,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-016,component design,component design,1,1,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-017,component-based software engineering,component-based software engineering,0,0,
+RPL,RPL-017,component-based software engineering,CBSE,0,0,
+RPL,RPL-017,component-based software engineering,rekayasa perangkat lunak berbasis komponen,0,0,
+RPL,RPL-018,composition,composition,2,4,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-018,composition,komposisi,2,4,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-019,configuration management,configuration management,1,1,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-019,configuration management,manajemen konfigurasi,0,1,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-020,consistency,consistency,2,5,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-020,consistency,consistent,3,5,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-021,constraint,constraint,16,42,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-021,constraint,constraints,18,42,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-021,constraint,batasan,5,42,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-021,constraint,kendala,3,42,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-022,customer,customer,49,77,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-022,customer,customers,25,77,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-022,customer,pelanggan,0,77,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-023,customer testing,customer testing,4,4,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-024,daily scrum,daily scrum,2,4,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-025,data design,data design,1,1,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-026,data flow model,data flow model,0,4,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-027,decomposition,decomposition,2,4,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-027,decomposition,dekomposisi,2,4,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-028,deliverable,deliverable,0,3,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-028,deliverable,deliverables,3,3,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-029,delivery,delivery,6,9,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-029,delivery,delivered,3,9,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-030,deployment,deployment,2,2,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-030,deployment,penyebaran perangkat lunak,0,2,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-031,developer,developer,16,27,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-031,developer,developers,9,27,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-031,developer,pengembang,2,27,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-032,development team,development team,5,5,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-033,distributed system,distributed system,0,0,
+RPL,RPL-033,distributed system,sistem terdistribusi,0,0,
+RPL,RPL-034,DSDM,DSDM,9,13,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-034,DSDM,dynamic systems development method,4,13,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-035,embedded system,embedded system,0,0,
+RPL,RPL-035,embedded system,sistem tertanam,0,0,
+RPL,RPL-035,embedded system,embedded software,0,0,
+RPL,RPL-035,embedded system,perangkat lunak tertanam,0,0,
+RPL,RPL-036,estimation,estimation,1,1,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-037,ethnography,ethnography,4,4,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-038,extreme programming,extreme programming,4,10,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-038,extreme programming,XP,6,10,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-039,feasibility study,feasibility study,0,0,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-039,feasibility study,studi kelayakan,0,0,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-040,feature,feature,26,102,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-040,feature,features,76,102,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-040,feature,fitur,0,102,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-041,feature creep,feature creep,4,4,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-042,feature description,feature description,4,4,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-043,feature identification,feature identification,4,4,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-044,feature list,feature list,3,5,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-045,functional requirement,functional requirement,0,4,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-045,functional requirement,kebutuhan fungsional,0,4,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-045,functional requirement,functional,4,4,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-046,functional suitability,functional suitability,0,0,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-047,generic software,generic software,2,4,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-047,generic software,perangkat lunak generik,0,4,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-048,hybrid,hybrid,4,4,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-049,implementation,implementation,12,15,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-049,implementation,implementasi,2,15,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-050,incremental,incremental,1,3,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-051,integration testing,integration testing,1,1,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-052,interface design,interface design,2,2,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-053,interview,interview,2,7,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-053,interview,interviewing,3,7,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-054,iterative,iterative,2,6,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-055,kegagalan perangkat lunak,kegagalan perangkat lunak,0,4,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-055,kegagalan perangkat lunak,software failure,0,4,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-055,kegagalan perangkat lunak,kegagalan PL,4,4,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-056,kualitas perangkat lunak,kualitas perangkat lunak,5,7,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-056,kualitas perangkat lunak,software quality,1,7,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-057,maintainability,maintainability,1,4,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-057,maintainability,maintenance,3,4,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-057,maintainability,pemeliharaan,0,4,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-057,maintainability,kemudahan pemeliharaan,0,4,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-058,manajemen proyek,manajemen proyek,1,4,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-058,manajemen proyek,project management,2,4,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-059,model,model,40,52,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-059,model,models,12,52,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-060,modeling,modeling,2,32,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-060,modeling,pemodelan,24,32,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-060,modeling,pemodelan kebutuhan,6,32,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-061,natural language,natural language,13,16,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-061,natural language,bahasa natural,1,16,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-062,notation,notation,2,6,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-062,notation,notasi,4,6,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-063,object oriented analysis,object oriented analysis,1,3,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-064,observation,observation,3,4,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-065,perangkat lunak,perangkat lunak,7,103,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-065,perangkat lunak,software,77,103,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-065,perangkat lunak,PL,19,103,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-066,performance,performance,7,12,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-066,performance,unjuk kerja,5,12,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-067,performance efficiency,performance efficiency,0,0,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-067,performance efficiency,efisiensi kinerja,0,0,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-068,persona,persona,14,32,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-068,persona,personas,18,32,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-069,phase,phase,12,20,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-069,phase,phases,8,20,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-069,phase,fase,0,20,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-070,portability,portability,0,0,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-070,portability,portabilitas,0,0,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-071,problem,problem,21,38,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-071,problem,masalah,12,38,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-071,problem,permasalahan,5,38,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-072,problem domain,problem domain,13,19,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-072,problem domain,domain masalah,4,19,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-073,product backlog,product backlog,8,10,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-074,product management,product management,5,5,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-075,product manager,product manager,3,6,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-075,product manager,PM,3,6,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-075,product manager,manajer produk,0,6,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-076,product owner,product owner,3,3,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-077,product roadmap,product roadmap,4,6,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-078,product software engineering,product software engineering,4,4,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-079,product vision,product vision,17,17,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-079,product vision,visi produk,0,17,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-080,programming,programming,3,5,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-081,programming language,programming language,1,1,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-082,project planning,project planning,4,4,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-082,project planning,perencanaan proyek,0,4,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-083,prototyping,prototyping,13,27,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-083,prototyping,prototype,12,27,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-083,prototyping,prototipe,0,27,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-084,quality assurance,quality assurance,2,3,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-085,rational unified process,rational unified process,3,9,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-085,rational unified process,RUP,6,9,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-086,rationale,rationale,4,4,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-087,rekayasa perangkat lunak,rekayasa perangkat lunak,3,310,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-087,rekayasa perangkat lunak,software engineering,5,310,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-087,rekayasa perangkat lunak,RPL,302,310,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-088,release,release,4,4,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-089,requirement,requirement,19,189,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-089,requirement,requirements,57,189,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-089,requirement,kebutuhan,76,189,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-089,requirement,kebutuhan PL,37,189,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-090,requirement gathering,requirement gathering,0,0,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-090,requirement gathering,requirements gathering,0,0,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-090,requirement gathering,pengumpulan kebutuhan,0,0,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-091,requirement statement,requirement statement,1,14,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-091,requirement statement,requirement statements,4,14,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-091,requirement statement,pernyataan kebutuhan,9,14,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-092,requirements analysis,requirements analysis,2,2,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-092,requirements analysis,analisis kebutuhan,0,2,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-093,requirements definition,requirements definition,2,3,CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf
+RPL,RPL-093,requirements definition,definisi kebutuhan,1,3,CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf
+RPL,RPL-094,requirements elicitation,requirements elicitation,0,68,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-094,requirements elicitation,elisitasi kebutuhan,4,68,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-094,requirements elicitation,elisitasi,43,68,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-094,requirements elicitation,elicitation,11,68,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-094,requirements elicitation,penggalian dan analisis kebutuhan,9,68,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-095,requirements engineering,requirements engineering,4,27,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-095,requirements engineering,rekayasa kebutuhan,17,27,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-095,requirements engineering,RE,6,27,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-096,requirements management,requirements management,0,9,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-096,requirements management,manajemen kebutuhan,9,9,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-097,requirements specification,requirements specification,3,16,CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf
+RPL,RPL-097,requirements specification,spesifikasi kebutuhan,13,16,CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf
+RPL,RPL-098,requirements validation,requirements validation,3,4,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-098,requirements validation,validasi kebutuhan,1,4,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-099,requirements verification,requirements verification,0,11,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-099,requirements verification,verifikasi kebutuhan,11,11,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-100,review and inspection,review and inspection,0,7,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-100,review and inspection,review,5,7,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-101,risk management,risk management,3,3,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-101,risk management,manajemen risiko,0,3,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-102,scenario,scenario,27,56,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-102,scenario,scenarios,29,56,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-102,scenario,skenario,0,56,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-103,scheduling,scheduling,1,1,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-104,scope creep,scope creep,3,3,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-105,scrum,scrum,18,21,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-105,scrum,scrum framework,3,21,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-106,scrum master,scrum master,4,4,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-107,scrum team,scrum team,0,0,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-108,SDLC,SDLC,14,63,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-108,SDLC,software development life cycle,1,63,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-108,SDLC,siklus hidup pengembangan perangkat lunak,1,63,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-108,SDLC,model SDLC,45,63,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-108,SDLC,life cycle,2,63,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-109,security,security,4,4,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-110,service-oriented architecture,service-oriented architecture,0,0,
+RPL,RPL-110,service-oriented architecture,SOA,0,0,
+RPL,RPL-110,service-oriented architecture,arsitektur berorientasi layanan,0,0,
+RPL,RPL-110,service-oriented architecture,service-oriented,0,0,
+RPL,RPL-111,SMART,SMART,2,3,CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf
+RPL,RPL-112,software as a service,software as a service,1,2,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-113,software component,software component,0,0,
+RPL,RPL-113,software component,komponen perangkat lunak,0,0,
+RPL,RPL-113,software component,komponen PL,0,0,
+RPL,RPL-114,software design,software design,4,34,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-114,software design,desain perangkat lunak,0,34,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-114,software design,design,25,34,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-114,software design,perancangan,3,34,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-115,software development,software development,14,23,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-115,software development,pengembangan perangkat lunak,3,23,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-115,software development,pengembangan PL,6,23,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-116,software evolution,software evolution,4,4,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-116,software evolution,evolusi perangkat lunak,0,4,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-117,software maintenance,software maintenance,1,2,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-117,software maintenance,pemeliharaan perangkat lunak,0,2,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-118,software measurement,software measurement,1,1,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-119,software process,software process,4,50,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-119,software process,proses perangkat lunak,5,50,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-119,software process,proses PL,41,50,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-120,software product,software product,9,26,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-120,software product,software products,17,26,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-120,software product,produk perangkat lunak,0,26,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-121,software programmer,software programmer,2,4,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-122,software project,software project,0,0,
+RPL,RPL-122,software project,proyek perangkat lunak,0,0,
+RPL,RPL-122,software project,projek PL,0,0,
+RPL,RPL-122,software project,proyek PL,0,0,
+RPL,RPL-123,software specification,software specification,5,5,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-124,software validation,software validation,6,6,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-125,solution domain,solution domain,8,10,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-125,solution domain,domain solusi,2,10,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-126,spiral,spiral,5,5,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-127,sprint,sprint,7,10,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-127,sprint,sprints,3,10,CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf
+RPL,RPL-128,SRS,SRS,5,7,CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf
+RPL,RPL-129,stakeholder,stakeholder,10,20,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-129,stakeholder,stakeholders,9,20,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-129,stakeholder,pemangku kepentingan,1,20,CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf
+RPL,RPL-130,system requirements,system requirements,7,8,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-130,system requirements,kebutuhan sistem,1,8,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-131,test case,test case,0,2,CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf
+RPL,RPL-132,testing,testing,5,7,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-132,testing,pengujian,2,7,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-133,traceability,traceability,4,6,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-134,trade-off,trade-off,2,3,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-135,UML,UML,5,6,CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf
+RPL,RPL-136,unit testing,unit testing,1,2,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-137,usability,usability,3,3,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-138,user,user,72,142,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-138,user,users,57,142,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-138,user,pengguna,10,142,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-138,user,end-user,3,142,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-139,user interface,user interface,6,7,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-140,user interface design,user interface design,3,3,CIF61101-Bab8a-Software Products (Sommerville).pdf
+RPL,RPL-141,user requirements,user requirements,3,3,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-141,user requirements,kebutuhan pengguna,0,3,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-142,user story,user story,4,26,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-142,user story,user stories,22,26,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-142,user story,cerita pengguna,0,26,"CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf"
+RPL,RPL-143,V&V,V&V,12,13,CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf
+RPL,RPL-144,v-model,v-model,0,6,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-145,validation,validation,12,26,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-145,validation,validasi,14,26,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-146,verification,verification,11,14,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-146,verification,verifikasi,3,14,CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf
+RPL,RPL-147,version management,version management,1,1,CIF61101-Bab1-Pengantar-v1.0.pdf
+RPL,RPL-148,waterfall,waterfall,10,10,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf
+RPL,RPL-149,web service,web service,0,0,
+RPL,RPL-149,web service,layanan web,0,0,
+RPL,RPL-149,web service,web services,0,0,
+RPL,RPL-150,white box testing,white box testing,1,1,CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf

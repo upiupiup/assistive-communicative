@@ -1,0 +1,373 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+IMK-05	IMK		1	0.460	4.640	4.180	Assalamualaikum warahmatullahi wabarakatuh, salam sejahtera untuk kita semua.	Assalamualaikum warahmatullahi wabarakatuh, salam sejahtera untuk kita semua.		
+IMK-05	IMK		2	5.120	9.180	4.060	Terima kasih untuk adan teman-teman yang telah hadir di pertemuan kedua kita ya,	Terima kasih untuk adan teman-teman yang telah hadir di pertemuan kedua kita ya,		
+IMK-05	IMK		3	9.620	11.540	1.920	di mata belah interaksi manusia dan dunia.	di mata belah interaksi manusia dan dunia.		
+IMK-05	IMK		4	12.360	17.140	4.780	Pada pertemuan kedua ini kita akan membahas tentang kerangka kerja dan paradigma interaksi.	Pada pertemuan kedua ini kita akan membahas tentang kerangka kerja dan paradigma interaksi.		
+IMK-05	IMK		5	22.280	27.760	5.480	Setelah pelajari materi ke-12 ini, diharapkan serta tuton atau mahasiswa atau mahasiswi	Setelah pelajari materi ke-12 ini, diharapkan serta tuton atau mahasiswa atau mahasiswi		
+IMK-05	IMK		6	27.760	31.000	3.240	mampu menjelaskan siklus tindakan eksekusi atau evaluasi,	mampu menjelaskan siklus tindakan eksekusi atau evaluasi,		
+IMK-05	IMK		7	31.000	34.560	3.560	Menjelaskan komponen utama kerangka kerja interaksi	Menjelaskan komponen utama kerangka kerja interaksi		
+IMK-05	IMK		8	34.560	36.120	1.560	Menjelaskan siklus interaksi	Menjelaskan siklus interaksi		
+IMK-05	IMK		9	36.120	39.720	3.600	Menjelaskan cara manusia mengatasi kompleksitas lingkungan kerja	Menjelaskan cara manusia mengatasi kompleksitas lingkungan kerja		
+IMK-05	IMK		10	39.720	43.340	3.620	Menjelaskan paradigma dominan dalam perancangan suatu antarmuka	Menjelaskan paradigma dominan dalam perancangan suatu antarmuka		
+IMK-05	IMK		11	43.340	46.780	3.440	Dan menjelaskan keterbatasan paradigma dalam perancangan suatu antarmuka	Dan menjelaskan keterbatasan paradigma dalam perancangan suatu antarmuka		
+IMK-05	IMK		12	46.780	50.200	3.420	Nah ini pengantar awalnya	Nah ini pengantar awalnya		
+IMK-05	IMK		13	50.200	56.800	6.600	Kerangka kerja pada dasarnya adalah sebuah struktur yang digunakan untuk mengkonseptualisasikan suatu sistem	Kerangka kerja pada dasarnya adalah sebuah struktur yang digunakan untuk mengkonseptualisasikan suatu sistem		
+IMK-05	IMK		14	56.800	73.300	16.500	Dengan kerja-kerja yang tepat, rancang dapat mengkonseptualisasikan ruang persoalan secara menyeluruh dan tidak hanya sekedar perencampuran komponen-komponen terpisah, meskipun secara bersamaan ada kemungkinan mereka juga mampu menciptakan suatu ruang kerja dan kelompok berkakas interaksi.	Dengan kerja-kerja yang tepat, rancang dapat mengkonseptualisasikan ruang persoalan secara menyeluruh dan tidak hanya sekedar perencampuran komponen-komponen terpisah, meskipun secara bersamaan ada kemungkinan mereka juga mampu menciptakan suatu ruang kerja dan kelompok berkakas interaksi.		
+IMK-05	IMK		15	73.440	80.400	6.960	Jadi itulah kerja-kerja adalah suatu struktur ya, dimana dipisualisasikan dari suatu sistem yang memudahkan pengguna intinya.	Jadi itulah kerja-kerja adalah suatu struktur ya, dimana dipisualisasikan dari suatu sistem yang memudahkan pengguna intinya.		
+IMK-05	IMK		16	80.400	84.500	4.100	Nah ini siklus tindakan eksekusi atau evaluasi	Nah ini siklus tindakan eksekusi atau evaluasi		
+IMK-05	IMK		17	84.500	89.840	5.340	Di Donald Norman tahun 1990 menyajikan suatu konsep yang menggengperan sangat penting	Di Donald Norman tahun 1990 menyajikan suatu konsep yang menggengperan sangat penting		
+IMK-05	IMK		18	89.840	93.240	3.400	Yang memungkinkan perancang dapat memakai konsep IMK dengan lebih mudah	Yang memungkinkan perancang dapat memakai konsep IMK dengan lebih mudah		
+IMK-05	IMK		19	93.240	97.460	4.220	Konsep tersebut dikenal dengan siklus tindakan eksekusi atau evaluasi	Konsep tersebut dikenal dengan siklus tindakan eksekusi atau evaluasi		
+IMK-05	IMK		20	97.460	99.320	1.860	Atau disingkatan dengan ISTAA	Atau disingkatan dengan STEE		
+IMK-05	IMK		21	99.320	103.960	4.640	Nah menurut Norman struktur tindakan mempunyai 4 bagian dasar sebagai berikut	Nah menurut Norman struktur tindakan mempunyai 4 bagian dasar sebagai berikut		
+IMK-05	IMK		22	103.960	105.600	1.640	Pertama, goal atau tujuan	Pertama, goal atau tujuan		
+IMK-05	IMK		23	105.600	107.600	2.000	Kerjaan diinginkan oleh pengguna	Kerjaan diinginkan oleh pengguna		
+IMK-05	IMK		24	107.600	109.000	1.400	Yang kedua adalah eksekusi	Yang kedua adalah eksekusi		
+IMK-05	IMK		25	109.000	116.660	7.660	melakukan tindakan yang sesuai dengan yang diinginkan agar bisa dicapai.	melakukan tindakan yang sesuai dengan yang diinginkan agar bisa dicapai.		
+IMK-05	IMK		26	117.680	121.300	3.620	Habis itu dunia nyata, bahkan tempat atau pengguna atau eksekusi	Habis itu dunia nyata, bahkan tempat atau pengguna atau eksekusi		
+IMK-05	IMK		27	121.300	125.440	4.140	fokus yang dimanipulasi.	fokus yang dimanipulasi.		
+IMK-05	IMK		28	126.260	128.980	2.720	Dan yang keempat evaluasi, pengguna melakukan validasi	Dan yang keempat evaluasi, pengguna melakukan validasi		
+IMK-05	IMK		29	128.980	133.560	4.580	atau suatu tindakan membandingkan hasil yang dibuat dengan goal yang telah ditetapkan.	atau suatu tindakan membandingkan hasil yang dibuat dengan goal yang telah ditetapkan.		
+IMK-05	IMK		30	133.560	137.400	3.840	Evaluasi itu membandingkan tujuan yang kita telah ditetapkan	Evaluasi itu membandingkan tujuan yang kita telah ditetapkan		
+IMK-05	IMK		31	137.400	139.280	1.880	dengan apa yang telah kita dapatkan saat ini.	dengan apa yang telah kita dapatkan saat ini.		
+IMK-05	IMK		32	140.120	147.010	6.890	Nah, siklus tujuh langkah dari tindakan dapat diingkat pada gambar di samping.	Nah, siklus tujuh langkah dari tindakan dapat diingkat pada gambar di samping.		
+IMK-05	IMK		33	147.190	149.210	2.020	Kalian bisa lihat, ini tujuh langkah.	Kalian bisa lihat, ini tujuh langkah.		
+IMK-05	IMK		34	152.770	155.350	2.580	Pertama, menetapkan tujuan dulu, goalnya apa.	Pertama, menetapkan tujuan dulu, goalnya apa.		
+IMK-05	IMK		35	155.590	158.350	2.760	Jadi suatu perusahaan dan organisasi itu pasti punya tujuan dan masing-masing.	Jadi suatu perusahaan dan organisasi itu pasti punya tujuan dan masing-masing.		
+IMK-05	IMK		36	158.890	160.070	1.180	Yang kedua, membentuk keinginan.	Yang kedua, membentuk keinginan.		
+IMK-05	IMK		37	160.390	162.070	1.680	Apa yang ingin dicapai dari tujuan tersebut?	Apa yang ingin dicapai dari tujuan tersebut?		
+IMK-05	IMK		38	162.070	165.230	3.160	Apakah ingin 100% dicapai atau 80% atau 70%?	Apakah ingin 100% dicapai atau 80% atau 70%?		
+IMK-05	IMK		39	165.350	165.930	0.580	Kita harus tahu.	Kita harus tahu.		
+IMK-05	IMK		40	166.370	168.270	1.900	Yang ketiga, menentukan urutan di tindakan.	Yang ketiga, menentukan urutan di tindakan.		
+IMK-05	IMK		41	168.270	169.610	1.340	apa saja yang ingin kita lakukan	apa saja yang ingin kita lakukan		
+IMK-05	IMK		42	169.610	171.410	1.800	untuk bisa mencapai tujuan yang kita inginkan	untuk bisa mencapai tujuan yang kita inginkan		
+IMK-05	IMK		43	171.410	173.890	2.480	mengeksekusi tindakan sesuai dengan prosedur	mengeksekusi tindakan sesuai dengan prosedur		
+IMK-05	IMK		44	173.890	176.190	2.300	agar bisa mendapatkan hasil tujuan yang diinginkan	agar bisa mendapatkan hasil tujuan yang diinginkan		
+IMK-05	IMK		45	176.190	178.270	2.080	yang kelima memahami status dunia nyata	yang kelima memahami status dunia nyata		
+IMK-05	IMK		46	178.270	180.990	2.720	bagaimana saat ini lingkungan dan lain sebagainya	bagaimana saat ini lingkungan dan lain sebagainya		
+IMK-05	IMK		47	180.990	185.750	4.760	menginterpretasikan persepsi	menginterpretasikan persepsi		
+IMK-05	IMK		48	185.750	191.110	5.360	bagaimana suatu pemikiran yang ada dalam otak kita	bagaimana suatu pemikiran yang ada dalam otak kita		
+IMK-05	IMK		49	191.110	193.770	2.660	mampu diterapkan dan dijalankan	mampu diterapkan dan dijalankan		
+IMK-05	IMK		50	193.770	196.270	2.500	atau diterapkan dalam suatu sistem	atau diterapkan dalam suatu sistem		
+IMK-05	IMK		51	196.270	198.130	1.860	dan yang terakhir mengevaluasi hasil	dan yang terakhir mengevaluasi hasil		
+IMK-05	IMK		52	198.130	200.170	2.040	interpretasinya	interpretasinya		
+IMK-05	IMK		53	200.170	202.590	2.420	lalu melakukan perbandingan	lalu melakukan perbandingan		
+IMK-05	IMK		54	202.590	204.350	1.760	apa yang menuju dengan apa yang saat ini	apa yang menuju dengan apa yang saat ini		
+IMK-05	IMK		55	204.350	205.870	1.520	dilakukan, sudah sesuai atau tidak	dilakukan, sudah sesuai atau tidak		
+IMK-05	IMK		56	205.870	208.670	2.800	jarak pemisah eksekusi	jarak pemisah eksekusi		
+IMK-05	IMK		57	208.670	210.310	1.640	dan jarak pemisah evaluasi, terdapat	dan jarak pemisah evaluasi, terdapat		
+IMK-05	IMK		58	210.310	211.950	1.640	jarak pemisah antara	jarak pemisah antara		
+IMK-05	IMK		59	211.950	214.290	2.340	siklus eksekusi dan evaluasi	siklus eksekusi dan evaluasi		
+IMK-05	IMK		60	214.290	215.870	1.580	dimana terdapat sistem fisik dari	dimana terdapat sistem fisik dari		
+IMK-05	IMK		61	215.870	218.410	2.540	siklus eksekusi menuju siklus evaluasi	siklus eksekusi menuju siklus evaluasi		
+IMK-05	IMK		62	218.410	220.230	1.820	dan terdapat goal atau tujuan	dan terdapat goal atau tujuan		
+IMK-05	IMK		63	220.230	222.270	2.040	pengguna antara siklus evaluasi menuju	pengguna antara siklus evaluasi menuju		
+IMK-05	IMK		64	222.270	223.910	1.640	siklus eksekusi	siklus eksekusi		
+IMK-05	IMK		65	223.910	226.230	2.320	ada jarak pemisah, jadi sistem	ada jarak pemisah, jadi sistem		
+IMK-05	IMK		66	226.230	229.690	3.460	dengan tujuan pengguna itu pasti ada yang namanya masalah.	dengan tujuan pengguna itu pasti ada yang namanya masalah.		
+IMK-05	IMK		67	230.270	233.330	3.060	Nah, itu walaupun namanya valuasi, akan mendapatkan hasil yang diinginkan.	Nah, itu walaupun namanya valuasi, akan mendapatkan hasil yang diinginkan.		
+IMK-05	IMK		68	235.380	238.300	2.920	Nah, jarak pemisah eksekusi, kita bahas dulu.	Nah, jarak pemisah eksekusi, kita bahas dulu.		
+IMK-05	IMK		69	238.740	241.340	2.600	Jarak pemisah eksekusi adalah perbedaan antara keinginan pengguna	Jarak pemisah eksekusi adalah perbedaan antara keinginan pengguna		
+IMK-05	IMK		70	241.340	243.280	1.940	dengan apa yang dilakukan oleh sebuah sistem	dengan apa yang dilakukan oleh sebuah sistem		
+IMK-05	IMK		71	243.280	248.240	4.960	atau seberapa jauh sistem tersebut dapat mendukung tindakan yang dilakukan oleh pengguna.	atau seberapa jauh sistem tersebut dapat mendukung tindakan yang dilakukan oleh pengguna.		
+IMK-05	IMK		72	248.900	252.960	4.060	Semakin lebih berjarak eksekusi, suatu antar buka yang berarti sebuah was sistem ini	Semakin lebih berjarak eksekusi, suatu antar buka yang berarti sebuah was sistem ini		
+IMK-05	IMK		73	252.960	255.920	2.960	semakin tidak dapat mendukung tindakan yang dilakukan oleh pengguna.	semakin tidak dapat mendukung tindakan yang dilakukan oleh pengguna.		
+IMK-05	IMK		74	255.920	259.960	4.040	Kemungkinan pengguna mengalami frustrasi dan akan semakin besar pula	Kemungkinan pengguna mengalami frustrasi dan akan semakin besar pula		
+IMK-05	IMK		75	259.960	265.380	5.420	Jadi semakin jauh jarak pemisah antara yang namanya eksekusi tadi	Jadi semakin jauh jarak pemisah antara yang namanya eksekusi tadi		
+IMK-05	IMK		76	265.380	271.160	5.780	Maka sistem itu dianggap semakin tidak sesuai dengan apa yang diharapkan atau dengan tujuan tadi	Maka sistem itu dianggap semakin tidak sesuai dengan apa yang diharapkan atau dengan tujuan tadi		
+IMK-05	IMK		77	271.160	273.520	2.360	Habis itu jarak pemisah evaluasi	Habis itu jarak pemisah evaluasi		
+IMK-05	IMK		78	273.520	278.240	4.720	Jarak pemisah evaluasi adalah tingkat kesulitan yang dihadapi pengguna untuk mengartikan status sistem	Jarak pemisah evaluasi adalah tingkat kesulitan yang dihadapi pengguna untuk mengartikan status sistem		
+IMK-05	IMK		79	278.240	283.000	4.760	Seberapa jauh tipak atau penggunaan yang dimiliki antara muka mendukung pengguna	Seberapa jauh tipak atau penggunaan yang dimiliki antara muka mendukung pengguna		
+IMK-05	IMK		80	283.000	285.920	2.920	untuk menemukan dan menginterprestasikan status sistem.	untuk menemukan dan menginterprestasikan status sistem.		
+IMK-05	IMK		81	286.860	290.820	3.960	Nah, perlu disadari bahwa jarak pemisah evaluasi tidak mungkin dihindari secara menyeluruh,	Nah, perlu disadari bahwa jarak pemisah evaluasi tidak mungkin dihindari secara menyeluruh,		
+IMK-05	IMK		82	290.940	294.080	3.140	tapi hal ini harus diminimalisir sekecil mungkin.	tapi hal ini harus diminimalisir sekecil mungkin.		
+IMK-05	IMK		83	294.420	299.340	4.920	Makanya evaluasi itu adalah hal yang harus dilakukan setelah sistem itu diterapkan	Makanya evaluasi itu adalah hal yang harus dilakukan setelah sistem itu diterapkan		
+IMK-05	IMK		84	299.340	302.800	3.460	agar bisa tahu apa yang kurang, apa yang perlu diperbaikin.	agar bisa tahu apa yang kurang, apa yang perlu diperbaikin.		
+IMK-05	IMK		85	305.520	308.780	3.260	Nah, terangkan kerja interaksi, siklus tindakan eksekusi atau evaluasi	Nah, terangkan kerja interaksi, siklus tindakan eksekusi atau evaluasi		
+IMK-05	IMK		86	308.780	312.580	3.800	berfokus pada cara dipandang pengguna tentang interaksi,	berfokus pada cara dipandang pengguna tentang interaksi,		
+IMK-05	IMK		87	312.580	315.920	3.340	Tidak mempertimbangkan hal lain di luar interaksi	Tidak mempertimbangkan hal lain di luar interaksi		
+IMK-05	IMK		88	315.920	320.780	4.860	Nah, Augen dan Bill tahun di sekitar 1998	Nah, Abowd dan Beale tahun di sekitar 1998		
+IMK-05	IMK		89	320.780	323.360	2.580	Memperluas pendekatan ini secara eksplisit	Memperluas pendekatan ini secara eksplisit		
+IMK-05	IMK		90	323.360	326.760	3.400	Dengan memasukkan sistem dan cara mereka berkomunasi	Dengan memasukkan sistem dan cara mereka berkomunasi		
+IMK-05	IMK		91	326.760	328.960	2.200	Dengan pengguna memanfaatkan harta muka yang ada	Dengan pengguna memanfaatkan harta muka yang ada		
+IMK-05	IMK		92	328.960	330.660	1.700	Nah, ini adalah salah satu contohnya	Nah, ini adalah salah satu contohnya		
+IMK-05	IMK		93	330.660	334.280	3.620	Masukan tugas mesin penyajian dan pengerjaan	Masukan tugas mesin penyajian dan pengerjaan		
+IMK-05	IMK		94	334.280	337.940	3.660	Kalau tugas pengguna adalah observasi dan artikulasinya	Kalau tugas pengguna adalah observasi dan artikulasinya		
+IMK-05	IMK		95	337.940	353.260	15.320	Nah, perangkat kerja interaksi ini terdiri dari empat komponen utama, yaitu pertama S, sistem, menggunakan bahasa mesin atau input seperti OPHP dan lain sebagainya, pengguna adalah kita, user, brandware, dan lain sebagainya.	Nah, perangkat kerja interaksi ini terdiri dari empat komponen utama, yaitu pertama S, sistem, menggunakan bahasa mesin atau input seperti HP dan lain sebagainya, pengguna adalah kita, user, brainware, dan lain sebagainya.		
+IMK-05	IMK		96	353.960	359.640	5.680	Input, masukkan menggunakan bahasa masukkan, keluaran atau output menggunakan bahasa keluaran sesuai dengan kebutuhan.	Input, masukkan menggunakan bahasa masukkan, keluaran atau output menggunakan bahasa keluaran sesuai dengan kebutuhan.		
+IMK-05	IMK		97	359.640	363.360	3.720	untuk pasta eksekusi	untuk pasta eksekusi		
+IMK-05	IMK		98	363.360	365.240	1.880	pasta eksekusi terdiri 3 langkah yaitu	pasta eksekusi terdiri 3 langkah yaitu		
+IMK-05	IMK		99	365.240	367.560	2.320	artikulasi, pengguna memformulasikan	artikulasi, pengguna memformulasikan		
+IMK-05	IMK		100	367.560	369.220	1.660	sebuah tujuan yang	sebuah tujuan yang		
+IMK-05	IMK		101	369.220	370.940	1.720	kemudian dinyatakan dalam bahasa	kemudian dinyatakan dalam bahasa		
+IMK-05	IMK		102	370.940	371.560	0.620	masukkan	masukkan		
+IMK-05	IMK		103	371.560	375.000	3.440	misalnya, saya ingin	misalnya, saya ingin		
+IMK-05	IMK		104	375.000	376.980	1.980	mencetak suatu dokumen A	mencetak suatu dokumen A		
+IMK-05	IMK		105	376.980	380.850	3.870	bagaimana cara melakukannya	bagaimana cara melakukannya		
+IMK-05	IMK		106	380.850	382.710	1.860	dengan cara misalnya kalau di Word adalah	dengan cara misalnya kalau di Word adalah		
+IMK-05	IMK		107	382.710	384.490	1.780	Ctrl P misalnya, Ctrl Print	Ctrl P misalnya, Ctrl Print		
+IMK-05	IMK		108	384.490	386.690	2.200	atau dengan file di Print dan sebagainya	atau dengan file di Print dan sebagainya		
+IMK-05	IMK		109	386.690	387.770	1.080	itu satu contohnya	itu satu contohnya		
+IMK-05	IMK		110	387.770	390.610	2.840	pengerjaan bahasa masukkan diterjemahkan dalam bahasa	pengerjaan bahasa masukkan diterjemahkan dalam bahasa		
+IMK-05	IMK		111	390.610	392.610	2.000	mesin dikerjakan oleh sistem penyajian	mesin dikerjakan oleh sistem penyajian		
+IMK-05	IMK		112	392.610	394.590	1.980	sistem menyajikan hasil operasi yang menggunakan	sistem menyajikan hasil operasi yang menggunakan		
+IMK-05	IMK		113	394.590	396.630	2.040	bahasa mesin, menggunakan bahasa keluaran	bahasa mesin, menggunakan bahasa keluaran		
+IMK-05	IMK		114	396.630	398.550	1.920	ya intinya saat kita minta print	ya intinya saat kita minta print		
+IMK-05	IMK		115	398.550	400.450	1.900	komputer akan mengirimkan	komputer akan mengirimkan		
+IMK-05	IMK		116	400.450	402.770	2.320	sensor komputer atau sensor komputer	sensor komputer atau sensor komputer		
+IMK-05	IMK		117	402.770	404.490	1.720	ke dalam printer bahwa ada	ke dalam printer bahwa ada		
+IMK-05	IMK		118	404.490	405.510	1.020	dokumen yang harus di print	dokumen yang harus di print		
+IMK-05	IMK		119	405.510	407.390	1.880	setelah itu pas evaluasi	setelah itu pas evaluasi		
+IMK-05	IMK		120	407.390	410.810	3.420	berisi satu langkah yaitu observasi	berisi satu langkah yaitu observasi		
+IMK-05	IMK		121	410.810	412.310	1.500	pengguna mengartikan hasil yang	pengguna mengartikan hasil yang		
+IMK-05	IMK		122	412.310	414.310	2.000	muncul di layar mencocokkan dengan goal	muncul di layar mencocokkan dengan goal		
+IMK-05	IMK		123	414.310	416.630	2.320	atau tujuan semula yang ditetapkan	atau tujuan semula yang ditetapkan		
+IMK-05	IMK		124	416.630	419.990	3.360	nah model mental adalah	nah model mental adalah		
+IMK-05	IMK		125	419.990	421.910	1.920	penyajian kognitif suatu proses	penyajian kognitif suatu proses		
+IMK-05	IMK		126	421.910	424.730	2.820	atau objek yang menyatakan suatu perkiraan logis	atau objek yang menyatakan suatu perkiraan logis		
+IMK-05	IMK		127	424.730	427.550	2.820	yang dapat diterima tentang bagaimana suatu benda dibentuk	yang dapat diterima tentang bagaimana suatu benda dibentuk		
+IMK-05	IMK		128	427.550	429.710	2.160	atau bagaimana benda berfungsi.	atau bagaimana benda berfungsi.		
+IMK-05	IMK		129	430.210	432.590	2.380	Nah, seringkali pengguna mempunyai model metal	Nah, seringkali pengguna mempunyai model mental		
+IMK-05	IMK		130	432.590	433.970	1.380	yang sama sekali tidak tepat,	yang sama sekali tidak tepat,		
+IMK-05	IMK		131	434.090	437.070	2.980	tetapi masih tetap dapat berinteraksi dengan objek yang dimaksud.	tetapi masih tetap dapat berinteraksi dengan objek yang dimaksud.		
+IMK-05	IMK		132	437.350	439.750	2.400	Nah, model metal menciptakan kerangka kerja	Nah, model metal menciptakan kerangka kerja		
+IMK-05	IMK		133	439.750	442.550	2.800	yang menciptakan pengguna untuk melakukan suatu pekerjaan.	yang menciptakan pengguna untuk melakukan suatu pekerjaan.		
+IMK-05	IMK		134	442.650	444.410	1.760	Jika model metal pengguna cukup dekat	Jika model metal pengguna cukup dekat		
+IMK-05	IMK		135	444.410	446.910	2.500	dengan cara yang untuk bergerak sama sistem,	dengan cara yang untuk bergerak sama sistem,		
+IMK-05	IMK		136	446.910	449.370	2.460	maka pengguna dapat menggunakan sistem tersebut	maka pengguna dapat menggunakan sistem tersebut		
+IMK-05	IMK		137	449.370	450.530	1.160	tanpa kesulitan.	tanpa kesulitan.		
+IMK-05	IMK		138	450.530	455.690	5.160	Tetapi seringkali model mental pengguna dicipta berdasarkan asumsi yang salah	Tetapi seringkali model mental pengguna dicipta berdasarkan asumsi yang salah		
+IMK-05	IMK		139	455.690	458.990	3.300	Sehingga pengguna memerlukan kerja lebih dibanding yang seharusnya	Sehingga pengguna memerlukan kerja lebih dibanding yang seharusnya		
+IMK-05	IMK		140	458.990	461.170	2.180	Makanya itu model mental ini diperlukan	Makanya itu model mental ini diperlukan		
+IMK-05	IMK		141	461.170	463.290	2.120	Jadi kita harus buat rangka terlebih dahulu	Jadi kita harus buat rangka terlebih dahulu		
+IMK-05	IMK		142	463.290	467.490	4.200	Desain dan lain sebagainya untuk mendapatkan penggunaan yang lebih baik	Desain dan lain sebagainya untuk mendapatkan penggunaan yang lebih baik		
+IMK-05	IMK		143	467.490	472.520	5.030	Nah ini beberapa kristik model mental yang perlu diketahui antara lain	Nah ini beberapa karakteristik model mental yang perlu diketahui antara lain		
+IMK-05	IMK		144	472.520	473.600	1.080	Pertama tidak ilmiah	Pertama tidak ilmiah		
+IMK-05	IMK		145	473.600	477.020	3.420	Model mental seringkali didasarkan pada perkiraan atau asal tebak	Model mental seringkali didasarkan pada perkiraan atau asal tebak		
+IMK-05	IMK		146	477.020	478.080	1.060	Itu yang tidak dibolehkan	Itu yang tidak dibolehkan		
+IMK-05	IMK		147	478.080	482.440	4.360	Jadi harus namanya melakukan kursioner atau melakukan survei dan sebagainya	Jadi harus namanya melakukan kursioner atau melakukan survei dan sebagainya		
+IMK-05	IMK		148	482.440	485.800	3.360	Tidak lengkap, model mental tidak selalu menjelaskan sistem secara keseluruhan	Tidak lengkap, model mental tidak selalu menjelaskan sistem secara keseluruhan		
+IMK-05	IMK		149	485.800	488.780	2.980	Hanya menjelaskan aspek yang relevan pada orang yang memformulasikan	Hanya menjelaskan aspek yang relevan pada orang yang memformulasikan		
+IMK-05	IMK		150	488.780	492.100	3.320	Jadi buatlah SOP atau standar-standar yang perlu dilakukan	Jadi buatlah SOP atau standar-standar yang perlu dilakukan		
+IMK-05	IMK		151	492.100	496.660	4.560	Tidak stabil, model mental bukan merupakan formulasi yang nyata	Tidak stabil, model mental bukan merupakan formulasi yang nyata		
+IMK-05	IMK		152	496.660	499.280	2.620	Tetapi berkembang dan beratapsi dengan konteksnya	Tetapi berkembang dan beradaptasi dengan konteksnya		
+IMK-05	IMK		153	499.280	501.300	2.020	Yang keempat, tidak konsisten	Yang keempat, tidak konsisten		
+IMK-05	IMK		154	501.300	503.940	2.640	Model mental tidak membentuk satu kesatuan yang utuh	Model mental tidak membentuk satu kesatuan yang utuh		
+IMK-05	IMK		155	503.940	507.400	3.460	Beberapa bagian dari model yang sama sering tidak kompatibel	Beberapa bagian dari model yang sama sering tidak kompatibel		
+IMK-05	IMK		156	507.400	509.560	2.160	satu dengan yang lainnya, dan yang terakhir adalah	satu dengan yang lainnya, dan yang terakhir adalah		
+IMK-05	IMK		157	509.560	511.720	2.160	personal, model mental sifat unik	personal, model mental sifat unik		
+IMK-05	IMK		158	511.720	513.260	1.540	untuk setiap individu, sehingga	untuk setiap individu, sehingga		
+IMK-05	IMK		159	513.260	515.180	1.920	tidak bisa ditetapkan secara umum	tidak bisa ditetapkan secara umum		
+IMK-05	IMK		160	515.180	519.040	3.860	nah ini bagian penting dari model mental	nah ini bagian penting dari model mental		
+IMK-05	IMK		161	519.040	521.020	1.980	model mental tidak mudah untuk dipahami	model mental tidak mudah untuk dipahami		
+IMK-05	IMK		162	521.020	523.060	2.040	jika perancang sadar akan model mental ini	jika perancang sadar akan model mental ini		
+IMK-05	IMK		163	523.060	525.040	1.980	perancang dapat menciptakan rancangan lebih konsisten	perancang dapat menciptakan rancangan lebih konsisten		
+IMK-05	IMK		164	525.040	526.900	1.860	dengan model mental dari calon penggunanya	dengan model mental dari calon penggunanya		
+IMK-05	IMK		165	526.900	528.900	2.000	habis itu pengguna	habis itu pengguna		
+IMK-05	IMK		166	528.900	531.420	2.520	bukan merupakan satu-satunya yang menciptakan model mental	bukan merupakan satu-satunya yang menciptakan model mental		
+IMK-05	IMK		167	531.420	533.240	1.820	dan yang terakhir banyak sistem	dan yang terakhir perancang sistem		
+IMK-05	IMK		168	533.240	534.900	1.660	juga mempunyai model konseptual	juga mempunyai model konseptual		
+IMK-05	IMK		169	534.900	536.860	1.960	sebelum sistem dikembangkan, jadi	sebelum sistem dikembangkan, jadi		
+IMK-05	IMK		170	536.860	539.000	2.140	harus berkolaborasi antara	harus berkolaborasi antara		
+IMK-05	IMK		171	539.000	540.900	1.900	pengguna sistem dengan yang pembuat	pengguna sistem dengan yang pembuat		
+IMK-05	IMK		172	540.900	543.440	2.540	sistemnya, agar bisa mendapatkan	sistemnya, agar bisa mendapatkan		
+IMK-05	IMK		173	543.440	544.980	1.540	program atau aplikasi yang	program atau aplikasi yang		
+IMK-05	IMK		174	544.980	546.220	1.240	sesuai yang diinginkan	sesuai yang diinginkan		
+IMK-05	IMK		175	546.220	551.390	5.170	nah ini bagian yang selanjutnya	nah ini bagian yang selanjutnya		
+IMK-05	IMK		176	551.390	553.070	1.680	bagian penting dari model mental	bagian penting dari model mental		
+IMK-05	IMK		177	553.070	555.090	2.020	berdasarkan teori model mental normal	berdasarkan teori model mental normal		
+IMK-05	IMK		178	555.090	557.110	2.020	pada tahun 1986, berdasarkan 3 bagian	pada tahun 1986, berdasarkan 3 bagian		
+IMK-05	IMK		179	557.110	558.710	1.600	penting model mental sebagai berikut	penting model mental sebagai berikut		
+IMK-05	IMK		180	558.710	561.350	2.640	model konseptual, kalau bisa lihat model konseptual	model konseptual, kalau bisa lihat model konseptual		
+IMK-05	IMK		181	561.350	563.470	2.120	ada seperti ini, ada perancang	ada seperti ini, ada perancang		
+IMK-05	IMK		182	563.470	564.250	0.780	jadi	jadi		
+IMK-05	IMK		183	564.250	566.910	2.660	model konseptual itu perancang begini seperti ini	model konseptual itu perancang begini seperti ini		
+IMK-05	IMK		184	566.910	568.890	1.980	di gambarannya, makanya seperti ini bentuknya	di gambarannya, makanya seperti ini bentuknya		
+IMK-05	IMK		185	568.890	571.090	2.200	ukurannya, nah pengguna	ukurannya, nah pengguna		
+IMK-05	IMK		186	571.090	573.190	2.100	juga sama, jadi gambaran	juga sama, jadi gambaran		
+IMK-05	IMK		187	573.190	575.370	2.180	sistem itu sama, sesuai apa yang diinginkan	sistem itu sama, sesuai apa yang diinginkan		
+IMK-05	IMK		188	575.370	577.110	1.740	konseptualnya itu	konseptualnya itu		
+IMK-05	IMK		189	577.110	579.050	1.940	sama, mentalnya juga sama dari penggunanya	sama, mentalnya juga sama dari penggunanya		
+IMK-05	IMK		190	579.050	580.950	1.900	jadi apa yang kita inginkan	jadi apa yang kita inginkan		
+IMK-05	IMK		191	580.950	582.770	1.820	dan apa yang pengguna itu inginkan, sama	dan apa yang pengguna itu inginkan, sama		
+IMK-05	IMK		192	582.770	584.870	2.100	nah gambaran sistem adalah	nah gambaran sistem adalah		
+IMK-05	IMK		193	584.870	586.850	1.980	sistem yang diciptakan oleh perancang dan penggunakan	sistem yang diciptakan oleh perancang dan penggunakan		
+IMK-05	IMK		194	586.850	588.770	1.920	dilakukan pengguna, jadi apa yang misalnya kita ingin	dilakukan pengguna, jadi apa yang misalnya kita ingin		
+IMK-05	IMK		195	588.770	590.290	1.520	buat suatu bangku, ya	buat suatu bangku, ya		
+IMK-05	IMK		196	590.290	593.150	2.860	apa yang harus kita lakukan, lidiakan ini, bantal dan sebagainya	apa yang harus kita lakukan, sediakan ini, bantal dan sebagainya		
+IMK-05	IMK		197	593.150	594.810	1.660	sama, harus sama dengan pengguna	sama, harus sama dengan pengguna		
+IMK-05	IMK		198	594.810	596.870	2.060	dengan perancang, biasa kan suatu sistem yang	dengan perancang, biasa kan suatu sistem yang baik		
+IMK-05	IMK		199	596.870	604.490	7.620	Dan ketiga adalah model mental, pengguna adalah model yang diciptakan oleh pengguna ketika pengguna berinteraksi dengan sistemnya.	Dan ketiga adalah model mental, pengguna adalah model yang diciptakan oleh pengguna ketika pengguna berinteraksi dengan sistemnya.		
+IMK-05	IMK		200	607.290	612.330	5.040	Konsep pemetaan menjelaskan tentang bagaimana pengguna menghubungkan suatu benda dengan benda lain.	Konsep pemetaan menjelaskan tentang bagaimana pengguna menghubungkan suatu benda dengan benda lain.		
+IMK-05	IMK		201	612.470	620.050	7.580	Sebagai contoh, pengguna dapat menghubungkan pembakar pada kompor dengan pematinya sehingga pengguna dapat menyalakan salah satu pembakar dengan benar.	Sebagai contoh, pengguna dapat menghubungkan pembakar pada kompor dengan pematinya sehingga pengguna dapat menyalakan salah satu pembakar dengan benar.		
+IMK-05	IMK		202	620.550	625.170	4.620	Pemetaan merupakan satu bagian integral dari cara orang berinteraksi dengan lingkungannya.	Pemetaan merupakan satu bagian integral dari cara orang berinteraksi dengan lingkungannya.		
+IMK-05	IMK		203	625.170	627.070	1.900	pemotan yang benar akan membantu	pemetaan yang benar akan membantu		
+IMK-05	IMK		204	627.070	628.990	1.920	menyelesaikan suatu tugas dengan mudah	menyelesaikan suatu tugas dengan mudah		
+IMK-05	IMK		205	628.990	630.910	1.920	pemotan yang salah akan menyebabkan frustrasi	pemetaan yang salah akan menyebabkan frustrasi		
+IMK-05	IMK		206	630.910	633.330	2.420	atau kegagalan, inilah tadi pentingnya	atau kegagalan, inilah tadi pentingnya		
+IMK-05	IMK		207	633.330	634.990	1.660	mengapa ada namanya kolaborasi	mengapa ada namanya kolaborasi		
+IMK-05	IMK		208	634.990	637.250	2.260	antara pengguna dengan pembuat	antara pengguna dengan pembuat		
+IMK-05	IMK		209	637.250	638.490	1.240	agar menghasilkan	agar menghasilkan		
+IMK-05	IMK		210	638.490	641.190	2.700	sistem yang sesuai, jadi kotakan	eee sistem yang sesuai, jadi kotakan		
+IMK-05	IMK		211	641.190	643.310	2.120	di kotakan sistem-sistemnya, ini bagian	di kotakan sistem-sistemnya, ini bagian		
+IMK-05	IMK		212	643.310	645.490	2.180	ini, ini bagian A	ini, ini bagian A		
+IMK-05	IMK		213	645.490	646.930	1.440	ini, ini, hasil sistem	ini, ini, hasil sistem		
+IMK-05	IMK		214	646.930	648.010	1.080	yang sesuai	yang sesuai		
+IMK-05	IMK		215	648.010	652.230	4.220	jarak semantik dan artikul	jarak semantik dan artikulatori		
+IMK-05	IMK		216	652.230	654.510	2.280	teori, ketika pengguna berinteraksi	ketika pengguna berinteraksi		
+IMK-05	IMK		217	654.510	656.410	1.900	dengan sebuah peranti atau sebuah sistem	dengan sebuah peranti atau sebuah sistem		
+IMK-05	IMK		218	656.450	660.110	3.660	pengguna akan mencoba untuk mempertemukan apa yang pengguna inginkan	pengguna akan mencoba untuk mempertemukan apa yang pengguna inginkan		
+IMK-05	IMK		219	660.110	662.570	2.460	dengan apa yang sesungguhnya dilakukan oleh peranti yang bersangkutan	dengan apa yang sesungguhnya dilakukan oleh peranti yang bersangkutan		
+IMK-05	IMK		220	662.570	664.790	2.220	keyboard, mouse, dan lain sebagainya itu harus sesuai	keyboard, mouse, dan lain sebagainya itu harus sesuai		
+IMK-05	IMK		221	664.790	669.490	4.700	pengguna dapat memahami hubungan ini dengan memahami jarak antara fungsionalitas suatu peranti	pengguna dapat memahami hubungan ini dengan memahami jarak antara fungsionalitas suatu peranti		
+IMK-05	IMK		222	669.490	672.790	3.300	dengan yang sesungguhnya ingin pengguna lakukan	dengan yang sesungguhnya ingin pengguna lakukan		
+IMK-05	IMK		223	672.790	676.190	3.400	kita menyebut hal ini sebagai jarak semantik antara pengguna dengan sistem	kita menyebut hal ini sebagai jarak semantik antara pengguna dengan sistem		
+IMK-05	IMK		224	676.190	679.170	2.980	jadi jarak semantik adalah memahami hubungan	jadi jarak semantik adalah memahami hubungan		
+IMK-05	IMK		225	679.170	683.590	4.420	antara jarak antara fungsionalitas suatu peranti	antara jarak antara fungsionalitas suatu peranti		
+IMK-05	IMK		226	683.590	686.250	2.660	dengan hal yang diinginkan oleh pengguna	dengan hal yang diinginkan oleh pengguna		
+IMK-05	IMK		227	686.250	688.290	2.040	Jadi keyboard berguna tidak?	Jadi keyboard berguna tidak?		
+IMK-05	IMK		228	688.670	689.570	0.900	Mouse berguna tidak?	Mouse berguna tidak?		
+IMK-05	IMK		229	690.210	691.650	1.440	Kalau dua-duanya berguna diterapkan	Kalau dua-duanya berguna diterapkan		
+IMK-05	IMK		230	691.650	693.790	2.140	Atau perlu penambahan-penambahan	Atau perlu penambahan-penambahan		
+IMK-05	IMK		231	693.790	695.270	1.480	Misalnya scanner dan lain sebagainya	Misalnya scanner dan lain sebagainya		
+IMK-05	IMK		232	695.270	698.290	3.020	Nah jika jarak artikulatorinya kecil	Nah jika jarak artikulatorinya kecil		
+IMK-05	IMK		233	698.290	701.410	3.120	Maka pengguna akan lebih mudah mengartikan penampatan fisik suatu sistem	Maka pengguna akan lebih mudah mengartikan penampatan fisik suatu sistem		
+IMK-05	IMK		234	701.410	705.970	4.560	Nah jarak semantik menunjukkan hubungan antara fungsionalitas yang tersedia	Nah jarak semantik menunjukkan hubungan antara fungsionalitas yang tersedia		
+IMK-05	IMK		235	705.970	709.290	3.320	Dengan fungsionalitas yang diperlukan untuk menyelesaikan suatu pekerjaan	Dengan fungsionalitas yang diperlukan untuk menyelesaikan suatu pekerjaan		
+IMK-05	IMK		236	709.290	712.850	3.560	Hal ini merupakan salah satu ukuran kedaya gunaan atau usefulness	Hal ini merupakan salah satu ukuran kedayagunaan atau usefulness		
+IMK-05	IMK		237	712.850	714.450	1.600	Dari sebuah rancangan	Dari sebuah rancangan		
+IMK-05	IMK		238	714.450	717.990	3.540	perancang atau interaksi harus berusaha secara maksimal	perancang atau interaksi harus berusaha secara maksimal		
+IMK-05	IMK		239	717.990	719.870	1.880	untuk meminimalisir kedua jarak ini.	untuk meminimalisir kedua jarak ini.		
+IMK-05	IMK		240	722.840	726.740	3.900	Affordance dapat diratikan sebagai salah satu aspek perancangan	Affordance dapat diratikan sebagai salah satu aspek perancangan		
+IMK-05	IMK		241	726.740	730.800	4.060	suatu objek yang menunjukkan cara suatu objek digunakan.	suatu objek yang menunjukkan cara suatu objek digunakan.		
+IMK-05	IMK		242	730.940	733.580	2.640	Sebagai contoh, pemukaan layar tampilan tidak hanya penting	Sebagai contoh, pemukaan layar tampilan tidak hanya penting		
+IMK-05	IMK		243	733.580	735.500	1.920	untuk menginterpresikan tindakan pengguna,	untuk menginterpresikan tindakan pengguna,		
+IMK-05	IMK		244	735.940	739.480	3.540	namun juga penting bagi pengguna untuk memahami berlaku atas muka.	namun juga penting bagi pengguna untuk memahami berlaku atas muka.		
+IMK-05	IMK		245	739.760	743.680	3.920	Semakin nyaman suatu sistem, semakin mudah juga pengguna menerapkan.	Semakin nyaman suatu sistem, semakin mudah juga pengguna menerapkan.		
+IMK-05	IMK		246	743.680	749.140	5.460	Menurut Norman, accordance ini menyatakan hubungan antara objek dengan penggunanya	Menurut Norman, affordance ini menyatakan hubungan antara objek dengan penggunanya		
+IMK-05	IMK		247	749.140	751.800	2.660	Dan bukan merupakan atribut dari objek tersebut	Dan bukan merupakan atribut dari objek tersebut		
+IMK-05	IMK		248	751.800	756.740	4.940	Apa yang bagi seorang merupakan accordance belum tentu berlaku bagi orang lain	Apa yang bagi seorang merupakan affordance belum tentu berlaku bagi orang lain		
+IMK-05	IMK		249	756.740	760.620	3.880	Sebagai contoh, accordance dari antarmuka untuk menyandang tunanetra	Sebagai contoh, affordance dari antarmuka untuk menyandang tunanetra		
+IMK-05	IMK		250	760.620	762.980	2.360	Pastilah sangat berbeda dengan antarmuka orang normal	Pastilah sangat berbeda dengan antarmuka orang normal		
+IMK-05	IMK		251	762.980	767.830	4.850	Paradigma domain	Paradigma domain		
+IMK-05	IMK		252	767.830	772.710	4.880	Terdapat tiga paradigma domain yang ada saat ini di perancangan konseptual dan visual	Terdapat tiga paradigma domain yang ada saat ini di perancangan konseptual dan visual		
+IMK-05	IMK		253	772.710	775.630	2.920	dari suatu termuka yaitu berpusat pada implementasi	dari suatu termuka yaitu berpusat pada implementasi		
+IMK-05	IMK		254	775.630	779.770	4.140	atau implementasi centrik atau metaporik dan idiomatic.	atau implementation-centric atau metaphoric dan idiomatic.		
+IMK-05	IMK		255	780.230	782.270	2.040	Ini tiga paradigma yang akan kita bahas.	Ini tiga paradigma yang akan kita bahas.		
+IMK-05	IMK		256	783.690	786.330	2.640	Yang pertama adalah berpusat pada implementasi.	Yang pertama adalah berpusat pada implementasi.		
+IMK-05	IMK		257	786.530	788.090	1.560	Atau muka berpusat pada implementasi	Atau muka berpusat pada implementasi		
+IMK-05	IMK		258	788.090	790.770	2.680	sangat banyak dijumpai di kalangan industri komputer.	sangat banyak dijumpai di kalangan industri komputer.		
+IMK-05	IMK		259	791.850	794.690	2.840	Perancangan tanpa muka berpusat pada implementasi atau BPI	Perancangan antarmuka berpusat pada implementasi atau BPI		
+IMK-05	IMK		260	794.690	801.570	6.880	yang mengharuskan perancang secara eksklusif	yang mengharuskan perancang secara eksklusif		
+IMK-05	IMK		261	801.570	803.470	1.900	berfokus pada mode implementasinya.	berfokus pada mode implementasinya.		
+IMK-05	IMK		262	804.130	805.490	1.360	Keinginan pelancang untuk mengerti	Keinginan perancang untuk mengerti		
+IMK-05	IMK		263	805.490	807.270	1.780	bagaimana sebuah sistem berjaya kerja	bagaimana sebuah sistem tersebut bekerja		
+IMK-05	IMK		264	807.270	809.370	2.100	dapat dimengerti, tetapi pengguna tidak	dapat dimengerti, tetapi pengguna tidak		
+IMK-05	IMK		265	809.370	811.570	2.200	selalu mempunyai waktu dan	selalu mempunyai waktu dan		
+IMK-05	IMK		266	811.570	813.670	2.100	keinginan untuk berbuat hal yang sama.	keinginan untuk berbuat hal yang sama.		
+IMK-05	IMK		267	813.910	815.490	1.580	Pada dasarnya itu, saat	Pada dasarnya itu, saat		
+IMK-05	IMK		268	815.490	817.250	1.760	suatu sistem dibangun, perlu yang namanya	suatu sistem dibangun, perlu yang namanya		
+IMK-05	IMK		269	817.250	819.110	1.860	pelatihan, perlu yang namanya	pelatihan, perlu yang namanya		
+IMK-05	IMK		270	819.110	820.990	1.880	pendampingan, agar	pendampingan, agar		
+IMK-05	IMK		271	820.990	823.330	2.340	sistem yang dibuat sesuai dengan apa yang diinginkan.	sistem yang dibuat sesuai dengan apa yang diinginkan.		
+IMK-05	IMK		272	824.810	825.610	0.800	Nah, pengguna lebih	Nah, pengguna lebih		
+IMK-05	IMK		273	825.610	827.250	1.640	puas apabila tugas mereka bisa	puas apabila tugas mereka bisa		
+IMK-05	IMK		274	827.250	829.310	2.060	segera selesai dibanding terus mengetahui bagaimana	segera selesai dibanding terus mengetahui bagaimana		
+IMK-05	IMK		275	829.310	831.170	1.860	sistem tersebut kerja, suatu pilihan yang	sistem tersebut kerja, suatu pilihan yang		
+IMK-05	IMK		276	831.170	833.270	2.100	terkadang amat sulit dipahami oleh perancang.	terkadang amat sulit dipahami oleh perancang.		
+IMK-05	IMK		277	833.730	835.010	1.280	Nah, ini memang suatu dilema, ya.	Nah, ini memang suatu dilema, ya.		
+IMK-05	IMK		278	835.190	837.070	1.880	Jadi, apa yang kadang kita buat sangat mudah,	Jadi, apa yang kadang kita buat sangat mudah,		
+IMK-05	IMK		279	837.190	838.010	0.820	kadang tidak dipahami.	kadang tidak dipahami.		
+IMK-05	IMK		280	838.150	840.150	2.000	Nah, itu bagaimana kita harus mengadakan yang namanya	Nah, itu bagaimana kita harus mengadakan yang namanya		
+IMK-05	IMK		281	840.150	842.090	1.940	pelatihan, pendampingan, dan lain sebagainya.	pelatihan, pendampingan, dan lain sebagainya.		
+IMK-05	IMK		282	843.330	844.530	1.200	Nah, antar muka metaforik.	Nah, antar muka metaforik.		
+IMK-05	IMK		283	844.610	846.230	1.620	Antar muka metaforik bergantung pada	Antar muka metaforik bergantung pada		
+IMK-05	IMK		284	846.230	848.870	2.640	hubungan intuitif yang dibuat pengguna	hubungan intuitif yang dibuat pengguna		
+IMK-05	IMK		285	848.870	850.770	1.900	pada saat melihat suatu simbol visual	pada saat melihat suatu simbol visual		
+IMK-05	IMK		286	850.770	852.790	2.020	dari suatu komponen antar muka dengan fungsinya.	dari suatu komponen antar muka dengan fungsinya.		
+IMK-05	IMK		287	853.210	854.010	0.800	Ya, atau boset.	Ya, atau boset.		
+IMK-05	IMK		288	854.130	855.290	1.160	Kalian tahu bagaimana logonya.	Kalian tahu bagaimana logonya.		
+IMK-05	IMK		289	855.450	856.910	1.460	Ada logo diskette, dan lain sebagainya.	Ada logo di-scetch, dan lain sebagainya.		
+IMK-05	IMK		290	857.310	859.010	1.700	Dalam hal ini, tidak ada satu keharusan	Dalam hal ini, tidak ada satu keharusan		
+IMK-05	IMK		291	859.010	861.110	2.100	bagi pengguna untuk memahami mekanisme suatu program.	bagi pengguna untuk memahami mekanisme suatu program.		
+IMK-05	IMK		292	861.170	864.110	2.940	sehingga paradigma ini merupakan satu langkah maju dari BPI	sehingga paradigma ini merupakan satu langkah maju dari BPI		
+IMK-05	IMK		293	864.110	867.630	3.520	tetapi daya tarik dan pahatnya dibesarkan secara tidak profesional.	tetapi daya tarik dan pahatnya dibesarkan secara tidak profesional.		
+IMK-05	IMK		294	868.570	872.470	3.900	Metapora dalam konteks termuka dan perencanaan interaksi bersifat metapora visual	Metapora dalam konteks termuka dan perencanaan interaksi bersifat metapora visual		
+IMK-05	IMK		295	872.470	877.850	5.380	berarti gambar yang digunakan hanya menyediakan suatu maksud atau atribut tertentu dari suatu benda.	berarti gambar yang digunakan hanya menyediakan suatu maksud atau atribut tertentu dari suatu benda.		
+IMK-05	IMK		296	880.170	886.750	6.580	Metapora sangat variatif mulai dari gambar sederhana pada sebuah tombol turbar sampai ke keseluruhan layar.	Metapora sangat variatif mulai dari gambar sederhana pada sebuah tombol turbar sampai ke keseluruhan layar.		
+IMK-05	IMK		297	887.130	889.850	2.720	Metapora juga mempunyai sejumlah keterbatasan	Metapora juga mempunyai sejumlah keterbatasan		
+IMK-05	IMK		298	889.850	891.790	1.940	sebagai contoh metafora tidak dapat disesuaikan	sebagai contoh metafora tidak dapat disesuaikan		
+IMK-05	IMK		299	891.790	893.370	1.580	dengan mudah	dengan mudah		
+IMK-05	IMK		300	893.370	895.950	2.580	sebuah metafora yang bekerja sempurna pada	sebuah metafora yang bekerja sempurna pada		
+IMK-05	IMK		301	895.950	897.830	1.880	sebuah proses sederhana tidak mudah diaplikasikan	sebuah proses sederhana tidak mudah diaplikasikan		
+IMK-05	IMK		302	897.830	900.010	2.180	pada proses yang kurang besar dan kompositusnya	pada proses yang kurang besar dan kompositusnya		
+IMK-05	IMK		303	900.010	901.990	1.980	meningkat, ini yang kita harus	meningkat, ini yang kita harus		
+IMK-05	IMK		304	901.990	903.970	1.980	pahami, jadi tidak semuanya yang	pahami, jadi tidak semuanya yang		
+IMK-05	IMK		305	903.970	905.950	1.980	kita inginkan itu di dalam sistem	kita inginkan itu di dalam sistem		
+IMK-05	IMK		306	905.950	907.770	1.820	bisa terakomodir dengan baik atau	bisa terakomodir dengan baik atau		
+IMK-05	IMK		307	907.770	909.770	2.000	keinginan dari penggunanya, kadang memang	keinginan dari penggunanya, kadang memang		
+IMK-05	IMK		308	909.770	911.610	1.840	banyak hal-hal yang di luar	banyak hal-hal yang di luar		
+IMK-05	IMK		309	911.610	913.830	2.220	konsep tadi, apabila aplikasi	konsep tadi, apabila aplikasi		
+IMK-05	IMK		310	913.830	915.710	1.880	yang kita ingin membangun, sebenarnya sudah kita lakukan diskusi	yang kita ingin membangun, sebenarnya sudah kita lakukan diskusi		
+IMK-05	IMK		311	915.710	917.710	2.000	dan sebagainya, sudah ingin kita terapkan dan kita ingin	dan sebagainya, sudah ingin kita terapkan dan kita ingin		
+IMK-05	IMK		312	917.710	919.670	1.960	dia mudah, tapi tetap	dia mudah, tapi tetap		
+IMK-05	IMK		313	919.670	921.310	1.640	masih ada masalah seperti ini. Jadi	masih ada masalah seperti ini. Jadi		
+IMK-05	IMK		314	921.310	923.710	2.400	metaforanya juga tidak bisa	metaforanya juga tidak bisa		
+IMK-05	IMK		315	923.710	925.690	1.980	diterapkan pada skala proyek kelas besar.	diterapkan pada skala proyek kelas besar.		
+IMK-05	IMK		316	925.950	927.310	1.360	Jadi misalnya kayak proyek	Jadi misalnya kayak proyek		
+IMK-05	IMK		317	927.310	929.670	2.360	aplikasi kemendik buat misalnya itu	aplikasi kemendikbud buat misalnya itu		
+IMK-05	IMK		318	929.670	931.270	1.600	agak sulit diterapkan.	agak sulit diterapkan.		
+IMK-05	IMK		319	933.640	934.880	1.240	Keterluasan metafora jika	Keterluasan metafora jika		
+IMK-05	IMK		320	934.880	936.840	1.960	perancang bergantung pada metafora untuk menciptakan	perancang bergantung pada metafora untuk menciptakan		
+IMK-05	IMK		321	936.840	938.920	2.080	suatu antarmuka, maka mungkin tidak hanya akan	suatu antarmuka, maka mungkin tidak hanya akan		
+IMK-05	IMK		322	938.920	940.700	1.780	menghadapi persoalan yang telah	menghadapi persoalan yang telah		
+IMK-05	IMK		323	940.700	943.120	2.420	disebutkan di atas, tapi juga dua persoalan	disebutkan di atas, tapi juga dua persoalan		
+IMK-05	IMK		324	943.120	944.880	1.760	besar yaitu bahwa metafora sukar	besar yaitu bahwa metafora sukar		
+IMK-05	IMK		325	944.880	946.880	2.000	ditemukan dan mereka membatasi kemampuan pikir	ditemukan dan mereka membatasi kemampuan pikir		
+IMK-05	IMK		326	946.880	948.780	1.900	menggunakan. Metafora ada kalanya	menggunakan. Metafora ada kalanya		
+IMK-05	IMK		327	948.780	950.760	1.980	bersifat membatasi, terutama jika perangkat	bersifat membatasi, terutama jika perangkat		
+IMK-05	IMK		328	950.760	952.240	1.480	yang digunakan sama sekali tidak berhubungan dengan	yang digunakan sama sekali tidak berhubungan dengan		
+IMK-05	IMK		329	952.240	954.380	2.140	benar-benar nyata. Nah, metaforalah perlu	benar-benar nyata. Nah, metaforalah perlu		
+IMK-05	IMK		330	954.380	956.420	2.040	digunakan untuk maksimalitas pembelajaran.	digunakan untuk maksimalitas pembelajaran.		
+IMK-05	IMK		331	956.560	958.340	1.780	Metafora tidak boleh kontradiktif dengan	Metafora tidak boleh kontradiktif dengan		
+IMK-05	IMK		332	958.340	959.940	1.600	pengetahuan yang dimiliki oleh pembelajaran.	pengetahuan yang dimiliki oleh pembelajaran.		
+IMK-05	IMK		333	960.640	961.240	0.600	Jadi harus	Jadi harus		
+IMK-05	IMK		334	961.240	964.620	3.380	dibuat suatu	dibuat suatu		
+IMK-05	IMK		335	964.620	966.560	1.940	pola dan lain sebagainya, atau simbol	pola dan lain sebagainya, atau simbol		
+IMK-05	IMK		336	966.560	968.500	1.940	dan sebagainya yang sesuai dengan kebutuhan.	dan sebagainya yang sesuai dengan kebutuhan.		
+IMK-05	IMK		337	969.040	970.440	1.400	Jangan terlalu banyak dan lain sebagainya.	Jangan terlalu banyak dan lain sebagainya.		
+IMK-05	IMK		338	972.900	974.400	1.500	Nah, antara muka diomatik adalah	Nah, antarmuka idiomatik adalah		
+IMK-05	IMK		339	974.400	976.180	1.780	didasarkan pada	didasarkan pada		
+IMK-05	IMK		340	976.180	978.140	1.960	cara pengguna belajar sesuatu dan	cara pengguna belajar sesuatu dan		
+IMK-05	IMK		341	978.140	980.040	1.900	menggunakan berbagai idiom	menggunakan berbagai idiom		
+IMK-05	IMK		342	980.040	982.320	2.280	atau misalnya polisi tidur, jago merah	atau misalnya polisi tidur, jago merah		
+IMK-05	IMK		343	982.320	984.320	2.000	atau ringan tangan, itu istilah-istilah	atau ringan tangan, itu istilah-istilah		
+IMK-05	IMK		344	984.320	986.120	1.800	jadi antarmuka idiomatik	jadi antarmuka idiomatik		
+IMK-05	IMK		345	986.120	987.960	1.840	memucapkan persoalan-persoalan yang diberikan oleh kedua	memucapkan persoalan-persoalan yang diberikan oleh kedua		
+IMK-05	IMK		346	987.960	989.940	1.980	paradigma di atas dengan tidak berfokus pada	paradigma di atas dengan tidak berfokus pada		
+IMK-05	IMK		347	989.940	992.160	2.220	pengetahuan teknis atau intuisi tentang	pengetahuan teknis atau intuisi tentang		
+IMK-05	IMK		348	992.160	994.420	2.260	bagaimana suatu pendapatan, tapi berfokus pada	bagaimana suatu pendapatan, tapi berfokus pada		
+IMK-05	IMK		349	994.420	995.720	1.300	idiom atau visual	idiom atau visual		
+IMK-05	IMK		350	995.720	998.420	2.700	dan perilaku sederhana yang menyelesaikan suatu tugas	dan perilaku sederhana yang menyelesaikan suatu tugas		
+IMK-05	IMK		351	998.420	1000.500	2.080	misalnya, kalau ingin	misalnya, kalau ingin		
+IMK-05	IMK		352	1000.500	1001.480	0.980	lebih cepat dalam	lebih cepat dalam		
+IMK-05	IMK		353	1001.480	1004.540	3.060	mendata suatu produk, kita menggunakan	mendata suatu produk, kita menggunakan		
+IMK-05	IMK		354	1004.540	1006.540	2.000	barcode scanner misalnya, itu satu contohnya	barcode scanner misalnya, itu satu contohnya		
+IMK-05	IMK		355	1006.540	1008.280	1.740	Merck, Chouk, Ward, dan Raymond	Menurut Cooper dan Reimann,		
+IMK-05	IMK		356	1008.280	1010.560	2.280	percincangan idiometrik merupakan masa depan	percincangan idiometrik merupakan masa depan		
+IMK-05	IMK		357	1010.560	1011.520	0.960	pelajaran atas buka	pelajaran atas buka		
+IMK-05	IMK		358	1011.520	1014.460	2.940	dalam paradigma ini, pengguna bergantung pada	dalam paradigma ini, pengguna bergantung pada		
+IMK-05	IMK		359	1014.460	1016.120	1.660	pemampuan alamiah	kemampuan alamiah		
+IMK-05	IMK		360	1016.120	1018.140	2.020	manusia untuk belajar secara mudah, cepat	manusia untuk belajar secara mudah, cepat		
+IMK-05	IMK		361	1018.140	1019.820	1.680	selama pengguna tidak memaksa mereka	selama pengguna tidak memaksa mereka		
+IMK-05	IMK		362	1019.820	1022.580	2.760	untuk mengahami tentang bagaimana dan mengapa	untuk mengahami tentang bagaimana dan mengapa		
+IMK-05	IMK		363	1022.580	1024.340	1.760	jumlah idiom yang dapat	jumlah idiom yang dapat		
+IMK-05	IMK		364	1024.340	1026.720	2.380	digunakan dapat dibilang	digunakan dapat dibilang		
+IMK-05	IMK		365	1026.720	1028.420	1.700	tak terbatas dibandingkan dengan jumlah	tak terbatas dibandingkan dengan jumlah		
+IMK-05	IMK		366	1028.420	1030.180	1.760	metafora yang lebih terbatas	metafora yang lebih terbatas		
+IMK-05	IMK		367	1030.180	1033.900	3.720	oke, tetap semangat belajar	oke, tetap semangat belajar		
+IMK-05	IMK		368	1033.900	1035.140	1.240	ya, prosesi kedua ini	ya, prosesi kedua ini		
+IMK-05	IMK		369	1035.140	1037.280	2.140	jangan lupa baca buku	jangan lupa baca buku		
+IMK-05	IMK		370	1037.280	1039.460	2.180	modulnya juga ya, yang ada di	modulnya juga ya, yang ada di		
+IMK-05	IMK		371	1039.460	1041.560	2.100	UIMK, selamat belajar, tetap semangat	Buku IMK, selamat belajar, tetap semangat		
+IMK-05	IMK		372	1041.560	1043.300	1.740	Assalamualaikum warahmatullahi wabarakatuh	Assalamualaikum warahmatullahi wabarakatuh		

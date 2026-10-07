@@ -1,0 +1,687 @@
+1
+00:00:05,600 --> 00:00:07,760
+Assalamualaikum warahmatullahi wabarakatuh.
+
+2
+00:00:08,060 --> 00:00:11,500
+Pada video kali ini, saya akan menjelaskan mengenai konsep perancangan.
+
+3
+00:00:12,440 --> 00:00:15,740
+Materi ini adalah bagian dari mata kuliah, analisis, dan perancangan sistem.
+
+4
+00:00:16,720 --> 00:00:19,240
+Video ini akan dibagi menjadi beberapa bagian.
+
+5
+00:00:19,560 --> 00:00:21,260
+Yang pertama adalah konsep perancangan,
+
+6
+00:00:21,820 --> 00:00:23,880
+yang kedua adalah prinsip perancangan,
+
+7
+00:00:24,240 --> 00:00:26,460
+yang ketiga adalah proses perancangan,
+
+8
+00:00:26,700 --> 00:00:30,260
+dan yang keempat adalah parameter kualitas di dalam perancangan.
+
+9
+00:00:36,200 --> 00:00:38,940
+Perancangan, atau yang biasa dikenal dengan software design,
+
+10
+00:00:38,940 --> 00:00:43,920
+Itu merupakan salah satu bagian dari siklus hidup pengembangan perangkat lunak
+
+11
+00:00:43,920 --> 00:00:45,320
+Posisinya ada di mana?
+
+12
+00:00:45,600 --> 00:00:48,360
+Posisinya adalah setelah fase analisis kebutuhan
+
+13
+00:00:48,360 --> 00:00:54,420
+Jadi kalau kita kemarin sebelum UTS sudah sama-sama belajar cara melakukan analisis kebutuhan
+
+14
+00:00:54,420 --> 00:00:57,540
+Dan sampai pada melakukan pemodelan kebutuhan
+
+15
+00:00:57,540 --> 00:01:02,140
+Di fase perancangan ini adalah melanjutkan apa yang sudah kita dapatkan kemarin
+
+16
+00:01:02,140 --> 00:01:04,980
+Untuk melakukan yang namanya proses detailing
+
+17
+00:01:04,980 --> 00:01:11,060
+Karena perancangan ini akan menjadi dasar bagi programmer ketika akan melakukan implementasi.
+
+18
+00:01:11,600 --> 00:01:17,740
+Jadi, perancangan ini adalah sebuah jembatan antara gambaran umum sistem dengan implementasi.
+
+19
+00:01:18,180 --> 00:01:24,280
+Ian Somerville mengatakan bahwa perancangan itu adalah sebenarnya proses membangun suatu solusi permasalahan
+
+20
+00:01:24,280 --> 00:01:28,740
+berdasarkan dari kebutuhan-kebutuhan yang sudah terdefinisi di fase sebelumnya.
+
+21
+00:01:29,360 --> 00:01:31,840
+Lalu, mengapa kita harus belajar mengenai fase perancangan?
+
+22
+00:01:31,840 --> 00:01:43,360
+Karena sebenarnya perancangan ini adalah satu-satunya jalan untuk mentransformasikan kebutuhan-kebutuhan yang sudah kita dapatkan dari customer menjadi produk akhir yaitu berupa perangkat lunak yang berkualitas tinggi.
+
+23
+00:01:44,040 --> 00:01:50,620
+Perangkat lunak yang berkualitas tinggi itu salah satu parameternya adalah mudah untuk dilakukan perubahan atau maintenance.
+
+24
+00:01:51,120 --> 00:01:55,960
+Effort yang dibutuhkan di dalam melakukan perbaikan itu kita bisa tekan serendah mungkin.
+
+25
+00:01:55,960 --> 00:02:02,080
+Fase perancangan inilah yang akan menentukan tingkat maintainability dari sebuah perangkat lunak
+
+26
+00:02:02,080 --> 00:02:08,300
+Selain itu, perangkat lunak juga berfungsi sebagai dasar aktivitas yang mengikutinya
+
+27
+00:02:08,300 --> 00:02:11,280
+Aktivitas yang paling dekat tentu saja implementasi
+
+28
+00:02:11,280 --> 00:02:19,540
+Jadi seorang programmer itu akan berupaya mengimplementasikan apa yang sudah didefinisikan oleh software designer yang kita lakukan di fase ini
+
+29
+00:02:19,540 --> 00:02:20,740
+Itu yang paling dekat
+
+30
+00:02:20,740 --> 00:02:30,220
+Kemudian seorang tester atau di fase pengujian yang memang posisinya kalau kita lihat dari siklus itu perangkat tunak itu kan berada setelah implementasi.
+
+31
+00:02:30,460 --> 00:02:41,600
+Tapi jangan salah ketika kita melakukan pengujian ada salah satu teknik pengujian yang disebut dengan white box testing yaitu jenis pengujian salah satunya adalah basis path testing.
+
+32
+00:02:41,900 --> 00:02:45,100
+Itu menggunakan dasar dari fase perancangan.
+
+33
+00:02:45,300 --> 00:02:49,880
+Basis path testing salah satu langkahnya adalah menyusun flow graph.
+
+34
+00:02:49,880 --> 00:02:56,020
+Flowgraph itu sebenarnya datangnya bukan dari implementasi, tapi dasarnya adalah dari Sido Code.
+
+35
+00:02:56,220 --> 00:02:59,820
+Yang itu Sido Code dibuatnya pada saat fase perancangan ini.
+
+36
+00:03:04,840 --> 00:03:10,960
+Ada empat hal utama di dalam melakukan proses perancangan, itu selalu dimulai dengan yang namanya informal design outline.
+
+37
+00:03:11,160 --> 00:03:15,460
+Kita akan membuat outline-nya terlebih dahulu, poin-poin utama yang harus ada di dalam perancangan.
+
+38
+00:03:15,940 --> 00:03:20,420
+Kemudian akan masuk ke fase yang kedua, kita akan menyusun yang namanya informal design.
+
+39
+00:03:20,420 --> 00:03:27,840
+Apa informal design? Informal design adalah kita sudah mulai melakukan desain namun masih menggunakan bahasa yang informal.
+
+40
+00:03:28,420 --> 00:03:40,800
+Terkadang memang di fase ini kita belum memiliki notasi yang baik, terkadang masih berupa coretan tangan atau tidak konsisten antara satu notasi dengan notasi yang lain.
+
+41
+00:03:40,800 --> 00:03:44,060
+Kemudian di fase yang ketiga kita mulai merapikan
+
+42
+00:03:44,060 --> 00:03:46,060
+Kita akan membuat sesuatu yang lebih formal
+
+43
+00:03:46,060 --> 00:03:53,440
+Dengan menggunakan alat bantu dalam menotasikan diagram-diagram yang ada di fase perancangan
+
+44
+00:03:53,440 --> 00:03:56,400
+Ada kelas diagram disitu, ada sequence diagram
+
+45
+00:03:56,400 --> 00:03:59,500
+Lalu yang keempat kita melakukan finalisasi
+
+46
+00:03:59,500 --> 00:04:04,560
+Apakah di fase finalisasi ini lantas kemudian perancangan ini akan selesai?
+
+47
+00:04:04,560 --> 00:04:08,460
+Belum, kita masih bisa kembali lagi untuk fase-fase sebelumnya
+
+48
+00:04:08,460 --> 00:04:12,720
+untuk mengecek apakah ada sesuatu yang terlupakan dari fase kebutuhan,
+
+49
+00:04:12,840 --> 00:04:17,480
+misalnya ada requirement yang belum tercover, kita bisa melakukan yang namanya proses perbaikan.
+
+50
+00:04:18,640 --> 00:04:25,160
+Namun ingat, Megalvin mendefinisikan bahwa ada tiga kriteria bahwa perancangan itu dapat dikatakan baik.
+
+51
+00:04:25,740 --> 00:04:31,800
+Yang pertama adalah harus mengimplementasikan semua requirement yang sudah didefinisikan di fase sebelumnya.
+
+52
+00:04:31,800 --> 00:04:33,200
+Jangan ada yang ketinggalan.
+
+53
+00:04:33,200 --> 00:04:39,460
+Kemudian yang kedua adalah pastikan itu mudah untuk dibaca dan diimplementasikan
+
+54
+00:04:39,460 --> 00:04:45,000
+Jadi tidak hanya mudah dibaca tapi harus bisa diimplementasikan nanti oleh programmer
+
+55
+00:04:45,000 --> 00:04:50,000
+Ada garanti dari seorang desainer bahwa apa yang sudah kamu buat itu bisa diimplementasikan
+
+56
+00:04:50,000 --> 00:04:55,960
+Yang ketiga adalah lengkap menggambarkan keseluruhan perangkat lunak yang akan dibuat
+
+57
+00:04:55,960 --> 00:05:04,020
+Saya mengutip dari apa yang sudah dikatakan oleh Gavis
+
+58
+00:05:04,020 --> 00:05:13,560
+Salah satu prinsip yang sudah didefinisikan adalah kita jangan menggunakan kacamata kuda di dalam melakukan perancangan
+
+59
+00:05:13,560 --> 00:05:17,400
+Yang Anda tahu adalah yang namanya kacamata kuda ini unik
+
+60
+00:05:17,400 --> 00:05:22,800
+Pandangannya lurus ke depan, dia tidak bisa melihat kiri dan kanan
+
+61
+00:05:22,800 --> 00:05:25,320
+Ini jangan sampai menggunakan pendekatan tersebut
+
+62
+00:05:25,320 --> 00:05:30,960
+Karena ketika Anda selalu menggunakan pendekatan kacamata kuda, Anda akan fokus mendesain
+
+63
+00:05:30,960 --> 00:05:37,700
+Cuman pikirkan lagi bahwa antara satu komponen dengan komponen yang lain itu memiliki kedekatan yang sangat kuat
+
+64
+00:05:37,700 --> 00:05:43,960
+Jadi ketika Anda melakukan modifikasi di satu tempat, jangan hanya fokus di tempat itu
+
+65
+00:05:43,960 --> 00:05:50,680
+Pikirkan lagi nanti di komponen yang lain, di kelas yang lain, di atribut yang lain, di metode yang lain
+
+66
+00:05:50,680 --> 00:05:58,080
+Apakah itu sudah mengakomodir, apakah di situ akan berdampak dari yang Anda lakukan modifikasi pada fase perancangan
+
+67
+00:05:58,080 --> 00:06:03,640
+Davis juga mengatakan bahwa perancangan itu harus seragam, ada konvensinya
+
+68
+00:06:03,640 --> 00:06:08,400
+Jadi tetap harus mengacu kepada pendekatan yang Anda gunakan
+
+69
+00:06:08,400 --> 00:06:14,160
+Ketika Anda menggunakan pendekatan object oriented, Anda punya yang namanya unified modeling language
+
+70
+00:06:14,160 --> 00:06:19,100
+Di situ adalah sebuah konvensi, sepakatan ketika Anda menggambarkan sebuah kelas diagram
+
+71
+00:06:19,100 --> 00:06:28,040
+Notasinya sudah didefinisikan, sudah tidak boleh lagi menggunakan notasi-notasi yang tidak sesuai dengan konvensi yang ada di UML
+
+72
+00:06:28,040 --> 00:06:33,600
+Davies juga mengatakan bahwa perancangan itu tidak sama dengan implementasi
+
+73
+00:06:33,600 --> 00:06:37,420
+dan juga sebaliknya implementasi itu tidak sama dengan perancangan
+
+74
+00:06:37,420 --> 00:06:43,380
+jadi jangan salah paham dengan pernyataan tersebut
+
+75
+00:06:43,380 --> 00:06:50,040
+bukannya kemarin, bukannya tadi dikatakan bahwa yang namanya implementasi itu dasarnya dari perancangan
+
+76
+00:06:50,040 --> 00:06:53,000
+nah ini kok dikatakan bahwa perancangan tidak sama dengan implementasi
+
+77
+00:06:53,000 --> 00:06:59,240
+Maksudnya begini, memang implementasi itu adalah dasarnya dari perancangan
+
+78
+00:06:59,240 --> 00:07:02,760
+Cuman perlu dipastikan lagi, ketika Anda melakukan perancangan
+
+79
+00:07:02,760 --> 00:07:08,020
+Anda harus jangkirkan dulu bahwa Anda sekarang ini posisinya ada di perancangan
+
+80
+00:07:08,020 --> 00:07:11,820
+Bukan di implementasi, contohnya ketika nanti Anda membangun yang namanya SidoCode
+
+81
+00:07:11,820 --> 00:07:17,160
+Jangan terjebak yang namanya membuat SidoCode yang pro ke satu bahasa pemrograman
+
+82
+00:07:17,160 --> 00:07:24,100
+Sido Code, artinya apa? Sido Code itu sebenarnya adalah cara kita menggambarkan pola pikir, algoritm.
+
+83
+00:07:24,720 --> 00:07:32,320
+Jadi yang namanya Sido Code itu idealnya adalah setengah bahasa manusia dengan setengah bahasa pemrograman, posisinya ada di tengah-tengah.
+
+84
+00:07:33,400 --> 00:07:39,460
+Sido Code yang baik harusnya bisa diimplementasikan ke semua bahasa pemrograman yang ada.
+
+85
+00:07:40,360 --> 00:07:45,180
+Satu Sido Code mau diimplementasikan di Java oke, di PHP oke, di C++ juga bisa.
+
+86
+00:07:45,180 --> 00:07:54,540
+Ada empat hal yang perlu diperhatikan di dalam melakukan perancangan.
+
+87
+00:07:55,300 --> 00:08:02,380
+Yang pertama dikenal dengan nama cohesion, yang kedua coupling, yang ketiga understandability, dan yang keempat adalah adaptability.
+
+88
+00:08:07,980 --> 00:08:15,220
+Cohesion adalah ukuran tingkat kedekatan relasi antara elemen-elemen di dalam suatu komponen.
+
+89
+00:08:15,220 --> 00:08:24,380
+Komponen di sini bisa Anda analogikan sebagai sebuah kelas atau sebuah modul kalau Anda menggunakan perdekatan terstruktur.
+
+90
+00:08:24,580 --> 00:08:29,480
+Kita berbicara kelas dulu, ini akan lebih mudah untuk dilakukan pemamparan di sini
+
+91
+00:08:29,480 --> 00:08:33,500
+Kelas itu di dalamnya ada atribut dan ada metode
+
+92
+00:08:33,500 --> 00:08:39,160
+Tingkat kedekatan antara elemen-elemen yang ada di dalam kelas
+
+93
+00:08:39,160 --> 00:08:41,780
+Yaitu ada atribut dan behaviornya di dalam ini
+
+94
+00:08:41,780 --> 00:08:46,520
+Itu menunjukkan tingkat kohesifitas dari kelas tersebut
+
+95
+00:08:46,520 --> 00:08:53,260
+Ketika hubungan atau relasi antara atribut dan metode itu rendah
+
+96
+00:08:53,260 --> 00:08:56,480
+atau tidak berhubungan sama lain, satu sama lain,
+
+97
+00:08:56,880 --> 00:08:59,660
+akibatnya adalah tingkat koneksifitasnya akan rendah.
+
+98
+00:08:59,820 --> 00:09:00,460
+Kenapa rendah?
+
+99
+00:09:00,460 --> 00:09:04,720
+Ya, ternyata struktur penyusun dari si kelas tersebut,
+
+100
+00:09:05,340 --> 00:09:06,640
+ya ternyata tidak ada hubungannya.
+
+101
+00:09:07,400 --> 00:09:09,660
+Lalu bagaimana ketika ini tidak ada hubungannya?
+
+102
+00:09:09,780 --> 00:09:12,620
+Otomatis ketika secara internal dia tidak kuat,
+
+103
+00:09:12,840 --> 00:09:18,460
+otomatis dia akan membutuhkan relasi yang kuat dengan komponen yang lain atau kelas yang lain,
+
+104
+00:09:18,760 --> 00:09:21,180
+sehingga koplingnya akan meningkat.
+
+105
+00:09:21,180 --> 00:09:23,280
+jadi, makanya tadi saya katakan bahwa
+
+106
+00:09:23,280 --> 00:09:25,220
+dua hal ini tidak bisa
+
+107
+00:09:25,220 --> 00:09:27,260
+dipisah satu sama lain, cohesion
+
+108
+00:09:27,260 --> 00:09:29,400
+sama coupling, cohesion itu
+
+109
+00:09:29,400 --> 00:09:31,740
+fokusnya ada di satu komponen kelas tersebut
+
+110
+00:09:31,740 --> 00:09:33,680
+tapi kalau coupling, itu dua
+
+111
+00:09:33,680 --> 00:09:35,500
+atau lebih dari dua
+
+112
+00:09:35,500 --> 00:09:37,160
+bisa dua, bisa tiga, ya, couple
+
+113
+00:09:37,160 --> 00:09:39,320
+sesuai namanya pasangan, jadi
+
+114
+00:09:39,320 --> 00:09:41,440
+sebaliknya, ketika
+
+115
+00:09:41,440 --> 00:09:43,480
+tadi, kohesifitasnya itu tinggi, artinya
+
+116
+00:09:43,480 --> 00:09:45,380
+apa? atribut dan metode yang ada
+
+117
+00:09:45,380 --> 00:09:47,360
+di dalam kelas diagram tersebut, itu
+
+118
+00:09:47,360 --> 00:09:49,300
+sangat terhubung, ya
+
+119
+00:09:49,300 --> 00:09:51,280
+sangat kuat ikatannya, sehingga
+
+120
+00:09:51,280 --> 00:09:53,380
+otomatis dalam menyelesaikan tugas-tugas
+
+121
+00:09:53,380 --> 00:09:55,720
+dari kelas tersebut, itu tidak membutuhkan
+
+122
+00:09:55,720 --> 00:09:56,700
+atau
+
+123
+00:09:56,700 --> 00:09:58,960
+kebutuhan untuk
+
+124
+00:09:58,960 --> 00:10:01,060
+mengakses dari komponen yang lain itu akan
+
+125
+00:10:01,060 --> 00:10:03,140
+semakin rendah, sehingga koplingnya akan
+
+126
+00:10:03,140 --> 00:10:05,260
+ikut turun. Lalu yang
+
+127
+00:10:05,260 --> 00:10:07,240
+baik seperti apa? Anda sudah bisa menebak
+
+128
+00:10:07,240 --> 00:10:09,100
+yang baik adalah high cohesive
+
+129
+00:10:09,100 --> 00:10:11,540
+kohesifitasnya tinggi, koplingnya
+
+130
+00:10:11,540 --> 00:10:13,140
+akan rendah. Kenapa
+
+131
+00:10:13,140 --> 00:10:15,320
+harus seperti itu? Karena kita
+
+132
+00:10:15,320 --> 00:10:17,080
+berbicara maintainability, kalau kita
+
+133
+00:10:17,080 --> 00:10:18,920
+berbicara maintainability, kita ingin
+
+134
+00:10:18,920 --> 00:10:20,860
+mengubah satu kelas, ya sudah kita harus
+
+135
+00:10:20,860 --> 00:10:21,780
+fokus di sini saja
+
+136
+00:10:21,780 --> 00:10:24,800
+yang bikin effortnya tinggi itu adalah
+
+137
+00:10:24,800 --> 00:10:26,800
+satu kelas di sini kita
+
+138
+00:10:26,800 --> 00:10:28,920
+modifikasi, ternyata karena kompliknya
+
+139
+00:10:28,920 --> 00:10:30,940
+itu tinggi dengan kelas-kelas yang lain, ada otomatis
+
+140
+00:10:30,940 --> 00:10:33,120
+kamu harus memperbaiki kelas-kelas yang ada itu tersebut
+
+141
+00:10:33,120 --> 00:10:34,580
+effortnya akan semakin
+
+142
+00:10:34,580 --> 00:10:36,800
+berat, kurang lebih seperti itu yang saya menjelaskan
+
+143
+00:10:36,800 --> 00:10:38,680
+mengenai koesifitas dan
+
+144
+00:10:38,680 --> 00:10:46,210
+komplik, namanya perancangan
+
+145
+00:10:46,210 --> 00:10:48,210
+itu harus bisa dipahami dengan baik
+
+146
+00:10:48,210 --> 00:10:50,230
+siapa yang kira-kira harus memahami
+
+147
+00:10:50,230 --> 00:10:52,290
+ini, itu saja adalah programmer
+
+148
+00:10:52,290 --> 00:10:54,010
+jadi koesif
+
+149
+00:10:54,010 --> 00:10:54,890
+Kopling
+
+150
+00:10:54,890 --> 00:10:56,770
+Dan yang ketiga ini adalah sangat penting
+
+151
+00:10:56,770 --> 00:10:58,750
+Itu juga harus mudah dipahami
+
+152
+00:10:58,750 --> 00:11:01,070
+Jangan sampai Anda ketika melakukan desain
+
+153
+00:11:01,070 --> 00:11:02,910
+Yang paham hanya Anda sendiri
+
+154
+00:11:02,910 --> 00:11:05,710
+Notasinya yang paham hanya Anda sendiri
+
+155
+00:11:05,710 --> 00:11:07,290
+Makanya notasi diagramnya
+
+156
+00:11:07,290 --> 00:11:09,910
+Menggunakannya sesuai dengan konvensi yang ada
+
+157
+00:11:09,910 --> 00:11:11,070
+UML
+
+158
+00:11:11,070 --> 00:11:12,910
+Arsitektur modul
+
+159
+00:11:12,910 --> 00:11:15,190
+Itu semua ada konvensinya
+
+160
+00:11:15,190 --> 00:11:18,090
+Menggunakan notasi-notasi
+
+161
+00:11:18,090 --> 00:11:20,630
+Yang memang sudah dipahami bersama
+
+162
+00:11:20,630 --> 00:11:23,250
+Sehingga programmer pun akan mudah untuk memahaminya
+
+163
+00:11:23,250 --> 00:11:35,420
+kebutuhan agar rancangan itu mampu beradaptasi dengan adanya perubahan itu ditentukan dari parameter ini
+
+164
+00:11:35,420 --> 00:11:39,080
+seberapa mudah dilakukan perubahan rancangan
+
+165
+00:11:39,080 --> 00:11:43,700
+caranya bagaimana? Anda sebenarnya tinggal menjaga yang namanya adalah timbangan tadi
+
+166
+00:11:43,700 --> 00:11:47,560
+semakin tinggi kohesivitas, kopinya akan ikut turun
+
+167
+00:11:47,560 --> 00:11:51,480
+berarti itu akan sangat mudah beradaptasi nantinya
+
+168
+00:11:51,480 --> 00:11:59,960
+Jadi ketika satu berubah, Anda tidak memerlukan effort yang lebih untuk memodifikasi komponen-komponen yang lain.
+
+169
+00:12:01,140 --> 00:12:05,680
+Coba misalnya dibalik, kohesifitasnya itu rendah, koplingnya tinggi.
+
+170
+00:12:06,320 --> 00:12:07,740
+Sehingga koplingnya tinggi artinya apa?
+
+171
+00:12:08,020 --> 00:12:11,440
+Satu kelas itu ternyata berrelasi banyak sekali dengan kelas-kelas yang lain.
+
+172
+00:12:11,700 --> 00:12:16,160
+Anda mengubah sesuatu di sini, otomatis Anda juga akan memodifikasi kelas-kelas yang lain.

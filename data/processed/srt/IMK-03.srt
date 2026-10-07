@@ -1,0 +1,683 @@
+1
+00:00:00,050 --> 00:00:03,970
+Selamat datang di video materi matap kuliah interaksi manusia dan komputer.
+
+2
+00:00:04,490 --> 00:00:08,770
+Pada kesempatan kali ini, topik yang kita bahas adalah tentang proses desain interaksi.
+
+3
+00:00:10,920 --> 00:00:13,080
+Ada tiga topik pembahasan dalam video ini.
+
+4
+00:00:13,640 --> 00:00:19,480
+Pertama, kita bahas tentang proses apa saja yang ada di dalam desain interaksi dari awal hingga selesai.
+
+5
+00:00:20,800 --> 00:00:24,980
+Lalu kedua adalah pembahasan tentang User Center Design atau UCD.
+
+6
+00:00:25,540 --> 00:00:29,620
+Dan di bagian akhir, kita bahas isu-isu terkait pengguna atau user.
+
+7
+00:00:29,620 --> 00:00:31,580
+Mari kita bahas satu persatu.
+
+8
+00:00:33,750 --> 00:00:37,310
+Sebelum kita melihat proses apa saja yang dilakukan dalam desain interaksi,
+
+9
+00:00:37,770 --> 00:00:41,830
+kita perlu memahami konsep tentang desain atau perancangan terlebih dahulu.
+
+10
+00:00:42,550 --> 00:00:44,770
+Perancangan adalah suatu proses kreatif.
+
+11
+00:00:45,330 --> 00:00:47,450
+Ada serangkaian aktivitas di dalamnya.
+
+12
+00:00:49,090 --> 00:00:51,450
+Proses perancangan tidak bersifat hirarki,
+
+13
+00:00:51,670 --> 00:00:55,450
+artinya proses ini tidak sepenuhnya dimulai dari atas ke bawah
+
+14
+00:00:55,450 --> 00:00:57,650
+atau sebaliknya dari bawah ke atas.
+
+15
+00:00:58,330 --> 00:01:00,330
+Proses perancangan bersifat dinamis.
+
+16
+00:01:01,010 --> 00:01:04,290
+Rancangan di awal bisa jadi penting untuk solusi sementara,
+
+17
+00:01:04,750 --> 00:01:07,450
+namun tidak memiliki peran di rancangan akhirnya.
+
+18
+00:01:08,290 --> 00:01:12,330
+Kita juga perlu mengingat bahwa perancangan selalu memiliki goals atau tujuan.
+
+19
+00:01:12,910 --> 00:01:14,610
+Tujuannya juga bersifat dinamis.
+
+20
+00:01:15,270 --> 00:01:18,130
+Bisa ada tujuan baru setelah satu tujuan terpenuhi.
+
+21
+00:01:19,610 --> 00:01:22,170
+Lalu bagaimana proses desain interaksi?
+
+22
+00:01:23,110 --> 00:01:24,670
+Perhatikan gambar berikut.
+
+23
+00:01:25,170 --> 00:01:29,250
+Gambar ini merupakan ilustrasi proses desain interaksi menurut Schneiderman.
+
+24
+00:01:29,950 --> 00:01:37,570
+Perhatikan bahwa proyek pengembangan aplikasi perangkat lunak selalu diawali dengan tahap Inception dan diakhiri oleh tahap Deployment.
+
+25
+00:01:38,330 --> 00:01:42,250
+Proses desain interaksi dilakukan di antara dua tahap tersebut.
+
+26
+00:01:43,010 --> 00:01:47,510
+Seperti yang terlihat pada gambar, ada empat fase dalam proses desain interaksi.
+
+27
+00:01:48,390 --> 00:01:50,890
+Tahap pertama adalah tahap Requirement Analysis.
+
+28
+00:01:51,070 --> 00:01:55,770
+Pada tahap ini, kita mengumpulkan semua kebutuhan pengguna aplikasi.
+
+29
+00:01:55,770 --> 00:01:59,950
+Setelah itu, kita masuk pada tahap kedua yaitu tahap desain.
+
+30
+00:02:00,490 --> 00:02:07,650
+Di sini, kita membuat rancangan berdasarkan requirements dan merinci setiap details dari rancangan tersebut.
+
+31
+00:02:08,650 --> 00:02:15,310
+Kemudian di tahap ketiga, kita mengimplementasikan rancangan yang sudah dibuat ke dalam satu bentuk purwarupa.
+
+32
+00:02:16,130 --> 00:02:24,090
+Purwarupa ini dapat menunjukkan bagaimana proses interaksi pengguna dengan aplikasi yang sesuai dengan rancangan yang telah dibuat.
+
+33
+00:02:24,090 --> 00:02:31,090
+Dan pada tahap keempat, purwarupa tadi dievaluasi berdasarkan requirements yang dikumpulkan di awal
+
+34
+00:02:31,090 --> 00:02:38,190
+Apabila semuanya sudah terpenuhi, maka waktunya purwarupa tadi diterapkan pada produk aplikasi yang kita kembangkan
+
+35
+00:02:38,190 --> 00:02:45,590
+Namun jika tidak, maka kita ulangi kembali tahap requirement analysis untuk memastikan kembali apa yang kurang
+
+36
+00:02:45,590 --> 00:02:49,190
+Proses desain interaksi memang bersifat iteratif
+
+37
+00:02:49,190 --> 00:02:53,930
+Pengulangan tahap beberapa kali diperlukan hingga suatu desain menjadi sempurna
+
+38
+00:02:53,930 --> 00:02:57,870
+Mari kita bahas setiap tahap satu persatu secara mendalam.
+
+39
+00:02:59,970 --> 00:03:03,330
+Tahap pertama desain interaksi adalah requirement analysis.
+
+40
+00:03:04,170 --> 00:03:10,970
+Pada tahap ini, requirements yang diperlukan untuk menghasilkan produk interaktif dikumpulkan dan didokumentasikan.
+
+41
+00:03:11,750 --> 00:03:20,750
+Dokumentasi requirements ini sangat penting, karena setiap yang tertulis nantinya akan menjadi ukuran apakah rancangan berhasil memenuhi kebutuhan atau tidak.
+
+42
+00:03:20,750 --> 00:03:25,610
+Requirements dikumpulkan dengan berbagai metode pengumpulan data
+
+43
+00:03:25,610 --> 00:03:32,670
+Seperti misalnya wawancara, survei, fokus group discussion atau FGD, dan lain sebagainya
+
+44
+00:03:32,670 --> 00:03:37,550
+Kurang lebih prosesnya sama dengan pengumpulan data pada penelitian
+
+45
+00:03:37,550 --> 00:03:42,430
+Dari tahapan ini, sebetulnya kita mengumpulkan 3 jenis requirements
+
+46
+00:03:42,430 --> 00:03:48,310
+Yaitu functional requirements, non-functional requirements, dan interaction requirements
+
+47
+00:03:48,310 --> 00:03:57,810
+Perhatikan bahwa dibandingkan dengan proses pengembangan aplikasi perangkat lunak secara umum, proses desain interaksi perlu mendefinisikan interaction requirement.
+
+48
+00:03:58,650 --> 00:04:05,470
+Sementara kita tahu bahwa secara umum, requirement sebuah aplikasi terdiri atas functional dan non-functional requirements.
+
+49
+00:04:05,990 --> 00:04:10,650
+Schneiderman's memisahkan interaction requirements di luar dua jenis requirements tersebut.
+
+50
+00:04:13,440 --> 00:04:16,400
+Tahap yang kedua adalah tahap desain atau perancangan.
+
+51
+00:04:16,400 --> 00:04:22,440
+Luaran dari tahap ini tentu saja adalah suatu rancangan interaksi pengguna dengan aplikasi
+
+52
+00:04:22,440 --> 00:04:28,280
+Rancangan dibuat berdasarkan requirements yang sudah dikumpulkan pada tahap pertama sebelumnya tadi
+
+53
+00:04:28,280 --> 00:04:33,060
+Dan goals dari rancangan yang dibuat adalah untuk memenuhi requirements tersebut
+
+54
+00:04:33,060 --> 00:04:37,500
+Saat membuat rancangan, kita juga perlu mendetailkan spesifikasinya
+
+55
+00:04:37,500 --> 00:04:41,240
+Spesifikasi rancangan perlu didokumentasikan dengan baik
+
+56
+00:04:41,240 --> 00:04:45,180
+Dan disertakan juga panduan teknis untuk implementasinya
+
+57
+00:04:45,180 --> 00:04:52,340
+Wireframing adalah salah satu teknik yang umum digunakan untuk membuat rancangan antarmuka atau UI
+
+58
+00:04:52,340 --> 00:04:56,240
+Saat ini ada banyak sekali tools untuk melakukan wireframing
+
+59
+00:04:56,240 --> 00:05:00,860
+Dari yang sederhana seperti Visio hingga yang lebih kompleks seperti Figma
+
+60
+00:05:00,860 --> 00:05:05,340
+Setelah rancangan dibuat dan spesifikasinya tertulis lengkap
+
+61
+00:05:05,340 --> 00:05:09,740
+Maka tahap selanjutnya atau tahap ketiga adalah mengimplementasikannya
+
+62
+00:05:09,740 --> 00:05:16,200
+Rancangan yang sudah dibuat biasanya diimplementasikan dalam bentuk purwarupa atau prototipe
+
+63
+00:05:16,200 --> 00:05:23,420
+Purwarupa ini bertujuan untuk memastikan apakah rancangan yang dibuat sudah memenuhi requirements yang ada atau belum
+
+64
+00:05:23,420 --> 00:05:29,240
+Dan purwarupa harus sudah dapat mensimulasikan interaksi pengguna dengan aplikasi
+
+65
+00:05:29,240 --> 00:05:32,580
+Di mana pengguna dapat mencoba purwarupa tersebut
+
+66
+00:05:32,580 --> 00:05:38,580
+Mereka juga bisa menilai apakah rancangan yang dibuat sudah sesuai dengan kebutuhan mereka atau belum
+
+67
+00:05:38,580 --> 00:05:44,280
+Dan karena itulah, tahap selanjutnya atau tahap keempat adalah evaluasi
+
+68
+00:05:44,280 --> 00:05:48,120
+Evaluasi awal dilakukan terhadap purwa rupa yang dibuat
+
+69
+00:05:48,120 --> 00:05:53,260
+Tujuannya adalah memastikan semua requirement sudah terpenuhi oleh rancangan yang kita buat
+
+70
+00:05:53,260 --> 00:05:57,120
+Evaluasi ini bisa dilakukan baik oleh pengguna sebenarnya
+
+71
+00:05:57,120 --> 00:06:01,140
+Atau orang yang seolah berperan sebagai pengguna aplikasinya
+
+72
+00:06:01,140 --> 00:06:04,500
+Biasanya mereka adalah anggota tim pengembang itu sendiri
+
+73
+00:06:04,500 --> 00:06:09,860
+atau mengambil sampel beberapa orang yang karakteristiknya sesuai dengan pengguna aslinya.
+
+74
+00:06:11,460 --> 00:06:19,040
+Metode evaluasi yang umum digunakan antara lain adalah usability testing, heuristic evaluation, dan juga questionnaire.
+
+75
+00:06:19,520 --> 00:06:30,560
+Dari hasil evaluasi ini, kita dapat mengetahui apakah rancangan yang sudah diimplementasikan dalam bentuk purwarupa dapat diterima oleh pengguna atau tidak.
+
+76
+00:06:31,260 --> 00:06:35,040
+Kurang lebih seperti itulah empat tahap yang ada pada proses desain interaksi.
+
+77
+00:06:36,540 --> 00:06:42,760
+Proses desain interaksi pada praktiknya dilakukan mengikuti suatu kerangka kerja atau framework tertentu.
+
+78
+00:06:43,660 --> 00:06:47,920
+Salah satu framework yang terpopuler adalah User Center Design atau UCD.
+
+79
+00:06:48,800 --> 00:06:55,120
+User Center Design merupakan salah satu framework untuk mengimplementasikan proses desain interaksi.
+
+80
+00:06:55,860 --> 00:07:01,000
+UCD ini memastikan bahwa tujuan dari perancangan adalah untuk memenuhi kebutuhan pengguna,
+
+81
+00:07:01,000 --> 00:07:04,920
+dan pengguna ikut dilibatkan dalam kegiatan perancangannya.
+
+82
+00:07:04,920 --> 00:07:15,260
+Sesuai dengan namanya, tujuan dari user center design adalah menghasilkan produk yang sesuai dengan kebutuhan dan juga ekspektasi dari penggunanya
+
+83
+00:07:15,260 --> 00:07:19,630
+Bagaimana tahapan dalam user center design?
+
+84
+00:07:20,690 --> 00:07:24,410
+UCD diawali dengan memahami konteks penggunaan sebuah produk
+
+85
+00:07:24,410 --> 00:07:29,770
+Sebuah aplikasi yang sama bisa jadi memiliki konteks penggunaan yang berbeda
+
+86
+00:07:29,990 --> 00:07:34,310
+Misalnya aplikasi e-learning, konteks penggunaannya ada banyak
+
+87
+00:07:34,310 --> 00:07:41,970
+Mulai dari e-learning untuk perguruan tinggi, e-learning untuk sekolah dasar, ataupun untuk karyawan di sebuah perusahaan.
+
+88
+00:07:42,690 --> 00:07:46,050
+Konteks penggunaan produk akan mempengaruhi kebutuhan penggunanya.
+
+89
+00:07:47,150 --> 00:07:53,570
+Setelah konteks penggunaannya jelas, maka tahap selanjutnya di dalam UCD adalah membuat spesifikasi requirements.
+
+90
+00:07:54,490 --> 00:08:00,810
+Seperti yang sudah dijelaskan pada proses desain interaksi tadi, requirements dapat dikumpulkan dengan berbagai metode.
+
+91
+00:08:00,810 --> 00:08:10,270
+Yang jelas, kita harus mendapatkan tiga jenis requirements, yaitu functional requirements, non-functional requirements, dan interaction requirements.
+
+92
+00:08:11,070 --> 00:08:15,970
+Setelah requirements didapatkan, maka tahap selanjutnya adalah membuat rancangan.
+
+93
+00:08:16,710 --> 00:08:19,710
+Tentu rancangan ini juga disertakan dengan spesifikasinya.
+
+94
+00:08:20,530 --> 00:08:26,650
+Dalam UCD, proses perancangan biasanya dilakukan hingga menghasilkan suatu prototype atau purwarupa.
+
+95
+00:08:26,650 --> 00:08:32,610
+Purwa rupa ini dapat memperlihatkan bagaimana pengguna berinteraksi dengan produk aplikasinya
+
+96
+00:08:32,610 --> 00:08:39,770
+Setelah dihasilkan purwa rupa, maka tahap selanjutnya adalah mengevaluasinya berdasarkan requirements di awal
+
+97
+00:08:39,770 --> 00:08:47,590
+Apabila menurut hasil evaluasi terdapat beberapa hal yang perlu diperbaiki, maka proses sebelumnya dapat diulang kembali
+
+98
+00:08:47,930 --> 00:08:53,690
+Tergantung dari seberapa besar yang perlu diperbaiki, proses yang diulang kembali bisa beragam
+
+99
+00:08:53,690 --> 00:09:04,270
+Bisa saja yang diulangi kembali hanya tahap membuat rancangannya saja, atau justru ada konteks penggunaan yang belum jelas, sehingga kita perlu mengulangi langkah dari tahap pertama.
+
+100
+00:09:06,800 --> 00:09:13,940
+Satu hal yang menjadi ciri khas dari user-centered design adalah penekanan pada keterlibatan pengguna dalam proses desain interaksinya.
+
+101
+00:09:14,840 --> 00:09:16,860
+Lantas apa pentingnya melibatkan pengguna?
+
+102
+00:09:17,260 --> 00:09:19,280
+Sekurang-kurangnya ada dua hal.
+
+103
+00:09:19,280 --> 00:09:22,480
+Pertama adalah untuk mengelola ekspektasi
+
+104
+00:09:22,480 --> 00:09:25,680
+Dan yang kedua adalah menimbulkan rasa kepemilikan
+
+105
+00:09:25,680 --> 00:09:30,840
+Ekspektasi perlu dikelola agar ekspektasi pengguna menjadi realistis
+
+106
+00:09:30,840 --> 00:09:36,660
+Dalam artian sesuai dengan kebutuhan, ketersediaan sumber daya dan juga waktu yang ada
+
+107
+00:09:36,660 --> 00:09:43,140
+Dengan mengelola ekspektasi, pengguna tidak terkejut atau kecewa dengan rancangan yang dibuat nantinya
+
+108
+00:09:43,140 --> 00:09:48,560
+Kita juga perlu memperhatikan aspek kepemilikan pengguna pada aplikasi
+
+109
+00:09:48,560 --> 00:09:52,720
+User center design menjadikan pengguna sebagai stakeholder aktif.
+
+110
+00:09:53,260 --> 00:10:00,600
+Dengan demikian, kemungkinan besar mereka akan lebih memahami isu yang muncul dan tentu bisa menerima solusi yang ditawarkan.
+
+111
+00:10:01,620 --> 00:10:06,180
+Pengguna juga ikut menentukan kriteria penerimaan atau acceptance dari produknya.
+
+112
+00:10:08,120 --> 00:10:10,580
+Bentuk keterlibatan pengguna tidak hanya satu saja.
+
+113
+00:10:11,160 --> 00:10:13,920
+Paling tidak secara umum dapat dibedakan menjadi dua.
+
+114
+00:10:14,620 --> 00:10:17,500
+Pertama adalah pengguna sebagai bagian dari tim.
+
+115
+00:10:17,500 --> 00:10:22,220
+Di sini, pengguna ikut terlibat langsung dalam proses desain interaksi.
+
+116
+00:10:23,200 --> 00:10:28,200
+Terkait dengan bentuk yang pertama ini, faktor yang perlu dipertimbangkan antara lain adalah
+
+117
+00:10:28,200 --> 00:10:33,260
+apakah keterlibatan pengguna dilakukan secara full-time atau hanya paruh waktu saja,
+
+118
+00:10:33,940 --> 00:10:37,580
+lalu apakah untuk jangka panjang atau untuk jangka pendek saja.
+
+119
+00:10:38,340 --> 00:10:41,160
+Masing-masing ini memiliki karakteristik yang berbeda.
+
+120
+00:10:41,160 --> 00:10:48,980
+Jika kita melibatkan pengguna secara full time, maka masukan pengguna akan menjadi tersedia di setiap saat
+
+121
+00:10:48,980 --> 00:10:54,860
+Sebaliknya, jika part time, hanya masukkan dengan jumlah yang lebih sedikit yang bisa kita dapatkan
+
+122
+00:10:54,860 --> 00:11:03,900
+Sementara itu, keterlibatan pengguna dalam jangka panjang akan cenderung lebih memastikan konsistensi mereka dalam melihat rancangan produknya
+
+123
+00:11:03,900 --> 00:11:10,560
+Dan sebaliknya, jika hanya terlibat untuk jangka pendek, maka konsistensi tersebut cenderung tidak bertahan lama
+
+124
+00:11:10,560 --> 00:11:16,420
+Idealnya memang keterlibatan pengguna dilakukan secara full time dan jangka panjang
+
+125
+00:11:16,420 --> 00:11:25,680
+Namun demikian, agar kondisi tersebut dapat terpenuhi, diperlukan sumber daya yang besar seperti waktu, komitmen, hingga biaya yang perlu dikeluarkan
+
+126
+00:11:25,680 --> 00:11:31,380
+Bentuk keterlibatan pengguna yang kedua adalah ketika mereka bukan bagian dari tim
+
+127
+00:11:31,380 --> 00:11:39,220
+Partisipasi mereka biasanya menggunakan media perantara, entah itu sosial media, newsletter, dan lain sebagainya
+
+128
+00:11:39,220 --> 00:11:47,540
+Pada intinya, komunikasi dengan pengguna untuk urusan desain interaksi dilakukan melalui media diseminasi informasi
+
+129
+00:11:47,540 --> 00:11:57,580
+Satu keuntungan dari bentuk keterlibatan pengguna yang seperti ini adalah dapat menjangkau pengguna dari berbagai latar belakang atau kelompok sekaligus
+
+130
+00:11:57,580 --> 00:12:01,040
+Dengan biaya dan sumber daya yang lebih kecil tentunya
+
+131
+00:12:01,040 --> 00:12:09,240
+Terkadang, keterlibatan pengguna seperti ini adalah didorong karena adanya kebutuhan komunikasi dua arah untuk menyampaikan feedback
+
+132
+00:12:09,240 --> 00:12:13,860
+Lalu, bisakah dua bentuk keterlibatan pengguna ini dilakukan secara bersamaan?
+
+133
+00:12:14,440 --> 00:12:15,820
+Jawabannya tentu saja bisa
+
+134
+00:12:15,820 --> 00:12:19,620
+Namun, kita perlu memperhatikan sumber daya yang tersedia
+
+135
+00:12:19,620 --> 00:12:29,100
+Dalam proses desain interaksi, satu isu utama yang sering terjadi adalah tidak memahami siapa pengguna aplikasi kita
+
+136
+00:12:29,100 --> 00:12:34,620
+Terdengar sepele, namun kenyataannya tidak sesederhana yang mungkin kita pikirkan
+
+137
+00:12:34,620 --> 00:12:40,700
+Berbicara tentang pengguna, tentu kita perlu memahami aspek manusia yang memang menjadi pengguna tersebut
+
+138
+00:12:40,700 --> 00:12:43,400
+Ada berbagai kelompok pengguna aplikasi
+
+139
+00:12:43,400 --> 00:12:48,360
+Pertama tentu saja orang yang berinteraksi langsung dengan produk aplikasi tersebut
+
+140
+00:12:48,360 --> 00:12:53,360
+Namun tidak hanya itu, pengguna juga bisa orang yang mengatur pengguna langsung
+
+141
+00:12:53,360 --> 00:12:58,940
+Misalnya bos yang mewajibkan bawahannya untuk menggunakan suatu aplikasi tertentu
+
+142
+00:12:58,940 --> 00:13:03,520
+Atau selain itu, bisa juga orang yang memperoleh output dari produk
+
+143
+00:13:03,520 --> 00:13:06,420
+Orang yang menentukan keputusan pembelian
+
+144
+00:13:06,420 --> 00:13:09,820
+Atau mungkin orang yang menggunakan produk kompetitor
+
+145
+00:13:09,820 --> 00:13:15,260
+Pada intinya, pengguna produk kita tidak selalu orang yang berinteraksi secara langsung
+
+146
+00:13:15,260 --> 00:13:19,400
+Ada banyak kelompok pengguna lain yang terkadang harus kita pikirkan
+
+147
+00:13:19,400 --> 00:13:24,200
+Ada tiga kategori pengguna menurut Eason
+
+148
+00:13:24,200 --> 00:13:27,180
+Ketiga kategori pengguna tersebut adalah
+
+149
+00:13:27,180 --> 00:13:31,120
+Primary User, Secondary User, dan Third Theory User.
+
+150
+00:13:31,840 --> 00:13:37,020
+Primary User atau pengguna utama merupakan orang-orang yang sangat sering menggunakan aplikasi
+
+151
+00:13:37,020 --> 00:13:44,220
+atau dapat dikatakan bahwa aplikasi tersebut sudah menjadi bagian dari pekerjaan atau keseharian mereka.
+
+152
+00:13:45,020 --> 00:13:51,360
+Sementara itu, Secondary User atau pengguna sekunder adalah mereka yang sesekali saja menggunakan aplikasi
+
+153
+00:13:51,360 --> 00:13:54,080
+atau menggunakannya melalui orang lain.
+
+154
+00:13:54,080 --> 00:13:57,600
+Mereka bukan pengguna rutin seperti primary user
+
+155
+00:13:57,600 --> 00:14:04,480
+Sedangkan tertiary user atau pengguna tertiary adalah mereka yang terpengaruh dari pengenalan produk
+
+156
+00:14:04,480 --> 00:14:08,640
+Atau bisa juga yang mempengaruhi pembelian produk aplikasi
+
+157
+00:14:08,640 --> 00:14:14,680
+Isu lain yang sering muncul dan terkait dengan pengguna adalah isu kebutuhan pengguna
+
+158
+00:14:15,040 --> 00:14:21,500
+Pertanyaan seperti apa yang dimaksud dengan kebutuhan seringkali sulit untuk didefinisikan di awal
+
+159
+00:14:21,500 --> 00:14:31,000
+Mayoritas pengguna memiliki banyak keinginan dan sebagai desainer kita seringkali sulit membedakan antara kebutuhan dengan keinginan pengguna
+
+160
+00:14:31,000 --> 00:14:35,660
+Terlebih lagi waktu dan sumber daya lainnya yang kita miliki sangat terbatas
+
+161
+00:14:35,660 --> 00:14:45,260
+Isu seperti ini muncul karena pengguna saat diwawancarai seringkali tidak mengetahui mana yang mungkin dibuat dan mana yang tidak mungkin
+
+162
+00:14:45,260 --> 00:14:54,460
+Selain itu, biasanya mereka sulit untuk mengungkapkan kebutuhan yang sebenarnya, yaitu yang dapat membantu tujuan mereka agar tercapai.
+
+163
+00:14:55,440 --> 00:15:01,360
+Oleh karena itu, kita perlu melakukan observasi terhadap kegiatan penggunaan berdasarkan hal-hal berikut.
+
+164
+00:15:01,900 --> 00:15:11,160
+Kita perlu pahami konteks penggunaannya apa, lalu informasi apa saja yang diperlukan, siapa saja yang berkolaborasi untuk menyelesaikan kegiatan tersebut,
+
+165
+00:15:11,160 --> 00:15:16,980
+Apakah cukup dilakukan sendiri? Lalu kenapa penyelesaian aktivitasnya perlu seperti itu?
+
+166
+00:15:17,500 --> 00:15:19,900
+Dan tentu masih banyak lagi yang lainnya.
+
+167
+00:15:20,360 --> 00:15:25,080
+Pada intinya, ini dilakukan untuk memisahkan kebutuhan dari keinginan pengguna.
+
+168
+00:15:25,700 --> 00:15:32,680
+Memang tidak salah memenuhi keinginan pengguna, namun kita perlu pastikan semua kebutuhan mereka sudah terpenuhi terlebih dahulu.
+
+169
+00:15:33,160 --> 00:15:39,560
+Dan kita juga perlu untuk bersikap realistis karena semua keinginan pengguna biasanya tidak bisa dipenuhi.
+
+170
+00:15:39,560 --> 00:15:44,640
+Ini adalah referensi utama yang digunakan dalam penyusunan materi ini
+
+171
+00:15:44,640 --> 00:15:48,000
+Terima kasih karena sudah menyimak materi ini hingga selesai

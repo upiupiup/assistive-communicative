@@ -1,0 +1,118 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+RPL-02	RPL		1	0.084	12.684	12.600		selama datang di video materi untuk mata kuliah rekayasa perangkat lunak dalam kesempatan kali ini kita akan membahas topik tentang software proses atau proses proses pada rekayasa perangkat lunak selamat menyimak	jalur-wav2vec2	
+RPL-02	RPL		2	14.356	20.480	6.124		topik pembahasan dalam video kali ini ada tiga pertama adalah pembahasan tentang software development framework	jalur-wav2vec2	
+RPL-02	RPL		3	20.480	31.372	10.892		lalu kedua adalah pembahasan tentang alur proses dari software dan topik pembahasaan ketiga atau yang terakhir adalah model proses prescriptive mari kita bahas satu persatu	jalur-wav2vec2	
+RPL-02	RPL		4	32.980	46.668	13.688		kerangka atau framework merupakan gambaran besar atau high level perspektif software development framework dapat diartikan sebagai gambaran umum tentang proses proses yang dilalui untuk mengembangkan sebuah software	jalur-wav2vec2	
+RPL-02	RPL		5	49.012	53.100	4.088		ini merupakan framework atau kerangka pengembangan software	jalur-wav2vec2	
+RPL-02	RPL		6	53.556	61.484	7.928		seperti yang terlihat kerangka pengembangan software tersusun atas umbrella activities yang mendukung framework activity	jalur-wav2vec2	
+RPL-02	RPL		7	61.588	68.016	6.428		dan di dalam framework activity terdapat sekumpulan task set yang merupakan unit terkecilnya	jalur-wav2vec2	
+RPL-02	RPL		8	68.016	71.276	3.260		mari kita bahasa lebih dalam tentang kerangka ini	jalur-wav2vec2	
+RPL-02	RPL		9	72.404	87.276	14.872		di dalam framework tadi kita bisa lihat ada yang dinamakan dengan framework activity sebetulnya framework activity ini adalah aktivitas dari proses atau bisa kita sebut juga dengan framework proses untuk pengembangan software	jalur-wav2vec2	
+RPL-02	RPL		10	87.380	98.156	10.776		secara umum ada empat proses atau process framework tadi dalam rekayasa perangkat lunak yaitu communication planning modelling construction dan deployment	jalur-wav2vec2	
+RPL-02	RPL		11	98.804	113.548	14.744		communication yaitu melakukan komunikasi dengan stakeholders untuk menyepakati tujuan kebutuhan yang harus dipenuhi atau requirements serta fitur dan fungsi yang diharapkan ada pada software yang akan dikembangkan	jalur-wav2vec2	
+RPL-02	RPL		12	114.132	129.996	15.864		lalu proses planning ini merupakan membuat rencana pekerjaan apa saja yang harus dilakukan dengan cara mendefinisikan tugas tugas teknis sumber daya yang diperlukan luaran atau outputnya dan juga resiko yang mungkin ditemukan	jalur-wav2vec2	
+RPL-02	RPL		13	130.100	134.828	4.728		proses ini menghasilkan sesuatu yang dinamakan dengan software project plan	jalur-wav2vec2	
+RPL-02	RPL		14	135.892	145.804	9.912		lalu proses yang ketiga adalah modeling proses ini membuat berbagai model perangkat lunak untuk dapat menjelaskan kebutuhan atau requirement dengan baik	jalur-wav2vec2	
+RPL-02	RPL		15	145.876	151.916	6.040		pada proses modeling ini kita juga membuat rancangan yang bisa memenuhi requirement tersebut	jalur-wav2vec2	
+RPL-02	RPL		16	152.660	161.648	8.988		proses yang keempat adalah construction ini membangun software sesuai rancangan termasuk melakukan coding dan juga testing dari software tersebut	jalur-wav2vec2	
+RPL-02	RPL		17	161.648	176.396	14.748		dan proses yang terakhir adalah deployment ini menyerahkan software kepada user untuk mereka gunakan tentu penyerahannya disertai dengan manual penggunaan pelatihan pengguna dan juga skenario pemeliharan softwarenya	jalur-wav2vec2	
+RPL-02	RPL		18	177.428	188.332	10.904		lima proses tersebut harus dilakukan secara berurutan dan seperti yang tadi disebutkan aktivitas yang ada di setiap proses tersebut dinamakan dengan framework activity	jalur-wav2vec2	
+RPL-02	RPL		19	188.724	205.632	16.908		pada kerangka pengembangan software tadi kita juga melihat ada yang dinamakan dengan umbrella activity saya sengaja membahas tentang proses framework dan framework activity terlebih dahulu sebelum masuk ke pembahasan tentang umbrella activity ini tujuannya agar lebih mudah untuk memahaminya	jalur-wav2vec2	
+RPL-02	RPL		20	205.632	214.444	8.812		umbrella activity di sini merujuk pada setiap aktivitas pelengkap dari aktivitas di dalam proses pengembangan software secara keseluruhan	jalur-wav2vec2	
+RPL-02	RPL		21	214.964	221.420	6.456		dengan tujuan untuk mengelola kemajuan kualitas perubahan dan juga resiko	jalur-wav2vec2	
+RPL-02	RPL		22	221.620	230.412	8.792		tadi kita sudah bahas bahwa ada lima proses umum dari proses rekayasa perangkat lunak umbrella activity ini mencakup ke lima proses tersebut	jalur-wav2vec2	
+RPL-02	RPL		23	230.484	237.996	7.512		tujuan dari umbrella activity ini sebetulnya lebih mengarah pada atribut kualitas dari proses pengembangan softwarenya itu sendiri	jalur-wav2vec2	
+RPL-02	RPL		24	238.676	257.612	18.936		tanpa melakukan umbrella activity bisa saja softwarenya selesai di kembangkan namun belum tentu optimal baik dari sisi proses atau pun hasil softwarenya itu sendiri melengkapinya dengan serangkaian umbrella activity akan lebih menjamin keberhasilan dan juga kualitas dari proses pengembangan software	jalur-wav2vec2	
+RPL-02	RPL		25	259.060	265.708	6.648		ada banyak aktivitas yang termasuk ke dalam umbrella activity ini berikut ini adalah beberapa diantaranya	jalur-wav2vec2	
+RPL-02	RPL		26	265.716	271.116	5.400		seperti misalnya software project tracking and control risk management	jalur-wav2vec2	
+RPL-02	RPL		27	271.124	278.688	7.564		software quality assurance technical reviews measurement software configuration management	jalur-wav2vec2	
+RPL-02	RPL		28	278.688	284.044	5.356		reusability management dan juga work product preparation and production	jalur-wav2vec2	
+RPL-02	RPL		29	288.816	296.416	7.600		proses proses pada kerangka rpl mulai dari communication hingga deployment harus dilakukan secara sistematis	jalur-wav2vec2	
+RPL-02	RPL		30	296.416	301.484	5.068		namun demikian alur proses atau proses flownya bisa berbagai bentuk	jalur-wav2vec2	
+RPL-02	RPL		31	301.876	308.620	6.744		contoh alur proses yang paling sederhana adalah alur proses linier seperti yang terlihat pada gambar	jalur-wav2vec2	
+RPL-02	RPL		32	308.692	320.620	11.928		pada alur proses linier setiap proses dilakukan satu kali secara berurutan mulai dari communication planning modeling construction hingga di deployment	jalur-wav2vec2	
+RPL-02	RPL		33	320.692	329.548	8.856		setiap proses tersebut hanya dilewati satu kali saja dan untuk maju ke satu proses tertwntu proses sebelumnya harus sudah tuntas	jalur-wav2vec2	
+RPL-02	RPL		34	330.932	347.308	16.376		alur proses software yang kedua adalah alur proses iteratif seperti yang terlihat pada gambar alur proses ini memungkinkan adanya pengulangan terhadap suatu proses tertentu misalnya mengulangi kembali tahap communication setelah sampai pada tahap planning	jalur-wav2vec2	
+RPL-02	RPL		35	347.732	357.504	9.772		perlu dicatat juga apabila suatu proses di ulang kembali maka proses selanjutnya harus lah proses yang secara urutan berada setelah proses tersebut	jalur-wav2vec2	
+RPL-02	RPL		36	357.504	361.772	4.268		artinya kita tidak bisa melompati urutan proses ke depan	jalur-wav2vec2	
+RPL-02	RPL		37	361.972	369.292	7.320		alur proses ini memungkinkan suatu proses yang dijalankan lebih dari satu kali selama pengembangan software ini dilakukan	jalur-wav2vec2	
+RPL-02	RPL		38	369.460	374.092	4.632		siklus ini berakhir jika proses deployment telah selesai dilakukan	jalur-wav2vec2	
+RPL-02	RPL		39	375.124	378.988	3.864		alur proses berikutnya adalah evolutionary process flow	jalur-wav2vec2	
+RPL-02	RPL		40	378.996	383.852	4.856		ciri khas dari siklus ini adalah increment released dari software tersebut	jalur-wav2vec2	
+RPL-02	RPL		41	383.988	388.844	4.856		proses ini berbentuk lingkaran yang bisa diulang terus putarannya	jalur-wav2vec2	
+RPL-02	RPL		42	388.916	395.116	6.200		setelah proses deployment kita bisa mengulangi kembali alur proses mulai dari communication	jalur-wav2vec2	
+RPL-02	RPL		43	395.156	399.648	4.492		namun setiap putaran proses menghasilkan released increment software yang baru	jalur-wav2vec2	
+RPL-02	RPL		44	399.648	404.716	5.068		perangkat lunak yang dikembangkan dengan alur proses ini dirilis secara bertahap	jalur-wav2vec2	
+RPL-02	RPL		45	404.820	413.388	8.568		namun setiap kali rilis softwarenya sudah bisa digunakan dan terus berkembang atau berevolusi pada putaran putaran berikutnya	jalur-wav2vec2	
+RPL-02	RPL		46	413.588	423.404	9.816		proses berakhir apabila semua kebutuhan softwarenya sudah terpenuhi atau bisa kita katakan setelah bentuk evolusi terakhir dari softwarenya tercapai	jalur-wav2vec2	
+RPL-02	RPL		47	425.588	436.780	11.192		alur proses yang keempat adalah parallel process flow sesuai namanya alur proses ini memungkinkan untuk ada proses yang dilakukan secara paralel atau bersamaan	jalur-wav2vec2	
+RPL-02	RPL		48	439.392	452.716	13.324		proses modeling bisa dilakukan secara bersamaan dengan proses planning atau pada titik waktu tertantu aktivitas pada proses planning modeling dan juga construction dapat dilakukan secara bersamaan	jalur-wav2vec2	
+RPL-02	RPL		49	452.756	463.052	10.296		keempat bentuk alur proses ini menunjukkan bahwa walaupun secara umum proses yang dilewati saat mengembangkan software adalah sama tetapi alur prosesnya bisa beragam	jalur-wav2vec2	
+RPL-02	RPL		50	463.796	468.588	4.792		komponen lain dari kerangka proses rekayasa perangkat lunak adalah task set	jalur-wav2vec2	
+RPL-02	RPL		51	468.820	474.636	5.816		tast set ini adalah pekerjaan aktual yang harus diselesaikan pada setiap aktivitas framework	jalur-wav2vec2	
+RPL-02	RPL		52	474.804	484.044	9.240		tast set ditentukkan setelah menentukan alur proses yang akan digunakan dan juga mendefinisikan framework activity pada setiap proses tersebut	jalur-wav2vec2	
+RPL-02	RPL		53	484.244	490.176	5.932		jumlah dan tingkat kesulitan task set akan tergantung dari ukuran software yang dikembangkan	jalur-wav2vec2	
+RPL-02	RPL		54	490.176	510.176	20.000		walaupun framework activitynya sama sebuah proyek yang besar biasanya memiliki jumlah task set yang lebih banyak dibandingkan dengan proyek yang kecil selain itu juga task set bersifat unik berbeda antar proyek pengembangan software jika semua task set sudah berhasil dilakukan maka seharusnya tujuan dari	jalur-wav2vec2	
+RPL-02	RPL		55	510.176	518.796	8.620		proyek perangkat lunaknya sudah tercapai karena itulah saat menentukannya kita sudah tahu terlebih dahulu apa tujuan proyek perangkat lunaknya dengan baik	jalur-wav2vec2	
+RPL-02	RPL		56	519.508	531.072	11.564		agar lebih memahami tentang task set ini mari kita lihat contohnya seperti yang sudah disebutkan tadi setiap framework activity memiliki sekumpulan task set atau tugas tugas yang harus dilakukan	jalur-wav2vec2	
+RPL-02	RPL		57	531.072	536.364	5.292		mari kita ambil contoh framework activity yang selalu ada yaitu requirement gathering	jalur-wav2vec2	
+RPL-02	RPL		58	536.596	547.052	10.456		conto task set pada aktivitas pengumpulan requirement ini misalnya satu membuat daftar stakeholders lalu kedua adalah mengundang mereka untuk meeting	jalur-wav2vec2	
+RPL-02	RPL		59	547.124	553.548	6.424		ketiga adalah menanyakan fitur dan fungsi apa saja yang dibutuhkan oleh stakeholders tersebut	jalur-wav2vec2	
+RPL-02	RPL		60	553.588	559.820	6.232		keempat adalah mendiskusikan requirements yang terkumpul dan membuat daftar requirement yang sudah final	jalur-wav2vec2	
+RPL-02	RPL		61	559.860	568.428	8.568		kelima adalah memberikan prioritas terhadap requirements tersebut dan keenam adalah mencatat semua hal yang perlu di perjelas kembali	jalur-wav2vec2	
+RPL-02	RPL		62	568.532	581.964	13.432		jika kita sudah berhasil melakukan ke enam task set tersebut maka seharusnya aktivitas requirement gathering ini sudah selesai dan kita bisa melanjutkan pada framework activity berikutnya dengan task set yang berbeda tentunya	jalur-wav2vec2	
+RPL-02	RPL		63	582.676	585.868	3.192		kita lanjutkan pada pembahasan tentang proses model	jalur-wav2vec2	
+RPL-02	RPL		64	586.036	593.456	7.420		process model atau model proses merupakan bentuk implementasi dari alur proses perangkat lunak yang tadi sudah kita bahas	jalur-wav2vec2	
+RPL-02	RPL		65	593.456	607.340	13.884		secara umum ada dua jenis proses model yaitu prescriptive model dan agile model pada materi kali ini yang kita bahas hanya prescriptive model terlebih dahulu dan untuk agile model dibahas pada video lain yang terpisah	jalur-wav2vec2	
+RPL-02	RPL		66	607.764	619.616	11.852		model proses prescriptive merupakan model yang sudah mendefinisikan dengan jelas aturan aktivitas tugas luaran dan berbagai elemen lain dalam proses rekayasa perangkat lunak	jalur-wav2vec2	
+RPL-02	RPL		67	619.616	639.616	20.000		model proses prescriptive mengutamakan proses yang terukur berurutan dan mengikuti suatu panduan dalam setiap aktivitasnya ibarat sebuah resep dokter kita tinggal mengikutinya saja agar dapat sembuh seperti apa jenis obatnya berapa banyak dosisnya dalam kondisi seperti apa obat tersebut di minum dan lain seba	jalur-wav2vec2	
+RPL-02	RPL		68	639.616	644.268	4.652		gainya kira kira seperti itulah analogi dari proses prescriptive ini	jalur-wav2vec2	
+RPL-02	RPL		69	644.468	652.908	8.440		setidaknya ada empat contoh yang termasuk dalam model proses precriptive yang dapat kita temukan saat ini yaitu the waterfall model	jalur-wav2vec2	
+RPL-02	RPL		70	652.916	664.108	11.192		prototyping proses model evolutionary atau spiral process model dan terakhir adalah unified process model mari kita baha satu persatu model proses tersebut	jalur-wav2vec2	
+RPL-02	RPL		71	665.140	672.108	6.968		pertama adalah waterfall model perhatikan gambar yang terlihat ini adalah gambar dari waterfall model	jalur-wav2vec2	
+RPL-02	RPL		72	672.116	680.044	7.928		waterfall model merupakan pendekatan untuk pengembangan perangkat lunak yang alur prosesnya sistematis berurutan dan juga linier	jalur-wav2vec2	
+RPL-02	RPL		73	680.084	687.296	7.212		dimulai dari pengumpulan kebutuhan customer merencanakan tugas modeling construction	jalur-wav2vec2	
+RPL-02	RPL		74	687.296	693.484	6.188		deployment dan berujung pada penyediaan dukungan secara berkelanjutan ketika software telah selesai	jalur-wav2vec2	
+RPL-02	RPL		75	694.644	711.116	16.472		seperti yang sudah jelas terlihat waterfall model ini adalah bentuk implementasi dari alur proses yang linier tidak ada iterasi di sana dan setiap proses hanya dilakukan satu kali jika suatu proses sebelum tuntas maka proses selanjutnya belum bisa kita lakukan	jalur-wav2vec2	
+RPL-02	RPL		76	711.636	716.460	4.824		waterfall ini merupakan pendekatan rekayasa perangkat lunak yang paling tua	jalur-wav2vec2	
+RPL-02	RPL		77	717.684	724.768	7.084		waterfall model dikenal sebagai pendekatan yang rapi dan terstruktur namun pendekatan ini bukan tanpa permasalahan	jalur-wav2vec2	
+RPL-02	RPL		78	724.768	736.012	11.244		beberapa masalah yang sering muncul pada saat menggunakan waterfall model adalah pertama proyek pengembangan software di dunia nyata jarang mengikuti alur proses yang berurutan dan satu arah	jalur-wav2vec2	
+RPL-02	RPL		79	736.084	743.276	7.192		kedua seringkali pengguna kesulitan untuk mendeskripsikan semua requirement secara eksplisit di awal proses	jalur-wav2vec2	
+RPL-02	RPL		80	743.316	750.796	7.480		dan ketiga pengguna atau pelanggan harus bersabar karena software baru dapat terlihat pada tahap akhir projek	jalur-wav2vec2	
+RPL-02	RPL		81	751.348	758.508	7.160		ketiga masalah ini yang menjadi pertimbangan mengapa tim pengembang software memilih pendekatan atau model proses yang lain	jalur-wav2vec2	
+RPL-02	RPL		82	758.644	765.484	6.840		pada kenyataannya model waterfall sudah sangat jarang digunakan dalam pengembangan perangkat lunak modern sekarang ini	jalur-wav2vec2	
+RPL-02	RPL		83	767.348	775.884	8.536		model proses precriptive yang kedua adalah prototyping proses model gambar yang terlihat ini merupakan model proses prototyping	jalur-wav2vec2	
+RPL-02	RPL		84	775.988	786.700	10.712		dalam praktek pengemangan perangkat lunak seringkali pelanggan hanya menjabarkan kebutuhan secara umum saja tanpa penjelasan rinci terkait fungsi atau fitur softwarenya	jalur-wav2vec2	
+RPL-02	RPL		85	787.476	796.460	8.984		penyebabnya bisa beragam yang jelas perlu proses communication yang berulang dan efektif untuk bisa mendapatkan requirements yang paling sesuai	jalur-wav2vec2	
+RPL-02	RPL		86	796.596	802.144	5.548		dalam situasi seperti ini paradigma prototyping bisa menjadi pendekatan yang sesuai	jalur-wav2vec2	
+RPL-02	RPL		87	802.144	815.436	13.292		seperti yang terlihat pada gambar setelah proses communication dilakukan tim akan dengan cepat melanjutkannya ke proses planning dan juga desain atau modeling dan setelahnya prototype dari software tersebut di kembangkan	jalur-wav2vec2	
+RPL-02	RPL		88	815.444	825.740	10.296		prototype ini kemudian ditunjukkan kepada pengguna mereka kemudian diminta untuk menilai apakah requirement yang mereka maksud sudah dipenuhi oleh prototype tersebut	jalur-wav2vec2	
+RPL-02	RPL		89	825.812	844.044	18.232		idealnya prototype ini berperan sebagai alat untuk mengidentifikasi software requirement seringkali dengan membuat prototype pengguna lebih bisa membayangkan seperti apa sistem yang mereka butuhkan dan kebutuhan atau requirement itulah yang kemudian harus dipenuhi pada software yang sebenarnya	jalur-wav2vec2	
+RPL-02	RPL		90	845.268	855.852	10.584		model proses prototyping ini juga memiliki permasalahan atau tantangan ingat bahwa prototipe yang dihasilkan di sini bukanlah produk hasil yang sudah siap digunakan	jalur-wav2vec2	
+RPL-02	RPL		91	856.084	868.588	12.504		suatu prototipe atau purwarupa bisa saja memiliki fungsi seperti software aslinya namun karena di kembangkannya dengan cepat aspek aspek lain seperti kualitas umumnya belum diperhatikan	jalur-wav2vec2	
+RPL-02	RPL		92	868.724	886.252	17.528		inilah yang biasanya menimbulkan permasalahan permasalahan atau kelemahan utama dari prototyping adalah stakeholder sering menganggap prototipe software sebagai versi yang sudah berjalan atau produk finalnya dan tidak menyadari bahwa kualitasnya secara keseluruhan belum terjamin	jalur-wav2vec2	
+RPL-02	RPL		93	886.516	899.500	12.984		di satu sisi sebagai software engineer kita sering mengimplementasikan software yang mengabaikan banyak aspek misalnya kualitas atau keamanan demi menghasilkan prototipe yang lebih cepat	jalur-wav2vec2	
+RPL-02	RPL		94	900.084	914.892	14.808		akan menjadi masalah apabila tim pengembang lebih fokus pada kecepatan dan menomor duakan aspek lain yang sama pentingnya apa lagi jika stakeholders mengira bahwa prototipe ini adalah bentuk yang hampir selesai dari software yang akan digunakan	jalur-wav2vec2	
+RPL-02	RPL		95	915.412	928.460	13.048		kunci untuk mengatasi permasalahan tersebut adalah dengan membuat kesepakatan di awal dan semua stakeholder harus setuju bahwa prototipe ini dibuat untuk mendapatkan requirement software versi akhir nya nanti	jalur-wav2vec2	
+RPL-02	RPL		96	928.500	940.044	11.544		dengan demikian stakeholder sepaham bahwa masih memerlukan waktu hingga softwarenya benar benar siap untuk digunakan dan tim pengembangpun punya banyak waktu mengembangkan software dengan selayaknya	jalur-wav2vec2	
+RPL-02	RPL		97	941.460	946.444	4.984		berikutnya adalah evolutionary atau spiral model ini adalah gambarnya	jalur-wav2vec2	
+RPL-02	RPL		98	946.548	952.908	6.360		pada pendekatan ini software dikembangkan dengan rangkaian versi rilis yang bersifat evolutionary	jalur-wav2vec2	
+RPL-02	RPL		99	953.044	958.924	5.880		setiap versi rilis mengikuti aktivitas karangka kerja yang ditentukan oleh tim pengembang	jalur-wav2vec2	
+RPL-02	RPL		100	958.964	971.052	12.088		pada iterasi awal software yang dirilis mungkin saja masih berbentuk model atau prototipe kemudian berkembang pada iterasi selanjutnya hingga versi terbaik dari software tersebut di dapatkan	jalur-wav2vec2	
+RPL-02	RPL		101	971.348	978.028	6.680		spiral model ini merupakan pendekatan yang realistis untuk mengembangkan sistem dan software berskala besar	jalur-wav2vec2	
+RPL-02	RPL		102	978.356	983.904	5.548		namun sama halnya dengan model proses lain spiral model juga memiliki permasalahan	jalur-wav2vec2	
+RPL-02	RPL		103	983.904	1002.252	18.348		permasalan pada spiral model adalah sulitnya menyakinkan pelanggan atau pengguna bahwa pendekatan ini dapat terukur dan terkendali sebagian pengguna bisa saja meragukan proses ini karena softwarenya yang berubah ubah dan terkadang butuh waktu lama untuk bisa melihat titik akhirnya	jalur-wav2vec2	
+RPL-02	RPL		104	1004.372	1012.332	7.960		contoh model proses precriptive yang terakhir adalah unified process model ini adalah gambar dari model proses tersebut	jalur-wav2vec2	
+RPL-02	RPL		105	1012.724	1026.668	13.944		yang menjadi ciri khas dari the unified process ini adalah mengakui pentingnya komunikasi dengan pengguna atau customer dan juga memilih metode yang disederhanakan untuk menjelaskan sistem dari sudut pandang pengguna	jalur-wav2vec2	
+RPL-02	RPL		106	1026.996	1032.300	5.304		tujuannya adalah agar pengguna juga paham tentang model dan rancangan dari softwarenya	jalur-wav2vec2	
+RPL-02	RPL		107	1032.660	1044.268	11.608		pada the unified process model ini selain menjalankan proses proses rekayasa perangkat lunak secara umum kita juga secara paralel menjalankan lima fase yang unik pada unified process	jalur-wav2vec2	
+RPL-02	RPL		108	1044.276	1048.460	4.184		kelima fase tersebut adalah inception elaboration	jalur-wav2vec2	
+RPL-02	RPL		109	1053.108	1058.252	5.144		fase inception melibatkan komunikasi dengan pengguna dalam perancangan aktivitas	jalur-wav2vec2	
+RPL-02	RPL		110	1058.516	1071.692	13.176		pada fase elaboration tim pengembang menggunakan aktivitas aktivitas komunikasi dan modeling seperti use case dan lain sebagainya dengan demikian pengguna akan paham tentang model requirement dan juga rancangan softwarenya	jalur-wav2vec2	
+RPL-02	RPL		111	1072.340	1078.924	6.584		selanjutnya adalah fase construction ini merupakan tahap pengembangan software misalnya melakukan coding	jalur-wav2vec2	
+RPL-02	RPL		112	1079.028	1089.612	10.584		lalu ada fase transition ya itu transisi dari tahap pengembangan software ke tahap implementasi misalnya mengeluarkan release candidate atau beta version	jalur-wav2vec2	
+RPL-02	RPL		113	1090.068	1099.436	9.368		dan terakhir adalah fase production yaitu penyerahan software kepada pelanggan atau pengguna software sudah digunakan dan penggunaannya dipantau	jalur-wav2vec2	
+RPL-02	RPL		114	1100.020	1108.716	8.696		unified model ini juga bersivat iteratif dan sama seperti spiral model proses deploymentnya menghasilkan software increment	jalur-wav2vec2	
+RPL-02	RPL		115	1108.756	1118.572	9.816		unified proses model ini sebetulnya berusaha mengambil kebaikan dari model prescriptive secara umum dengan model agile yang adaptif terhadap perubahan	jalur-wav2vec2	
+RPL-02	RPL		116	1119.924	1132.460	12.536		sebagai penutup materi kali ini mari kita lihat perbandingan antar model yang sudah dibahas tadi tabel ini merangkum poin poin perbandingan antar model dilihat dari pro dan kontranya	jalur-wav2vec2	
+RPL-02	RPL		117	1132.884	1140.014	7.130		pro dapat kita artikan sebagai kekuatan modelnya dan kontra adalah kelemahan atau tantangan yang dimiliki oleh setiap	jalur-wav2vec2	

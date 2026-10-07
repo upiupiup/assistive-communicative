@@ -1,0 +1,269 @@
+mata_kuliah,entri_id,bentuk_kanonik,bentuk_permukaan,sumber,tanggal_kunci
+APS,APS-001,abstract class,abstract class,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-001,abstract class,kelas abstrak,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-001,abstract class,klas abstrak,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-002,abstraksi,abstraksi,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-002,abstraksi,abstraction,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-003,acceptance criteria,acceptance criteria,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-004,acceptance testing,acceptance testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-004,acceptance testing,pengujian penerimaan,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-005,activity diagram,activity diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-006,actor,actor,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-006,actor,aktor,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-007,actor generalization,actor generalization,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-007,actor generalization,super-actor,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-007,actor generalization,sub-actors,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-008,adaptability,adaptability,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-009,aggregation,aggregation,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-009,aggregation,agregasi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-010,algoritme,algoritme,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-010,algoritme,algoritma,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-011,alternative flow,alternative flow,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-011,alternative flow,aliran alternatif,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-012,ambiguity,ambiguity,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-012,ambiguity,ambigu,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-013,analisis,analisis,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-013,analisis,analysis,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-014,API,API,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-015,association,association,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-015,association,asosiasi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-016,atribut,atribut,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-016,atribut,attribute,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-016,atribut,attributes,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-017,behavioral,behavioral,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-018,bespoke software,bespoke software,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-019,black-box testing,black-box testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-019,black-box testing,black box testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-019,black-box testing,pengujian black-box,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-020,boilerplate,boilerplate,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-021,boundary class,boundary class,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-021,boundary class,boundary,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-022,CASE tool,CASE tool,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-022,CASE tool,alat bantu CASE,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-023,class diagram,class diagram,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-023,class diagram,diagram kelas,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-023,class diagram,diagram klas,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-024,class stereotype,class stereotype,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-024,class stereotype,class stereotypes,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-025,combined fragment,combined fragment,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-026,command language,command language,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-027,component diagram,component diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-028,composition,composition,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-028,composition,komposisi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-029,consistency,consistency,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-029,consistency,konsistensi,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-030,constraint,constraint,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-030,constraint,constraints,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-030,constraint,batasan,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-031,constructor,constructor,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-031,constructor,konstruktor,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-032,control class,control class,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-033,CRC cards,CRC cards,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-034,creational,creational,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-035,data flow diagram,data flow diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-036,data warehouse,data warehouse,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-037,database,database,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-037,database,basis data,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-038,design pattern,design pattern,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-038,design pattern,pola perancangan,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-038,design pattern,pola desain,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-039,diagram,diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-039,diagram,diagrams,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-040,diagrammatic model,diagrammatic model,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-041,direct manipulation,direct manipulation,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-042,ECB,ECB,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-043,elisitasi,elisitasi,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-043,elisitasi,elisitasi kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-044,entity class,entity class,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-044,entity class,entity,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-045,entity relationship diagram,entity relationship diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-046,error message,error message,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-046,error message,pesan kesalahan,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-047,extend,extend,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-048,facade,facade,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-048,facade,façade,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-049,finite state machine,finite state machine,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-050,formal model,formal model,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-051,formalisasi,formalisasi,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-052,fully dressed,fully dressed,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-053,functional requirement,functional requirement,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-053,functional requirement,kebutuhan fungsional,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-054,generalization,generalization,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-054,generalization,generalisasi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-055,generic software,generic software,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-056,GoF,GoF,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-057,GUI,GUI,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-058,human factors,human factors,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-058,human factors,faktor manusia,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-059,include,include,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-060,information presentation,information presentation,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-060,information presentation,penyajian informasi,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-060,information presentation,presentation,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-061,inheritance,inheritance,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-061,inheritance,pewarisan,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-061,inheritance,penurunan klas,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-062,instansiasi,instansiasi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-062,instansiasi,instance,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-062,instansiasi,instances,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-063,integration testing,integration testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-063,integration testing,pengujian integrasi,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-064,interaction style,interaction style,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-065,interface,interface,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-065,interface,interfaces,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-065,interface,antarmuka,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-066,interface evaluation,interface evaluation,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-067,IRS,IRS,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-068,kebutuhan,kebutuhan,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-068,kebutuhan,requirement,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-068,kebutuhan,requirements,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-069,kelas,kelas,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-069,kelas,class,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-069,kelas,classes,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-069,kelas,klas,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-070,kohesi,kohesi,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-070,kohesi,cohesion,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-070,kohesi,kohesifitas,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-071,komponen,komponen,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-071,komponen,component,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-072,kopling,kopling,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-072,kopling,coupling,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-073,kualitas perangkat lunak,kualitas perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-074,kuesioner,kuesioner,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-075,lifeline,lifeline,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-076,main flow,main flow,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-076,main flow,aliran utama,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-077,manajemen kebutuhan,manajemen kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-078,manajemen perubahan,manajemen perubahan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-079,method,method,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-079,method,methods,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-079,method,metode,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-080,model,model,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-080,model,models,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-081,multiplicity,multiplicity,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-081,multiplicity,kardinalitas,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-082,MVC,MVC,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-083,natural language model,natural language model,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-084,non-functional requirement,non-functional requirement,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-084,non-functional requirement,kebutuhan nonfungsional,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-085,object oriented,object oriented,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-085,object oriented,OO,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-085,object oriented,berorientasi objek,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-085,object oriented,pendekatan objek,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-086,object oriented analysis,object oriented analysis,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-086,object oriented analysis,OOA,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-087,object oriented design,object oriented design,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-087,object oriented design,OOD,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-088,objek,objek,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-088,objek,object,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-088,objek,objects,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-089,observasi,observasi,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-090,observer,observer,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-091,OCL,OCL,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-092,operasi,operasi,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-092,operasi,operation,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-092,operasi,operations,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-093,operation signature,operation signature,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-094,overloading,overloading,materi ajar (APS-Bab5c-Pemodelan-class-diagram-desain-v2.0.pdf),2026-10-01
+APS,APS-095,packaging,packaging,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-095,packaging,package,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-095,packaging,packages,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-096,pemodelan,pemodelan,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-097,pengembangan perangkat lunak,pengembangan perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-097,pengembangan perangkat lunak,software development,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-098,pengujian,pengujian,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-099,perancangan,perancangan,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-099,perancangan,design,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-099,perancangan,desain,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-099,perancangan,rancangan,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-100,perancangan arsitektural,perancangan arsitektural,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-100,perancangan arsitektural,arsitektur,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-101,perancangan data,perancangan data,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-102,perancangan interface,perancangan interface,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-102,perancangan interface,interface design,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-103,perancangan komponen,perancangan komponen,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-104,perangkat lunak,perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-104,perangkat lunak,software,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-104,perangkat lunak,PL,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-104,perangkat lunak,sistem perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-104,perangkat lunak,s/w,materi ajar (APS-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-105,postcondition,postcondition,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-105,postcondition,kondisi akhir,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-106,precondition,precondition,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-106,precondition,prakondisi,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-107,primary actor,primary actor,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-107,primary actor,aktor primer,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-108,primary key,primary key,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-108,primary key,kunci primer,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-109,problem domain,problem domain,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-109,problem domain,domain masalah,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-110,proses perangkat lunak,proses perangkat lunak,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-110,proses perangkat lunak,proses PL,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-111,prototyping,prototyping,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-112,pseudocode,pseudocode,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-113,rationale,rationale,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-114,real-time system,real-time system,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-114,real-time system,real-time,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-115,refactoring,refactoring,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-116,requirements engineering,requirements engineering,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-116,requirements engineering,RE,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-116,requirements engineering,rekayasa kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-117,reuse,reuse,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-118,secondary actor,secondary actor,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-118,secondary actor,aktor sekunder,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-119,sequence diagram,sequence diagram,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-119,sequence diagram,diagram sekuens,materi ajar (APS-Bab5b-Pemodelan-sequence-diagram-v2.0.pdf),2026-10-01
+APS,APS-120,singleton,singleton,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-121,sistem,sistem,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-121,sistem,system,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-121,sistem,systems,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-122,sistem informasi,sistem informasi,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-123,SMART,SMART,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-124,solution domain,solution domain,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-124,solution domain,domain solusi,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-125,spesifikasi kebutuhan,spesifikasi kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-126,SRS,SRS,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-127,stakeholder,stakeholder,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-127,stakeholder,pemangku kepentingan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-128,statechart diagram,statechart diagram,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf),2026-10-01
+APS,APS-129,structural,structural,materi ajar (APS-Bab5e-Pola-perancangan-v2.0.pdf),2026-10-01
+APS,APS-130,sub-sistem,sub-sistem,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-130,sub-sistem,subsistem,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-131,subclass,subclass,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-132,superclass,superclass,materi ajar (APS-Bab4c-Pemodelan-class-diagram-v2.0.pdf),2026-10-01
+APS,APS-133,system testing,system testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-133,system testing,pengujian sistem,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-133,system testing,system test,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-134,test case,test case,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-134,test case,test cases,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-134,test case,kasus uji,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-135,traceability,traceability,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-135,traceability,ketertelusuran,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-136,UML,UML,materi ajar (APS-Bab2-Konsep-pemodelan-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+APS,APS-137,umpan balik,umpan balik,materi ajar (APS-Bab1-Pengantar-v1.0.pdf),2026-10-01
+APS,APS-138,understandability,understandability,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01
+APS,APS-139,unit testing,unit testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-139,unit testing,pengujian unit,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-140,usability,usability,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-141,use case,use case,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-141,use case,use cases,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-141,use case,kasus penggunaan,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-142,use case diagram,use case diagram,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-142,use case diagram,diagram use case,materi ajar (APS-Bab4a-Pemodelan-use-case-diagram-v2.0.pdf),2026-10-01
+APS,APS-143,use case scenario,use case scenario,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-143,use case scenario,UC scenario,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-143,use case scenario,skenario use case,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-143,use case scenario,skenario,materi ajar (APS-Bab4b-Pemodelan-use-case-scenario-v2.0.pdf),2026-10-01
+APS,APS-144,user guidance,user guidance,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-145,user interface,user interface,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-145,user interface,UI,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-145,user interface,antarmuka pengguna,materi ajar (APS-Bab5f-Perancangan-UI-v2.0.pdf),2026-10-01
+APS,APS-146,validasi,validasi,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-146,validasi,validasi kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-147,verifikasi,verifikasi,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-147,verifikasi,verifikasi kebutuhan,materi ajar (APS-Bab3a-Konsep-rekayasa-kebutuhan-v1.0.pdf),2026-10-01
+APS,APS-148,wawancara,wawancara,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-148,wawancara,interview,materi ajar (APS-Bab3b-Elisitasi-analisis-kebutuhan-v2.0.pdf),2026-10-01
+APS,APS-149,white-box testing,white-box testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-149,white-box testing,white box testing,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-149,white-box testing,pengujian white-box,buku pedoman kurikulum 2024,2026-10-01
+APS,APS-150,wicked problem,wicked problem,materi ajar (APS-Bab5a-Konsep-perancangan-v2.0.pdf),2026-10-01

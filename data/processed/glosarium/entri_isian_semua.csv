@@ -1,0 +1,80 @@
+mata_kuliah,entri_id,bentuk_kanonik,jenis,bahan_kajian,alasan
+AOK,AOK-005,amdahl's law,isian,Arsitektur dan Organisasi Prosesor,CPMK-2 (indikator kinerja) tidak punya istilah metrik di materi; hukum Amdahl dasar peningkatan kinerja paralel
+AOK,AOK-009,benchmark,isian,Arsitektur dan Organisasi Prosesor,CPMK-2: cara mengukur kinerja sistem komputer
+AOK,AOK-029,CPI,isian,Arsitektur dan Organisasi Prosesor,"CPMK-2: metrik kinerja prosesor, pasangan IPC yang ada di materi"
+AOK,AOK-043,elemen penyimpanan,pedoman_saja,Arsitektur dan Organisasi Memori,hanya ada di buku pedoman (CPMK-4); tidak ditemukan di materi
+AOK,AOK-058,indikator kinerja,pedoman_saja,Arsitektur dan Organisasi Prosesor,hanya ada di buku pedoman (CPMK-2); tidak ditemukan di materi
+APS,APS-004,acceptance testing,pedoman_saja,Pengujian sistem,
+APS,APS-019,black-box testing,isian,Pengujian sistem,teknik pengujian dasar untuk acceptance dan system testing
+APS,APS-063,integration testing,pedoman_saja,Pengujian sistem,
+APS,APS-133,system testing,isian,Pengujian sistem,tingkat pengujian antara integration dan acceptance testing
+APS,APS-134,test case,isian,Pengujian sistem,bahan kajian 6 (pengujian sistem) tidak punya bab di materi; test case adalah artefak dasar pengujian
+APS,APS-139,unit testing,pedoman_saja,Pengujian sistem,
+APS,APS-149,white-box testing,isian,Pengujian sistem,teknik pengujian dasar untuk unit testing
+IMK,IMK-001,accessibility,pedoman_saja,Komputer,masuk karena CPMK-2 (aksesibilitas)
+IMK,IMK-008,cognitive walkthrough,isian,Teknik evaluasi,teknik evaluasi dasar berbasis analisis; bahan kajian 7 tidak punya bab di materi
+IMK,IMK-054,heuristic evaluation,isian,Teknik evaluasi,teknik evaluasi dasar tanpa pengguna; bahan kajian 7 tidak punya bab di materi
+IMK,IMK-061,inclusive design,pedoman_saja,Komputer; Aturan desain,masuk karena CPMK-2 (desain inklusif)
+IMK,IMK-100,questionnaire,isian,Teknik evaluasi,instrumen mengukur kepuasan pada usability testing; bahan kajian 7 tidak punya bab di materi
+IMK,IMK-102,rapid prototyping,pedoman_saja,Perancangan interaksi,masuk karena CPMK-3 (rapid prototyping tools)
+IMK,IMK-123,System Usability Scale,isian,Teknik evaluasi,instrumen standar mengukur kepuasan; bahan kajian 7 tidak punya bab di materi
+IMK,IMK-126,task completion rate,isian,Teknik evaluasi,ukuran efektivitas pada usability testing; CPMK-4 (efektivitas)
+IMK,IMK-127,task completion time,isian,Teknik evaluasi,ukuran efisiensi pada usability testing; CPMK-4 (efisiensi)
+IMK,IMK-128,think-aloud,isian,Teknik evaluasi,teknik pengumpulan data pada usability testing; bahan kajian 7 tidak punya bab di materi
+IMK,IMK-137,usability testing,isian,Teknik evaluasi,CPMK-4 (pengujian usability) dan bahan kajian 7 tidak punya bab di materi; Bab 9 hanya berisi tugas review paper
+JARNIR,JARNIR-014,beamforming,gambar_materi,Teknologi Jaringan WiFi,"hanya ada di gambar slide Bab 4 hlm 9 dan 16; terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+JARNIR,JARNIR-018,BSS,gambar_materi,Teknologi Jaringan WiFi,"hanya ada di gambar slide Bab 4 hlm 38; terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+JARNIR,JARNIR-034,energy efficiency,isian,Teknologi Nirkabel saat ini: WSN dan IoT,tantangan utama WSN dan IoT; bahan kajian 7 tidak punya bab di materi
+JARNIR,JARNIR-055,handover,isian,Teknologi Jaringan Seluler,mekanisme dukungan mobilitas pengguna pada jaringan seluler (CPMK-2); materi tidak membahasnya secara eksplisit
+JARNIR,JARNIR-075,local area network,pedoman_saja,Teknologi Jaringan WiFi,
+JARNIR,JARNIR-078,LPWAN,isian,Teknologi Nirkabel saat ini: WSN dan IoT; Wireless WAN,kategori jaringan tempat LoRaWAN berada; menghubungkan bahan kajian 3 dan 7
+JARNIR,JARNIR-083,MCS,gambar_materi,Teknologi Jaringan WiFi,"hanya ada di gambar slide Bab 4 hlm 16; terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+JARNIR,JARNIR-087,mobilitas,pedoman_saja,Teknologi Jaringan Seluler,masuk karena CPMK-2 (dukungan terhadap mobilitas pengguna)
+JARNIR,JARNIR-092,MQTT,isian,Teknologi Nirkabel saat ini: WSN dan IoT,protokol aplikasi IoT yang umum; bahan kajian 7 tidak punya bab di materi
+JARNIR,JARNIR-116,protokol MAC,pedoman_saja,Prinsip Dasar Komunikasi Nirkabel,masuk karena CPMK-1 (protokol MAC)
+JARNIR,JARNIR-122,routing protocol,isian,Teknologi Nirkabel saat ini: WSN dan IoT,protokol utama pada WSN; bahan kajian 7 tidak punya bab di materi
+JARNIR,JARNIR-126,sensor node,isian,Teknologi Nirkabel saat ini: WSN dan IoT,komponen dasar WSN; bahan kajian 7 tidak punya bab di materi
+JARNIR,JARNIR-140,trigger frame,gambar_materi,Teknologi Jaringan WiFi,"hanya ada di gambar slide Bab 4 hlm 74 dan 77; terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+JARNIR,JARNIR-145,wide area network,pedoman_saja,Wireless WAN,
+PKK,PKK-002,access point,gambar_materi,Pengenalan keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-011,backbone,gambar_materi,Pengenalan keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-029,cracking,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-031,cyber ethics,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-032,cybercrime,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-038,digital culture,gambar_materi,Literasi 4.0; Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-039,digital ethics,gambar_materi,Literasi 4.0; Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-040,digital safety,gambar_materi,Literasi 4.0; Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-041,digital skills,gambar_materi,Literasi 4.0; Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-045,etika pribadi,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-046,expansion slot,gambar_materi,Pengenalan keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-048,gateway,gambar_materi,Pengenalan keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-051,GSM,gambar_materi,Pengenalan keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-052,hak cipta,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-053,hak paten,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-054,HAKI,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-068,kode etik,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-070,kompetensi dasar lulusan,pedoman_saja,Kompetensi dan pembelajaran yang dibutuhkan,CPMK-1 di pedoman
+PKK,PKK-076,literasi data,gambar_materi,Literasi 4.0,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-078,literasi manusia,gambar_materi,Literasi 4.0,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-079,literasi teknologi,gambar_materi,Literasi 4.0,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-086,merek dagang,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-091,moore's law,gambar_materi,Pengenalan keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-102,pembajakan,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-114,rahasia dagang,gambar_materi,Etika dalam keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-116,read/write head,gambar_materi,Pengenalan keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-141,touchpad,gambar_materi,Pengenalan keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+PKK,PKK-142,trackball,gambar_materi,Pengenalan keilmuan komputer,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+RPL,RPL-014,compatibility,gambar_materi,Pengantar Rekayasa Perangkat Lunak,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+RPL,RPL-017,component-based software engineering,isian,"RPL berbasis komponen, terdistribusi, berbasis layanan, dan tertanam",bahan kajian 6 tidak ada di materi
+RPL,RPL-033,distributed system,isian,"RPL berbasis komponen, terdistribusi, berbasis layanan, dan tertanam",bahan kajian 6
+RPL,RPL-035,embedded system,isian,"RPL berbasis komponen, terdistribusi, berbasis layanan, dan tertanam",bahan kajian 6
+RPL,RPL-039,feasibility study,gambar_materi,Software Development Life Cycle (SDLC),"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+RPL,RPL-046,functional suitability,gambar_materi,Pengantar Rekayasa Perangkat Lunak,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+RPL,RPL-067,performance efficiency,gambar_materi,Pengantar Rekayasa Perangkat Lunak,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+RPL,RPL-070,portability,gambar_materi,Pengantar Rekayasa Perangkat Lunak,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+RPL,RPL-090,requirement gathering,gambar_materi,Software Development Life Cycle (SDLC); Proses dalam RPL: Analisis Kebutuhan,"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+RPL,RPL-107,scrum team,gambar_materi,Software Development Life Cycle (SDLC),"terbaca dari gambar slide, tidak terhitung di frekuensi teks"
+RPL,RPL-110,service-oriented architecture,isian,"RPL berbasis komponen, terdistribusi, berbasis layanan, dan tertanam",bahan kajian 6
+RPL,RPL-113,software component,isian,"RPL berbasis komponen, terdistribusi, berbasis layanan, dan tertanam",bahan kajian 6
+RPL,RPL-122,software project,pedoman_saja,Manajemen proyek perangkat lunak,"bahan kajian 5 ada di pedoman, tidak ada di materi"
+RPL,RPL-149,web service,isian,"RPL berbasis komponen, terdistribusi, berbasis layanan, dan tertanam",bahan kajian 6

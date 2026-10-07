@@ -1,0 +1,1563 @@
+1
+00:00:00,000 --> 00:00:01,540
+Assalamualaikum warahmatullahi wabarakatuh
+
+2
+00:00:01,540 --> 00:00:03,960
+pada kesempatan kali ini
+
+3
+00:00:03,960 --> 00:00:06,220
+kita akan mempelajari
+
+4
+00:00:06,220 --> 00:00:07,980
+topik terkait dengan
+
+5
+00:00:07,980 --> 00:00:09,860
+memori eksternal
+
+6
+00:00:09,860 --> 00:00:12,100
+pada mata kuliah AOK
+
+7
+00:00:12,100 --> 00:00:13,460
+dengan cara
+
+8
+00:00:13,460 --> 00:00:14,520
+madadipi mananda
+
+9
+00:00:14,520 --> 00:00:17,780
+pada dasarnya
+
+10
+00:00:17,780 --> 00:00:19,000
+nanti kita akan
+
+11
+00:00:19,000 --> 00:00:21,520
+membahas terkait dengan
+
+12
+00:00:21,520 --> 00:00:22,540
+hard disk
+
+13
+00:00:22,540 --> 00:00:25,700
+bagaimana sifat utama hard disk
+
+14
+00:00:25,700 --> 00:00:26,900
+atau disk manetik
+
+15
+00:00:27,820 --> 00:00:28,860
+kemudian
+
+16
+00:00:28,860 --> 00:00:30,860
+masalah kinerja yang ada di disk
+
+17
+00:00:30,860 --> 00:00:32,780
+magnetic dan bagaimana
+
+18
+00:00:32,780 --> 00:00:34,100
+konsep RAID nantinya
+
+19
+00:00:34,100 --> 00:00:34,700
+atau
+
+20
+00:00:34,700 --> 00:00:38,280
+untuk redundancy atau backup
+
+21
+00:00:38,280 --> 00:00:40,080
+biasanya digunakan untuk itu
+
+22
+00:00:40,080 --> 00:00:42,000
+dan level-levelnya karena ada
+
+23
+00:00:42,000 --> 00:00:43,500
+7 level nantinya
+
+24
+00:00:43,500 --> 00:00:46,080
+kemudian membandingkan kinerja
+
+25
+00:00:46,080 --> 00:00:48,080
+ataupun membandingkan spek dari
+
+26
+00:00:48,080 --> 00:00:50,380
+hard disk dengan SSD
+
+27
+00:00:50,380 --> 00:00:52,100
+yang saat ini sedang
+
+28
+00:00:52,780 --> 00:00:56,120
+eee apa namanya berkembang di SSD nya
+
+29
+00:00:56,120 --> 00:00:57,400
+kemudian
+
+30
+00:00:57,400 --> 00:00:59,000
+flash memory
+
+31
+00:00:59,000 --> 00:01:01,940
+beberapa operasi
+
+32
+00:01:01,940 --> 00:01:03,980
+flash memory yang salah satunya
+
+33
+00:01:03,980 --> 00:01:04,900
+pembentuk dari
+
+34
+00:01:04,900 --> 00:01:07,060
+solid state drive
+
+35
+00:01:07,060 --> 00:01:10,400
+kemudian yang selanjutnya
+
+36
+00:01:10,400 --> 00:01:11,980
+adalah perbedaan
+
+37
+00:01:11,980 --> 00:01:14,340
+berbagai media penyimpanan
+
+38
+00:01:14,340 --> 00:01:14,980
+disk optik
+
+39
+00:01:14,980 --> 00:01:18,300
+dimana masuknya disini adalah
+
+40
+00:01:18,300 --> 00:01:18,940
+seperti
+
+41
+00:01:18,940 --> 00:01:22,560
+cd, cdrw, dvd
+
+42
+00:01:22,560 --> 00:01:24,480
+kemudian
+
+43
+00:01:24,480 --> 00:01:26,400
+gambaran umum terkait dengan
+
+44
+00:01:26,400 --> 00:01:28,980
+penyimpanan
+
+45
+00:01:28,980 --> 00:01:30,700
+pita magnetik
+
+46
+00:01:30,700 --> 00:01:31,280
+seperti
+
+47
+00:01:31,280 --> 00:01:33,560
+model
+
+48
+00:01:33,560 --> 00:01:36,140
+recording dulu
+
+49
+00:01:36,140 --> 00:01:37,240
+ada film
+
+50
+00:01:37,240 --> 00:01:39,480
+modelnya itu seperti itu
+
+51
+00:01:39,480 --> 00:01:42,520
+oke nanti kita akan bahas satu persatu
+
+52
+00:01:42,520 --> 00:01:44,500
+nah yang pertama
+
+53
+00:01:44,500 --> 00:01:46,140
+disini adalah disk
+
+54
+00:01:46,140 --> 00:01:48,700
+yang mungkin kita
+
+55
+00:01:48,700 --> 00:01:50,120
+sekarang ini pakai
+
+56
+00:01:50,120 --> 00:01:52,640
+di dalam laptop ataupun komputer kita
+
+57
+00:01:52,640 --> 00:01:53,860
+merupakan
+
+58
+00:01:53,860 --> 00:01:56,020
+piringan atau
+
+59
+00:01:56,020 --> 00:01:57,160
+istilahnya plater
+
+60
+00:01:57,160 --> 00:01:59,700
+yang berbentuk bundar
+
+61
+00:01:59,700 --> 00:02:01,600
+atau seperti ini
+
+62
+00:02:01,600 --> 00:02:04,060
+terbuat dari
+
+63
+00:02:04,060 --> 00:02:05,500
+bahan non-magnetic yang
+
+64
+00:02:05,500 --> 00:02:07,220
+disebut substrat
+
+65
+00:02:07,220 --> 00:02:10,120
+jadi substrat ini
+
+66
+00:02:10,120 --> 00:02:11,360
+merupakan salah satu
+
+67
+00:02:11,360 --> 00:02:12,480
+bahan
+
+68
+00:02:12,480 --> 00:02:15,820
+kemudian dilapisi bahan yang dapat
+
+69
+00:02:15,820 --> 00:02:16,800
+dimagnetisasi
+
+70
+00:02:16,800 --> 00:02:18,540
+jadi ada layer
+
+71
+00:02:18,540 --> 00:02:20,140
+kemudian diatas layernya lagi
+
+72
+00:02:20,140 --> 00:02:22,740
+dilapisi dengan bahan yang
+
+73
+00:02:22,740 --> 00:02:23,540
+magnet
+
+74
+00:02:23,540 --> 00:02:26,280
+kemudian secara tradisional
+
+75
+00:02:26,280 --> 00:02:27,660
+jadi adalah bahannya aluminium
+
+76
+00:02:27,660 --> 00:02:29,880
+kalau saat ini bentuknya seperti
+
+77
+00:02:29,880 --> 00:02:31,740
+kaca, bahan kaca
+
+78
+00:02:31,740 --> 00:02:33,980
+kenapa bahan kaca?
+
+79
+00:02:34,140 --> 00:02:36,320
+karena ada beberapa manfaat
+
+80
+00:02:36,320 --> 00:02:38,040
+dimana dia bisa
+
+81
+00:02:38,040 --> 00:02:40,200
+meningkatkan keandalan dari
+
+82
+00:02:40,200 --> 00:02:42,200
+disk, artinya
+
+83
+00:02:42,200 --> 00:02:44,140
+robust
+
+84
+00:02:44,140 --> 00:02:45,860
+disini, kemudian
+
+85
+00:02:45,860 --> 00:02:47,860
+mengurangi kesalahan dari read and write
+
+86
+00:02:47,860 --> 00:02:50,420
+artinya dalam membaca sebuah data
+
+87
+00:02:50,420 --> 00:02:52,420
+dan menulis sebuah data
+
+88
+00:02:52,420 --> 00:02:54,420
+itu bisa dikurangi kalau menggunakan
+
+89
+00:02:54,420 --> 00:02:56,440
+kaca, kemudian
+
+90
+00:02:56,440 --> 00:02:58,460
+mendukung ketinggian terbang
+
+91
+00:02:58,460 --> 00:03:00,500
+yang lebih rendah, maksudnya ketinggian terbang ini
+
+92
+00:03:00,500 --> 00:03:02,680
+headnya
+
+93
+00:03:02,680 --> 00:03:04,320
+karena yang membaca itu adalah
+
+94
+00:03:04,320 --> 00:03:06,020
+head dari disk
+
+95
+00:03:06,020 --> 00:03:08,580
+jadi nanti ada konsep head
+
+96
+00:03:08,580 --> 00:03:10,300
+yang nanti akan membaca
+
+97
+00:03:10,300 --> 00:03:12,560
+dari disk ini, ketinggian terbangnya
+
+98
+00:03:12,560 --> 00:03:13,580
+yang lebih rendah
+
+99
+00:03:13,580 --> 00:03:16,500
+kemudian mengurangi dinamika disk
+
+100
+00:03:16,500 --> 00:03:18,440
+dan menahan guncangan
+
+101
+00:03:18,440 --> 00:03:20,200
+dan kerusakan, karena terkadang
+
+102
+00:03:20,200 --> 00:03:22,780
+kalau terkena guncangan dan kerusakan
+
+103
+00:03:22,780 --> 00:03:24,180
+kalau misalkan tanpa
+
+104
+00:03:24,180 --> 00:03:26,520
+bahan sebelum kaca ini
+
+105
+00:03:26,520 --> 00:03:29,140
+mudah sekali untuk terguncang
+
+106
+00:03:29,140 --> 00:03:30,520
+nah kalau kaca
+
+107
+00:03:30,520 --> 00:03:32,700
+ini bisa sampai menahan
+
+108
+00:03:32,700 --> 00:03:34,320
+guncangan tersebut
+
+109
+00:03:34,320 --> 00:03:36,500
+nah
+
+110
+00:03:36,500 --> 00:03:38,700
+dari sisi mekanisme
+
+111
+00:03:38,700 --> 00:03:39,760
+read and write disini
+
+112
+00:03:39,760 --> 00:03:42,380
+jadi yang namanya
+
+113
+00:03:42,380 --> 00:03:45,020
+data itu akan dikirimkan
+
+114
+00:03:45,020 --> 00:03:46,420
+dan diambil dari disk
+
+115
+00:03:46,420 --> 00:03:48,460
+melalui pembahasan kondisi
+
+116
+00:03:48,460 --> 00:04:00,280
+Jadi ada sejenis koil atau kumparan yang nantinya ini akan berada pada sebuah head
+
+117
+00:04:00,280 --> 00:04:06,540
+Yang mana head ini yang digunakan untuk proses membaca ataupun menulis
+
+118
+00:04:06,540 --> 00:04:09,780
+Dan menempatkan di sektor mana
+
+119
+00:04:09,780 --> 00:04:16,560
+Ada yang dua headnya itu adalah head untuk read
+
+120
+00:04:16,560 --> 00:04:19,800
+dan yang satunya adalah head untuk write
+
+121
+00:04:19,800 --> 00:04:22,880
+nah selama proses read or write
+
+122
+00:04:22,880 --> 00:04:24,480
+head ini tidak bergerak
+
+123
+00:04:24,480 --> 00:04:27,820
+jadi konsepnya adalah dia tidak bergerak
+
+124
+00:04:27,820 --> 00:04:29,420
+namun nanti ada juga yang bergerak
+
+125
+00:04:29,420 --> 00:04:30,820
+ya ini secara defaultnya
+
+126
+00:04:30,820 --> 00:04:33,820
+nah yang bergerak adalah piringannya
+
+127
+00:04:33,820 --> 00:04:35,920
+jadi ini nanti ada piringan
+
+128
+00:04:35,920 --> 00:04:37,400
+kemudian ada head
+
+129
+00:04:37,400 --> 00:04:39,040
+headnya ini fix
+
+130
+00:04:39,040 --> 00:04:42,980
+sedangkan piringannya ini yang berputar
+
+131
+00:04:42,980 --> 00:04:47,020
+nah mekanisme
+
+132
+00:04:47,020 --> 00:04:47,740
+yang berada disini
+
+133
+00:04:47,740 --> 00:04:50,120
+nantinya akan ada arus
+
+134
+00:04:50,120 --> 00:04:51,880
+karena ada
+
+135
+00:04:51,880 --> 00:04:53,720
+arus
+
+136
+00:04:53,720 --> 00:04:56,700
+yang mengalir melalui pumparan
+
+137
+00:04:56,700 --> 00:04:57,200
+ya
+
+138
+00:04:57,200 --> 00:04:59,960
+maka dia akan menghasilkan
+
+139
+00:04:59,960 --> 00:05:00,920
+medan magnet
+
+140
+00:05:00,920 --> 00:05:04,340
+disini akan menghasilkan medan magnet
+
+141
+00:05:04,340 --> 00:05:06,660
+baru akan dikirim ke head
+
+142
+00:05:06,660 --> 00:05:08,440
+nah di head ini
+
+143
+00:05:08,440 --> 00:05:09,820
+pola magnetiknya akan
+
+144
+00:05:09,820 --> 00:05:11,900
+terken di permukaan bawah
+
+145
+00:05:11,900 --> 00:05:15,740
+Jadi nanti akan ada nilai minus dan plus
+
+146
+00:05:15,740 --> 00:05:19,220
+Nah ini nanti akan membaca data tadi
+
+147
+00:05:19,220 --> 00:05:21,000
+Satu dan nolnya
+
+148
+00:05:21,000 --> 00:05:25,820
+Nah kalau dari sisi mekanisme readnya secara tradisional
+
+149
+00:05:25,820 --> 00:05:31,320
+Medan magnet itu bergerak relatif terhadap kumparan dan menghasilkan arus
+
+150
+00:05:31,320 --> 00:05:32,180
+Seperti tadi ya
+
+151
+00:05:32,180 --> 00:05:35,340
+Struktur head itu sama untuk membaca dan tulis
+
+152
+00:05:35,340 --> 00:05:38,680
+Jadi ada headnya ini sebetulnya sama
+
+153
+00:05:38,680 --> 00:05:41,160
+Yang antara read dan non-read
+
+154
+00:05:41,160 --> 00:05:44,500
+Kalau yang mekanisme secara modern
+
+155
+00:05:44,500 --> 00:05:45,680
+Read secara modern
+
+156
+00:05:45,680 --> 00:05:46,880
+Itu ada
+
+157
+00:05:46,880 --> 00:05:50,280
+eee Modelnya terpisah
+
+158
+00:05:50,280 --> 00:05:51,100
+Read
+
+159
+00:05:51,100 --> 00:05:54,440
+Read untuk headnya
+
+160
+00:05:54,440 --> 00:05:55,800
+Itu terpisah
+
+161
+00:05:55,800 --> 00:05:57,100
+Dan dekat dengan
+
+162
+00:05:57,100 --> 00:05:58,840
+Headnya untuk write
+
+163
+00:05:58,840 --> 00:05:59,720
+Jadi disini ya
+
+164
+00:05:59,720 --> 00:06:00,520
+Ada
+
+165
+00:06:00,520 --> 00:06:03,420
+Untuk readnya
+
+166
+00:06:03,420 --> 00:06:06,300
+Dan ada untuk write-nya
+
+167
+00:06:06,300 --> 00:06:07,700
+Nah disini
+
+168
+00:06:07,700 --> 00:06:09,600
+Memiliki arus nantinya
+
+169
+00:06:09,600 --> 00:06:11,880
+arus untuk read
+
+170
+00:06:11,880 --> 00:06:13,360
+dan arus untuk write
+
+171
+00:06:13,360 --> 00:06:15,500
+nah oleh karena itu
+
+172
+00:06:15,500 --> 00:06:17,140
+karena adanya
+
+173
+00:06:17,140 --> 00:06:20,460
+dua kubu yang menghasilkan
+
+174
+00:06:20,460 --> 00:06:22,000
+medan magnet tadi
+
+175
+00:06:22,000 --> 00:06:24,360
+ini adalah
+
+176
+00:06:24,360 --> 00:06:26,460
+tergantung dari
+
+177
+00:06:26,460 --> 00:06:27,620
+arah medan magnetnya
+
+178
+00:06:27,620 --> 00:06:29,560
+nah ini tentunya yang
+
+179
+00:06:29,560 --> 00:06:31,560
+membuat seperti itu adalah
+
+180
+00:06:31,560 --> 00:06:32,700
+pengaruh dari
+
+181
+00:06:32,700 --> 00:06:36,100
+ini MR sensor atau
+
+182
+00:06:36,100 --> 00:06:38,000
+Magnetoresistive
+
+183
+00:06:38,000 --> 00:06:41,660
+jadi nantinya akan tergantung
+
+184
+00:06:41,660 --> 00:06:42,420
+arahnya kemana
+
+185
+00:06:42,420 --> 00:06:44,160
+apakah
+
+186
+00:06:44,160 --> 00:06:48,240
+ke bagian sana
+
+187
+00:06:48,240 --> 00:06:49,500
+atau ke sana
+
+188
+00:06:49,500 --> 00:06:51,680
+ini ada polanya
+
+189
+00:06:51,680 --> 00:06:52,960
+kemudian
+
+190
+00:06:52,960 --> 00:06:55,080
+kalau yang modern ini memang
+
+191
+00:06:55,080 --> 00:06:57,040
+didesain untuk operasi frekuensi tinggi
+
+192
+00:06:57,040 --> 00:06:57,460
+artinya
+
+193
+00:06:57,460 --> 00:07:00,380
+kepadatan
+
+194
+00:07:00,380 --> 00:07:03,340
+atau densitas dan speednya
+
+195
+00:07:03,340 --> 00:07:04,420
+itu lebih tinggi
+
+196
+00:07:04,420 --> 00:07:06,700
+speed dari storage-nya atau
+
+197
+00:07:06,700 --> 00:07:09,040
+penyimpanannya lebih tinggi
+
+198
+00:07:09,040 --> 00:07:12,120
+nah kemudian nanti
+
+199
+00:07:12,120 --> 00:07:14,240
+ini ya untuk media recordingnya
+
+200
+00:07:14,240 --> 00:07:15,280
+itu dari
+
+201
+00:07:15,280 --> 00:07:18,220
+hasil
+
+202
+00:07:18,220 --> 00:07:20,420
+dari magnet yang diciptakan oleh
+
+203
+00:07:20,420 --> 00:07:21,920
+Magnetoresistive
+
+204
+00:07:21,920 --> 00:07:25,390
+nah bagaimana terkait
+
+205
+00:07:25,390 --> 00:07:27,370
+dengan organisasi data dan
+
+206
+00:07:27,370 --> 00:07:28,730
+format pada disk
+
+207
+00:07:28,730 --> 00:07:31,590
+jadi organisasi datanya
+
+208
+00:07:31,590 --> 00:07:32,370
+itu akan
+
+209
+00:07:32,370 --> 00:07:35,630
+dibentuk oleh sebuah piringan
+
+210
+00:07:35,630 --> 00:07:37,430
+atau plater yang berbentuk
+
+211
+00:07:37,430 --> 00:07:38,650
+lingkaran konsentris
+
+212
+00:07:38,650 --> 00:07:40,910
+nah ini
+
+213
+00:07:40,910 --> 00:07:43,570
+ini adalah sebagai
+
+214
+00:07:43,570 --> 00:07:44,910
+sebuah track
+
+215
+00:07:44,910 --> 00:07:48,870
+ini adalah sebagai sebuah track
+
+216
+00:07:48,870 --> 00:07:51,910
+jadi antar track
+
+217
+00:07:51,910 --> 00:07:52,970
+track ini tadi
+
+218
+00:07:52,970 --> 00:07:55,270
+ini akan
+
+219
+00:07:55,270 --> 00:07:57,690
+ini track
+
+220
+00:07:57,690 --> 00:07:59,530
+kemudian ini track
+
+221
+00:07:59,530 --> 00:08:00,450
+dan seterusnya
+
+222
+00:08:00,450 --> 00:08:03,270
+jadi track yang berdekatan
+
+223
+00:08:03,270 --> 00:08:05,530
+itu nanti dipisahkan oleh
+
+224
+00:08:05,530 --> 00:08:07,570
+inter track gap
+
+225
+00:08:07,570 --> 00:08:09,110
+jadi ini
+
+226
+00:08:09,110 --> 00:08:10,450
+ini yang ini
+
+227
+00:08:10,450 --> 00:08:11,990
+di tengah-tengahnya ini
+
+228
+00:08:11,990 --> 00:08:14,790
+ini adalah inter track gap nya
+
+229
+00:08:14,790 --> 00:08:17,210
+jadi antara track
+
+230
+00:08:17,210 --> 00:08:19,050
+dengan track yang lain yang berdekatan
+
+231
+00:08:19,050 --> 00:08:21,570
+itu dipisahkan oleh inter track gap
+
+232
+00:08:21,570 --> 00:08:23,610
+nah inter track gap ini
+
+233
+00:08:23,610 --> 00:08:25,490
+digunakan untuk meminimalkan
+
+234
+00:08:25,490 --> 00:08:26,970
+kesalahan
+
+235
+00:08:26,970 --> 00:08:28,630
+karena ketika sejajaran head
+
+236
+00:08:28,630 --> 00:08:30,550
+atau intervensi medan magnet
+
+237
+00:08:30,550 --> 00:08:32,910
+karena medan magnet disini
+
+238
+00:08:32,910 --> 00:08:35,130
+tentunya kalau berdekatan
+
+239
+00:08:35,130 --> 00:08:36,190
+akan berpengaruh ya
+
+240
+00:08:36,190 --> 00:08:41,190
+Oleh karena itu, karena memang berdekatan jarak antara track 1 dengan track yang lainnya,
+
+241
+00:08:41,830 --> 00:08:46,270
+maka harus ada pemisahnya untuk meminimalisir kesalahan tadi.
+
+242
+00:08:47,250 --> 00:08:54,830
+Kemudian, data itu ditransfer ke ataupun dan dari disk di sektor.
+
+243
+00:08:55,410 --> 00:09:02,590
+Jadi, sektor ini adalah ukuran dari atau unit pada track.
+
+244
+00:09:02,590 --> 00:09:05,510
+Jadi, setiap track ini memiliki sektor.
+
+245
+00:09:06,190 --> 00:09:08,370
+Ini sektor, ini sektor
+
+246
+00:09:08,370 --> 00:09:09,590
+Pisah-pisah
+
+247
+00:09:09,590 --> 00:09:11,650
+Jadi
+
+248
+00:09:11,650 --> 00:09:14,530
+Satu track atau satu lintasan
+
+249
+00:09:14,530 --> 00:09:16,690
+Ini memiliki sektor-sektor
+
+250
+00:09:16,690 --> 00:09:18,230
+Nah
+
+251
+00:09:18,230 --> 00:09:19,870
+Satu track itu biasanya
+
+252
+00:09:19,870 --> 00:09:21,630
+Bisa 10 hingga
+
+253
+00:09:21,630 --> 00:09:22,430
+100
+
+254
+00:09:22,430 --> 00:09:25,190
+Jadi satu track ini
+
+255
+00:09:25,190 --> 00:09:27,590
+Itu
+
+256
+00:09:27,590 --> 00:09:29,650
+Bisa sampai 100
+
+257
+00:09:29,650 --> 00:09:31,410
+Nah makanya disini ada titik-titik
+
+258
+00:09:31,410 --> 00:09:32,490
+Ini maksudnya
+
+259
+00:09:32,490 --> 00:09:35,690
+Bisa sampai
+
+260
+00:09:35,690 --> 00:09:36,410
+Lebih dari
+
+261
+00:09:36,410 --> 00:09:38,290
+100
+
+262
+00:09:38,290 --> 00:09:41,910
+Nah ukuran blok minimumnya adalah 1 sektor
+
+263
+00:09:41,910 --> 00:09:44,310
+Dan ukuran panjangnya
+
+264
+00:09:44,310 --> 00:09:46,210
+Tetap ataupun berubah-ubah
+
+265
+00:09:46,210 --> 00:09:49,670
+Kalau di model sistem modern
+
+266
+00:09:49,670 --> 00:09:50,970
+Panjangnya tetap
+
+267
+00:09:50,970 --> 00:09:53,970
+Jadi disini 512
+
+268
+00:09:53,970 --> 00:09:54,730
+Byte
+
+269
+00:09:54,730 --> 00:09:59,080
+Nah kemudian di sisi yang lain
+
+270
+00:09:59,080 --> 00:10:00,800
+Disk itu
+
+271
+00:10:00,800 --> 00:10:02,480
+Memiliki spindle
+
+272
+00:10:02,480 --> 00:10:03,840
+Spindle ini poros
+
+273
+00:10:03,840 --> 00:10:05,560
+jadi ini ya
+
+274
+00:10:05,560 --> 00:10:07,380
+spindle ini adalah poros yang
+
+275
+00:10:07,380 --> 00:10:09,360
+digunakan untuk menahan
+
+276
+00:10:09,360 --> 00:10:10,560
+platernya
+
+277
+00:10:10,560 --> 00:10:15,500
+ini digunakan untuk menahan platernya atau piringannya
+
+278
+00:10:15,500 --> 00:10:17,120
+kemudian ada juga
+
+279
+00:10:17,120 --> 00:10:18,060
+silinder
+
+280
+00:10:18,060 --> 00:10:20,880
+nah silinder ini adalah
+
+281
+00:10:20,880 --> 00:10:23,480
+beberapa kumpulan yang
+
+282
+00:10:23,480 --> 00:10:25,540
+kumpulan track
+
+283
+00:10:25,540 --> 00:10:26,960
+yang dalam posisi
+
+284
+00:10:26,960 --> 00:10:29,420
+sama, relatif sama di piringan
+
+285
+00:10:29,420 --> 00:10:30,220
+jadi
+
+286
+00:10:30,220 --> 00:10:33,020
+antara track yang
+
+287
+00:10:33,020 --> 00:10:34,860
+di plater pertama
+
+288
+00:10:34,860 --> 00:10:36,860
+plater kedua dengan plater ketiga
+
+289
+00:10:36,860 --> 00:10:38,840
+itu dinamakan silinder
+
+290
+00:10:38,840 --> 00:10:40,320
+artinya kumpulan semua track
+
+291
+00:10:40,320 --> 00:10:43,260
+dalam posisi yang sama
+
+292
+00:10:43,260 --> 00:10:44,760
+kemudian untuk
+
+293
+00:10:44,760 --> 00:10:47,360
+mengatur perputaran dari spindle
+
+294
+00:10:47,360 --> 00:10:49,260
+ini tadi, itu adalah
+
+295
+00:10:49,260 --> 00:10:51,700
+dilakukan oleh
+
+296
+00:10:51,700 --> 00:10:53,520
+armnya atau lengannya
+
+297
+00:10:53,520 --> 00:10:55,220
+disini
+
+298
+00:10:55,220 --> 00:10:57,380
+jadi lengannya
+
+299
+00:10:57,380 --> 00:10:58,400
+ini nanti yang akan
+
+300
+00:10:58,400 --> 00:11:00,700
+mengatur spindlenya ini
+
+301
+00:11:00,700 --> 00:11:03,140
+kemana dia akan mencari
+
+302
+00:11:03,140 --> 00:11:05,380
+datanya atau membaca
+
+303
+00:11:05,380 --> 00:11:05,980
+datanya
+
+304
+00:11:05,980 --> 00:11:08,160
+tentunya disini
+
+305
+00:11:08,160 --> 00:11:10,540
+yang
+
+306
+00:11:10,540 --> 00:11:13,140
+saling berorganisasi
+
+307
+00:11:13,140 --> 00:11:14,960
+antara komponen satu
+
+308
+00:11:14,960 --> 00:11:17,060
+dengan komponen yang lain pada disk tersebut
+
+309
+00:11:17,060 --> 00:11:19,160
+nah sedangkan
+
+310
+00:11:19,160 --> 00:11:21,400
+untuk layout disk disini ada dua model
+
+311
+00:11:21,400 --> 00:11:24,820
+ada yang berbentuk
+
+312
+00:11:24,820 --> 00:11:27,260
+atau memiliki konsep
+
+313
+00:11:27,260 --> 00:11:29,320
+constant angular
+
+314
+00:11:29,320 --> 00:11:30,820
+velocity dan
+
+315
+00:11:30,820 --> 00:11:32,060
+multiple zone recording
+
+316
+00:11:32,060 --> 00:11:34,580
+Kalau pasang angular velocity
+
+317
+00:11:34,580 --> 00:11:36,040
+Disini kita lihat bahwa
+
+318
+00:11:36,040 --> 00:11:37,560
+Jumlah sektor
+
+319
+00:11:37,560 --> 00:11:40,400
+Itu sama di setiap track
+
+320
+00:11:40,400 --> 00:11:41,380
+Kita bisa lihat disini
+
+321
+00:11:41,380 --> 00:11:43,280
+Ini sama
+
+322
+00:11:43,280 --> 00:11:44,460
+Ini sama
+
+323
+00:11:44,460 --> 00:11:45,420
+Ini sama
+
+324
+00:11:45,420 --> 00:11:49,160
+Jadi sama
+
+325
+00:11:49,160 --> 00:11:51,740
+Kemudian bagian luar
+
+326
+00:11:51,740 --> 00:11:53,080
+Atau outernya ini
+
+327
+00:11:53,080 --> 00:11:54,980
+Atau outsidenya ini
+
+328
+00:11:54,980 --> 00:11:58,020
+Bisa lebih panjang daripada bagian
+
+329
+00:11:58,020 --> 00:11:59,080
+Dalam
+
+330
+00:11:59,080 --> 00:12:01,640
+Karena semakin luar
+
+331
+00:12:01,640 --> 00:12:04,200
+Semakin panjang
+
+332
+00:12:04,200 --> 00:12:06,040
+Kemudian
+
+333
+00:12:06,040 --> 00:12:07,540
+Keuntungannya disini lebih mudah
+
+334
+00:12:07,540 --> 00:12:09,140
+Menemukan sektor karena sama tadi
+
+335
+00:12:09,140 --> 00:12:11,000
+Kekurangannya
+
+336
+00:12:11,000 --> 00:12:13,740
+Jumlah data yang disimpan pada track terluar
+
+337
+00:12:13,740 --> 00:12:15,720
+Sama dengan track yang
+
+338
+00:12:15,720 --> 00:12:17,640
+Berdalam karena kepadatan rendah
+
+339
+00:12:17,640 --> 00:12:19,640
+Meskipun tadi bagian luar
+
+340
+00:12:19,640 --> 00:12:20,600
+Adalah lebih panjang
+
+341
+00:12:20,600 --> 00:12:22,100
+Tapi kekurangannya itu
+
+342
+00:12:22,100 --> 00:12:25,180
+Kemudian yang selanjutnya adalah
+
+343
+00:12:25,180 --> 00:12:27,400
+Multiple zone recording
+
+344
+00:12:27,400 --> 00:12:29,700
+Jadi kalau multiple zone recording
+
+345
+00:12:29,700 --> 00:12:31,720
+jumlah sektornya berdasarkan
+
+346
+00:12:31,720 --> 00:12:34,240
+keliling track, nah ini beda-beda
+
+347
+00:12:34,240 --> 00:12:35,940
+nantinya, nah setiap
+
+348
+00:12:35,940 --> 00:12:38,380
+surface atau permukaan itu dibagi menjadi
+
+349
+00:12:38,380 --> 00:12:39,840
+zona konsentris
+
+350
+00:12:39,840 --> 00:12:41,440
+yang mana
+
+351
+00:12:41,440 --> 00:12:44,360
+setiap zona berisi jumlah track yang berdekatan
+
+352
+00:12:44,360 --> 00:12:46,220
+misalkan ini, ini zona
+
+353
+00:12:46,220 --> 00:12:47,940
+yang pertama
+
+354
+00:12:47,940 --> 00:12:49,800
+ini berbeda
+
+355
+00:12:49,800 --> 00:12:52,200
+ini zona yang kedua, zona yang ketiga
+
+356
+00:12:52,200 --> 00:12:54,360
+zona yang keempat, nah artinya
+
+357
+00:12:54,360 --> 00:12:55,960
+bisa kita lihat bahwa
+
+358
+00:12:55,960 --> 00:12:57,600
+misalkan seperti ini ya, kita lihat
+
+359
+00:12:57,600 --> 00:13:05,020
+1, 2, 3, 4, 5, 6, 7, 8, 9
+
+360
+00:13:05,020 --> 00:13:06,180
+Coba yang terluar
+
+361
+00:13:06,180 --> 00:13:14,620
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+
+362
+00:13:14,620 --> 00:13:16,020
+Sampai 2 kali lipatnya
+
+363
+00:13:16,020 --> 00:13:19,780
+Jadi keuntungannya kapasitas penyimpanannya lebih besar
+
+364
+00:13:19,780 --> 00:13:27,780
+Karena setiap zona memiliki nilai eee sektor yang berbeda-beda
+
+365
+00:13:28,620 --> 00:13:35,780
+Namun kekurangannya lebih kompleks karena harus menyesuaikan antara zona satu dengan zona yang lainnya
+
+366
+00:13:36,320 --> 00:13:43,800
+Nah pada awalnya dulu contoh kasusnya ada di Winchester
+
+367
+00:13:43,800 --> 00:13:48,860
+Pertama kalinya disini dimunculkan formatnya pada Seagate ST506
+
+368
+00:13:48,860 --> 00:13:53,020
+yang mana harus mengidentifikasi awal dan akhir tiap sektor
+
+369
+00:13:53,020 --> 00:13:55,820
+yang ditangani oleh data kontrol
+
+370
+00:13:55,820 --> 00:13:59,720
+nah hider data tambahan tidak bisa diakses oleh pengguna
+
+371
+00:13:59,720 --> 00:14:03,760
+nah artinya dalam kondisi seperti ini ada sektor
+
+372
+00:14:03,760 --> 00:14:07,960
+yang mana misalkan berisi 30 sektor
+
+373
+00:14:07,960 --> 00:14:11,260
+disini mulai dari 0 sampai 29
+
+374
+00:14:11,260 --> 00:14:12,940
+berarti kan 30
+
+375
+00:14:12,940 --> 00:14:18,000
+yang mana masing-masing memiliki panjang yang tetap yaitu 600
+
+376
+00:14:18,000 --> 00:14:23,900
+Setiap sektor memiliki 512 byte data
+
+377
+00:14:23,900 --> 00:14:29,660
+Jadi ada 512, 512 ditambahkan informasi kontrolnya
+
+378
+00:14:29,660 --> 00:14:32,660
+Nah kemudian ID fieldnya
+
+379
+00:14:32,660 --> 00:14:38,860
+Ini digunakan untuk mengenali atau alamat yang unik
+
+380
+00:14:38,860 --> 00:14:41,360
+Supaya bisa menemukan sektor tertentu
+
+381
+00:14:41,360 --> 00:14:46,120
+Kemudian sync byte nya ini adalah sebagai pola bit khusus
+
+382
+00:14:46,120 --> 00:14:48,760
+yang membatasi awal fieldnya
+
+383
+00:14:48,760 --> 00:14:50,360
+kemudian
+
+384
+00:14:50,360 --> 00:14:51,380
+nomor track
+
+385
+00:14:51,380 --> 00:14:54,080
+ini nantinya akan mengidentifikasi track di
+
+386
+00:14:54,080 --> 00:14:55,560
+permukaan
+
+387
+00:14:55,560 --> 00:14:57,660
+dan nomor sektor
+
+388
+00:14:57,660 --> 00:15:00,500
+seperti itu juga menandai ID field
+
+389
+00:15:00,500 --> 00:15:02,200
+yang berisi nanti
+
+390
+00:15:02,200 --> 00:15:04,420
+CRC ataupun kode kesalahan
+
+391
+00:15:04,420 --> 00:15:07,050
+

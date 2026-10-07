@@ -1,0 +1,63 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+PKK-03	PKK		1	15.348	19.820	4.472		bissmillahirrahmanirrahim assalamualaikum warahmatullahi wabarakatuh	jalur-wav2vec2	
+PKK-03	PKK		2	20.372	25.516	5.144		dalam video kali ini kita akan membahas tentnag pengantar ilmu komputer	jalur-wav2vec2	
+PKK-03	PKK		3	26.772	37.164	10.392		kata komputer tentu sudah tidak asing bagi kita semua karna dalam kehidupan kita saat ini kita sudah tidak dapat terlepas dari yang namanya teknologi	jalur-wav2vec2	
+PKK-03	PKK		4	40.852	44.044	3.192		komputer itu apa komputer adalah	jalur-wav2vec2	
+PKK-03	PKK		5	45.076	53.836	8.760		seperangkat elektronik yang dapat menerima masukan dan selanjutnya melakukan pengolahan untuk menghasilkan keluaran berupa informasi	jalur-wav2vec2	
+PKK-03	PKK		6	54.996	69.164	14.168		sedangkan sistem komputer adalah kumpulan dari elemen eleman komputer yang saling berhubungan dan saling berinteraksi untuk melakukan pengolahan data dengan tujuan menghasilkan informasi sesuai dengan yang diharapkan	jalur-wav2vec2	
+PKK-03	PKK		7	70.580	76.012	5.432		elemen elemen tersebut apa saja elemen elemen tersebut adalah hardware atau perangkat	jalur-wav2vec2	
+PKK-03	PKK		8	76.660	81.740	5.080		yaitu perangkat yang dapat kita lihat dan dapat kita sentuh secara fisik	jalur-wav2vec2	
+PKK-03	PKK		9	82.836	94.988	12.152		software atau perangkat lunak yaitu rangkaian prosedur dan dokumentasi program yang berfungsi untuk menyelesaikan masalah yang dikehendaki	jalur-wav2vec2	
+PKK-03	PKK		10	97.076	101.068	3.992		ketiga elemen brainware atau pengguna adalah orang yang	jalur-wav2vec2	
+PKK-03	PKK		11	103.028	110.188	7.160		nah membahas tentang komputer terlebih dahulu sebelum ini kita akan membas	jalur-wav2vec2	
+PKK-03	PKK		12	112.692	128.588	15.896		nah menu berdasarkan perkembangan teknologi komputer sejak dulu sampai saat ini kita dapat membagi perkembangan komputer menjadi dua bagian yaitu sebelum tahun seribu sembilan ratus empat puluh dan sesudah tahun seribu sembilan ratus empat puluh	jalur-wav2vec2	
+PKK-03	PKK		13	129.428	149.428	20.000		sebelum tahun seribu sembilan ratus empat puluh sejak dahulu kala kita tentu sudah tau bahwa proses pengolahan data itu telah dilakukan manusia di mana pada masa sebelum tahun seribu sembilan ratus empat puluh dilakukan perhitungan menggunakan biji bijian yang diat	jalur-wav2vec2	
+PKK-03	PKK		14	149.428	153.676	4.248		tur menggunakan biji bijian geser yang diaatur pada sebuah rak	jalur-wav2vec2	
+PKK-03	PKK		15	154.004	167.436	13.432		seperti yang terlihat pada gambar ini juga menggunakan alat berupa roda putar bergerigi untuk menghasilkan atau untuk menjumlahkan bilangan hingga delapan digit	jalur-wav2vec2	
+PKK-03	PKK		16	168.052	175.340	7.288		juga digunakan alat yang dapat melakukan penjumlahan pengurangan perkalian dan pembagian	jalur-wav2vec2	
+PKK-03	PKK		17	175.668	187.052	11.384		nah bagaimana perkembangan komputer setelah tahun seribu sembilan ratus empat puluh setelah tahun seribu sembilan ratus empat puluh perkembangan komputer dibagi dalam lima generasi	jalur-wav2vec2	
+PKK-03	PKK		18	187.092	201.868	14.776		generasi pertama yaitu tahun seribu sembilan ratus empat puluh sampai seribu sembilan ratus lima puluh sembilan di mana pada generasi ini menggunakan tabung vakum untuk memproses dan menyimpan data	jalur-wav2vec2	
+PKK-03	PKK		19	202.932	214.828	11.896		komputer pada generasi ini menjadi cepat panas dan mudah terbakar oleh karena itu beribu ribu tabung vakum diperlukan untuk menjalankan operasi keseluruhan komputer	jalur-wav2vec2	
+PKK-03	PKK		20	215.348	220.780	5.432		ini berikut adalah beberapa komputer yang digunakan pada generasi pertama	jalur-wav2vec2	
+PKK-03	PKK		21	221.332	228.492	7.160		nah komputer generasi kedua yaitu pada tahun seribu sembilan ratus lima puluh sembilan sampai seribu sembilan ratus enam puluh empat	jalur-wav2vec2	
+PKK-03	PKK		22	228.532	239.340	10.808		penemuan transistor pada tahun seribu sembilan ratus empat puluh delapan itu memiliki pengaruh yang sangat besar dalam perkembangan komputer di mana	jalur-wav2vec2	
+PKK-03	PKK		23	240.468	252.844	12.376		digunakan teknologi sirkuit berupa transistor dan diode untuk menggantikan tabung vakum dan juga pada masa itu beberapa bahasa pemrograman sudah mulai bermunculan dan digunakan	jalur-wav2vec2	
+PKK-03	PKK		24	253.780	272.684	18.904		komputer generasi ke tiga yaitu tahun seribu sembilan ratus enam puluh empat sampai awal tahun delapan puluh an transistor penggunaan transistor ternyata menghasilkan panas yang cukup besar sehingga dapat merusak komponen komponen atau bagian internal dari komputer	jalur-wav2vec2	
+PKK-03	PKK		25	272.980	278.288	5.308		jack kilby mengembangkan sirkuit terintegrasi atau yang disebut dengan ic	jalur-wav2vec2	
+PKK-03	PKK		26	278.288	284.972	6.684		dengan mengkombinasikan tiga komponen elektronik dalam sebuah piringan silicon kecil yang terbuat dari pasir kuarsa	jalur-wav2vec2	
+PKK-03	PKK		27	285.940	291.564	5.624		dan kemajuan komputer generasi ketiga lainnya adalah penggunaan sistem operasi	jalur-wav2vec2	
+PKK-03	PKK		28	292.276	298.220	5.944		selanjutnya komputer generasi ke empat yaitu awal tahun delapan puluh an	jalur-wav2vec2	
+PKK-03	PKK		29	299.188	313.516	14.328		penggunaan ic di generasi ini lebih kompleks dan terintegrasi dimana tujuan pengembangan menjadi lebih jelas yaitu mengecilkan ukuran sirkuit dan komponen komponen elektronik	jalur-wav2vec2	
+PKK-03	PKK		30	314.068	322.124	8.056		selanjutnya adalah komputer generasi kelima yaitu mulai dari tahun seribu sembilan ratus delapan puluh hingga sekarang ini nah	jalur-wav2vec2	
+PKK-03	PKK		31	323.444	343.444	20.000		pada generasi kelima ini sudah mulai di produksi pc massal tahun itu mulai dari tahun seribu sembilan ratus delapan puluh oleh ibm dan komputer pada generasi ini sudah memiliki sifat artificial intelligence yang artinya komputer mampu menerjemahkan bahasa manusia dengan kata lain	jalur-wav2vec2	
+PKK-03	PKK		32	343.444	352.716	9.272		manusia dapat berbicara langsung dengan komputer serta dalam masa ini sudah terjadi penghematan energi komputer	jalur-wav2vec2	
+PKK-03	PKK		33	353.812	359.916	6.104		komputer generasi ke lima ini juga sudah berbasis graphic user interface multimedia dan multikomunikasi	jalur-wav2vec2	
+PKK-03	PKK		34	361.268	376.204	14.936		sebagaimana telah kita jelaskan di awal tadi sebagaimana telah dijelaskan di awal tadi bahwa sistem komputer itu merupakan kumpulan dari elemen hardware software dan brainware kita akan membahas masing masing eleman tersebut	jalur-wav2vec2	
+PKK-03	PKK		35	376.372	386.240	9.868		hardware hardware yang termasuk ke dalam hardware ada input device output device process device	jalur-wav2vec2	
+PKK-03	PKK		36	386.240	390.828	4.588		media penyimpanan atau storage device dan perangkat komunikasi	jalur-wav2vec2	
+PKK-03	PKK		37	391.924	400.684	8.760		perangkat input atau input device adalah peralatan yang dapat digunakan untuk menerima data yang akan diolah	jalur-wav2vec2	
+PKK-03	PKK		38	403.988	412.204	8.216		sedangkan output device adalah perangkat yang dipakai untuk menampilkan hasil dari proses yang dilakukan komputer	jalur-wav2vec2	
+PKK-03	PKK		39	412.436	416.428	3.992		selanjutnya process device merupakan	jalur-wav2vec2	
+PKK-03	PKK		40	416.724	436.428	19.704		prosesor atau mikroproessor atau mungkin juga secara umum lebih dikenal atau disebut dengan cpu atau central processor unit yang bertugas melaksanakan dan mengawal keseluruhan operasi komputer sehingga	jalur-wav2vec2	
+PKK-03	PKK		41	436.468	440.908	4.440		bisa dikatakan cpu ini merupakan otak bagi sebuah sistem komputer	jalur-wav2vec2	
+PKK-03	PKK		42	443.220	455.376	12.156		memori atau storage device storage device ini adalah perangkat yang digunakan untuk melakukan penyimpanan data dalam komputer	jalur-wav2vec2	
+PKK-03	PKK		43	455.376	462.828	7.452		ini adalah beberapa perangkat yang umum digunakan dalam penyimpanan data komputer	jalur-wav2vec2	
+PKK-03	PKK		44	462.996	473.600	10.604		selanjutnya adalah communication device atau media komunikasi ini untuk apa digunakan untuk menciptakan jaringan nirkabel	jalur-wav2vec2	
+PKK-03	PKK		45	473.600	480.108	6.508		wireless network adapter juga digunakan untuk menghubungkan komputer ke sebuah jaringan nirkabel	jalur-wav2vec2	
+PKK-03	PKK		46	480.372	485.292	4.920		selanjutnya adalah elemen software atau perangkat lunak	jalur-wav2vec2	
+PKK-03	PKK		47	488.116	499.212	11.096		terdiri dari sistem operasi di mana sistem operasi ini merupakan perangkat lunak yang berfungsi untuk melakukan operasi yang	jalur-wav2vec2	
+PKK-03	PKK		48	499.252	513.740	14.488		menjalankan segala aktivitas komputer seperti mendukung operasi sistem aplikasi mengendalikan semua perangkat komputer agar berjalan sesuai dengan fungsinya	jalur-wav2vec2	
+PKK-03	PKK		49	519.668	535.532	15.864		yang kedua adalah program aplikasi program aplikasi merupakan perangkat lunak siap pakai yang nantinya akan digunakan untuk membantu melaksanakan pekerjaan penggunanya jadi program aplikasi ini perangkat yang	jalur-wav2vec2	
+PKK-03	PKK		50	539.860	545.676	5.816		selanjutnya ini adalah beberapa program aplikasi yang umum digunakan	jalur-wav2vec2	
+PKK-03	PKK		51	547.028	553.868	6.840		eleman yang betiga adalah brainware atau pengguna yaitu orang yang terlibat dalam	jalur-wav2vec2	
+PKK-03	PKK		52	554.196	561.356	7.160		kegiatan pemanfaatan komputer atau sistem pengolahan data ini ada beberapa contoh brainware	jalur-wav2vec2	
+PKK-03	PKK		53	561.620	566.540	4.920		ada manajer edp dimana ini berkaitan dengan	jalur-wav2vec2	
+PKK-03	PKK		54	569.908	575.116	5.208		analis sistem analis sistem ini adalah pakar dalam mendefinisikan	jalur-wav2vec2	
+PKK-03	PKK		55	575.284	586.700	11.416		masalah dan menyiapkan dokumentasi tertulis mengenai cara komputer bagaimana cara komputer menyelesaikan permasalahan atau memecahkan masalah	jalur-wav2vec2	
+PKK-03	PKK		56	587.348	603.436	16.088		programmer programmer menggunakan dokumentasi yang disiapkan oleh analisis sistem tadi ya untuk membuat kode instruksi sehingga komputer dapat nih mengubah data menjadi informasi yang diperlukan oleh pengguna	jalur-wav2vec2	
+PKK-03	PKK		57	604.084	609.036	4.952		nah yang terakhir ini ada operator yaitu menangani peralatan komputer berskala besar	jalur-wav2vec2	
+PKK-03	PKK		58	609.588	614.348	4.760		baiklah mungkin ini saja sekian	jalur-wav2vec2	
+PKK-03	PKK		59	614.580	618.604	4.024		materi yang dapat saya sampaikan tentang pengantar ilmu komputer	jalur-wav2vec2	
+PKK-03	PKK		60	620.468	624.684	4.216		insyaallah nanti nantikan materi materi selanjutnya	jalur-wav2vec2	
+PKK-03	PKK		61	625.012	629.932	4.920		semoga materi yang saya sampaikan di video kali ini bermanfaat	jalur-wav2vec2	
+PKK-03	PKK		62	630.708	643.340	12.632		dan dapat membantu kita atau memberikan pemahaman kepada kita tentang pengantar ilmu komputer sekian untuk video pembelajaran saya kali ini terima kasih assalamualaikum warahmatullahi wabarakatuh	jalur-wav2vec2	

@@ -1,0 +1,488 @@
+1
+00:00:00,430 --> 00:00:02,690
+Halo semuanya, saya Fida Mastrika.
+
+2
+00:00:02,910 --> 00:00:06,330
+Dalam video tentang analisis dan design system kali ini,
+
+3
+00:00:06,510 --> 00:00:14,210
+saya akan menjelaskan apa perbedaan dari object-oriented analysis dan juga structured analysis.
+
+4
+00:00:14,570 --> 00:00:21,370
+Di dalam video sebelumnya, saya sudah menjelaskan tentang pengertian dari analisis dan design system.
+
+5
+00:00:21,870 --> 00:00:27,670
+Kalau yang belum menonton video sebelumnya, silakan ditonton dulu video sebelumnya sebelum menonton video ini.
+
+6
+00:00:27,670 --> 00:00:31,730
+Kalau yang sudah, ayo kita langsung lanjut ke materi kali ini.
+
+7
+00:00:48,570 --> 00:00:56,930
+Oke, dalam video sebelumnya saya sudah menjelaskan tentang sistem analisis itu terdiri dari dua, ya bisa kita bagi jadi dua.
+
+8
+00:00:57,570 --> 00:01:02,830
+Ada yang namanya structured analysis, ada yang namanya object-oriented atau OO-analysis.
+
+9
+00:01:03,690 --> 00:01:12,850
+Dalam video ini saya akan menjelaskan secara singkat apa sih perbedaan dari structured analysis dan object-oriented analysis.
+
+10
+00:01:13,990 --> 00:01:27,790
+Secara deskripsi, ini adalah perbedaannya atau perbandingannya ya, structured analysis ini merepresentasikan sistem berdasarkan data dan proses yang dikenakan pada data tersebut.
+
+11
+00:01:27,790 --> 00:01:38,550
+Nah, ini biasanya digunakan untuk menganalisis dan mendesain sistem yang nantinya dibangun dengan cara structured programming.
+
+12
+00:01:38,550 --> 00:01:46,050
+Modeling tools yang digunakan untuk structured analysis adalah data flow diagram atau DFD
+
+13
+00:01:46,050 --> 00:01:53,750
+Data flow diagram ini dan bagaimana cara pembuatannya akan saya jelaskan di video-video saya selanjutnya
+
+14
+00:01:53,750 --> 00:02:02,630
+Untuk yang object oriented analysis, itu sistem dilihat sebagai kumpulan objek yang terdiri dari data dan proses
+
+15
+00:02:02,630 --> 00:02:08,230
+Kalau di dalam structured analysis, data dan proses ini dianggap sesuatu yang berbeda
+
+16
+00:02:08,230 --> 00:02:15,990
+Kalau di dalam object-oriented analysis, mungkin untuk kalian yang sudah belajar tentang object-oriented programming,
+
+17
+00:02:16,470 --> 00:02:20,670
+kalian ingat-ingat dulu apa yang dimaksud dengan sebuah objek.
+
+18
+00:02:21,130 --> 00:02:27,870
+Nah, objek itu terdiri dari data dan proses, jadi satu di dalam satu kesatuan yang namanya objek.
+
+19
+00:02:28,650 --> 00:02:37,430
+Nah, jadi sistem yang dalam object-oriented analysis itu data dan proses dilihat sebagai satu kesatuan.
+
+20
+00:02:37,430 --> 00:02:44,310
+Dan kita mendesain dan menganalisisnya dengan Unified Modeling Language atau UML.
+
+21
+00:02:44,530 --> 00:02:53,350
+Nanti saya akan punya juga beberapa video untuk menjelaskan apa itu UML dan bagaimana cara membuat UML.
+
+22
+00:02:55,150 --> 00:03:05,150
+Selanjutnya, contohnya structured analysis ini bisa dibangun dengan metode waterfall.
+
+23
+00:03:05,150 --> 00:03:14,250
+Nah dalam SDLC atau system life cycle development itu ada beberapa metode yang bisa kalian pilih
+
+24
+00:03:14,250 --> 00:03:21,030
+Nah ini juga saya ada satu video yang menjelaskan beberapa metode yang bisa kalian pilih selain waterfall
+
+25
+00:03:21,030 --> 00:03:26,930
+Nah disini saya akan menjelaskan sedikit saja ya tentang metode waterfall ini
+
+26
+00:03:26,930 --> 00:03:34,730
+Kalian ingat-ingat dulu di video saya sebelumnya menjelaskan tentang SDLC atau system life cycle development
+
+27
+00:03:34,730 --> 00:03:42,390
+Itu ada 5 tahapan pokok yang bisa kalian jadikan sebuah siklus untuk mendesain sebuah sistem
+
+28
+00:03:42,390 --> 00:03:51,130
+Itu diawali dengan planning, terus analisis, design, implementation, dan support dan security
+
+29
+00:03:51,130 --> 00:03:54,610
+dari tahapan
+
+30
+00:03:54,610 --> 00:03:56,210
+pokok SDLC tersebut
+
+31
+00:03:56,210 --> 00:03:58,870
+dalam waterfall ini
+
+32
+00:03:58,870 --> 00:04:01,410
+penampakannya
+
+33
+00:04:01,410 --> 00:04:04,730
+atau alurnya ini seperti air terjun
+
+34
+00:04:04,730 --> 00:04:06,090
+jadi dari fase 1
+
+35
+00:04:06,090 --> 00:04:08,690
+itu turun ke fase 2, fase 3
+
+36
+00:04:08,690 --> 00:04:10,450
+fase 4 dan fase 5
+
+37
+00:04:10,450 --> 00:04:14,090
+ini bisa kembali lagi ke atas
+
+38
+00:04:14,090 --> 00:04:16,470
+tapi saya rasa ini harus melalui
+
+39
+00:04:16,470 --> 00:04:18,570
+fase 5 dulu baru bisa kembali
+
+40
+00:04:18,570 --> 00:04:19,990
+ke atas
+
+41
+00:04:19,990 --> 00:04:23,150
+kenapa namanya waterfall? karena seperti air terjun
+
+42
+00:04:23,150 --> 00:04:30,510
+fase-fasenya itu melambangkan fase-fase yang ada di tahapan SDLC
+
+43
+00:04:30,510 --> 00:04:35,490
+kalau misalnya lebih dari 5 ini juga boleh ya ada variasinya atau ada tambahannya
+
+44
+00:04:35,490 --> 00:04:40,950
+tapi yang pokok saya rasa di sini 5 ini sudah melambangkan semuanya
+
+45
+00:04:40,950 --> 00:04:47,590
+dari beberapa tahapan ini dalam seri video ini
+
+46
+00:04:47,590 --> 00:04:53,290
+Kita akan fokus ke analisis dan desain dari sistem
+
+47
+00:04:53,290 --> 00:04:55,130
+Untuk yang structured analysis
+
+48
+00:04:55,130 --> 00:04:57,310
+Contohnya adalah seperti ini
+
+49
+00:04:57,310 --> 00:04:58,730
+Jadi kita planning dulu
+
+50
+00:04:58,730 --> 00:05:00,810
+Setelah planning selesai
+
+51
+00:05:00,810 --> 00:05:03,410
+Baru kita ke analisis
+
+52
+00:05:03,410 --> 00:05:05,630
+Setelah analisis selesai
+
+53
+00:05:05,630 --> 00:05:07,730
+Sudah terdokumentasi dengan baik
+
+54
+00:05:07,730 --> 00:05:09,910
+Baru kita ke fase selanjutnya
+
+55
+00:05:09,910 --> 00:05:10,410
+Desain
+
+56
+00:05:10,410 --> 00:05:12,130
+Setelah desain selesai
+
+57
+00:05:12,130 --> 00:05:13,450
+Baru ke implementasi
+
+58
+00:05:13,450 --> 00:05:15,690
+Dan setelah implementasi selesai
+
+59
+00:05:15,690 --> 00:05:18,950
+baru kita ke sistem support and security
+
+60
+00:05:18,950 --> 00:05:20,950
+jadi ciri khas dari waterfall ini
+
+61
+00:05:20,950 --> 00:05:25,570
+dia menunggu satu fase atau satu tahapan selesai dulu
+
+62
+00:05:25,570 --> 00:05:31,950
+selesai dengan baik dan nantinya tidak akan ada perbaikan yang major atau yang berarti lagi ya
+
+63
+00:05:31,950 --> 00:05:35,690
+baru dia lanjut ke tahap yang selanjutnya
+
+64
+00:05:36,530 --> 00:05:39,130
+nah itu gambaran dari structured analysis
+
+65
+00:05:39,130 --> 00:05:43,490
+nah sekarang ini adalah gambaran dari object oriented analysis
+
+66
+00:05:43,490 --> 00:05:48,770
+Nah disini gambarannya sudah agak berbeda ya, tapi kita lihat tahapan-tahapannya mungkin mirip.
+
+67
+00:05:48,890 --> 00:05:56,310
+Coba kita lihat ada planning, ada analisis, ada desain, setelah itu dia menghasilkan prototype dan testing.
+
+68
+00:05:56,830 --> 00:06:11,570
+Disini bedanya adalah dalam object oriented analysis ini dia mempunyai tahapan yang hampir mirip dengan SDLC atau yang waterfall tadi yang saya jelaskan.
+
+69
+00:06:11,570 --> 00:06:21,890
+tapi tidak ada kepastian yang baku dari jumlah fasenya itu harus ada berapa
+
+70
+00:06:21,890 --> 00:06:25,470
+dan nama dari fasenya itu apa saja gitu ya
+
+71
+00:06:25,470 --> 00:06:30,010
+dan bentuknya kira-kira seperti ini untuk object oriented analysis
+
+72
+00:06:30,010 --> 00:06:33,330
+tidak kaku seperti waterfall tadi ya
+
+73
+00:06:33,330 --> 00:06:38,290
+tapi kita bisa lihat disini ada yang berulang seperti siklus
+
+74
+00:06:38,290 --> 00:06:49,290
+Yang pertama kita planning dulu, setelah itu analisis, terus design, dan satu kali iterasi ini dia akan menghasilkan prototype.
+
+75
+00:06:49,970 --> 00:07:00,090
+Prototype itu sistem yang belum lengkap dulu ya, sistem yang belum lengkap atau prototype ini kita testing dulu bersama dengan user.
+
+76
+00:07:00,710 --> 00:07:07,250
+Nah kalau sudah di testing dengan user itu pasti kita mendapatkan feedback ya, disini kurangnya, disini kurangnya.
+
+77
+00:07:07,250 --> 00:07:19,750
+Nah, feedback itu kita masukkan lagi ke tahap planning, terus lanjut lagi ke analisis, terus ke desain, menghasilkan prototipe lagi, testing lagi, dapat feedback lagi, dan berulang lagi seperti ini.
+
+78
+00:07:20,450 --> 00:07:24,370
+Nah, seperti itu kira-kira untuk object-oriented analysis.
+
+79
+00:07:25,130 --> 00:07:30,070
+Oke, siapa sebenarnya yang membangun sistem?
+
+80
+00:07:30,070 --> 00:07:37,390
+Kita di dalam seri video tentang analisis dan desain sistem ini kita berperan sebagai apa sih sebenarnya?
+
+81
+00:07:37,630 --> 00:07:39,770
+Apakah sebagai programmer atau yang lain?
+
+82
+00:07:40,770 --> 00:07:48,190
+Siapa yang membangun sistem itu ada dua jenis, kita bisa secara umum membaginya menjadi dua jenis.
+
+83
+00:07:48,690 --> 00:07:53,490
+Ada in-house application, jadi sebuah perusahaan itu membangun sistem informasinya sendiri.
+
+84
+00:07:53,490 --> 00:08:00,050
+Sebuah perusahaan tersebut punya divisi untuk membangun sistem sendiri yang di dalam perusahaan tersebut.
+
+85
+00:08:00,070 --> 00:08:07,530
+Yang kedua, perusahaan itu bisa membeli software packages yang dijual oleh vendor dari luar perusahaan.
+
+86
+00:08:07,630 --> 00:08:17,270
+Kita juga bisa misalnya di dalam perusahaan tersebut tidak mempunyai divisi IT yang bisa untuk membangun sistem sendiri,
+
+87
+00:08:17,890 --> 00:08:25,550
+perusahaan bisa membeli dari luar dan akhirnya menginstal sistemnya di dalam perusahaan tersebut.
+
+88
+00:08:25,550 --> 00:08:31,790
+contohnya di dalam suatu perusahaan misalnya ada IT department seperti ini
+
+89
+00:08:31,790 --> 00:08:38,670
+itu membawahi ada application development, system support and security dan lain-lainnya
+
+90
+00:08:38,670 --> 00:08:44,930
+nanti siapa yang membangun sistem itu ada di application development
+
+91
+00:08:44,930 --> 00:08:52,170
+dan di dalam divisi application development itu terdiri dari beberapa fungsi seperti ini
+
+92
+00:08:52,170 --> 00:09:05,170
+Nah, ini sangat umum sekali dan tidak semua perusahaan mengikuti yang seperti ini, tetapi pasti di sana ada project manager, ada system analyst, dan ada programmer.
+
+93
+00:09:05,950 --> 00:09:14,150
+Nah, di dalam analisis dan desain sistem informasi itu semuanya adalah tugas dari sistem analis.
+
+94
+00:09:15,090 --> 00:09:16,890
+Project manager tugasnya apa?
+
+95
+00:09:16,890 --> 00:09:18,410
+tugasnya adalah
+
+96
+00:09:18,410 --> 00:09:20,810
+planning, apa saja
+
+97
+00:09:20,810 --> 00:09:23,050
+yang menjadi fokus dalam planning
+
+98
+00:09:23,050 --> 00:09:25,010
+itu sudah ada di video saya
+
+99
+00:09:25,010 --> 00:09:27,010
+sebelumnya, apa saja yang ada
+
+100
+00:09:27,010 --> 00:09:27,550
+di
+
+101
+00:09:27,550 --> 00:09:30,970
+tugas dari analyst
+
+102
+00:09:30,970 --> 00:09:32,710
+itu ada di tahap analisis
+
+103
+00:09:32,710 --> 00:09:34,290
+dan tahap desain
+
+104
+00:09:34,290 --> 00:09:36,830
+dan programmer disini tugasnya
+
+105
+00:09:36,830 --> 00:09:38,170
+adalah di tahap
+
+106
+00:09:38,170 --> 00:09:40,730
+implementation, jadi di dalam
+
+107
+00:09:40,730 --> 00:09:42,190
+seri video ini kita hanya
+
+108
+00:09:42,190 --> 00:09:44,430
+berperan sebagai sistem analis
+
+109
+00:09:44,430 --> 00:09:46,410
+kita ada di tahap
+
+110
+00:09:46,410 --> 00:09:56,070
+analis dan tahap desain dari sebuah perangkat luna. Oke terima kasih untuk kalian yang sudah
+
+111
+00:09:56,070 --> 00:10:02,790
+menonton video ini sampai terakhir. Jadi kalian mungkin sudah lebih mengerti apa perbedaan dari
+
+112
+00:10:02,790 --> 00:10:09,870
+structured analysis dan object-oriented analysis. Untuk video-video selanjutnya saya akan membahas
+
+113
+00:10:09,870 --> 00:10:12,510
+tentang structured analysis terlebih dahulu
+
+114
+00:10:12,510 --> 00:10:14,010
+dan menggunakan
+
+115
+00:10:14,010 --> 00:10:15,530
+data flow diagram
+
+116
+00:10:15,530 --> 00:10:17,430
+untuk seri video selanjutnya
+
+117
+00:10:17,430 --> 00:10:19,430
+saya juga akan menjelaskan tentang
+
+118
+00:10:19,430 --> 00:10:20,930
+object oriented analysis
+
+119
+00:10:20,930 --> 00:10:22,710
+dengan menggunakan tools
+
+120
+00:10:22,710 --> 00:10:25,350
+unified modeling language
+
+121
+00:10:25,350 --> 00:10:27,530
+terima kasih untuk kalian semua
+
+122
+00:10:27,530 --> 00:10:30,370
+dan sampai ketemu di video saya selanjutnya
+

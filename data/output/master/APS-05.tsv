@@ -1,0 +1,232 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+APS-05	APS	P1	1	1.290	3.690	2.400	Halo semuanya, saya Fida Mastrika.	Halo semuanya, saya Fida Mastrika.		
+APS-05	APS	P1	2	3.930	6.990	3.060	Dalam video sharing tentang analisis dan design system,	Dalam video sharing tentang analisis dan design system,		
+APS-05	APS	P1	3	7.090	12.350	5.260	kali ini saya akan membahas tentang Unified Modeling Language atau UML.	kali ini saya akan membahas tentang Unified Modeling Language atau UML.		
+APS-05	APS	P1	4	12.830	16.810	3.980	Dalam video-video selanjutnya, saya akan membahas lebih detail tentang UML,	Dalam video-video selanjutnya, saya akan membahas lebih detail tentang UML,		
+APS-05	APS	P1	5	16.930	18.530	1.600	yaitu Use Case Diagram,	yaitu Use Case Diagram,		
+APS-05	APS	P1	6	18.990	22.970	3.980	ada Activity Diagram, Sequence Diagram, dan Class Diagram.	ada Activity Diagram, Sequence Diagram, dan Class Diagram.		
+APS-05	APS	P1	7	23.390	27.210	3.820	Pada video kali ini, saya akan membahas secara umum saja tentang UML.	Pada video kali ini, saya akan membahas secara umum saja tentang UML.		
+APS-05	APS	P1	8	27.490	29.910	2.420	Oke, ayo kita langsung ke materi kali ini.	Oke, ayo kita langsung ke materi kali ini.		
+APS-05	APS	P1	9	31.170	49.480	18.310	sebelum kita ke unified modeling language	sebelum kita ke unified modeling language		
+APS-05	APS	P1	10	49.480	52.380	2.900	ada baiknya kita tahu apa yang dimaksud dengan	ada baiknya kita tahu apa yang dimaksud dengan		
+APS-05	APS	P1	11	52.380	55.140	2.760	object oriented analysis dan design	object oriented analysis dan design		
+APS-05	APS	P1	12	55.140	57.120	1.980	pada video-video saya sebelumnya	pada video-video saya sebelumnya		
+APS-05	APS	P1	13	57.120	58.500	1.380	saya sudah menjelaskan	saya sudah menjelaskan		
+APS-05	APS	P1	14	58.500	60.780	2.280	analisis dan design system itu	analisis dan design system itu		
+APS-05	APS	P1	15	60.780	63.040	2.260	berdasarkan pemrograman terstruktur	berdasarkan pemrograman terstruktur		
+APS-05	APS	P1	16	63.040	65.320	2.280	jadi kita merancang sistemnya	jadi kita merancang sistemnya		
+APS-05	APS	P1	17	65.320	67.580	2.260	menggunakan data flow diagram	menggunakan data flow diagram		
+APS-05	APS	P1	18	67.580	69.640	2.060	kali ini dengan UML	kali ini dengan UML		
+APS-05	APS	P1	19	69.640	71.320	1.680	kita akan merancang sistem	kita akan merancang sistem		
+APS-05	APS	P1	20	71.320	73.920	2.600	yang berdasarkan object oriented	yang berdasarkan object oriented		
+APS-05	APS	P1	21	73.920	82.640	8.720	setelah itu kita harus menganalisis dan mendesain sistemnya itu berdasarkan objek oriented juga	setelah itu kita harus menganalisis dan mendesain sistemnya itu berdasarkan objek oriented juga		
+APS-05	APS	P1	22	82.640	89.360	6.720	jadi objek oriented analisis dan desain ini adalah metode yang digunakan untuk merancang perangkat gunak	jadi objek oriented analisis dan desain ini adalah metode yang digunakan untuk merancang perangkat lunak		
+APS-05	APS	P1	23	89.360	91.740	2.380	dengan konsep berorientasi objek	dengan konsep berorientasi objek		
+APS-05	APS	P1	24	91.740	99.080	7.340	coba diingat-ingat lagi bagaimana saat kalian belajar tentang objek oriented programming	coba diingat-ingat lagi bagaimana saat kalian belajar tentang objek oriented programming		
+APS-05	APS	P1	25	99.080	102.580	3.500	ini meneliti requirement	ini meneliti requirement		
+APS-05	APS	P1	26	102.580	104.300	1.720	atau kebutuhan sistem dari	atau kebutuhan sistem dari		
+APS-05	APS	P1	27	104.300	106.440	2.140	perspektif, kelas, dan	perspektif, kelas, dan		
+APS-05	APS	P1	28	106.440	108.400	1.960	objek yang ditemukan	objek yang ditemukan		
+APS-05	APS	P1	29	108.400	110.320	1.920	dalam lingkungan permasalahan yang akan	dalam lingkungan permasalahan yang akan		
+APS-05	APS	P1	30	110.320	112.740	2.420	dipecahkan, ini berbeda	dipecahkan, ini berbeda		
+APS-05	APS	P1	31	112.740	114.460	1.720	dengan DFD kemarin	dengan DFD kemarin		
+APS-05	APS	P1	32	114.460	116.220	1.760	kalau yang DFD itu kita	kalau yang DFD itu kita		
+APS-05	APS	P1	33	116.220	118.740	2.520	pakai perspektif aliran data	pakai perspektif aliran data		
+APS-05	APS	P1	34	118.740	120.420	1.680	kalau sekarang di	kalau sekarang di		
+APS-05	APS	P1	35	120.420	122.360	1.940	objek oriented analysis dan design	object oriented analysis dan design		
+APS-05	APS	P1	36	122.360	124.100	1.740	yang nantinya akan memakai UML	yang nantinya akan memakai UML		
+APS-05	APS	P1	37	124.100	126.180	2.080	kita akan berangkat dari	kita akan berangkat dari		
+APS-05	APS	P1	38	126.180	128.320	2.140	sudut pandang kelas dan objek	sudut pandang kelas dan objek		
+APS-05	APS	P1	39	128.320	130.100	1.780	yang terlibat dalam sistem	yang terlibat dalam sistem		
+APS-05	APS	P1	40	130.100	134.460	4.360	dalam analisis	dalam analisis		
+APS-05	APS	P1	41	134.460	136.520	2.060	dan desain sistem ini, kita menggunakan	dan desain sistem ini, kita menggunakan		
+APS-05	APS	P1	42	136.520	138.540	2.020	notasi berorientasi objek	notasi berorientasi objek		
+APS-05	APS	P1	43	138.540	140.320	1.780	untuk menggambarkan sistem	untuk menggambarkan sistem		
+APS-05	APS	P1	44	140.320	142.240	1.920	baik secara fisik maupun logis	baik secara fisik maupun logis		
+APS-05	APS	P1	45	142.240	144.440	2.200	dari sistem yang didesain	dari sistem yang didesain		
+APS-05	APS	P1	46	144.440	146.500	2.060	nah UML	nah UML		
+APS-05	APS	P1	47	146.500	148.520	2.020	ini adalah suatu metode	ini adalah suatu metode		
+APS-05	APS	P1	48	148.520	150.320	1.800	dalam pemodelan secara visual	dalam pemodelan secara visual		
+APS-05	APS	P1	49	150.320	152.320	2.000	yang digunakan sebagai sarana	yang digunakan sebagai sarana		
+APS-05	APS	P1	50	152.320	154.740	2.420	perancangan sistem berorientasi	perancangan sistem berorientasi		
+APS-05	APS	P1	51	154.740	156.360	1.620	objek, nanti kalau	objek, nanti kalau		
+APS-05	APS	P1	52	156.360	158.260	1.900	kalian mendesain sistem	kalian mendesain sistem		
+APS-05	APS	P1	53	158.260	159.480	1.220	tolong dicek lagi	tolong dicek lagi		
+APS-05	APS	P1	54	159.480	162.820	3.340	kalian mendesainnya dengan pemrograman per struktur	kalian mendesainnya dengan pemrograman terstruktur		
+APS-05	APS	P1	55	162.820	165.420	2.600	atau dengan objek oriented programming	atau dengan objek oriented programming		
+APS-05	APS	P1	56	165.420	167.580	2.160	kalau dengan objek oriented programming	kalau dengan objek oriented programming		
+APS-05	APS	P1	57	167.580	171.140	3.560	silakan kalian gunakan UML ini	silakan kalian gunakan UML ini		
+APS-05	APS	P1	58	171.140	176.680	5.540	UML ini juga dapat didefinisikan sebagai suatu bahasa standar	UML ini juga dapat didefinisikan sebagai suatu bahasa standar		
+APS-05	APS	P1	59	176.680	181.700	5.020	untuk visualisasi, perancangan, dan pendokumentasian sistem	untuk visualisasi, perancangan, dan pendokumentasian sistem		
+APS-05	APS	P1	60	181.700	185.540	3.840	atau dikenal juga sebagai bahasa standar penulisan blueprint	atau dikenal juga sebagai bahasa standar penulisan blueprint		
+APS-05	APS	P1	61	185.540	191.660	6.120	dari sebuah software yang berlandaskan objek-oriented programming.	dari sebuah software yang berlandaskan objek-oriented programming.		
+APS-05	APS	P1	62	194.740	200.160	5.420	UML itu dibagi menjadi beberapa jenis diagram.	UML itu dibagi menjadi beberapa jenis diagram.		
+APS-05	APS	P1	63	200.660	205.980	5.320	Ada struktur diagram atau diagram yang menunjukkan struktur dari sebuah sistem.	Ada struktur diagram atau diagram yang menunjukkan struktur dari sebuah sistem.		
+APS-05	APS	P1	64	206.840	211.160	4.320	Itu bagian-bagiannya pada tingkat abstraksi dan implementasi yang berbeda	Itu bagian-bagiannya pada tingkat abstraksi dan implementasi yang berbeda		
+APS-05	APS	P1	65	211.160	214.120	2.960	dan bagaimana mereka terkait satu sama lain.	dan bagaimana mereka terkait satu sama lain.		
+APS-05	APS	P1	66	214.120	217.080	2.960	jadi ini menggambarkan struktur dari sistemnya	jadi ini menggambarkan struktur dari sistemnya		
+APS-05	APS	P1	67	217.080	218.360	1.280	setelah itu	setelah itu		
+APS-05	APS	P1	68	218.360	220.820	2.460	elemen-elemen	elemen-elemen		
+APS-05	APS	P1	69	220.820	222.840	2.020	yang ada dalam diagram tersebut	yang ada dalam diagram tersebut		
+APS-05	APS	P1	70	222.840	224.880	2.040	mewakili konsep-konsep	mewakili konsep-konsep		
+APS-05	APS	P1	71	224.880	226.600	1.720	yang berarti dari suatu sistem	yang berarti dari suatu sistem		
+APS-05	APS	P1	72	226.600	228.680	2.080	dan dapat mencapai konsep-konsep	dan dapat mencapai konsep-konsep		
+APS-05	APS	P1	73	228.680	230.500	1.820	abstrak dunia nyata dan	abstrak dunia nyata dan		
+APS-05	APS	P1	74	230.500	232.680	2.180	bagaimana implementasinya	bagaimana implementasinya		
+APS-05	APS	P1	75	232.680	235.140	2.460	itu adalah structure diagram	itu adalah structure diagram		
+APS-05	APS	P1	76	235.140	236.840	1.700	nah yang selanjutnya	nah yang selanjutnya		
+APS-05	APS	P1	77	236.840	238.900	2.060	ada yang namanya behavior diagram	ada yang namanya behavior diagram		
+APS-05	APS	P1	78	238.900	240.880	1.980	diagram perilaku menunjukkan	diagram perilaku menunjukkan		
+APS-05	APS	P1	79	240.880	242.920	2.040	perilaku dinamis dari objek	perilaku dinamis dari objek		
+APS-05	APS	P1	80	242.920	243.980	1.060	dalam suatu sistem	dalam suatu sistem		
+APS-05	APS	P1	81	243.980	248.880	4.900	yang dapat digambarkan sebagai serangkaian perubahan sistem dari waktu ke waktu	yang dapat digambarkan sebagai serangkaian perubahan sistem dari waktu ke waktu		
+APS-05	APS	P1	82	248.880	252.940	4.060	structure diagram itu contohnya adalah	structure diagram itu contohnya adalah		
+APS-05	APS	P1	83	252.940	258.880	5.940	class diagram, object diagram, package diagram, component diagram, deployment diagram	class diagram, object diagram, package diagram, component diagram, deployment diagram		
+APS-05	APS	P1	84	258.880	261.820	2.940	behavior diagram itu contohnya adalah	behavior diagram itu contohnya adalah		
+APS-05	APS	P1	85	261.820	266.460	4.640	use case diagram, activity diagram, state machine diagram, dan sequence diagram	use case diagram, activity diagram, state machine diagram, dan sequence diagram		
+APS-05	APS	P1	86	266.460	270.940	4.480	yang akan saya bahas dalam rangkaian video selanjutnya	yang akan saya bahas dalam rangkaian video selanjutnya		
+APS-05	APS	P1	87	270.940	273.240	2.300	itu hanya yang saya berikan tanda merah ini	itu hanya yang saya berikan tanda merah ini		
+APS-05	APS	P1	88	273.240	276.820	3.580	structure diagram saya akan hanya membahas	structure diagram saya akan hanya membahas		
+APS-05	APS	P1	89	276.820	277.760	0.940	kelas diagram	kelas diagram		
+APS-05	APS	P1	90	277.760	280.540	2.780	behavior diagram ada 3 yang saya bahas	behavior diagram ada 3 yang saya bahas		
+APS-05	APS	P1	91	280.540	282.280	1.740	ada use case, activity, dan	ada use case, activity, dan		
+APS-05	APS	P1	92	282.280	283.400	1.120	sequence	sequence		
+APS-05	APS	P1	93	283.400	286.600	3.200	behavior ini lebih ke bagaimana nanti	behavior ini lebih ke bagaimana nanti		
+APS-05	APS	P1	94	286.600	287.640	1.040	perilaku sistem	perilaku sistem		
+APS-05	APS	P1	95	287.640	290.640	3.000	structure diagram ini lebih ke bagaimana	structure diagram ini lebih ke bagaimana		
+APS-05	APS	P1	96	290.640	293.140	2.500	struktur dari sistem tersebut	struktur dari sistem tersebut		
+APS-05	APS	P1	97	293.140	296.000	2.860	contohnya	contohnya		
+APS-05	APS	P1	98	296.000	297.620	1.620	ini ada use case diagram	ini ada use case diagram		
+APS-05	APS	P1	99	297.620	298.900	1.280	ini masuk ke	ini masuk ke		
+APS-05	APS	P1	100	298.900	301.180	2.280	behavior diagram yang tadi	behavior diagram yang tadi		
+APS-05	APS	P1	101	301.180	303.620	2.440	contohnya ini adalah use case diagram	contohnya ini adalah use case diagram		
+APS-05	APS	P1	102	303.620	307.580	3.960	use case diagram ini	use case diagram ini		
+APS-05	APS	P1	103	307.580	309.740	2.160	menggambarkan serangkaian tindakan	menggambarkan serangkaian tindakan		
+APS-05	APS	P1	104	309.740	311.460	1.720	yang ditunjukkan dengan use case	yang ditunjukkan dengan use case		
+APS-05	APS	P1	105	311.460	313.220	1.760	yang bulat-bulat ini adalah use case	yang bulat-bulat ini adalah use case		
+APS-05	APS	P1	106	313.220	316.480	3.260	kalau ada yang lain-lainnya	kalau ada yang lain-lainnya		
+APS-05	APS	P1	107	316.480	318.220	1.740	ini namanya use case diagram	ini namanya use case diagram		
+APS-05	APS	P1	108	318.220	319.440	1.220	jadi jangan salah sebut	jadi jangan salah sebut		
+APS-05	APS	P1	109	319.440	322.080	2.640	use case adalah satuan yang bulat-bulat	use case adalah satuan yang bulat-bulat		
+APS-05	APS	P1	110	322.080	324.280	2.200	kalau dilengkapi dengan teman-temannya ini	kalau dilengkapi dengan teman-temannya ini		
+APS-05	APS	P1	111	324.280	326.440	2.160	namanya adalah use case diagram	namanya adalah use case diagram		
+APS-05	APS	P1	112	326.440	328.460	2.020	ini menggambarkan	ini menggambarkan		
+APS-05	APS	P1	113	328.460	329.980	1.520	tindakan yang harus	tindakan yang harus		
+APS-05	APS	P1	114	329.980	332.180	2.200	atau dapat dilakukan oleh	atau dapat dilakukan oleh		
+APS-05	APS	P1	115	332.180	333.700	1.520	sistem dan aktor	sistem dan aktor		
+APS-05	APS	P1	116	333.700	335.860	2.160	aktornya ini adalah siapa yang bisa	aktornya ini adalah siapa yang bisa		
+APS-05	APS	P1	117	335.860	337.640	1.780	menggunakan sistem	menggunakan sistem		
+APS-05	APS	P1	118	337.640	339.720	2.080	kalau secara singkat kita bisa baca	kalau secara singkat kita bisa baca		
+APS-05	APS	P1	119	339.720	342.280	2.560	diagramnya, customer ini dapat	diagramnya, customer ini dapat		
+APS-05	APS	P1	120	342.280	344.300	2.020	mengecek balansnya	mengecek balansnya		
+APS-05	APS	P1	121	344.300	346.560	2.260	bisa menaruh uang	bisa menaruh uang		
+APS-05	APS	P1	122	346.560	348.580	2.020	bisa menarik uang	bisa menarik uang		
+APS-05	APS	P1	123	348.580	350.440	1.860	dan bisa mentransfer	dan bisa mentransfer		
+APS-05	APS	P1	124	350.440	351.900	1.460	uang atau dana	uang atau dana		
+APS-05	APS	P1	125	351.900	354.300	2.400	dan begitu juga dari	dan begitu juga dari		
+APS-05	APS	P1	126	354.300	356.420	2.120	sisi aktor-aktor yang	sisi aktor-aktor yang		
+APS-05	APS	P1	127	356.420	357.660	1.240	lainnya	lainnya		
+APS-05	APS	P1	128	357.660	359.460	1.800	selanjutnya	selanjutnya		
+APS-05	APS	P1	129	359.460	362.000	2.540	activity diagram, contohnya	activity diagram, contohnya		
+APS-05	APS	P1	130	362.000	363.880	1.880	seperti ini, ini menunjukkan	seperti ini, ini menunjukkan		
+APS-05	APS	P1	131	363.880	365.240	1.360	urutan aksi dari sebuah	urutan aksi dari sebuah		
+APS-05	APS	P1	132	365.240	367.660	2.420	proses, ini mirip seperti	proses, ini mirip seperti		
+APS-05	APS	P1	133	367.660	370.160	2.500	flowchart, ada startnya	flowchart, ada startnya		
+APS-05	APS	P1	134	370.160	371.820	1.660	terus nanti di bawah ini	terus nanti di bawah ini		
+APS-05	APS	P1	135	371.820	373.660	1.840	akan ada endnya juga	akan ada endnya juga		
+APS-05	APS	P1	136	373.660	375.740	2.080	tapi disini	tapi disini		
+APS-05	APS	P1	137	375.740	377.360	1.620	dibagi menjadi beberapa	dibagi menjadi beberapa		
+APS-05	APS	P1	138	377.360	379.820	2.460	swim lane, ini namanya swim lane	swim lane, ini namanya swim lane		
+APS-05	APS	P1	139	379.820	381.620	1.800	kolom-kolomnya ini ada	kolom-kolomnya ini ada		
+APS-05	APS	P1	140	381.620	384.220	2.600	kolom komputer, ada ticket funding machine	kolom komputer, ada ticket funding machine		
+APS-05	APS	P1	141	384.220	385.760	1.540	ada bank	ada bank		
+APS-05	APS	P1	142	385.760	386.220	0.460	nah ini	nah ini		
+APS-05	APS	P1	143	386.220	389.080	2.860	tiap aktivitas ini	tiap aktivitas ini		
+APS-05	APS	P1	144	389.080	391.840	2.760	Kalau dia berada di swim lane komputer	Kalau dia berada di swim lane komputer		
+APS-05	APS	P1	145	391.840	394.020	2.180	Berarti dia dilakukan oleh komputer	Berarti dia dilakukan oleh komputer		
+APS-05	APS	P1	146	394.020	396.080	2.060	Kalau dia berada di swim lane	Kalau dia berada di swim lane		
+APS-05	APS	P1	147	396.080	397.860	1.780	Ticket vending machine	Ticket vending machine		
+APS-05	APS	P1	148	397.860	399.440	1.580	Berarti dia dilakukan oleh	Berarti dia dilakukan oleh		
+APS-05	APS	P1	149	399.440	401.920	2.480	Ticket vending machine dan seterusnya	Ticket vending machine dan seterusnya		
+APS-05	APS	P1	150	401.920	403.000	1.080	Nah ini	Nah ini		
+APS-05	APS	P1	151	403.000	406.040	3.040	Semua dikerjakan	Semua dikerjakan		
+APS-05	APS	P1	152	406.040	406.880	0.840	Secara berurutan	Secara berurutan		
+APS-05	APS	P1	153	406.880	410.060	3.180	Karena ada start dan nanti ada end	Karena ada start dan nanti ada end		
+APS-05	APS	P1	154	410.060	411.920	1.860	Berarti ini ada urutannya	Berarti ini ada urutannya		
+APS-05	APS	P1	155	411.920	417.440	5.520	Selanjutnya ada sequence diagram	Selanjutnya ada sequence diagram		
+APS-05	APS	P1	156	417.440	419.280	1.840	Sequence diagram ini menggambarkan	Sequence diagram ini menggambarkan		
+APS-05	APS	P1	157	419.280	421.400	2.120	interaksi yang berfokus	interaksi yang berfokus		
+APS-05	APS	P1	158	421.400	423.060	1.660	pada urutan pesan yang	pada urutan pesan yang		
+APS-05	APS	P1	159	423.060	424.820	1.760	dipertukarkan atau dikirimnya	dipertukarkan atau dikirimnya		
+APS-05	APS	P1	160	424.820	427.320	2.500	ada yang mengirim pesan, ada yang menerima pesan	ada yang mengirim pesan, ada yang menerima pesan		
+APS-05	APS	P1	161	427.320	429.520	2.200	bersama dengan	bersama dengan		
+APS-05	APS	P1	162	429.520	431.220	1.700	kemunculannya yang sesuai pada	kemunculannya yang sesuai pada		
+APS-05	APS	P1	163	431.220	432.160	0.940	lifeline	lifeline		
+APS-05	APS	P1	164	432.160	434.780	2.620	contohnya adalah seperti ini	contohnya adalah seperti ini		
+APS-05	APS	P1	165	434.780	436.280	1.500	jadi kalau di dalam	jadi kalau di dalam		
+APS-05	APS	P1	166	436.280	439.520	3.240	object oriented programming	object oriented programming		
+APS-05	APS	P1	167	439.520	441.520	2.000	itu interaksi	itu interaksi		
+APS-05	APS	P1	168	441.520	443.000	1.480	antar objek	antar objek		
+APS-05	APS	P1	169	443.000	445.160	2.160	atau antar objek	atau antar objek		
+APS-05	APS	P1	170	445.160	446.140	0.980	dari kelas itu ya	dari kelas itu ya		
+APS-05	APS	P1	171	446.140	448.280	2.140	dilakukan dengan cara	dilakukan dengan cara		
+APS-05	APS	P1	172	448.280	449.460	1.180	bertukar pesan	bertukar pesan		
+APS-05	APS	P1	173	449.460	451.460	2.000	jadi ini adalah	jadi ini adalah		
+APS-05	APS	P1	174	451.460	454.800	3.340	objek dari web customer	objek dari web customer		
+APS-05	APS	P1	175	454.800	456.660	1.860	yang ini adalah objek dari online	yang ini adalah objek dari online		
+APS-05	APS	P1	176	456.660	458.520	1.860	bookshop, apa yang mereka	bookshop, apa yang mereka		
+APS-05	APS	P1	177	458.520	460.260	1.740	lakukan di dalam sistem itu adalah	lakukan di dalam sistem itu adalah		
+APS-05	APS	P1	178	460.260	462.000	1.740	saling bertukar pesan	saling bertukar pesan		
+APS-05	APS	P1	179	462.000	464.360	2.360	search inventory, ini adalah nama	search inventory, ini adalah nama		
+APS-05	APS	P1	180	464.360	466.160	1.800	pesannya, terus apa yang	pesannya, terus apa yang		
+APS-05	APS	P1	181	466.160	468.380	2.220	dikembalikan oleh	dikembalikan oleh		
+APS-05	APS	P1	182	468.380	470.040	1.660	sistem ke user itu adalah	sistem ke user itu adalah		
+APS-05	APS	P1	183	470.040	471.460	1.420	search resultnya	search resultnya		
+APS-05	APS	P1	184	471.460	474.340	2.880	ini ada option, option ini adalah	ini ada option, option ini adalah		
+APS-05	APS	P1	185	474.340	476.000	1.660	pilihan	pilihan		
+APS-05	APS	P1	186	476.000	478.760	2.760	kalau memilih ini seperti apa	kalau memilih ini seperti apa		
+APS-05	APS	P1	187	478.760	480.780	2.020	kalau memilih yang lain seperti apa	kalau memilih yang lain seperti apa		
+APS-05	APS	P1	188	480.780	482.040	1.260	seperti itu ya	seperti itu ya		
+APS-05	APS	P1	189	482.040	484.560	2.520	dari sequence diagram	dari sequence diagram		
+APS-05	APS	P1	190	484.560	486.240	1.680	selanjutnya class diagram	selanjutnya class diagram		
+APS-05	APS	P1	191	486.240	489.420	3.180	ini menunjukkan struktur sistem yang dirancang	ini menunjukkan struktur sistem yang dirancang		
+APS-05	APS	P1	192	489.420	491.240	1.820	subsistem atau komponen	subsistem atau komponen		
+APS-05	APS	P1	193	491.240	492.260	1.020	sebagai kelas	sebagai kelas		
+APS-05	APS	P1	194	492.260	495.060	2.800	dan antarmuka terkait dengan fitur	dan antarmuka terkait dengan fitur		
+APS-05	APS	P1	195	495.060	496.560	1.500	batasan hubungannya	batasan hubungannya		
+APS-05	APS	P1	196	496.560	499.140	2.580	hubungannya ini bisa asosiasi	hubungannya ini bisa asosiasi		
+APS-05	APS	P1	197	499.140	501.560	2.420	generalisasi, dependensi, dan lain-lain	generalisasi, dependensi, dan lain-lain		
+APS-05	APS	P1	198	501.560	503.360	1.800	nah kalian ingat-ingat dulu ya	nah kalian ingat-ingat dulu ya		
+APS-05	APS	P1	199	503.360	504.900	1.540	yang asosiasi itu gimana	yang asosiasi itu gimana		
+APS-05	APS	P1	200	504.900	507.680	2.780	generalisasi gimana, dependensi gimana	generalisasi gimana, dependensi gimana		
+APS-05	APS	P1	201	507.680	509.400	1.720	semua ada di teori	semua ada di teori		
+APS-05	APS	P1	202	509.400	511.360	1.960	objek oriented programming	objek oriented programming		
+APS-05	APS	P1	203	511.360	513.440	2.080	contohnya adalah seperti ini	contohnya adalah seperti ini		
+APS-05	APS	P1	204	513.440	514.860	1.420	kelas diagram	kelas diagram		
+APS-05	APS	P1	205	514.860	517.120	2.260	itu terdiri dari beberapa	itu terdiri dari beberapa		
+APS-05	APS	P1	206	517.120	519.280	2.160	kelas yang kalian gunakan di dalam	kelas yang kalian gunakan di dalam		
+APS-05	APS	P1	207	519.280	521.280	2.000	objek oriented programming	objek oriented programming		
+APS-05	APS	P1	208	521.280	523.100	1.820	dan disini isi dari	dan disini isi dari		
+APS-05	APS	P1	209	523.100	525.400	2.300	kelasnya akan dijelaskan	kelasnya akan dijelaskan		
+APS-05	APS	P1	210	525.400	527.180	1.780	di dalamnya ini, contohnya	di dalamnya ini, contohnya		
+APS-05	APS	P1	211	527.180	529.040	1.860	seperti itu, nah nanti	seperti itu, nah nanti		
+APS-05	APS	P1	212	529.040	531.220	2.180	akan ada video-video detail	akan ada video-video detail		
+APS-05	APS	P1	213	531.220	533.000	1.780	dari tiap diagram yang akan saya	dari tiap diagram yang akan saya		
+APS-05	APS	P1	214	533.000	534.400	1.400	ada 4 ya	ada 4 ya		
+APS-05	APS	P1	215	534.400	537.020	2.620	ada use case diagram, ada activity	ada use case diagram, ada activity		
+APS-05	APS	P1	216	537.020	539.160	2.140	dan ada sequence diagram	dan ada sequence diagram		
+APS-05	APS	P1	217	539.160	540.880	1.720	dan ada class diagram disini	dan ada class diagram disini		
+APS-05	APS	P1	218	540.880	543.620	2.740	di video-video saya yang selanjutnya	di video-video saya yang selanjutnya		
+APS-05	APS	P1	219	543.620	547.920	4.300	oke terima kasih	oke terima kasih		
+APS-05	APS	P1	220	547.920	549.540	1.620	untuk kalian yang sudah menonton	untuk kalian yang sudah menonton		
+APS-05	APS	P1	221	549.540	551.080	1.540	video ini sampai terakhir	video ini sampai terakhir		
+APS-05	APS	P1	222	551.080	553.560	2.480	di video selanjutnya saya akan membahas	di video selanjutnya saya akan membahas		
+APS-05	APS	P1	223	553.560	556.040	2.480	tentang review object oriented	tentang review object oriented		
+APS-05	APS	P1	224	556.040	556.980	0.940	programming	programming		
+APS-05	APS	P1	225	556.980	559.040	2.060	sebelum kita lebih mendetail	sebelum kita lebih mendetail		
+APS-05	APS	P1	226	559.040	561.340	2.300	ke tiap diagram yang saya jelaskan tadi	ke tiap diagram yang saya jelaskan tadi		
+APS-05	APS	P1	227	561.340	563.100	1.760	saya rasa kalian perlu	saya rasa kalian perlu		
+APS-05	APS	P1	228	563.100	564.680	1.580	mengingat beberapa teori	mengingat beberapa teori		
+APS-05	APS	P1	229	564.680	566.560	1.880	tentang objek oriented programming	tentang objek oriented programming		
+APS-05	APS	P1	230	566.560	568.820	2.260	sampai ketemu di video saya	sampai ketemu di video saya		
+APS-05	APS	P1	231	568.820	569.720	0.900	yang selanjutnya	yang selanjutnya		

@@ -1,0 +1,924 @@
+1
+00:00:01,290 --> 00:00:03,690
+Halo semuanya, saya Fida Mastrika.
+
+2
+00:00:03,930 --> 00:00:06,990
+Dalam video sharing tentang analisis dan design system,
+
+3
+00:00:07,090 --> 00:00:12,350
+kali ini saya akan membahas tentang Unified Modeling Language atau UML.
+
+4
+00:00:12,830 --> 00:00:16,810
+Dalam video-video selanjutnya, saya akan membahas lebih detail tentang UML,
+
+5
+00:00:16,930 --> 00:00:18,530
+yaitu Use Case Diagram,
+
+6
+00:00:18,990 --> 00:00:22,970
+ada Activity Diagram, Sequence Diagram, dan Class Diagram.
+
+7
+00:00:23,390 --> 00:00:27,210
+Pada video kali ini, saya akan membahas secara umum saja tentang UML.
+
+8
+00:00:27,490 --> 00:00:29,910
+Oke, ayo kita langsung ke materi kali ini.
+
+9
+00:00:31,170 --> 00:00:49,480
+sebelum kita ke unified modeling language
+
+10
+00:00:49,480 --> 00:00:52,380
+ada baiknya kita tahu apa yang dimaksud dengan
+
+11
+00:00:52,380 --> 00:00:55,140
+object oriented analysis dan design
+
+12
+00:00:55,140 --> 00:00:57,120
+pada video-video saya sebelumnya
+
+13
+00:00:57,120 --> 00:00:58,500
+saya sudah menjelaskan
+
+14
+00:00:58,500 --> 00:01:00,780
+analisis dan design system itu
+
+15
+00:01:00,780 --> 00:01:03,040
+berdasarkan pemrograman terstruktur
+
+16
+00:01:03,040 --> 00:01:05,320
+jadi kita merancang sistemnya
+
+17
+00:01:05,320 --> 00:01:07,580
+menggunakan data flow diagram
+
+18
+00:01:07,580 --> 00:01:09,640
+kali ini dengan UML
+
+19
+00:01:09,640 --> 00:01:11,320
+kita akan merancang sistem
+
+20
+00:01:11,320 --> 00:01:13,920
+yang berdasarkan object oriented
+
+21
+00:01:13,920 --> 00:01:22,640
+setelah itu kita harus menganalisis dan mendesain sistemnya itu berdasarkan objek oriented juga
+
+22
+00:01:22,640 --> 00:01:29,360
+jadi objek oriented analisis dan desain ini adalah metode yang digunakan untuk merancang perangkat lunak
+
+23
+00:01:29,360 --> 00:01:31,740
+dengan konsep berorientasi objek
+
+24
+00:01:31,740 --> 00:01:39,080
+coba diingat-ingat lagi bagaimana saat kalian belajar tentang objek oriented programming
+
+25
+00:01:39,080 --> 00:01:42,580
+ini meneliti requirement
+
+26
+00:01:42,580 --> 00:01:44,300
+atau kebutuhan sistem dari
+
+27
+00:01:44,300 --> 00:01:46,440
+perspektif, kelas, dan
+
+28
+00:01:46,440 --> 00:01:48,400
+objek yang ditemukan
+
+29
+00:01:48,400 --> 00:01:50,320
+dalam lingkungan permasalahan yang akan
+
+30
+00:01:50,320 --> 00:01:52,740
+dipecahkan, ini berbeda
+
+31
+00:01:52,740 --> 00:01:54,460
+dengan DFD kemarin
+
+32
+00:01:54,460 --> 00:01:56,220
+kalau yang DFD itu kita
+
+33
+00:01:56,220 --> 00:01:58,740
+pakai perspektif aliran data
+
+34
+00:01:58,740 --> 00:02:00,420
+kalau sekarang di
+
+35
+00:02:00,420 --> 00:02:02,360
+object oriented analysis dan design
+
+36
+00:02:02,360 --> 00:02:04,100
+yang nantinya akan memakai UML
+
+37
+00:02:04,100 --> 00:02:06,180
+kita akan berangkat dari
+
+38
+00:02:06,180 --> 00:02:08,320
+sudut pandang kelas dan objek
+
+39
+00:02:08,320 --> 00:02:10,100
+yang terlibat dalam sistem
+
+40
+00:02:10,100 --> 00:02:14,460
+dalam analisis
+
+41
+00:02:14,460 --> 00:02:16,520
+dan desain sistem ini, kita menggunakan
+
+42
+00:02:16,520 --> 00:02:18,540
+notasi berorientasi objek
+
+43
+00:02:18,540 --> 00:02:20,320
+untuk menggambarkan sistem
+
+44
+00:02:20,320 --> 00:02:22,240
+baik secara fisik maupun logis
+
+45
+00:02:22,240 --> 00:02:24,440
+dari sistem yang didesain
+
+46
+00:02:24,440 --> 00:02:26,500
+nah UML
+
+47
+00:02:26,500 --> 00:02:28,520
+ini adalah suatu metode
+
+48
+00:02:28,520 --> 00:02:30,320
+dalam pemodelan secara visual
+
+49
+00:02:30,320 --> 00:02:32,320
+yang digunakan sebagai sarana
+
+50
+00:02:32,320 --> 00:02:34,740
+perancangan sistem berorientasi
+
+51
+00:02:34,740 --> 00:02:36,360
+objek, nanti kalau
+
+52
+00:02:36,360 --> 00:02:38,260
+kalian mendesain sistem
+
+53
+00:02:38,260 --> 00:02:39,480
+tolong dicek lagi
+
+54
+00:02:39,480 --> 00:02:42,820
+kalian mendesainnya dengan pemrograman terstruktur
+
+55
+00:02:42,820 --> 00:02:45,420
+atau dengan objek oriented programming
+
+56
+00:02:45,420 --> 00:02:47,580
+kalau dengan objek oriented programming
+
+57
+00:02:47,580 --> 00:02:51,140
+silakan kalian gunakan UML ini
+
+58
+00:02:51,140 --> 00:02:56,680
+UML ini juga dapat didefinisikan sebagai suatu bahasa standar
+
+59
+00:02:56,680 --> 00:03:01,700
+untuk visualisasi, perancangan, dan pendokumentasian sistem
+
+60
+00:03:01,700 --> 00:03:05,540
+atau dikenal juga sebagai bahasa standar penulisan blueprint
+
+61
+00:03:05,540 --> 00:03:11,660
+dari sebuah software yang berlandaskan objek-oriented programming.
+
+62
+00:03:14,740 --> 00:03:20,160
+UML itu dibagi menjadi beberapa jenis diagram.
+
+63
+00:03:20,660 --> 00:03:25,980
+Ada struktur diagram atau diagram yang menunjukkan struktur dari sebuah sistem.
+
+64
+00:03:26,840 --> 00:03:31,160
+Itu bagian-bagiannya pada tingkat abstraksi dan implementasi yang berbeda
+
+65
+00:03:31,160 --> 00:03:34,120
+dan bagaimana mereka terkait satu sama lain.
+
+66
+00:03:34,120 --> 00:03:37,080
+jadi ini menggambarkan struktur dari sistemnya
+
+67
+00:03:37,080 --> 00:03:38,360
+setelah itu
+
+68
+00:03:38,360 --> 00:03:40,820
+elemen-elemen
+
+69
+00:03:40,820 --> 00:03:42,840
+yang ada dalam diagram tersebut
+
+70
+00:03:42,840 --> 00:03:44,880
+mewakili konsep-konsep
+
+71
+00:03:44,880 --> 00:03:46,600
+yang berarti dari suatu sistem
+
+72
+00:03:46,600 --> 00:03:48,680
+dan dapat mencapai konsep-konsep
+
+73
+00:03:48,680 --> 00:03:50,500
+abstrak dunia nyata dan
+
+74
+00:03:50,500 --> 00:03:52,680
+bagaimana implementasinya
+
+75
+00:03:52,680 --> 00:03:55,140
+itu adalah structure diagram
+
+76
+00:03:55,140 --> 00:03:56,840
+nah yang selanjutnya
+
+77
+00:03:56,840 --> 00:03:58,900
+ada yang namanya behavior diagram
+
+78
+00:03:58,900 --> 00:04:00,880
+diagram perilaku menunjukkan
+
+79
+00:04:00,880 --> 00:04:02,920
+perilaku dinamis dari objek
+
+80
+00:04:02,920 --> 00:04:03,980
+dalam suatu sistem
+
+81
+00:04:03,980 --> 00:04:08,880
+yang dapat digambarkan sebagai serangkaian perubahan sistem dari waktu ke waktu
+
+82
+00:04:08,880 --> 00:04:12,940
+structure diagram itu contohnya adalah
+
+83
+00:04:12,940 --> 00:04:18,880
+class diagram, object diagram, package diagram, component diagram, deployment diagram
+
+84
+00:04:18,880 --> 00:04:21,820
+behavior diagram itu contohnya adalah
+
+85
+00:04:21,820 --> 00:04:26,460
+use case diagram, activity diagram, state machine diagram, dan sequence diagram
+
+86
+00:04:26,460 --> 00:04:30,940
+yang akan saya bahas dalam rangkaian video selanjutnya
+
+87
+00:04:30,940 --> 00:04:33,240
+itu hanya yang saya berikan tanda merah ini
+
+88
+00:04:33,240 --> 00:04:36,820
+structure diagram saya akan hanya membahas
+
+89
+00:04:36,820 --> 00:04:37,760
+kelas diagram
+
+90
+00:04:37,760 --> 00:04:40,540
+behavior diagram ada 3 yang saya bahas
+
+91
+00:04:40,540 --> 00:04:42,280
+ada use case, activity, dan
+
+92
+00:04:42,280 --> 00:04:43,400
+sequence
+
+93
+00:04:43,400 --> 00:04:46,600
+behavior ini lebih ke bagaimana nanti
+
+94
+00:04:46,600 --> 00:04:47,640
+perilaku sistem
+
+95
+00:04:47,640 --> 00:04:50,640
+structure diagram ini lebih ke bagaimana
+
+96
+00:04:50,640 --> 00:04:53,140
+struktur dari sistem tersebut
+
+97
+00:04:53,140 --> 00:04:56,000
+contohnya
+
+98
+00:04:56,000 --> 00:04:57,620
+ini ada use case diagram
+
+99
+00:04:57,620 --> 00:04:58,900
+ini masuk ke
+
+100
+00:04:58,900 --> 00:05:01,180
+behavior diagram yang tadi
+
+101
+00:05:01,180 --> 00:05:03,620
+contohnya ini adalah use case diagram
+
+102
+00:05:03,620 --> 00:05:07,580
+use case diagram ini
+
+103
+00:05:07,580 --> 00:05:09,740
+menggambarkan serangkaian tindakan
+
+104
+00:05:09,740 --> 00:05:11,460
+yang ditunjukkan dengan use case
+
+105
+00:05:11,460 --> 00:05:13,220
+yang bulat-bulat ini adalah use case
+
+106
+00:05:13,220 --> 00:05:16,480
+kalau ada yang lain-lainnya
+
+107
+00:05:16,480 --> 00:05:18,220
+ini namanya use case diagram
+
+108
+00:05:18,220 --> 00:05:19,440
+jadi jangan salah sebut
+
+109
+00:05:19,440 --> 00:05:22,080
+use case adalah satuan yang bulat-bulat
+
+110
+00:05:22,080 --> 00:05:24,280
+kalau dilengkapi dengan teman-temannya ini
+
+111
+00:05:24,280 --> 00:05:26,440
+namanya adalah use case diagram
+
+112
+00:05:26,440 --> 00:05:28,460
+ini menggambarkan
+
+113
+00:05:28,460 --> 00:05:29,980
+tindakan yang harus
+
+114
+00:05:29,980 --> 00:05:32,180
+atau dapat dilakukan oleh
+
+115
+00:05:32,180 --> 00:05:33,700
+sistem dan aktor
+
+116
+00:05:33,700 --> 00:05:35,860
+aktornya ini adalah siapa yang bisa
+
+117
+00:05:35,860 --> 00:05:37,640
+menggunakan sistem
+
+118
+00:05:37,640 --> 00:05:39,720
+kalau secara singkat kita bisa baca
+
+119
+00:05:39,720 --> 00:05:42,280
+diagramnya, customer ini dapat
+
+120
+00:05:42,280 --> 00:05:44,300
+mengecek balansnya
+
+121
+00:05:44,300 --> 00:05:46,560
+bisa menaruh uang
+
+122
+00:05:46,560 --> 00:05:48,580
+bisa menarik uang
+
+123
+00:05:48,580 --> 00:05:50,440
+dan bisa mentransfer
+
+124
+00:05:50,440 --> 00:05:51,900
+uang atau dana
+
+125
+00:05:51,900 --> 00:05:54,300
+dan begitu juga dari
+
+126
+00:05:54,300 --> 00:05:56,420
+sisi aktor-aktor yang
+
+127
+00:05:56,420 --> 00:05:57,660
+lainnya
+
+128
+00:05:57,660 --> 00:05:59,460
+selanjutnya
+
+129
+00:05:59,460 --> 00:06:02,000
+activity diagram, contohnya
+
+130
+00:06:02,000 --> 00:06:03,880
+seperti ini, ini menunjukkan
+
+131
+00:06:03,880 --> 00:06:05,240
+urutan aksi dari sebuah
+
+132
+00:06:05,240 --> 00:06:07,660
+proses, ini mirip seperti
+
+133
+00:06:07,660 --> 00:06:10,160
+flowchart, ada startnya
+
+134
+00:06:10,160 --> 00:06:11,820
+terus nanti di bawah ini
+
+135
+00:06:11,820 --> 00:06:13,660
+akan ada endnya juga
+
+136
+00:06:13,660 --> 00:06:15,740
+tapi disini
+
+137
+00:06:15,740 --> 00:06:17,360
+dibagi menjadi beberapa
+
+138
+00:06:17,360 --> 00:06:19,820
+swim lane, ini namanya swim lane
+
+139
+00:06:19,820 --> 00:06:21,620
+kolom-kolomnya ini ada
+
+140
+00:06:21,620 --> 00:06:24,220
+kolom komputer, ada ticket funding machine
+
+141
+00:06:24,220 --> 00:06:25,760
+ada bank
+
+142
+00:06:25,760 --> 00:06:26,220
+nah ini
+
+143
+00:06:26,220 --> 00:06:29,080
+tiap aktivitas ini
+
+144
+00:06:29,080 --> 00:06:31,840
+Kalau dia berada di swim lane komputer
+
+145
+00:06:31,840 --> 00:06:34,020
+Berarti dia dilakukan oleh komputer
+
+146
+00:06:34,020 --> 00:06:36,080
+Kalau dia berada di swim lane
+
+147
+00:06:36,080 --> 00:06:37,860
+Ticket vending machine
+
+148
+00:06:37,860 --> 00:06:39,440
+Berarti dia dilakukan oleh
+
+149
+00:06:39,440 --> 00:06:41,920
+Ticket vending machine dan seterusnya
+
+150
+00:06:41,920 --> 00:06:43,000
+Nah ini
+
+151
+00:06:43,000 --> 00:06:46,040
+Semua dikerjakan
+
+152
+00:06:46,040 --> 00:06:46,880
+Secara berurutan
+
+153
+00:06:46,880 --> 00:06:50,060
+Karena ada start dan nanti ada end
+
+154
+00:06:50,060 --> 00:06:51,920
+Berarti ini ada urutannya
+
+155
+00:06:51,920 --> 00:06:57,440
+Selanjutnya ada sequence diagram
+
+156
+00:06:57,440 --> 00:06:59,280
+Sequence diagram ini menggambarkan
+
+157
+00:06:59,280 --> 00:07:01,400
+interaksi yang berfokus
+
+158
+00:07:01,400 --> 00:07:03,060
+pada urutan pesan yang
+
+159
+00:07:03,060 --> 00:07:04,820
+dipertukarkan atau dikirimnya
+
+160
+00:07:04,820 --> 00:07:07,320
+ada yang mengirim pesan, ada yang menerima pesan
+
+161
+00:07:07,320 --> 00:07:09,520
+bersama dengan
+
+162
+00:07:09,520 --> 00:07:11,220
+kemunculannya yang sesuai pada
+
+163
+00:07:11,220 --> 00:07:12,160
+lifeline
+
+164
+00:07:12,160 --> 00:07:14,780
+contohnya adalah seperti ini
+
+165
+00:07:14,780 --> 00:07:16,280
+jadi kalau di dalam
+
+166
+00:07:16,280 --> 00:07:19,520
+object oriented programming
+
+167
+00:07:19,520 --> 00:07:21,520
+itu interaksi
+
+168
+00:07:21,520 --> 00:07:23,000
+antar objek
+
+169
+00:07:23,000 --> 00:07:25,160
+atau antar objek
+
+170
+00:07:25,160 --> 00:07:26,140
+dari kelas itu ya
+
+171
+00:07:26,140 --> 00:07:28,280
+dilakukan dengan cara
+
+172
+00:07:28,280 --> 00:07:29,460
+bertukar pesan
+
+173
+00:07:29,460 --> 00:07:31,460
+jadi ini adalah
+
+174
+00:07:31,460 --> 00:07:34,800
+objek dari web customer
+
+175
+00:07:34,800 --> 00:07:36,660
+yang ini adalah objek dari online
+
+176
+00:07:36,660 --> 00:07:38,520
+bookshop, apa yang mereka
+
+177
+00:07:38,520 --> 00:07:40,260
+lakukan di dalam sistem itu adalah
+
+178
+00:07:40,260 --> 00:07:42,000
+saling bertukar pesan
+
+179
+00:07:42,000 --> 00:07:44,360
+search inventory, ini adalah nama
+
+180
+00:07:44,360 --> 00:07:46,160
+pesannya, terus apa yang
+
+181
+00:07:46,160 --> 00:07:48,380
+dikembalikan oleh
+
+182
+00:07:48,380 --> 00:07:50,040
+sistem ke user itu adalah
+
+183
+00:07:50,040 --> 00:07:51,460
+search resultnya
+
+184
+00:07:51,460 --> 00:07:54,340
+ini ada option, option ini adalah
+
+185
+00:07:54,340 --> 00:07:56,000
+pilihan
+
+186
+00:07:56,000 --> 00:07:58,760
+kalau memilih ini seperti apa
+
+187
+00:07:58,760 --> 00:08:00,780
+kalau memilih yang lain seperti apa
+
+188
+00:08:00,780 --> 00:08:02,040
+seperti itu ya
+
+189
+00:08:02,040 --> 00:08:04,560
+dari sequence diagram
+
+190
+00:08:04,560 --> 00:08:06,240
+selanjutnya class diagram
+
+191
+00:08:06,240 --> 00:08:09,420
+ini menunjukkan struktur sistem yang dirancang
+
+192
+00:08:09,420 --> 00:08:11,240
+subsistem atau komponen
+
+193
+00:08:11,240 --> 00:08:12,260
+sebagai kelas
+
+194
+00:08:12,260 --> 00:08:15,060
+dan antarmuka terkait dengan fitur
+
+195
+00:08:15,060 --> 00:08:16,560
+batasan hubungannya
+
+196
+00:08:16,560 --> 00:08:19,140
+hubungannya ini bisa asosiasi
+
+197
+00:08:19,140 --> 00:08:21,560
+generalisasi, dependensi, dan lain-lain
+
+198
+00:08:21,560 --> 00:08:23,360
+nah kalian ingat-ingat dulu ya
+
+199
+00:08:23,360 --> 00:08:24,900
+yang asosiasi itu gimana
+
+200
+00:08:24,900 --> 00:08:27,680
+generalisasi gimana, dependensi gimana
+
+201
+00:08:27,680 --> 00:08:29,400
+semua ada di teori
+
+202
+00:08:29,400 --> 00:08:31,360
+objek oriented programming
+
+203
+00:08:31,360 --> 00:08:33,440
+contohnya adalah seperti ini
+
+204
+00:08:33,440 --> 00:08:34,860
+kelas diagram
+
+205
+00:08:34,860 --> 00:08:37,120
+itu terdiri dari beberapa
+
+206
+00:08:37,120 --> 00:08:39,280
+kelas yang kalian gunakan di dalam
+
+207
+00:08:39,280 --> 00:08:41,280
+objek oriented programming
+
+208
+00:08:41,280 --> 00:08:43,100
+dan disini isi dari
+
+209
+00:08:43,100 --> 00:08:45,400
+kelasnya akan dijelaskan
+
+210
+00:08:45,400 --> 00:08:47,180
+di dalamnya ini, contohnya
+
+211
+00:08:47,180 --> 00:08:49,040
+seperti itu, nah nanti
+
+212
+00:08:49,040 --> 00:08:51,220
+akan ada video-video detail
+
+213
+00:08:51,220 --> 00:08:53,000
+dari tiap diagram yang akan saya
+
+214
+00:08:53,000 --> 00:08:54,400
+ada 4 ya
+
+215
+00:08:54,400 --> 00:08:57,020
+ada use case diagram, ada activity
+
+216
+00:08:57,020 --> 00:08:59,160
+dan ada sequence diagram
+
+217
+00:08:59,160 --> 00:09:00,880
+dan ada class diagram disini
+
+218
+00:09:00,880 --> 00:09:03,620
+di video-video saya yang selanjutnya
+
+219
+00:09:03,620 --> 00:09:07,920
+oke terima kasih
+
+220
+00:09:07,920 --> 00:09:09,540
+untuk kalian yang sudah menonton
+
+221
+00:09:09,540 --> 00:09:11,080
+video ini sampai terakhir
+
+222
+00:09:11,080 --> 00:09:13,560
+di video selanjutnya saya akan membahas
+
+223
+00:09:13,560 --> 00:09:16,040
+tentang review object oriented
+
+224
+00:09:16,040 --> 00:09:16,980
+programming
+
+225
+00:09:16,980 --> 00:09:19,040
+sebelum kita lebih mendetail
+
+226
+00:09:19,040 --> 00:09:21,340
+ke tiap diagram yang saya jelaskan tadi
+
+227
+00:09:21,340 --> 00:09:23,100
+saya rasa kalian perlu
+
+228
+00:09:23,100 --> 00:09:24,680
+mengingat beberapa teori
+
+229
+00:09:24,680 --> 00:09:26,560
+tentang objek oriented programming
+
+230
+00:09:26,560 --> 00:09:28,820
+sampai ketemu di video saya
+
+231
+00:09:28,820 --> 00:09:29,720
+yang selanjutnya
+

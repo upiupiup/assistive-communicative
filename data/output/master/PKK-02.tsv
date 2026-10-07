@@ -1,0 +1,117 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+PKK-02	PKK		1	0.756	5.868	5.112		oke assalamualaikum warahmatullahi wabarakatuh selamat pagi	jalur-wav2vec2	
+PKK-02	PKK		2	5.972	13.196	7.224		semoga kalian diberi kesehatan kelancaran untuk belajar di pagi ini	jalur-wav2vec2	
+PKK-02	PKK		3	13.780	18.848	5.068		oke perkenalkan dulu nama saya hadi permana saya	jalur-wav2vec2	
+PKK-02	PKK		4	18.848	26.060	7.212		tutor di pkbm baitul wildan mengajar di mengajar bidang informatika	jalur-wav2vec2	
+PKK-02	PKK		5	31.540	35.340	3.800		oke materi untuk hari ini	jalur-wav2vec2	
+PKK-02	PKK		6	35.860	40.844	4.984		bab satu itu tentang informatika dan pembelajarannya	jalur-wav2vec2	
+PKK-02	PKK		7	48.468	52.108	3.640		oke di sini ada pengenalan informatika	jalur-wav2vec2	
+PKK-02	PKK		8	57.748	63.020	5.272		informatika adalah ilmu yang mempelajari cara mengumpulkan	jalur-wav2vec2	
+PKK-02	PKK		9	63.220	74.220	11.000		menyimpang mengelola dan menyebarkan informasi menggunakan komputer dan teknologi digital dalam kehidupan sehari hari	jalur-wav2vec2	
+PKK-02	PKK		10	74.452	77.484	3.032		informatika ada di mana mana	jalur-wav2vec2	
+PKK-02	PKK		11	77.748	89.644	11.896		dari smartphone yang kamu gunakan aplikasi belajar online hingga game favoritmu mengapa informatika penting	jalur-wav2vec2	
+PKK-02	PKK		12	89.876	95.532	5.656		yang pertama itu membantu kita memecahkan masalah dengan logis	jalur-wav2vec2	
+PKK-02	PKK		13	97.972	101.484	3.512		melatih kreativitas dan berpikir kritis	jalur-wav2vec2	
+PKK-02	PKK		14	102.132	106.444	4.312		mempersiapkan kita untuk masa depan digital	jalur-wav2vec2	
+PKK-02	PKK		15	106.452	117.676	11.224		membuka peluang karir di bidang teknologi di kelas ini kita akan belajar bersama tentang dunia informatika yang seru dan menarik	jalur-wav2vec2	
+PKK-02	PKK		16	120.116	129.856	9.740		oke di sini ada empat pilar intormatika yang pertama itu ada berfikir komputasional	jalur-wav2vec2	
+PKK-02	PKK		17	129.856	141.804	11.948		apa itu berpikir komputasional yaitu kemampuan memecahkan masalah secara sistematis dan logis menggunakan cara berpikir seperti komputer	jalur-wav2vec2	
+PKK-02	PKK		18	142.324	153.804	11.480		yang kedua ada teknolagi informasi yaitu memahami dan memanfaatkan perangkat teknologi untuk mengolah	jalur-wav2vec2	
+PKK-02	PKK		19	153.940	158.412	4.472		menyimpan dan berbagi informasi	jalur-wav2vec2	
+PKK-02	PKK		20	158.964	163.884	4.920		yang ketiga ada praktik lintas bidang	jalur-wav2vec2	
+PKK-02	PKK		21	163.892	173.900	10.008		yaitu menerapkan konsep informatika dalam berbagai ilmu bidang ilmu dan kehidupan sehari hari	jalur-wav2vec2	
+PKK-02	PKK		22	174.356	180.268	5.912		yang ke empat untuk pilar informatika itu ada dampak sosial	jalur-wav2vec2	
+PKK-02	PKK		23	180.692	192.300	11.608		yaitu dampak sosial memahami pengaruh teknologi terhadap kehidupan sosial budaya dan etika di masyarakat	jalur-wav2vec2	
+PKK-02	PKK		24	196.532	203.660	7.128		langkah berpikir komputasional yaitu yang pertama ada dekomposisi	jalur-wav2vec2	
+PKK-02	PKK		25	203.988	214.028	10.040		dekomposisi apa memecahkan masalah besar menjadi bagian bagian kecil yang lebih mudah di selesaikan satu persatu	jalur-wav2vec2	
+PKK-02	PKK		26	215.028	220.108	5.080		yang kedua ada apa ada pegenalan pola	jalur-wav2vec2	
+PKK-02	PKK		27	220.436	231.468	11.032		pengenalan pola itu menemukan kesamaan atau pola berulang dalam masalah untuk mempermudah penyelesaian	jalur-wav2vec2	
+PKK-02	PKK		28	233.588	239.660	6.072		yang ketiga ada abstraksi dan algoritma	jalur-wav2vec2	
+PKK-02	PKK		29	240.180	244.908	4.728		yaitu apa fokus pada informasi penting saja	jalur-wav2vec2	
+PKK-02	PKK		30	245.876	251.372	5.496		lalu susun langkah langkah solusi secara urut dan jelas	jalur-wav2vec2	
+PKK-02	PKK		31	251.444	256.588	5.144		nah diitu ada tiga langkah berpikir komputasional	jalur-wav2vec2	
+PKK-02	PKK		32	260.916	266.412	5.496		di sini ada manfaat berpikir komputasional itu ada tiga	jalur-wav2vec2	
+PKK-02	PKK		33	266.932	270.124	3.192		yang pertama memecahkan masalah	jalur-wav2vec2	
+PKK-02	PKK		34	270.484	281.676	11.192		memecahkan masalah itu bermaksud membantu kita mengurangi masalah besar menjadi bagian kecil yang lebih mudah di selesaikan	jalur-wav2vec2	
+PKK-02	PKK		35	282.260	287.340	5.080		yang kedua itu berpikir logis dan terstruktur	jalur-wav2vec2	
+PKK-02	PKK		36	287.604	295.372	7.768		melatih kita berpikir runtut dan sistematis dalam mengambil keputusan sehari hari	jalur-wav2vec2	
+PKK-02	PKK		37	296.020	302.316	6.296		manfaat berpikir komputasional yang ketiga itu ada meningkatkan kreativitas	jalur-wav2vec2	
+PKK-02	PKK		38	302.516	311.372	8.856		mendorong kita menciptakan solusi baru dan inovatif menggunakan teknologi digital	jalur-wav2vec2	
+PKK-02	PKK		39	313.460	317.164	3.704		di sini ada data vs informasi	jalur-wav2vec2	
+PKK-02	PKK		40	317.332	337.332	20.000		yang pertama itu ada data mentah data mentah itu data adalah fakta atau angka yang belum di olah contohnya di sini ada nilai ulangan tujuh lima delapan puluh sembilan puluh data sendiri belum memberikan arti yang jelas	jalur-wav2vec2	
+PKK-02	PKK		41	340.244	344.460	4.216		sedangkan intormasi bermakna	jalur-wav2vec2	
+PKK-02	PKK		42	344.500	351.564	7.064		intormasi adalah data yang sudah di olah sehingga memiliki makna contoh	jalur-wav2vec2	
+PKK-02	PKK		43	354.836	358.380	3.544		adalah delapan puluh dua artinya	jalur-wav2vec2	
+PKK-02	PKK		44	358.452	361.516	3.064		kelas tersebut berprestasi baik	jalur-wav2vec2	
+PKK-02	PKK		45	364.468	373.484	9.016		oke selanjutnya di sini ada jenis jenis data ada empat yaitu yang pertama ada teks	jalur-wav2vec2	
+PKK-02	PKK		46	378.452	384.652	6.200		atau kalimat contohnya itu dokumen artikel dan pesan teks	jalur-wav2vec2	
+PKK-02	PKK		47	387.828	398.060	10.232		data berupa bilangan untuk perhitungan contohnya nilai ujian data statistik dan harga	jalur-wav2vec2	
+PKK-02	PKK		48	398.452	402.272	3.820		yang ketiga janis data itu ada gambar	jalur-wav2vec2	
+PKK-02	PKK		49	402.272	412.588	10.316		data berupa foto atau ilustrasi visual contohnya foto ilustrasi dan infografis	jalur-wav2vec2	
+PKK-02	PKK		50	413.172	418.732	5.560		jenis datang yang ke empat itu ada audio dan video	jalur-wav2vec2	
+PKK-02	PKK		51	418.868	425.068	6.200		data berupa suara dan rekaman visual contohnya musik	jalur-wav2vec2	
+PKK-02	PKK		52	432.884	435.980	3.096		proses pengolahan intormasi	jalur-wav2vec2	
+PKK-02	PKK		53	436.116	441.068	4.952		yaitu yang pertama ada input data	jalur-wav2vec2	
+PKK-02	PKK		54	443.956	454.572	10.616		input data adalah data mentah di kumpulkan dari berbagai sumber seperti keyboard sensor atau dokumen	jalur-wav2vec2	
+PKK-02	PKK		55	454.644	458.828	4.184		sebagai bahan awal pemprosesan	jalur-wav2vec2	
+PKK-02	PKK		56	463.764	466.796	3.032		ada proses	jalur-wav2vec2	
+PKK-02	PKK		57	469.268	480.076	10.808		data yang masuk di olah oleh komputer menggunakan program atau algoritma untuk menghasilkan	jalur-wav2vec2	
+PKK-02	PKK		58	484.180	487.756	3.576		yang ketiga ada output	jalur-wav2vec2	
+PKK-02	PKK		59	488.084	499.372	11.288		output itu hasil pengolahan datah ditampilkan dalam bentuk informasi yang dapat dibaca seperti teks gambar	jalur-wav2vec2	
+PKK-02	PKK		60	499.476	503.148	3.672		atau lapola laporan di layar	jalur-wav2vec2	
+PKK-02	PKK		61	507.252	511.084	3.832		nah di sini ada komponen komputer	jalur-wav2vec2	
+PKK-02	PKK		62	516.948	520.172	3.224		dan brainware atau data	jalur-wav2vec2	
+PKK-02	PKK		63	520.660	524.364	3.704		hardwer itu ada perangkat keras	jalur-wav2vec2	
+PKK-02	PKK		64	531.860	534.924	3.064		software itu perangkat lunak	jalur-wav2vec2	
+PKK-02	PKK		65	535.220	538.860	3.640		perangkat lunak itu di sini ada sebuah aplikasi	jalur-wav2vec2	
+PKK-02	PKK		66	539.188	542.188	3.000		itu termasuk ke dalam software	jalur-wav2vec2	
+PKK-02	PKK		67	542.196	547.820	5.624		kalau brainware itu berarti pengguna atau user	jalur-wav2vec2	
+PKK-02	PKK		68	557.364	566.316	8.952		di sini ada jenis jenis hardware komputer yang pertama ada input device yaitu perangkat masukkan	jalur-wav2vec2	
+PKK-02	PKK		69	566.580	577.164	10.584		perangkat untuk memasukkan data ke komputer contohnya apa di sini ada keyboard mouse scanner microphone dan kamera	jalur-wav2vec2	
+PKK-02	PKK		70	579.156	584.428	5.272		yang kedua jenis jenis hardware komputer itu ada process device	jalur-wav2vec2	
+PKK-02	PKK		71	587.604	592.524	4.920		contohnya itu perangkat untuk mengelola data contohnya cpu	jalur-wav2vec2	
+PKK-02	PKK		72	592.564	597.772	5.208		atau processor ram mainboard vga card	jalur-wav2vec2	
+PKK-02	PKK		73	599.092	606.572	7.480		yang ketiga itu ada jenis jenis hardware komputer ada output device perangkat keluaran	jalur-wav2vec2	
+PKK-02	PKK		74	606.932	613.772	6.840		perangkat untuk menampilkan hasil pengolahan data contohnya monitor	jalur-wav2vec2	
+PKK-02	PKK		75	613.876	618.188	4.312		print speaker dan proyektor	jalur-wav2vec2	
+PKK-02	PKK		76	621.396	634.464	13.068		di sini ada jenis jenis software software itu perangkat lunak adalah program yang menjalankan komputer ada tiga jenis utama software yang perlu kamu ketahui	jalur-wav2vec2	
+PKK-02	PKK		77	634.464	638.156	3.692		yang pertama itu sistem operasi	jalur-wav2vec2	
+PKK-02	PKK		78	638.740	645.740	7.000		software utama yang mengelola semua program di komputer contohnya itu ada windows	jalur-wav2vec2	
+PKK-02	PKK		79	648.532	652.492	3.960		android itu semua ke dalam sistem operasi	jalur-wav2vec2	
+PKK-02	PKK		80	652.948	656.748	3.800		yang kedua ada software aplikasi	jalur-wav2vec2	
+PKK-02	PKK		81	657.716	665.408	7.692		software aplikasi itu program untuk kebutuhan tertentu seperti menulis menghitung	jalur-wav2vec2	
+PKK-02	PKK		82	665.408	672.588	7.180		atau browsing contonya microsoft word chrome dan youtube	jalur-wav2vec2	
+PKK-02	PKK		83	673.268	685.580	12.312		yang ketiga ada software utility yaitu program pembantu untuk merawat dan mengoptimalkan kinerja komputer contonya itu ada antivirus	jalur-wav2vec2	
+PKK-02	PKK		84	692.916	704.684	11.768		oke lanjut di sini ada dasar dasar internet yang pertama itu ada browser browser adalah aplikasi untuk menjelajahi internet	jalur-wav2vec2	
+PKK-02	PKK		85	704.756	711.020	6.264		contohnya di sini ada chrome firefox edge dan safari	jalur-wav2vec2	
+PKK-02	PKK		86	711.828	723.116	11.288		yang kedua ada search engine search engine adalah mesin pencari informasi di internet contohnya google bing dan yahoo	jalur-wav2vec2	
+PKK-02	PKK		87	726.484	737.036	10.552		website adalah kumpulan halaman di internet yang bisa di akses menggunakan browser dan alamat url	jalur-wav2vec2	
+PKK-02	PKK		88	738.964	750.060	11.096		yang kempat ada email email adalah surat surat elektronik untuk mengirim dan menerima pesan secara digital melalui internet	jalur-wav2vec2	
+PKK-02	PKK		89	752.404	756.044	3.640		di sini ada keamanan internet	jalur-wav2vec2	
+PKK-02	PKK		90	756.052	762.060	6.008		yang pertama itu ada password harus kuat jangan membuat password kalian	jalur-wav2vec2	
+PKK-02	PKK		91	768.660	772.332	3.672		yang kedua ada jaga privasi data	jalur-wav2vec2	
+PKK-02	PKK		92	772.884	775.948	3.064		yang ketiga hindari phising	jalur-wav2vec2	
+PKK-02	PKK		93	776.372	779.532	3.160		dan etika digital	jalur-wav2vec2	
+PKK-02	PKK		94	783.604	786.668	3.064		pengenalan algoritma	jalur-wav2vec2	
+PKK-02	PKK		95	787.156	801.292	14.136		yang pertama itu ada tentukan masalah nah di sini tentukan masalah adalah identifikasi masalah yang ingin diselesaikan dengan jelas	jalur-wav2vec2	
+PKK-02	PKK		96	801.364	805.996	4.632		dan spesipik sebelum membuat algoritma	jalur-wav2vec2	
+PKK-02	PKK		97	812.404	818.412	6.008		buat langkah dulu susun langkah langkah penyelesaan secara urut	jalur-wav2vec2	
+PKK-02	PKK		98	818.420	822.828	4.408		logis dan mudah dipahami oleh siapa pun	jalur-wav2vec2	
+PKK-02	PKK		99	830.164	837.452	7.288		yaitu coba jalankan algoritma untuk memastikan setiap langkah langkah berjalan benar	jalur-wav2vec2	
+PKK-02	PKK		100	837.716	841.516	3.800		dan menghasilkan solusi yang tepat	jalur-wav2vec2	
+PKK-02	PKK		101	841.684	846.156	4.472		nah itu adalah pengenalan algoritma	jalur-wav2vec2	
+PKK-02	PKK		102	847.924	867.924	20.000		selanjutnya ada dasar pemrograman yang pertama itu ada variabel variabel adalah tempat menyimpan data dalam program contohnya nama sama dengan tanda petik dua budi tanda petik dua koma nilai sama dengan sembi	jalur-wav2vec2	
+PKK-02	PKK		103	869.716	872.716	3.000		yang kedua ada kondisi if	jalur-wav2vec2	
+PKK-02	PKK		104	875.796	882.416	6.620		kondisi digunakan untuk membuat keputusan contoh jika nilai	jalur-wav2vec2	
+PKK-02	PKK		105	882.416	893.964	11.548		lebih besar sama dengan tujuh puluh lima koma maka tanda petik dua lulus tanda petik dua koma selain itu remedi	jalur-wav2vec2	
+PKK-02	PKK		106	895.316	909.132	13.816		yang ketiga ada perulangan loop loop digunakan untuk mengulang perintah berkali kali contohnya for i sama dengan satu sampai sepuluh koma cetak angka	jalur-wav2vec2	
+PKK-02	PKK		107	915.892	931.148	15.256		etika digital adalah tanggungjawab kita dalam berperilaku baik dan sopan di dunia maya setiap tindakan online memiliki dampak nyata bagi diri sendiri dan orang lain	jalur-wav2vec2	
+PKK-02	PKK		108	932.660	947.404	14.744		nah di sini ada hak cipta digital yaitu menghargai karya orang lain di internet jangan menyalin atau menyebar konten tanpa izin pemiliknya	jalur-wav2vec2	
+PKK-02	PKK		109	948.244	951.276	3.032		yang kedua ada cyberbullying	jalur-wav2vec2	
+PKK-02	PKK		110	951.796	959.276	7.480		yaitu perundungan siber adalah tindakan menyakiti orang lain secara online	jalur-wav2vec2	
+PKK-02	PKK		111	959.380	964.812	5.432		jadilah pengguna internet yang ramah dan bertangung jawab	jalur-wav2vec2	
+PKK-02	PKK		112	965.460	968.652	3.192		yang ketiga ada jejak digital	jalur-wav2vec2	
+PKK-02	PKK		113	968.852	982.412	13.560		setiap aktivitas online meninggalkan jejak jaga privasi dan reputasimu dengan bijak dalam berbagai berbagi intormasi	jalur-wav2vec2	
+PKK-02	PKK		114	990.368	995.468	5.100		jadilah generasi digital yang cerdas dan bertanggung jawab	jalur-wav2vec2	
+PKK-02	PKK		115	995.572	1002.988	7.416		teruslah belajar berkreasi dan gunakan teknologi untuk hal hal positif	jalur-wav2vec2	
+PKK-02	PKK		116	1003.284	1012.014	8.729		cukup sekian pertemuan kali ini bapak akhiri wabillahi taufik wal hidayah wassalamualaikum warahmatulalhi wabarakatuh	jalur-wav2vec2	

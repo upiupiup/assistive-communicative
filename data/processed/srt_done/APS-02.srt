@@ -1,0 +1,512 @@
+1
+00:00:00,000 --> 00:00:03,580
+Selamat datang di video materi mata kuliah rekayasa perangkat lunak.
+
+2
+00:00:04,120 --> 00:00:08,160
+Pada kesempatan kali ini, materi yang dibahas adalah tentang konsep perancangan.
+
+3
+00:00:08,660 --> 00:00:09,400
+Selamat menyimak.
+
+4
+00:00:10,340 --> 00:00:12,560
+Topik pembahasan dalam video ini ada tiga.
+
+5
+00:00:12,980 --> 00:00:16,820
+Pertama adalah tentang proses perancangan di dalam rekayasa perangkat lunak.
+
+6
+00:00:17,340 --> 00:00:20,900
+Lalu topik yang kedua adalah tentang kualitas dalam perancangan software.
+
+7
+00:00:21,460 --> 00:00:25,620
+Dan topik terakhir atau yang ketiga adalah konsep-konsep kunci dalam proses perancangan.
+
+8
+00:00:26,220 --> 00:00:27,720
+Mari kita bahas satu per satu.
+
+9
+00:00:27,720 --> 00:00:41,040
+Dalam rekayasa perangkat lunak, tahap desain atau tahap membuat rancangan software dilakukan setelah melewati tahap analisis kebetuhan, terlepas dari apapun metodologi pengembangan perangkat lunak yang kita gunakan.
+
+10
+00:00:41,460 --> 00:00:51,040
+Biasanya proses perancangan ini bersifat iteratif, di mana setiap spesifikasi kebutuhan atau requirements diterjemahkan menjadi blueprint dari sistem yang dibuat.
+
+11
+00:00:51,040 --> 00:00:57,400
+Penting untuk dipahami bahwa perancangan perangkat lunak harus berdasarkan requirements atau kebutuhannya
+
+12
+00:00:57,400 --> 00:01:04,640
+Kita hanya melakukan hal yang sia-sia jika membuat rancangan begitu saja tanpa mempedulikan requirementsnya
+
+13
+00:01:04,640 --> 00:01:10,380
+Selain itu, tentu perancangan juga perlu memperhatikan atribut-atribut kualitas yang menyertainya
+
+14
+00:01:10,380 --> 00:01:13,160
+Apa saja yang dibuat rancangannya?
+
+15
+00:01:13,700 --> 00:01:19,560
+Sebetulnya tidak ada peraturan yang eksplisit mewajibkan kita untuk membuat apa saja saat merancang perangkat lunak
+
+16
+00:01:19,560 --> 00:01:24,460
+itu semua tergantung dari kebutuhan software engineer dan juga perangkat lunaknya.
+
+17
+00:01:25,220 --> 00:01:29,020
+Namun demikian, biasanya ada empat rancangan yang dibuat pada tahap desain ini,
+
+18
+00:01:29,560 --> 00:01:35,260
+yaitu rancangan data atau kelas, rancangan arsitektur, rancangan antarmuka atau interface,
+
+19
+00:01:35,440 --> 00:01:37,280
+dan keempat adalah rancangan komponen.
+
+20
+00:01:38,060 --> 00:01:43,060
+Keempat rancangan ini haruslah dibuat berdasarkan spesifikasi kebutuhan atau sistem requirements.
+
+21
+00:01:43,860 --> 00:01:46,440
+Requirements yang sudah kita kumpulkan pada tahap sebelumnya,
+
+22
+00:01:46,440 --> 00:01:49,400
+dijadikan acuan untuk membuat empat rancangan tersebut.
+
+23
+00:01:49,560 --> 00:01:56,900
+Atau jika dibalik, setiap rancangan software yang kita buat haruslah sejalan dengan kebutuhan atau requirements dari software tersebut.
+
+24
+00:01:59,450 --> 00:02:10,470
+Esensinya, tahap desain ini memang menerjemahkan spesifikasi kebutuhan, termasuk model-model kebutuhan yang sudah dibuat sebelumnya, menjadi rancangan perangkat lunak yang siap untuk diimplementasikan.
+
+25
+00:02:11,310 --> 00:02:18,150
+Desain harus dibuat berdasarkan requirements, itu sudah semacam kesepakatan yang tidak bisa ditawar dalam rekayasa perangkat lunak.
+
+26
+00:02:18,790 --> 00:02:25,070
+Gambar yang terlihat ini adalah pemetaan bagaimana model-model kebutuhan dapat dibuatkan rancangan perangkat lunaknya.
+
+27
+00:02:26,030 --> 00:02:31,370
+Seperti yang sudah pernah dibahas pada video materi sebelumnya, ada tiga model kebutuhan yang bisa kita buat.
+
+28
+00:02:31,530 --> 00:02:37,190
+Empat rancangan yang dibuat pada tahap desain ini berkorelasi dengan tiga jenis model kebutuhan tersebut.
+
+29
+00:02:37,810 --> 00:02:43,710
+Skenario base model, baik itu yang berupa use case, activity diagram, atau swimline diagram,
+
+30
+00:02:44,130 --> 00:02:48,070
+merupakan dasar atau input untuk membuat rancangan interface atau antarmuka.
+
+31
+00:02:49,350 --> 00:02:53,330
+Sementara itu behavioral model seperti state diagram atau sequence diagram,
+
+32
+00:02:53,770 --> 00:02:57,870
+merupakan dasar atau input untuk membuat rancangan komponen dan juga interface.
+
+33
+00:02:58,610 --> 00:03:04,410
+Sedangkan class base model seperti class diagram, digunakan untuk membuat rancangan data atau rancangan kelas,
+
+34
+00:03:04,410 --> 00:03:07,730
+Rancangan arsitektur dan juga rancangan komponen
+
+35
+00:03:07,730 --> 00:03:10,690
+Atau gambar ini juga dapat dibaca
+
+36
+00:03:10,690 --> 00:03:15,290
+Untuk membuat rancangan data atau kelas dan juga rancangan arsitektur perangkat lunak
+
+37
+00:03:15,290 --> 00:03:18,230
+Kita perlu membuat model kebutuhan kelas base
+
+38
+00:03:18,230 --> 00:03:21,090
+Seperti kelas diagram atau CRC model
+
+39
+00:03:21,090 --> 00:03:23,650
+Lalu untuk membuat rancangan interface
+
+40
+00:03:23,650 --> 00:03:26,850
+Kita perlu membuat skenario base dan behavioral model
+
+41
+00:03:26,850 --> 00:03:32,310
+Sedangkan rancangan komponen bisa dibuat dari kelas base model dan juga behavioral model
+
+42
+00:03:32,310 --> 00:03:39,300
+Rancangan yang kita buat dapat mempengaruhi kualitas dari perangkat lunak yang dikembangkan
+
+43
+00:03:39,300 --> 00:03:44,960
+Rancangan dengan kualitas yang baik lebih mudah untuk menghasilkan perangkat lunak yang baik kualitasnya
+
+44
+00:03:44,960 --> 00:03:49,980
+Oleh karena itulah, kita perlu memperhatikan aspek kualitas dalam setiap rancangan yang kita buat
+
+45
+00:03:49,980 --> 00:03:54,940
+Pertanyaan selanjutnya, seperti apakah sebetulnya rancangan yang berkualitas tersebut?
+
+46
+00:03:55,700 --> 00:04:00,400
+Rancangan atau desain yang berkualitas haruslah memiliki sekurang-kurangnya 8 hal berikut
+
+47
+00:04:00,400 --> 00:04:07,000
+Pertama adalah mengikuti best practice, pola, atau cara perancangan yang sudah dikenal atau umum digunakan
+
+48
+00:04:07,000 --> 00:04:13,300
+Kedua bersifat modular, yaitu secara logika dibagi ke dalam elemen-elemen atau subsistem
+
+49
+00:04:13,300 --> 00:04:20,560
+Yang ketiga secara jelas merepresentasikan data, arsitektur, antarmuka, dan juga komponen dari software
+
+50
+00:04:21,820 --> 00:04:27,320
+Keempat memuat struktur data yang sesuai untuk kelas, paling tidak dapat terlihat polanya
+
+51
+00:04:27,320 --> 00:04:32,500
+Kelima adalah memperlihatkan karakteristik fungsional dari tiap komponennya
+
+52
+00:04:32,500 --> 00:04:35,660
+Dan keenam memuat antarmuka atau interface
+
+53
+00:04:35,660 --> 00:04:40,840
+Ketujuh bersifat iteratif atau memiliki perulangan dalam proses pembuatannya
+
+54
+00:04:40,840 --> 00:04:48,560
+Dan terakhir yang kedelapan direpresentasikan dengan notasi, simbol atau ilustrasi yang efektif merepresentasikan maknanya
+
+55
+00:04:48,560 --> 00:04:53,020
+Tentu masih banyak lagi karakteristik rencangan berkualitas lainnya
+
+56
+00:04:53,020 --> 00:04:56,220
+Namun delapan hal tersebut sudah cukup untuk memwakilinya
+
+57
+00:04:56,220 --> 00:05:03,090
+Tentu kita juga perlu memahami atribut-atribut kualitas dalam rancangan perangkat lunak
+
+58
+00:05:03,090 --> 00:05:08,850
+Ini penting karena akan menjadi ukuran kualitas dari perangkat lunak yang dihasilkan dari rancangan tersebut
+
+59
+00:05:08,850 --> 00:05:17,130
+Atribut kualitas dalam rancangan mencakup functionality, usability, reliability, performance, dan supportability
+
+60
+00:05:17,130 --> 00:05:19,930
+Atau disingkat FURPS
+
+61
+00:05:19,930 --> 00:05:23,790
+Pertama adalah functionality atau fungsionalitas
+
+62
+00:05:23,790 --> 00:05:30,990
+Ini dinilai dengan mengevaluasi fitur, fungsi, kemampuan program serta keamanan sistem secara keseluruhan
+
+63
+00:05:30,990 --> 00:05:35,170
+Atribut yang kedua adalah usability atau kegunaan
+
+64
+00:05:35,170 --> 00:05:40,770
+Dinilai dengan mempertimbangkan manusia atau pengguna, estetika serta dokumentasinya
+
+65
+00:05:40,770 --> 00:05:44,790
+Yang ketiga adalah reliability atau keandalan
+
+66
+00:05:44,790 --> 00:05:52,790
+Ini dinilai dengan mengukur tingkat kegagalan sistem, akurasi keluaran atau output, dan juga selang waktu antar kegagalan sistem
+
+67
+00:05:52,790 --> 00:06:02,170
+Yang keempat adalah performance atau kinerja, diukur dengan mempertimbangkan kecepatan memprosesan, penggunaan sumber daya, serta efisiensinya
+
+68
+00:06:02,170 --> 00:06:11,010
+Dan yang kelima adalah supportability atau daya dukung, ini diukur dari pemeliharaan sistem atau istilahnya adalah maintainability
+
+69
+00:06:12,070 --> 00:06:19,330
+Tidak semua atribut kualitas ini memiliki bobot yang sama, bobotnya akan tergantung dari perangkat lunak dan sistem yang dikembangkan
+
+70
+00:06:19,330 --> 00:06:26,870
+Sebelum membuat rancangan sistem atau perangkat lunak, ada baiknya jika kita memahami konsep-konsep yang ada di baliknya
+
+71
+00:06:26,870 --> 00:06:30,430
+Ada enam konsep yang berkaitan dengan rancangan perangkat lunak
+
+72
+00:06:30,430 --> 00:06:35,570
+Yang pertama adalah abstraksi, ini merepresentasikan sistem yang sudah berjalan
+
+73
+00:06:35,570 --> 00:06:40,070
+Sebagai catatan, yang direpresentasikan hanya elemen yang pentingnya saja
+
+74
+00:06:40,070 --> 00:06:44,970
+Yang kedua adalah arsitektur, yang merupakan struktur keseluruhan perangkat lunak
+
+75
+00:06:44,970 --> 00:06:49,310
+Menjelaskan komponen-komponen sistem beserta hubungan atau interaksinya
+
+76
+00:06:50,310 --> 00:06:51,630
+Yang ketiga adalah pola.
+
+77
+00:06:52,030 --> 00:06:56,150
+Konsep ini menekankan pada penggunaan pola-pola perancangan yang sudah ada sebelumnya,
+
+78
+00:06:56,730 --> 00:07:00,790
+apabila dapat digunakan kembali untuk memenuhi kebutuhan aplikasi saat ini.
+
+79
+00:07:02,230 --> 00:07:03,990
+Keempat adalah pemisahan masalah.
+
+80
+00:07:03,990 --> 00:07:11,490
+Konsep ini menggunakan prinsip bahwa masalah yang kompleks lebih mudah ditangani apabila dibagi-bagi menjadi bagian-bagian kecil.
+
+81
+00:07:12,770 --> 00:07:19,110
+Yang kelima adalah modularitas, yaitu dibagi menjadi komponen-komponen, sering disebut juga sebagai modul-modul.
+
+82
+00:07:19,310 --> 00:07:28,950
+Ke enam adalah paradigma. Maksudnya adalah mengikuti suatu paradigma tertentu, misalnya object-oriented, user-centered design, dan lain sebagainya.
+
+83
+00:07:29,890 --> 00:07:36,010
+Dengan memahami enam konsep tersebut seharusnya akan memudahkan kita dalam membuat rancangan-rancangan perangkat lunak dengan lebih baik.
+
+84
+00:07:38,780 --> 00:07:45,220
+Model perancangan perangkat lunak dapat dilihat dari dua dimensi yang berbeda, yaitu dimensi abstraksi dan dimensi proses.
+
+85
+00:07:45,920 --> 00:07:47,740
+Perhatikan gambar yang Anda lihat berikut.
+
+86
+00:07:48,380 --> 00:07:51,220
+Gambar ini menunjukkan dimensi-dimensi model perancangan.
+
+87
+00:07:51,980 --> 00:07:55,900
+Dimensi abstraksi mengindikasikan tingkat detail atau rincian informasi
+
+88
+00:07:55,900 --> 00:08:00,480
+yang disediakannya untuk diimplementasikan menjadi sebuah komponen perangkat lunak.
+
+89
+00:08:01,240 --> 00:08:05,880
+Semakin ke bawah atau semakin menuju tingkat abstraksi yang rendah akan semakin detail.
+
+90
+00:08:06,720 --> 00:08:11,280
+Pada dimensi abstraksi, batas antara model requirements atau model analisis
+
+91
+00:08:11,280 --> 00:08:16,200
+dengan model rancangan atau desain model adalah garis putus-putus yang ada pada gambar.
+
+92
+00:08:16,920 --> 00:08:20,040
+Terlihat bahwa semua model rancangan berada di bawah model analisis.
+
+93
+00:08:20,600 --> 00:08:24,040
+Ini menandakan bahwa informasi yang disediakan oleh model rancangan
+
+94
+00:08:24,040 --> 00:08:28,140
+lebih detail dibandingkan dengan model kebutuhan dalam konteks perangkat lunak.
+
+95
+00:08:29,200 --> 00:08:34,760
+Sementara itu, dimensi yang kedua atau dimensi proses mengindikasikan evolusi dari model perancangan.
+
+96
+00:08:34,760 --> 00:08:42,280
+Ada 4 dimensi perancangan di sini, yaitu arsitektur, interface, komponen, dan terakhir adalah deployment.
+
+97
+00:08:43,100 --> 00:08:47,500
+Pada gambar, batas antar dimensi proses adalah garis vertikal yang tidak terputus.
+
+98
+00:08:48,200 --> 00:08:54,920
+Perlu diperhatikan bahwa elemen-elemen model sepanjang sumbu horizontal dimensi proses ini tidak selalu dikembangkan secara berurutan.
+
+99
+00:08:55,520 --> 00:09:00,960
+Berbeda dengan model-model pada sumbu vertikal dimensi abstraksi yang perlu dibuat secara berurutan.
+
+100
+00:09:01,760 --> 00:09:07,660
+Contohnya, kita bisa saja membuat rancangan interface terlebih dahulu sebelum membuat rancangan arsitektur,
+
+101
+00:09:08,260 --> 00:09:12,700
+atau membuat rancangan komponen terlebih dahulu sebelum membuat rancangan interface.
+
+102
+00:09:13,560 --> 00:09:20,100
+Namun demikian, saat membuat rancangan interface, kita perlu membuat use case dan activity diagram terlebih dahulu
+
+103
+00:09:20,100 --> 00:09:24,600
+sebelum membuat model rancangan navigasinya, dan tidak bisa sebaliknya.
+
+104
+00:09:25,020 --> 00:09:31,780
+Sebagai penutup, mari kita lihat beberapa contoh rancangan perangkat lunak yang dihasilkan dari tahap desain.
+
+105
+00:09:32,240 --> 00:09:35,140
+Contoh pertama adalah contoh rancangan arsitektur.
+
+106
+00:09:35,720 --> 00:09:38,920
+Ini merupakan rancangan sederhana untuk aplikasi berbasis web.
+
+107
+00:09:39,600 --> 00:09:47,140
+Dari rancangan arsitektur ini, dapat kita lihat dengan jelas bahwa terdapat pemisahan server untuk web, database, dan juga application.
+
+108
+00:09:47,920 --> 00:09:51,040
+Dan untuk mengakses aplikasi ini dibutuhkan koneksi internet.
+
+109
+00:09:52,340 --> 00:09:55,900
+Contoh yang kedua adalah interface design atau rancangan antarmuka.
+
+110
+00:09:55,900 --> 00:09:59,200
+Ini adalah contoh interface yang masih berupa wireframe.
+
+111
+00:09:59,840 --> 00:10:04,100
+Dapat kita lihat bahwa ini merupakan rancangan antarmuka dari aplikasi e-commerce,
+
+112
+00:10:04,660 --> 00:10:07,120
+di mana kategori produk ditempatkan di atas.
+
+113
+00:10:07,720 --> 00:10:12,320
+Lalu ada 3 buah banner yang ditampilkan, mungkin untuk menampilkan produk unggulan.
+
+114
+00:10:13,140 --> 00:10:15,480
+Bagian di bawahnya adalah list produk-produk yang dijual,
+
+115
+00:10:15,480 --> 00:10:19,140
+dan sebelah kirinya ada opsi untuk melakukan filtering produk,
+
+116
+00:10:19,580 --> 00:10:22,440
+misalnya berdasarkan jenis ataupun rentang harga.
+
+117
+00:10:23,300 --> 00:10:26,480
+Rancangan desain interface ini akan memberikan arahan bagi programmer
+
+118
+00:10:26,480 --> 00:10:31,160
+saat membuat bagian front-end pada aplikasi ini di tahap implementasi nantinya.
+
+119
+00:10:32,980 --> 00:10:35,040
+Dan contoh yang terakhir adalah rancangan data.
+
+120
+00:10:35,600 --> 00:10:38,220
+Ini dibuat dalam bentuk entity relationship diagram.
+
+121
+00:10:38,920 --> 00:10:42,280
+Ini adalah contoh untuk aplikasi inventory sebuah perusahaan
+
+122
+00:10:42,280 --> 00:10:44,920
+yang kantor cabangnya tersebar di berbagai tempat.
+
+123
+00:10:45,640 --> 00:10:49,420
+Dari rancangan ini kita dapat ketahui berapa tabel database yang dibuat,
+
+124
+00:10:49,920 --> 00:10:51,480
+bagaimana relasi antar tabel,
+
+125
+00:10:51,820 --> 00:10:55,480
+dan apa saja variabelnya saat memasuki tahap implementasi nantinya.
+
+126
+00:10:56,780 --> 00:11:01,000
+Baiklah ketiga contoh rancangan tadi mengakhiri pembahasan materi dalam video ini.
+
+127
+00:11:01,500 --> 00:11:04,580
+Berikut adalah dua referensi utama dalam penyusunan materinya.
+
+128
+00:11:05,120 --> 00:11:07,520
+Terima kasih karena Anda sudah menyimak sampai selesai.
+

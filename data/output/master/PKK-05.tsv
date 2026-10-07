@@ -1,0 +1,120 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+PKK-05	PKK		1	0.000	4.236	4.236		dari generasi ke generasi oke kita langsung saja	jalur-wav2vec2	
+PKK-05	PKK		2	5.460	13.900	8.440		yang pertama adalah definisi komputer sendiri jadi sebagai masiswa sekarang kalian	jalur-wav2vec2	
+PKK-05	PKK		3	13.972	23.344	9.372		sela yang membedakan adalah bila kita membicarakan satu hal itu kita mempunyai dasar teorinya dulu jadi di sini dasar teori dari	jalur-wav2vec2	
+PKK-05	PKK		4	23.344	27.884	4.540		yang disebut dengan definisi komputer menurut donald	jalur-wav2vec2	
+PKK-05	PKK		5	30.304	48.108	17.804		sistem elektronik untuk memanipulasi data dengan cepat dan tepat yang di organisasikan agar secara otomatis menerima dan menyimpan masukan data memprosesnya dari hasil pengolahannya menyediakan output dalam bentuk informasi	jalur-wav2vec2	
+PKK-05	PKK		6	49.556	53.388	3.832		jadi kesimpulannya komputer adalah alat elektronik	jalur-wav2vec2	
+PKK-05	PKK		7	53.684	65.996	12.312		kemudian yang kedua dapat menerima input data masukan kemudian data yang tadi di input dapat di olah jadi dapat mengolah data kemudian dapat memberikan informasi	jalur-wav2vec2	
+PKK-05	PKK		8	66.196	76.972	10.776		yang kelima menggunakan satu program di dalam memori komputer atau stored program lalu yang kenam dapat menyimpan program dan hasil pengolahan	jalur-wav2vec2	
+PKK-05	PKK		9	76.980	82.636	5.656		yang ketujuh bekerja secara otomatis kemudian hasilnya bisa ditampilkan	jalur-wav2vec2	
+PKK-05	PKK		10	82.708	94.124	11.416		alat pengolan data sendiri terbagi ke dalam empat golongan yaitu peetama adalah yang manual mekanik kemudian mekanik elektronik lalu alat elektronik	jalur-wav2vec2	
+PKK-05	PKK		11	94.292	98.764	4.472		komputer pada generasi yang pertama itu	jalur-wav2vec2	
+PKK-05	PKK		12	98.932	103.884	4.952		jadi perkembangan komputer itu ada beberapa generasi jadi	jalur-wav2vec2	
+PKK-05	PKK		13	103.892	118.604	14.712		dimulai dari komputer generasi pertama yang masih menggunakan konsep stored program jadi generasi itu dimulai pada tahun seribu sembilan ratus empat puluh sampai dengan seribu sembilan ratus lima puluh sembilan	jalur-wav2vec2	
+PKK-05	PKK		14	119.316	130.636	11.320		ciri cirinya itu tadi masih di kontrol oleh pogram yang tersimpan di memori kemudian dibuat dengan bahasa mesin jadi masih konsep binary	jalur-wav2vec2	
+PKK-05	PKK		15	130.644	138.828	8.184		lalu pengolahan data masih lambat mesin masih memakai daya listrik yang besar namun cepat panas	jalur-wav2vec2	
+PKK-05	PKK		16	140.340	151.052	10.712		ukuran fisiknya biasanya besar sekali jadi generasi pertama itu komputer masih sebesar ruangan	jalur-wav2vec2	
+PKK-05	PKK		17	154.004	162.412	8.408		lalu memori itu di simpan di dalam magnetic tab magnetic tab  itu seperti kaset kaset yang zaman dulu itu lo	jalur-wav2vec2	
+PKK-05	PKK		18	162.676	171.852	9.176		lalu pada generasi kedua ditahun seribu sembilan ratus lima puluh sembilan sampai dengan seribu sembilan ratus enam puluh empat itu	jalur-wav2vec2	
+PKK-05	PKK		19	172.596	178.412	5.816		sudah mulai menggunakan program yang dibikin dengan bahasa tingkat tinggi	jalur-wav2vec2	
+PKK-05	PKK		20	178.772	193.552	14.780		jadi tidak lagi menggunakan bahasa mesin tapi bahasa yang mudah dipahami oleh manusia seperti fortran cobol basic mungkin kalian bisa lihat nantilah searching di komputer kapasitas memorinya juga sudah lumayan besar	jalur-wav2vec2	
+PKK-05	PKK		21	193.552	204.172	10.620		kemudian komponen sirkuitnya sudah mulai memakai transistor ukuran fisiknya otomatis jadi lebih sedikit jadi daya listriknya tidak terlalu besar	jalur-wav2vec2	
+PKK-05	PKK		22	204.660	224.660	20.000		nah itu generasi ke dua nah generasi ke tiga di tahun sembilan belas enam puluh empat sampai sembilan belas tujuh puluh itu sudah menggunakan sirkuitnya sudah menggunakan ic integrated circuit jadi kecepatan operasi kapasitas memori ukuran fisik dan daya listrik pasti lebih baik	jalur-wav2vec2	
+PKK-05	PKK		23	225.300	235.788	10.488		dapat melakukan multi programming kemudian alat input outputnya sudah mulai melakuk banyak mene mendapatkan pekembangan yang luar biasa	jalur-wav2vec2	
+PKK-05	PKK		24	235.860	245.888	10.028		jadi contoh komputer generasi ke tiga itu seperti ibm ini contohnya seperti ibm kemudian nova	jalur-wav2vec2	
+PKK-05	PKK		25	245.888	249.120	3.232		mungkin banyak kalian yang belum pernah dengar ya	jalur-wav2vec2	
+PKK-05	PKK		26	249.120	253.900	4.780		lalu itu generasi ke tiga sekarang generasi ke empat	jalur-wav2vec2	
+PKK-05	PKK		27	253.940	266.476	12.536		itu ciri cirinya sudah menggunakan ici lalu sudah mulai ada intel lalu sudah ada	jalur-wav2vec2	
+PKK-05	PKK		28	269.812	284.332	14.520		komputer itu cuma bisa digunakan di satu tempat yang luas yang besar lalu kemudian sudah ada ini kan personal komputer sudah ada yang namanya desktop komputer	jalur-wav2vec2	
+PKK-05	PKK		29	286.100	291.116	5.016		nah itu generasi ke empat nah generasi sekarang itu sudah	jalur-wav2vec2	
+PKK-05	PKK		30	291.348	301.004	9.656		kalian bisa tahu sudah mulai e yang kalian pakai biasa nya laptop kemudian e	jalur-wav2vec2	
+PKK-05	PKK		31	301.108	319.276	18.168		handphone itu juga termasuk sistem komputer handphone yang sekarang kalian pakai itu masuk sistem komputer nah komputer berdasarkan ukuran ada yang mikro ada yang mini kemudian ada yang small ada yang medium dan yang large	jalur-wav2vec2	
+PKK-05	PKK		32	324.340	327.808	3.468		kemudian mini komputer ini komputer yang	jalur-wav2vec2	
+PKK-05	PKK		33	333.396	351.628	18.232		tapi masih tapi dalam kondisi yang tidak bisa digunakan oleh perorangan lalu yang small small ini yang seperti biasa kita gunakan ini kita biasa gunakan nah kalau yang medium itu sudah mulai kelas untuk perusahaan	jalur-wav2vec2	
+PKK-05	PKK		34	351.828	362.252	10.424		yang large begitu juga super computer adalah biasa yag digunakan oleh badan nasa seperti itu jadi dia untuk menghitung yang lebih kom kompleks	jalur-wav2vec2	
+PKK-05	PKK		35	362.900	377.356	14.456		nah kesimpulannya sistem komputer adalah suatu sistem di mana pada sistem itu terdapat input masukan pengolahan data input penyimpanan atau recording data dan keluaran output berupa hasil pengolahan input di mana	jalur-wav2vec2	
+PKK-05	PKK		36	377.428	382.700	5.272		ke empatnya menjadi satu kesatuan yang dikerjakan secara otomatis oke	jalur-wav2vec2	
+PKK-05	PKK		37	382.772	386.380	3.608		nah ini adalah kesimpulannya ini	jalur-wav2vec2	
+PKK-05	PKK		38	387.060	405.388	18.328		jadi yang membedakan komputer generasi baru dengan komputer generasi lama itu pasti adalah kemampuan prosesornya kemampuan menyimpan datanya resolusi resolusi monitornya jadi temakin bagus itu berarti semakin baik dan kemampuan mutimedia	jalur-wav2vec2	
+PKK-05	PKK		39	405.716	418.028	12.312		saya mau cerita sedikit waktu jaman saya dulu belajar komputer itu masih bentuknya seperti apa ya seperti sebentar saya akan bikin satu	jalur-wav2vec2	
+PKK-05	PKK		40	418.260	423.564	5.304		jadi jaman saya dulu itu masih menggunakan disket	jalur-wav2vec2	
+PKK-05	PKK		41	426.868	430.924	4.056		nah jaman dulu saya itu masih menggunakan disket komputer seperti ini	jalur-wav2vec2	
+PKK-05	PKK		42	432.148	437.100	4.952		lalu sudah mulai ada perkembangan menjadi cd	jalur-wav2vec2	
+PKK-05	PKK		43	442.004	449.932	7.928		seperti ini nah sudah ada mulai seperti ini tapi kalian kan sudah sekarang sudah mengenal untuk penyimpanan menggunakan flashdisk	jalur-wav2vec2	
+PKK-05	PKK		44	450.420	454.284	3.864		nah seperti ini nah ini flashdisknya banyak ya	jalur-wav2vec2	
+PKK-05	PKK		45	454.676	461.196	6.520		pada waktu yang masih yang dulu itu masih yang seperti ini itu penyimpanannya	jalur-wav2vec2	
+PKK-05	PKK		46	462.932	466.668	3.736		sebesar e	jalur-wav2vec2	
+PKK-05	PKK		47	467.412	487.412	20.000		satu koma empat puluh empat mega byte jadi untuk menyimpan satu lagu aja yang mp three sudah enggak enggak bisa ya kemudian kalau yang cd yang cd seperti ini yang cd seperti ini nah ini penyimpannya sudah mul	jalur-wav2vec2	
+PKK-05	PKK		48	488.660	491.916	3.256		sampai enam ratus mega byte	jalur-wav2vec2	
+PKK-05	PKK		49	492.212	497.420	5.208		dan dvd kalau dvd itu sampai empat gb	jalur-wav2vec2	
+PKK-05	PKK		50	497.844	511.628	13.784		nah kalau yang kalian sekarang pakai itu flashdisk itu banyak macamnya dan di mulai dari dua gb sampai enam puluh empat seratus dua puluh delapan gb gigabyte oke itu sekilas untuk penyimpanan	jalur-wav2vec2	
+PKK-05	PKK		51	512.884	518.412	5.528		kita lanjut ke pengertian hardware hardware apa sih	jalur-wav2vec2	
+PKK-05	PKK		52	518.484	523.404	4.920		hardware itu kalau bahasa kita adalah perangkat	jalur-wav2vec2	
+PKK-05	PKK		53	526.324	543.148	16.824		jadi peralatan yang dapat dilihat dan disentuh serta dapat di rasakan dengan sentuhan sama aja ya peralatan tesebut meliputi peralatan input peralatan pros proses dan peralatan output jadi inputnya seperti apa kalian mungkin tau keyboard	jalur-wav2vec2	
+PKK-05	PKK		54	543.444	551.692	8.248		kemudian scanner lalu juga ada mouse ada joystick dan lain lain itu adalah peralatan input itu temasuk hardware	jalur-wav2vec2	
+PKK-05	PKK		55	551.700	568.236	16.536		kemudian peralatan proses itu disebut sebagai cpu yaitu central processing unit jadi kalau kalian lihat di komputer yang lama sebentar ya komputer yang lama itu biasanya ada bentuknya seperti ini	jalur-wav2vec2	
+PKK-05	PKK		56	568.532	572.300	3.768		nah ini ini adalah cpu	jalur-wav2vec2	
+PKK-05	PKK		57	572.692	579.468	6.776		kalau di laptop kan sudah engga ada ya engga kelihatan gitu ya itu kan kadang engga kelihatan	jalur-wav2vec2	
+PKK-05	PKK		58	579.732	595.712	15.980		nah kemudian ada yang ketiga adalah peralatan output fungsinya untuk mengeluarkan atau menampilkan hasil pengolahan data dengan komputer jadi seperti monitor kemudian seperti yang di printer itu adalah peralatan output	jalur-wav2vec2	
+PKK-05	PKK		59	599.156	606.700	7.544		oke jadi kurang lebih kalau kita bisa pegang alatnya dan itu nyambung ke komputer itu berarti temasuk hardware	jalur-wav2vec2	
+PKK-05	PKK		60	606.804	610.444	3.640		oke nanti kalian pelajari lagi ya apa aja sih jenisnya	jalur-wav2vec2	
+PKK-05	PKK		61	612.148	616.652	4.504		yang biasanya digunakan itu kalau	jalur-wav2vec2	
+PKK-05	PKK		62	616.980	623.724	6.744		mouse sudah biasa lah ya sudah tahu itunya jadi kalau kita	jalur-wav2vec2	
+PKK-05	PKK		63	624.724	629.804	5.080		seperti ini jadi kalau memang kita mau cek kalau keyboard itu	jalur-wav2vec2	
+PKK-05	PKK		64	629.940	636.204	6.264		seperti ini modelnya lalu kalau mouse seperti ini	jalur-wav2vec2	
+PKK-05	PKK		65	636.788	644.748	7.960		banyak modelnya mungkin disebut mouse karnena dia bentuknya agak gemuk kecil lalu ada	jalur-wav2vec2	
+PKK-05	PKK		66	647.444	650.796	3.352		nah kemudian	jalur-wav2vec2	
+PKK-05	PKK		67	652.820	672.820	20.000		untuk yang tadi kita terakhir mengenai masalah output itu biasanya bentuknya menitor seperti ini monitor ini sudah munitor yang led sudah sudah bagus lalu bisa juga bentuk output adalah printer seperti ini nah ini printer macam macam	jalur-wav2vec2	
+PKK-05	PKK		68	672.820	689.164	16.344		ada jenisnya ada yang dot metrik ada yang tinta kemudian ada yang seperti mesin fotocopy ada pemanas laser jet nah ada inkjet deskjet jadi nanti kalian pelajari lah ya jenis jenisnya macem macem	jalur-wav2vec2	
+PKK-05	PKK		69	693.012	697.964	4.952		tadi adalah untuk hardware kemudian untuk software	jalur-wav2vec2	
+PKK-05	PKK		70	698.292	705.580	7.288		software itu apa sih software itu kalau bahasa ininya adalah perangkat lunak	jalur-wav2vec2	
+PKK-05	PKK		71	706.196	715.596	9.400		jadi peranti lunak jadi hakikatnya adalah peralatan komputer yang dapat dilihat tapi tidak dapat di pegang tidak dapat diraba	jalur-wav2vec2	
+PKK-05	PKK		72	715.700	732.556	16.856		jadi program komputer dia biasanya cuma bisa dinikmati digunakan dan dilihat hasilnya itu jenisnya ada dua yaitu package software seperti kalian kalau mau mengetik menggunakan microsoft word ya ini kita bikin	jalur-wav2vec2	
+PKK-05	PKK		73	732.596	744.320	11.724		ms word nah itu termasuk package software kemudian ada lagi microsoft excel oke seperti itu jadi banyak	jalur-wav2vec2	
+PKK-05	PKK		74	744.320	749.676	5.356		yang buat menyelesaikan pekerjaan yang sifatnya umum atau standar	jalur-wav2vec2	
+PKK-05	PKK		75	749.876	769.876	20.000		nah lalu ada yang kedua adalah application software ini piranti lunak yang kegunaannya lebih spesifik jadi misalnya cuma digunakan untuk satu jenis pekerjaan kalau ini kan bisa banyak nih nah kalau yang application software umpamanya contohnya kaya autocad	jalur-wav2vec2	
+PKK-05	PKK		76	769.904	773.440	3.536		kemudian bisa	jalur-wav2vec2	
+PKK-05	PKK		77	773.440	781.164	7.724		spss spss itu termasuk spss kemudian easy accounting bisa	jalur-wav2vec2	
+PKK-05	PKK		78	783.252	787.756	4.504		itu temasuk kemudian kalian cari lagi lah application software apa aja	jalur-wav2vec2	
+PKK-05	PKK		79	788.916	796.396	7.480		jadi e lebih kita banyak bisa menyaksikan saja tapi tidak bisa dipegang	jalur-wav2vec2	
+PKK-05	PKK		80	796.468	815.308	18.840		itu untuk software nah kalau brainware brainware adalah brain itu kan sebenarnya apa namanya otak ya otak atau kepintaran jadi sebenarnya adalah manusia yang mempunyai keahlian khusus mengenai pengolah pengolahan data dengan komputer jenisnya macam macam	jalur-wav2vec2	
+PKK-05	PKK		81	815.316	821.420	6.104		jadi ada system analyst ada programmer ada operator ada technical support	jalur-wav2vec2	
+PKK-05	PKK		82	821.460	825.356	3.896		dan biasanya ada sertifikasi yang sudah di	jalur-wav2vec2	
+PKK-05	PKK		83	826.804	830.764	3.960		di akui di indonesia ataupun internasional jadi	jalur-wav2vec2	
+PKK-05	PKK		84	830.804	833.824	3.020		contoh nih system analyst system analyst itu	jalur-wav2vec2	
+PKK-05	PKK		85	833.824	840.076	6.252		tugasnya menganalisis membentuk merancang dan membangun sebuah sistem jadi analis itu	jalur-wav2vec2	
+PKK-05	PKK		86	840.244	844.652	4.408		dituntut mengembangkan sistem yang dirancangnya jadi umpamanya kalian	jalur-wav2vec2	
+PKK-05	PKK		87	844.788	849.804	5.016		tahu ada di satu perusahaan besar seperti e	jalur-wav2vec2	
+PKK-05	PKK		88	852.628	859.500	6.872		itu ada di situ biasanya ada dia mau membangun satu aplikasi itu ada system analyst nya	jalur-wav2vec2	
+PKK-05	PKK		89	860.020	875.020	15.000		kemudian ada yang namanya programmer jadi dia menyusun instruksi instruksi untuk program aplikasi tertentu jadi application software contohnya banyak jadi kalau umpamanya kalian mau tahu contoh application software	jalur-wav2vec2	
+PKK-05	PKK		90	878.516	884.044	5.528		e sebentar application software itu adalah bahasa pemrograman	jalur-wav2vec2	
+PKK-05	PKK		91	884.084	889.644	5.560		seperti contohnya nah ini ini adalah application software banyak sekali	jalur-wav2vec2	
+PKK-05	PKK		92	889.652	894.444	4.792		jadi kalau umpamanya kalian mau lihat itu kalau di dalam	jalur-wav2vec2	
+PKK-05	PKK		93	894.868	907.276	12.408		komputer itu kalau kita melihat kan tadi seperti ini nah sebetulnya apa yang ada ditampilkan ini itu di dalamnya seperti ini nah ini bahasa ini adalah bahasa bahasa pemograman seperti itu	jalur-wav2vec2	
+PKK-05	PKK		94	909.172	919.468	10.296		oke kemudian ada lagi operator operator ini tugasnya lebih mudah karena dia cuma memasukkan data penyimpanan pengolahan data jadi	jalur-wav2vec2	
+PKK-05	PKK		95	919.860	927.820	7.960		kalau kalian nanti bisa microsoft word kemudian bisa microsoft excel itu bisa bisebut sebagai seorang operator	jalur-wav2vec2	
+PKK-05	PKK		96	927.860	943.596	15.736		technical support ada juga tugasnya mengendalikan dan memelihara software yang telah ada jadi dia memelihara kemudian umpamanya ada perusahaan membeli satu aplikasi dia menjaga nah itu temasuk adalah technical support seperti itu	jalur-wav2vec2	
+PKK-05	PKK		97	943.796	949.260	5.464		oke e selanjutnya kalau kita bicara yang	jalur-wav2vec2	
+PKK-05	PKK		98	949.268	963.628	14.360		kalian gunakan saat ini itu kalian umpamanya menggunakan sebuah laptop itu memerlukan yang namanya os os itu adalah operating system	jalur-wav2vec2	
+PKK-05	PKK		99	963.796	974.124	10.328		nah operating sistem kalau yang di komputer ataupun di laptop itu ada ada banyak macamnya cuman kita tahu biasanya adalah windows	jalur-wav2vec2	
+PKK-05	PKK		100	974.292	978.188	3.896		nah windows kemudian e	jalur-wav2vec2	
+PKK-05	PKK		101	978.228	993.232	15.004		linux ada itu jenisnya windows sendiri itu windows ada yang windows xp kemudian windows dua ribu ada windos apa lalu windows tujuh	jalur-wav2vec2	
+PKK-05	PKK		102	993.232	996.428	3.196		windows tujuh kemudian windows delapan	jalur-wav2vec2	
+PKK-05	PKK		103	996.468	1003.948	7.480		windows sepuluh ada lagi sebenrnya ada ma banyak macamnya ada windows nt ini biasanya untuk	jalur-wav2vec2	
+PKK-05	PKK		104	1003.988	1008.432	4.444		server lalu kalau linux linux ada redhat	jalur-wav2vec2	
+PKK-05	PKK		105	1011.296	1018.796	7.500		kalilinux banyak banyak sekali tapi ini kita tidak banyak bahas karena memang	jalur-wav2vec2	
+PKK-05	PKK		106	1018.900	1022.156	3.256		e masih belum familiar kita gunakan	jalur-wav2vec2	
+PKK-05	PKK		107	1022.484	1034.224	11.740		oh iya operating sistem ini juga ada yang kalian pakai umpama kalau kalian saat ini menggunakan handphone itu android android itu adalah satu os operating system	jalur-wav2vec2	
+PKK-05	PKK		108	1036.148	1042.380	6.232		kalian kalau menggunakan iphone itu menggunakan ios nah itu	jalur-wav2vec2	
+PKK-05	PKK		109	1042.388	1046.156	3.768		juga operating sistem namanya ios	jalur-wav2vec2	
+PKK-05	PKK		110	1046.164	1053.228	7.064		jadi banyak android itu banyak macamnya jadi kalau umpama kalian menggunakan ya seperti ini	jalur-wav2vec2	
+PKK-05	PKK		111	1053.460	1058.700	5.240		e kalian menggunakan umpamanya macam android ya	jalur-wav2vec2	
+PKK-05	PKK		112	1060.244	1069.932	9.688		oke itu ada nah ini ada android banana bread cupcake donut eclair sampai sekarang itu sudah	jalur-wav2vec2	
+PKK-05	PKK		113	1069.972	1074.540	4.568		sampai ke e banyak sekali	jalur-wav2vec2	
+PKK-05	PKK		114	1074.676	1084.944	10.268		sekarang banyak sekali kita sekarang aja sudah android ke yang tipe yang ke sepuluh ya sudah banyak luar biasa nah ini macam macamnya kemudian	jalur-wav2vec2	
+PKK-05	PKK		115	1084.944	1089.932	4.988		ini baru update sampai delapan padahal kalau android itu	jalur-wav2vec2	
+PKK-05	PKK		116	1091.508	1101.584	10.076		sudah anda sampai android nah ini ada sembilan kemudian namanya pie ya kemudian sepuluh nah ini adalah oreo	jalur-wav2vec2	
+PKK-05	PKK		117	1101.584	1114.060	12.476		nah mungkin nanti selanjutnya kita tidak tahu perkembangannya seperti apa jadi nanti android sebelas itu mungkin akan di tidak belum diberi nama cuma disebag disebut sebagai android sebelas	jalur-wav2vec2	
+PKK-05	PKK		118	1114.132	1126.380	12.248		e lalu kalau ios ios itu nah ini adalah untuk apple dia biasanya menggunakan angka aja ios tiga belas ios dua belas sebelas sepuluh dan lain lain	jalur-wav2vec2	
+PKK-05	PKK		119	1131.252	1145.994	14.742		nah kemudian kalau kalian menggunakan di dalam laptop itu ada menggunakan biasanya kita kalau untuk mengerjakan apa apa itu menggunakan microsoft office nah itu	jalur-wav2vec2	

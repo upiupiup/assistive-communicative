@@ -1,0 +1,651 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+AOK-02	AOK		1	2.540	5.960	3.420	Oke, Assalamualaikum warahmatullahi wabarakatuh	Oke, Assalamualaikum warahmatullahi wabarakatuh		
+AOK-02	AOK		2	5.960	10.660	4.700	bertemu lagi dengan saya pada mata kuliah	bertemu lagi dengan saya pada mata kuliah		
+AOK-02	AOK		3	10.660	14.400	3.740	Arsitektur dan Organisasi Komputer	Arsitektur dan Organisasi Komputer		
+AOK-02	AOK		4	14.400	18.920	4.520	pada topik 2, bagian 1	pada topik 2, bagian 1		
+AOK-02	AOK		5	18.920	25.220	6.300	yakni Performance Issues and Top Level View of Computer Function	yakni Performance Issues and Top Level View of Computer Function		
+AOK-02	AOK		6	25.220	31.750	6.530	Oke, pada bab ini	Oke, pada bab ini		
+AOK-02	AOK		7	31.750	38.190	6.440	Pada video ini ada beberapa tujuan	Pada video ini eee ada beberapa tujuan		
+AOK-02	AOK		8	38.190	44.110	5.920	yakni mahasiswa mampu menjabarkan arsitektur dan organisasi	yakni mahasiswa mampu menjabarkan arsitektur dan organisasi		
+AOK-02	AOK		9	44.110	49.750	5.640	dari prosesor atau CPU pada suatu komputer	dari prosesor atau CPU pada suatu komputer		
+AOK-02	AOK		10	49.750	54.750	5.000	Nah, di mana mahasiswa mampu menjelaskan hubungannya	Nah, di mana mahasiswa mampu menjelaskan hubungannya		
+AOK-02	AOK		11	55.350	60.670	5.320	antara arsitektur dan organisasi pada suatu komputer	antara arsitektur dan organisasi pada suatu komputer		
+AOK-02	AOK		12	60.670	62.230	1.560	dengan performansinya	dengan performansinya		
+AOK-02	AOK		13	62.230	64.790	2.560	oke, nah pada bagian	oke, nah pada bagian		
+AOK-02	AOK		14	64.790	66.970	2.180	satu ini akan dijelaskan	satu ini akan dijelaskan		
+AOK-02	AOK		15	66.970	69.030	2.060	terkait komputer	terkait komputer		
+AOK-02	AOK		16	69.030	69.850	0.820	komponen	komponen		
+AOK-02	AOK		17	69.850	73.150	3.300	kedua adalah	kedua adalah		
+AOK-02	AOK		18	73.150	75.010	1.860	basic instruction cycle	Basic Instruction Cycle		
+AOK-02	AOK		19	75.010	76.890	1.880	dan yang ketiga	dan yang ketiga		
+AOK-02	AOK		20	76.890	78.930	2.040	I.O. function pada	I.O. function pada		
+AOK-02	AOK		21	78.930	80.590	1.660	arsitektur	arsitektur		
+AOK-02	AOK		22	80.590	82.870	2.280	pada suatu komputer	pada suatu komputer		
+AOK-02	AOK		23	82.870	84.250	1.380	oke	oke		
+AOK-02	AOK		24	84.250	87.280	3.030	oke	oke		
+AOK-02	AOK		25	87.280	89.120	1.840	ya	ya		
+AOK-02	AOK		26	89.120	91.220	2.100	oke	oke		
+AOK-02	AOK		27	91.220	94.120	2.900	kita masuk pada top level view of	kita masuk pada Top Level View of		
+AOK-02	AOK		28	94.120	95.440	1.320	komputer function and	Computer Function and		
+AOK-02	AOK		29	95.440	97.840	2.400	interconnection	Interconnection		
+AOK-02	AOK		30	97.840	99.140	1.300	nah	nah		
+AOK-02	AOK		31	99.140	103.420	4.280	pada strukturnya	pada strukturnya		
+AOK-02	AOK		32	103.420	105.780	2.360	komputer ini dibangun oleh	komputer ini dibangun oleh		
+AOK-02	AOK		33	105.780	107.440	1.660	dua macam perangkat	dua macam perangkat		
+AOK-02	AOK		34	107.440	109.560	2.120	yakni perangkat lunak	yakni perangkat lunak		
+AOK-02	AOK		35	109.560	111.520	1.960	software dan perangkat	software dan perangkat		
+AOK-02	AOK		36	111.520	112.920	1.400	keras hardware	keras hardware		
+AOK-02	AOK		37	112.920	116.020	3.100	hardware komputer tersebut	hardware komputer tersebut		
+AOK-02	AOK		38	116.020	117.580	1.560	memiliki beberapa komponen	memiliki beberapa komponen		
+AOK-02	AOK		39	117.580	119.780	2.200	yang memiliki fungsi dan	yang memiliki fungsi dan		
+AOK-02	AOK		40	119.780	120.760	0.980	spesifikasi	spesifikasi		
+AOK-02	AOK		41	120.760	132.740	11.980	tersendiri. Jadi penyusun CPU itu memiliki beberapa komponen yang saling terhubung dan tidak bisa	tersendiri. Jadi penyusun CPU itu memiliki beberapa komponen yang saling terhubung dan tidak bisa		
+AOK-02	AOK		42	132.740	141.260	8.520	bekerja sendiri-sendiri. Masing-masing memiliki fungsi dan spesifikasi. Nah komponen utama pada	bekerja sendiri-sendiri. Masing-masing memiliki fungsi dan spesifikasi. Nah komponen utama pada		
+AOK-02	AOK		43	141.260	144.000	2.740	sebuah komputer	sebuah komputer		
+AOK-02	AOK		44	144.000	148.640	4.640	yakni IOModule, CPU itu sendiri	yakni I/O Module, CPU itu sendiri		
+AOK-02	AOK		45	148.640	153.260	4.620	dan memori. Komponen-komponen	dan memori. Komponen-komponen		
+AOK-02	AOK		46	153.260	157.220	3.960	tersebut juga saling berinteraksi yang dihubungkan	tersebut juga saling berinteraksi yang dihubungkan		
+AOK-02	AOK		47	157.220	160.740	3.520	oleh sebuah sistem yang namanya sistem	oleh sebuah sistem yang namanya sistem		
+AOK-02	AOK		48	160.740	165.280	4.540	bus. Yakni fungsi dari sistem bus	bus. Yakni fungsi dari sistem bus		
+AOK-02	AOK		49	165.280	168.380	3.100	itu sendiri untuk menjembatani	itu sendiri untuk menjembatani		
+AOK-02	AOK		50	168.380	176.040	7.660	Menjembatani atau berkomunikasi antara IOModule, CPU, dan memori	Menjembatani atau berkomunikasi antara I/O Module, CPU, dan memori		
+AOK-02	AOK		51	176.040	179.900	3.860	Serta komponen lain yang tersambung	Serta komponen lain yang tersambung		
+AOK-02	AOK		52	179.900	184.220	4.320	Sehingga antara komponen dapat berinteraksi satu sama lain	Sehingga antara komponen dapat berinteraksi satu sama lain		
+AOK-02	AOK		53	184.220	187.540	3.320	Sesuai dengan instruksi yang ada	Sesuai dengan instruksi yang ada		
+AOK-02	AOK		54	187.540	198.820	11.280	Oke, nah CPU, Memory, dan IOModule itu telah dirumuskan oleh seseorang	Oke, nah CPU, Memory, dan I/O Module itu telah dirumuskan oleh seseorang		
+AOK-02	AOK		55	198.820	203.300	4.480	Ya, ini namanya orangnya adalah Von Neumann	Ya, ini namanya orangnya adalah Von Neuman		
+AOK-02	AOK		56	203.300	211.780	8.480	Oke, Von Neumann ini membuat sebuah desain	Oke, Von Neuman ini membuat sebuah desain		
+AOK-02	AOK		57	211.780	215.980	4.200	Pada komponen utama komputer	Pada komponen utama komputer		
+AOK-02	AOK		58	215.980	220.500	4.520	Terdiri dari tiga perangkat ini komponen utamanya	Terdiri dari tiga perangkat ini komponen utamanya		
+AOK-02	AOK		59	220.500	227.020	6.520	Nah fungsi komponen pada CPU ini ketiga ini	Nah fungsi komponen pada CPU ini ketiga ini		
+AOK-02	AOK		60	227.020	230.060	3.040	Berfungsi sebagai pusat proses	Berfungsi sebagai pusat proses		
+AOK-02	AOK		61	230.060	238.740	8.680	Jadi di seluruh arsitektur komputer yang ada	Jadi di seluruh arsitektur komputer yang ada		
+AOK-02	AOK		62	238.740	243.220	4.480	Entah itu Intel, entah itu ARM, atau yang lain	Entah itu Intel, entah itu ARM, atau yang lain		
+AOK-02	AOK		63	243.220	248.420	5.200	Mesti ada tiga komponen ini	Mesti ada tiga komponen ini		
+AOK-02	AOK		64	248.420	251.620	3.200	Nah, dalam sebuah CPU	Nah, dalam sebuah CPU		
+AOK-02	AOK		65	251.620	255.400	3.780	Ini selalu terdapat yang namanya	Ini selalu terdapat yang namanya		
+AOK-02	AOK		66	255.400	259.960	4.560	Yang pertama adalah control unit	Yang pertama eee adalah Control Unit		
+AOK-02	AOK		67	259.960	263.580	3.620	Ini dia berfungsi untuk memberikan arahan	Ini dia berfungsi untuk memberikan arahan		
+AOK-02	AOK		68	263.580	266.280	2.700	Kendali atau control	Kendali atau control		
+AOK-02	AOK		69	266.280	271.820	5.540	Oke, jika ada suatu data yang masuk, kemudian data itu diolah	Oke, jika ada suatu data yang masuk, kemudian data itu diolah		
+AOK-02	AOK		70	271.820	276.460	4.640	Atau data itu diantrikan, atau data tersebut ditolak	Atau data itu diantrikan, atau data tersebut ditolak		
+AOK-02	AOK		71	276.460	281.560	5.100	Oke, yakni yang mengolah adalah kontrol unit	Oke, yakni yang mengolah adalah Control Unit		
+AOK-02	AOK		72	281.560	286.100	4.540	Nah, kemudian yang kedua adalah alu	Nah, kemudian yang kedua adalah ALU		
+AOK-02	AOK		73	286.100	294.020	7.920	Alu ini berfungsi untuk melakukan operasi hitungan aritematika dan logika	Alu ini berfungsi untuk melakukan operasi hitungan aritematika dan logika		
+AOK-02	AOK		74	294.020	300.840	6.820	Oke, jadi seluruh proses komputasi pada sebuah sistem komputer	Oke, jadi seluruh proses komputasi pada sebuah sistem komputer		
+AOK-02	AOK		75	300.840	304.380	3.540	Oke, itu dihitung	Oke, itu dihitung		
+AOK-02	AOK		76	304.380	308.600	4.220	Jadi yang melakukan aritematika dan logika	Jadi yang melakukan eee aritematika dan logika		
+AOK-02	AOK		77	308.600	312.600	4.000	Itu seluruhnya ada pada komponen alun	Itu seluruhnya ada pada komponen ALU		
+AOK-02	AOK		78	312.600	318.240	5.640	Atau kepanjangannya adalah arithmetic and logic unit	Atau kepanjangannya adalah Arithmetic and Logic Unit		
+AOK-02	AOK		79	318.240	322.800	4.560	Oke, kemudian IOModule	Oke, kemudian I/O Module		
+AOK-02	AOK		80	322.800	336.000	13.200	I.O. ini perangkat I.O. ini berfungsi untuk memasukkan data dan instruksi ke dalam sistem untuk menunjukkan hasil dari pengolahan data.	I/O ini perangkat I/O ini berfungsi untuk memasukkan data dan instruksi ke dalam sistem untuk menunjukkan hasil dari pengolahan data.		
+AOK-02	AOK		81	336.660	349.080	12.420	Jadi data yang masuk sebelum diolah oleh kontrol unit, sebelum itu diterima, ditolak, ataupun diantrikan misalkan.	Jadi data yang masuk sebelum diolah oleh Control Unit, sebelum itu diterima, ditolak, ataupun diantrikan misalkan.		
+AOK-02	AOK		82	349.080	356.760	7.680	Oke, nah yang membantu proses keluar masuknya itu adalah si modul I.O.	Oke, nah yang membantu proses keluar masuknya itu adalah si modul I/O		
+AOK-02	AOK		83	356.760	372.960	16.200	Oke, kemudian terdapat memori, yakni tempat penyimpanan data sementara, kode ataupun hasil yang saat itu dibutuhkan atau dilakukan.	Oke, kemudian eee terdapat Memory, yakni tempat penyimpanan data sementara, kode ataupun hasil yang saat itu dibutuhkan atau dilakukan.		
+AOK-02	AOK		84	372.960	380.140	7.180	Misalkan ada suatu eksekusi	Misalkan eee ada suatu eksekusi		
+AOK-02	AOK		85	380.140	383.300	3.160	Satu tambah satu tambah satu	Satu tambah satu tambah satu		
+AOK-02	AOK		86	383.300	385.520	2.220	Berarti ada tiga langkah	Berarti ada tiga langkah		
+AOK-02	AOK		87	385.520	387.940	2.420	Nah yang dioperasikan sama alun ini	Nah yang dioperasikan sama alun ini		
+AOK-02	AOK		88	387.940	389.500	1.560	Tidak langsung semuanya	Tidak langsung semuanya		
+AOK-02	AOK		89	389.500	391.140	1.640	Satu tambah satu tambah satu	Satu tambah satu tambah satu		
+AOK-02	AOK		90	391.140	392.060	0.920	Tidak	Tidak		
+AOK-02	AOK		91	392.060	394.960	2.900	Tetapi satu tambah satu awal	Tetapi satu tambah satu awal		
+AOK-02	AOK		92	394.960	397.600	2.640	Ini dieksekusi oleh si alun	Ini dieksekusi oleh si ALU		
+AOK-02	AOK		93	397.600	399.780	2.180	Baru	Baru		
+AOK-02	AOK		94	399.780	402.700	2.920	Nah yang satu ini terakhir dimana?	Nah yang satu ini terakhir dimana?		
+AOK-02	AOK		95	402.700	404.040	1.340	Dia disimpan di memori	Dia disimpan di memori		
+AOK-02	AOK		96	404.040	406.140	2.100	Dulu	Dulu		
+AOK-02	AOK		97	406.140	407.740	1.600	Kemudian keluar	Kemudian keluar		
+AOK-02	AOK		98	407.740	409.480	1.740	Hasilnya awal, 1 tambah 1	Hasilnya awal, 1 tambah 1		
+AOK-02	AOK		99	409.480	410.460	0.980	Ini misalkan 2	Ini misalkan 2		
+AOK-02	AOK		100	410.460	413.940	3.480	Kemudian dari memori	Kemudian dari memori		
+AOK-02	AOK		101	413.940	415.780	1.840	Ini dipanggil ke alu	Ini dipanggil ke ALU		
+AOK-02	AOK		102	415.780	417.360	1.580	Untuk dieksekusi	Untuk dieksekusi		
+AOK-02	AOK		103	417.360	418.580	1.220	Jadi	Jadi		
+AOK-02	AOK		104	418.580	421.600	3.020	Sesuai	Sesuai		
+AOK-02	AOK		105	421.600	423.740	2.140	Kebutuhan memori ini	Kebutuhan memori ini		
+AOK-02	AOK		106	424.520	425.300	0.780	Nah	Nah		
+AOK-02	AOK		107	425.300	428.160	2.860	Sifat dari	Eee sifat dari		
+AOK-02	AOK		108	428.160	429.880	1.720	Perangkat ini	Perangkat ini		
+AOK-02	AOK		109	429.880	431.880	2.000	Ini adalah hardwired	Ini adalah hardwired		
+AOK-02	AOK		110	431.880	432.700	0.820	Program	Program		
+AOK-02	AOK		111	432.700	435.600	2.900	Atau	Atau		
+AOK-02	AOK		112	435.600	436.940	1.340	Intinya	Intinya		
+AOK-02	AOK		113	436.940	439.360	2.420	Pada sebuah komputer	Pada sebuah komputer		
+AOK-02	AOK		114	439.360	442.660	3.300	Komponen-komponennya	Komponen-komponennya		
+AOK-02	AOK		115	442.660	444.820	2.160	Sudah disambungkan	Sudah disambungkan		
+AOK-02	AOK		116	444.820	446.620	1.800	Secara patent	Secara patent		
+AOK-02	AOK		117	446.620	448.880	2.260	Nah namun dapat dilakukan	Nah namun dapat dilakukan		
+AOK-02	AOK		118	448.880	451.080	2.200	Konfigurasi atau diprogram	Konfigurasi atau diprogram		
+AOK-02	AOK		119	451.080	453.100	2.020	Lebih lanjut	Lebih lanjut		
+AOK-02	AOK		120	453.100	455.680	2.580	Oke	Oke		
+AOK-02	AOK		121	455.680	457.700	2.020	Kemudian	Kemudian		
+AOK-02	AOK		122	457.700	459.200	1.500	Nah	Nah		
+AOK-02	AOK		123	459.200	462.360	3.160	Pendekatan programming	eee pendekatan programming		
+AOK-02	AOK		124	462.360	464.500	2.140	Pada hardware dan software	Pada hardware dan software		
+AOK-02	AOK		125	464.500	465.500	1.000	Ini ada	Ini ada		
+AOK-02	AOK		126	465.500	468.360	2.860	Dua pendekatan	Dua pendekatan		
+AOK-02	AOK		127	468.360	470.540	2.180	Yang pertama programming	Yang pertama programming		
+AOK-02	AOK		128	470.540	472.480	1.940	Pada hardware	Pada hardware		
+AOK-02	AOK		129	472.480	476.480	4.000	Yang kedua adalah	Yang kedua adalah		
+AOK-02	AOK		130	476.480	478.940	2.460	Programming pada software	Programming pada software		
+AOK-02	AOK		131	478.940	480.220	1.280	Oke	Oke		
+AOK-02	AOK		132	480.220	482.520	2.300	Nah programming	Nah programming		
+AOK-02	AOK		133	482.520	484.860	2.340	Di hardware	Di hardware		
+AOK-02	AOK		134	484.860	486.940	2.080	Oke yang bisa dilakukan	Oke yang bisa dilakukan		
+AOK-02	AOK		135	486.940	488.500	1.560	Seperti gambar ini	Seperti gambar ini		
+AOK-02	AOK		136	488.500	490.500	2.000	Dia ada di posisi	Dia ada di posisi		
+AOK-02	AOK		137	490.500	491.480	0.980	Kota ini	kotak ini		
+AOK-02	AOK		138	491.480	496.040	4.560	Ya, ini sequence of arithmetic and logic function	Ya, ini sequence of arithmetic and logic function		
+AOK-02	AOK		139	496.040	502.620	6.580	Ya, jadi ketika kita melakukan programming pada sebuah CPU	Ya, jadi ketika kita melakukan programming pada sebuah CPU		
+AOK-02	AOK		140	502.620	505.700	3.080	Ya, jadi CPU itu bisa ngapain sih?	Ya, jadi CPU itu bisa ngapain sih?		
+AOK-02	AOK		141	506.440	509.240	2.800	Dia mau disuruh bekerja yang seperti apa?	Dia mau disuruh bekerja yang seperti apa?		
+AOK-02	AOK		142	510.080	516.060	5.980	Oke, ya, yang bisa dikodingkan adalah di dalamnya ALU	Oke, ya, yang bisa dikodingkan adalah di dalamnya ALU		
+AOK-02	AOK		143	516.060	518.500	2.440	Arithmetic and Logic Function	Arithmetic and Logic Function		
+AOK-02	AOK		144	518.500	520.300	1.800	Oke	Oke		
+AOK-02	AOK		145	520.300	525.210	4.910	Nah, data dan hasil	Nah, data dan hasil		
+AOK-02	AOK		146	525.210	527.550	2.340	Ini sesuai dengan yang dikodekan	Ini sesuai dengan yang dikodekan		
+AOK-02	AOK		147	527.550	528.890	1.340	Dalam alu	Dalam ALU		
+AOK-02	AOK		148	528.890	531.610	2.720	Ini kalau programming di hardware	Ini kalau programming di hardware		
+AOK-02	AOK		149	531.610	533.670	2.060	Nah, kemudian	Nah, kemudian		
+AOK-02	AOK		150	533.670	535.690	2.020	Yang kedua, programming di software	Yang kedua, programming di software		
+AOK-02	AOK		151	535.690	537.110	1.420	Oke	Oke		
+AOK-02	AOK		152	537.110	539.270	2.160	Di sini ada	Di sini ada		
+AOK-02	AOK		153	539.270	541.370	2.100	Block instruction interpreter	Block instruction interpreter		
+AOK-02	AOK		154	541.370	543.350	1.980	Ya, atau	Ya, atau		
+AOK-02	AOK		155	543.350	546.830	3.480	Interpretasi	Interpretasi		
+AOK-02	AOK		156	546.830	548.890	2.060	Dari instruksi	Dari instruksi		
+AOK-02	AOK		157	548.890	554.090	5.200	Oke, instruksi pada software ini	Oke, instruksi pada software ini		
+AOK-02	AOK		158	554.090	558.730	4.640	Dia menggunakan instruksi bahasa mesin	Dia menggunakan instruksi bahasa mesin		
+AOK-02	AOK		159	558.730	563.370	4.640	Jadi bukan seperti yang kita tahu	Jadi bukan eee seperti yang kita tahu		
+AOK-02	AOK		160	563.370	566.550	3.180	Kalau ada yang bilang level language itu C++	Kalau ada yang bilang level language itu C++		
+AOK-02	AOK		161	566.550	573.590	7.040	Oke, sebenarnya di bawahnya C++ atau C	Oke, sebenarnya di bawahnya C++ atau C		
+AOK-02	AOK		162	573.590	576.550	2.960	Ini ada instruction interpreter	Ini ada instruction interpreter		
+AOK-02	AOK		163	576.550	578.530	1.980	Ini dalam bentuk bahasa assembly	Ini dalam bentuk bahasa assembly		
+AOK-02	AOK		164	578.530	580.630	2.100	Atau bahasa mesin	Atau bahasa mesin		
+AOK-02	AOK		165	580.630	582.110	1.480	Ya, bentuknya	Ya, bentuknya		
+AOK-02	AOK		166	582.110	584.070	1.960	Heksadesimal	Heksadesimal		
+AOK-02	AOK		167	584.070	586.590	2.520	Oke, jika ada	Oke, jika ada		
+AOK-02	AOK		168	586.590	588.070	1.480	Instruction codes yang	Instruction codes yang		
+AOK-02	AOK		169	588.070	590.670	2.600	Memanggil instruction interpreter	Memanggil instruction interpreter		
+AOK-02	AOK		170	590.670	591.110	0.440	Yang tadi	Yang tadi		
+AOK-02	AOK		171	591.110	594.630	3.520	Instruksi bahasa mesin	Instruksi bahasa mesin		
+AOK-02	AOK		172	594.630	596.790	2.160	Ini tadi akan memberikan kontrol	Ini tadi akan memberikan kontrol		
+AOK-02	AOK		173	596.790	598.530	1.740	Sinyal kepada	Sinyal kepada		
+AOK-02	AOK		174	598.530	600.670	2.140	Aritmetic	Aritmetic		
+AOK-02	AOK		175	600.670	602.350	1.680	And logic function	and Logic Function		
+AOK-02	AOK		176	602.350	604.630	2.280	Jadi data yang masuk dan data	Jadi data yang masuk dan data		
+AOK-02	AOK		177	604.630	605.670	1.040	Yang keluar	Yang keluar		
+AOK-02	AOK		178	605.670	609.090	3.420	Ini meskipun lewat alu	Ini meskipun lewat alu		
+AOK-02	AOK		179	609.090	609.810	0.720	Namun	Namun		
+AOK-02	AOK		180	609.810	613.230	3.420	Programmingnya itu dilakukan di bahasa	Programmingnya itu dilakukan di bahasa		
+AOK-02	AOK		181	613.230	614.610	1.380	Mesin ini	Mesin ini		
+AOK-02	AOK		182	614.610	617.230	2.620	Atau instruction interpreter ini tadi	Atau instruction interpreter ini tadi		
+AOK-02	AOK		183	617.230	620.990	3.760	Kemudian	Kemudian		
+AOK-02	AOK		184	620.990	623.230	2.240	Dari sisi	Dari sisi		
+AOK-02	AOK		185	623.230	624.590	1.360	Memori	Memori		
+AOK-02	AOK		186	624.590	630.890	6.300	Memori pada CPU ini	Memori pada CPU ini		
+AOK-02	AOK		187	630.890	632.370	1.480	Dibagi menjadi	Dibagi menjadi		
+AOK-02	AOK		188	632.370	633.490	1.120	Empat blok	Empat blok		
+AOK-02	AOK		189	633.490	643.250	9.760	Di mana dua blok atas ini memori pada CPU itu sendiri	Di mana dua blok atas ini eee memori pada CPU itu sendiri		
+AOK-02	AOK		190	643.250	647.390	4.140	Yang apa istilahnya	Yang eee apa istilahnya		
+AOK-02	AOK		191	647.390	649.970	2.580	Dia melekat pada CPU itu	Dia melekat pada CPU itu		
+AOK-02	AOK		192	649.970	655.310	5.340	Nah kemudian yang bawah ini dia melekat pada I.O	Nah kemudian yang bawah ini dia melekat pada I/O		
+AOK-02	AOK		193	655.310	660.430	5.120	Yang pertama disini memori address register	Yang pertama disini memori address register		
+AOK-02	AOK		194	660.430	663.650	3.220	Pada CPU ada MAR	Pada CPU ada MAR		
+AOK-02	AOK		195	663.650	667.950	4.300	Yakni berfungsi menentukan alamat dalam memori	Yakni berfungsi menentukan alamat dalam memori		
+AOK-02	AOK		196	667.950	674.450	6.500	Untuk membaca atau menulis tahap yang akan dilakukan selanjutnya	Untuk membaca atau menulis tahap yang akan dilakukan selanjutnya		
+AOK-02	AOK		197	674.450	677.430	2.980	Oke, jadi ketika Anda menyalakan komputer	Oke, jadi ketika Anda menyalakan komputer		
+AOK-02	AOK		198	677.430	682.530	5.100	Itu kan mesti ada tahapan-tahapan proses	Itu kan mesti ada tahapan-tahapan proses		
+AOK-02	AOK		199	682.530	686.390	3.860	Nah, tahapan-tahapan proses tersebut	Nah, tahapan-tahapan proses tersebut		
+AOK-02	AOK		200	686.390	694.010	7.620	Ya, ini yang menentukan instruksinya	Ya, ini yang menentukan eee instruksinya		
+AOK-02	AOK		201	694.010	698.470	4.460	Itu kan si alu, dia kalkulasinya ngapain	Itu kan si ALU, dia kalkulasinya ngapain		
+AOK-02	AOK		202	698.470	702.470	4.000	Nah, ketika pada antrian untuk eksekusi	Nah, ketika pada antrian untuk eksekusi		
+AOK-02	AOK		203	702.470	707.410	4.940	Nah, dia tersimpan dalam memory address register ini	Nah, dia tersimpan dalam memory address register ini		
+AOK-02	AOK		204	707.410	716.130	8.720	Nah, namun kadang data yang diolah oleh alu	Nah, namun kadang data yang diolah oleh ALU		
+AOK-02	AOK		205	716.130	720.490	4.360	Data yang dikirimkan oleh program luar	Data yang dikirimkan oleh program luar		
+AOK-02	AOK		206	720.490	727.230	6.740	Itu bentuknya tidak standar	Itu bentuknya tidak eee standar		
+AOK-02	AOK		207	727.230	731.670	4.440	Nah, seperti yang kita tahu	Nah, seperti yang kita tahu		
+AOK-02	AOK		208	731.670	733.710	2.040	Pengolahan pada CPU	Pengolahan pada CPU		
+AOK-02	AOK		209	733.710	737.550	3.840	Lalu itu kan mengolah bilangan binar	Lalu itu kan mengolah bilangan binar		
+AOK-02	AOK		210	737.550	742.710	5.160	Nah, berarti misalkan ada data yang masuk	Nah, berarti misalkan ada data yang masuk		
+AOK-02	AOK		211	742.710	744.330	1.620	Bentuknya teks	Bentuknya teks		
+AOK-02	AOK		212	744.330	749.310	4.980	Berarti teks itu kan harus dikonversikan dalam bentuk binar	Berarti teks itu kan harus dikonversikan dalam bentuk biner		
+AOK-02	AOK		213	749.310	752.450	3.140	Nah, yang mengkonversikan siapa?	Nah, yang mengkonversikan siapa?		
+AOK-02	AOK		214	752.810	756.370	3.560	Ya, si MPR, Memory Buffer Register	Ya, si MBR, Memory Buffer Register		
+AOK-02	AOK		215	756.370	762.570	6.200	MPR ini dia mentranslasikan data yang masuk	MBR ini dia mentranslasikan data yang masuk		
+AOK-02	AOK		216	762.570	766.870	4.300	Agar bisa disimpan dan diolah oleh alu	Agar bisa disimpan dan diolah oleh ALU		
+AOK-02	AOK		217	766.870	772.290	5.420	Oke, nah kemudian disini ada I.O. Address Register	Oke, nah kemudian disini ada I/O Address Register		
+AOK-02	AOK		218	772.290	773.510	1.220	Yang blok bawah	Yang blok bawah		
+AOK-02	AOK		219	773.510	778.110	4.600	Oke, yakni menentukan perangkat I.O. tertentu	Oke, yakni menentukan perangkat I/O tertentu		
+AOK-02	AOK		220	778.110	782.490	4.380	Oke, misalkan data yang masuk ke satu tadi itu punyanya siapa	Oke, misalkan data yang masuk ke satu tadi itu punyanya siapa		
+AOK-02	AOK		221	782.490	784.990	2.500	Data yang kedua ini punyanya siapa	Data yang kedua ini punyanya siapa		
+AOK-02	AOK		222	784.990	788.690	3.700	Oke, nah punyanya siapa ini tadi	Oke, nah punyanya siapa ini tadi		
+AOK-02	AOK		223	788.690	792.830	4.140	Ini yang mencatat adalah I.O. address register	Ini yang mencatat adalah I/O address register		
+AOK-02	AOK		224	792.830	799.230	6.400	Oke, dan yang mentranslasikan data dari perangkat itu tadi	Oke, dan yang mentranslasikan data dari perangkat itu tadi		
+AOK-02	AOK		225	799.230	801.230	2.000	perangkat lain itu tadi adalah	perangkat lain itu tadi adalah		
+AOK-02	AOK		226	801.230	803.630	2.400	I.O. Buffer Register	I/O Buffer Register		
+AOK-02	AOK		227	803.630	806.390	2.760	oke	oke		
+AOK-02	AOK		228	806.390	808.390	2.000	nah	nah		
+AOK-02	AOK		229	808.390	811.750	3.360	berikut block diagram	berikut block diagram		
+AOK-02	AOK		230	811.750	812.790	1.040	ya dari	ya dari		
+AOK-02	AOK		231	812.790	815.690	2.900	komputer	komputer		
+AOK-02	AOK		232	815.690	817.250	1.560	secara keseluruhan	secara keseluruhan		
+AOK-02	AOK		233	817.250	819.170	1.920	oke dari	oke dari		
+AOK-02	AOK		234	819.170	821.470	2.300	sebuah organisasi	sebuah organisasi		
+AOK-02	AOK		235	821.470	823.190	1.720	dasar komputer	dasar komputer		
+AOK-02	AOK		236	823.190	825.650	2.460	oke yang pertama	oke yang pertama		
+AOK-02	AOK		237	825.650	827.850	2.200	disini ada CPU	disini ada CPU		
+AOK-02	AOK		238	827.850	829.190	1.340	ya	ya		
+AOK-02	AOK		239	829.190	831.170	1.980	prosesor itu sendiri	prosesor itu sendiri		
+AOK-02	AOK		240	831.170	832.750	1.580	nah	nah		
+AOK-02	AOK		241	832.750	835.170	2.420	komponen pertama	komponen pertama		
+AOK-02	AOK		242	835.170	836.590	1.420	disini adalah PC	disini adalah PC		
+AOK-02	AOK		243	836.590	838.890	2.300	atau program counter	atau program counter		
+AOK-02	AOK		244	838.890	840.430	1.540	oke	oke		
+AOK-02	AOK		245	840.430	842.870	2.440	kemudian disini ada instruction	kemudian disini ada instruction		
+AOK-02	AOK		246	842.870	844.430	1.560	register	register		
+AOK-02	AOK		247	844.430	847.210	2.780	kemudian disini ada	kemudian disini ada		
+AOK-02	AOK		248	847.210	848.250	1.040	memory address	memory address		
+AOK-02	AOK		249	848.250	851.290	3.040	register, memory buffer	register, memory buffer		
+AOK-02	AOK		250	851.290	853.410	2.120	register, dan I.O	register, dan I/O		
+AOK-02	AOK		251	853.410	855.490	2.080	address dan buffer	address dan buffer		
+AOK-02	AOK		252	855.490	856.630	1.140	register	register		
+AOK-02	AOK		253	856.630	858.650	2.020	oke	oke		
+AOK-02	AOK		254	858.650	861.310	2.660	Kemudian disini ada execution unit	Kemudian disini ada execution unit		
+AOK-02	AOK		255	861.310	864.190	2.880	Nah, execution unit inilah	Nah, execution unit inilah		
+AOK-02	AOK		256	864.190	867.770	3.580	Alu yang dimaksud	Alu yang dimaksud		
+AOK-02	AOK		257	867.770	870.450	2.680	Jadi arithmetic and logic unit	Jadi arithmetic and logic unit		
+AOK-02	AOK		258	870.450	873.670	3.220	Dia adalah execution unit	Dia adalah execution unit		
+AOK-02	AOK		259	873.670	877.150	3.480	Kemudian ada IO	Kemudian ada I/O		
+AOK-02	AOK		260	877.150	879.730	2.580	Modul, perangkat IO	Module, perangkat I/O		
+AOK-02	AOK		261	879.730	881.950	2.220	Misalkan keyboard	Misalkan keyboard		
+AOK-02	AOK		262	881.950	885.730	3.780	Sebuah keyboard mesti memiliki buffer	Sebuah keyboard mesti memiliki buffer		
+AOK-02	AOK		263	885.730	886.810	1.080	Sendiri	Sendiri		
+AOK-02	AOK		264	886.810	891.950	5.140	Kemudian disini main memory	Kemudian disini main memory		
+AOK-02	AOK		265	891.950	898.190	6.240	Memori utama komputer yang berisi instruksi dan data	Memori utama komputer yang berisi instruksi dan data		
+AOK-02	AOK		266	898.190	903.290	5.100	Nah masing-masing komponen ini	Nah masing-masing komponen ini		
+AOK-02	AOK		267	903.290	910.270	6.980	Ketiga komponen ini dia dihubungkan dengan oleh yang namanya sistem bus	Ketiga komponen ini dia dihubungkan dengan oleh yang namanya sistem bus		
+AOK-02	AOK		268	910.270	916.970	6.700	Jadi hubungan ketiganya ini dihubungkan oleh yang namanya sistem bus	Jadi hubungan ketiganya ini dihubungkan oleh yang namanya sistem bus		
+AOK-02	AOK		269	916.970	926.680	9.710	Nah ketika sebuah komputer dinyalakan atau beroperasi	Nah ketika sebuah komputer dinyalakan atau beroperasi		
+AOK-02	AOK		270	927.240	936.120	8.880	Mereka selalu memiliki siklus instruksi	eee mereka selalu memiliki siklus instruksi		
+AOK-02	AOK		271	936.120	939.360	3.240	Nah, siklus dasar instruksi	Nah, siklus dasar instruksi		
+AOK-02	AOK		272	939.360	943.920	4.560	Yakni ketika start, program baru dijalankan	Yakni ketika start, program baru dijalankan		
+AOK-02	AOK		273	943.920	947.020	3.100	Kemudian fetch next instruction	Kemudian fetch next instruction		
+AOK-02	AOK		274	947.020	950.640	3.620	Dia ngambil fetch ya, fetching data, ngambil data	Dia ngambil fetch ya, fetching data, ngambil data		
+AOK-02	AOK		275	950.640	955.200	4.560	Instruksi apa yang mau dijalankan	Instruksi apa yang mau dijalankan		
+AOK-02	AOK		276	955.200	959.420	4.220	Oke, baru melangkah ke execute	Oke, baru melangkah ke execute		
+AOK-02	AOK		277	959.420	962.260	2.840	Eksekusi instruksi	Eksekusi instruksi		
+AOK-02	AOK		278	962.260	966.940	4.680	Oke, nah jika masih ada instruksi yang dijalankan	Oke, nah jika masih ada instruksi yang dijalankan		
+AOK-02	AOK		279	966.940	969.580	2.640	Ya dia akan kembali ke fetch	Ya dia akan kembali ke fetch		
+AOK-02	AOK		280	969.580	974.860	5.280	Oke, jika tidak ada yang dijalankan atau dieksekusi	Oke, jika tidak ada yang dijalankan atau dieksekusi		
+AOK-02	AOK		281	974.860	977.280	2.420	Oke, dia akan menuju ke halt	Oke, dia akan menuju ke halt		
+AOK-02	AOK		282	977.280	979.500	2.220	Ya, atau selesai	Ya, atau selesai		
+AOK-02	AOK		283	979.500	985.300	5.800	Oke, nah secara utuh	Oke, nah secara utuh		
+AOK-02	AOK		284	985.300	987.540	2.240	Ya, secara utuh	Ya, secara utuh		
+AOK-02	AOK		285	987.540	990.120	2.580	Siklus instruksi seperti ini	Siklus instruksi seperti ini		
+AOK-02	AOK		286	990.120	994.280	4.160	Ya, dia berawal dari instruction fetch	Ya, dia berawal dari instruction fetch		
+AOK-02	AOK		287	994.280	996.060	1.780	Jadi ngambil instruksi	Jadi ngambil instruksi		
+AOK-02	AOK		288	996.060	998.920	2.860	Kemudian	Kemudian		
+AOK-02	AOK		289	998.920	1007.500	8.580	Instruction fetch ini dia membaca instruksi	Instruction fetch ini dia membaca instruksi		
+AOK-02	AOK		290	1007.500	1009.440	1.940	Dari memori	Dari memori		
+AOK-02	AOK		291	1009.440	1010.920	1.480	Kedalam prosesor	Kedalam prosesor		
+AOK-02	AOK		292	1010.920	1013.500	2.580	Kemudian instruction operation	Kemudian instruction operation		
+AOK-02	AOK		293	1013.500	1014.280	0.780	Decoding	Decoding		
+AOK-02	AOK		294	1014.280	1016.420	2.140	Ya ini si	Ya ini si		
+AOK-02	AOK		295	1016.420	1019.260	2.840	CPU	CPU		
+AOK-02	AOK		296	1019.260	1021.600	2.340	Ini menganalisis instruksi untuk menentukan	Ini menganalisis instruksi untuk menentukan		
+AOK-02	AOK		297	1021.600	1023.460	1.860	Jenis operasi yang akan	Jenis operasi yang akan		
+AOK-02	AOK		298	1023.460	1024.300	0.840	Dilakukan	Dilakukan		
+AOK-02	AOK		299	1024.300	1026.740	2.440	Misalkan 1 tambah 1	Misalkan 1 tambah 1		
+AOK-02	AOK		300	1026.740	1028.340	1.600	Berarti operasinya apa?	Berarti operasinya apa?		
+AOK-02	AOK		301	1028.980	1029.840	0.860	Ya penjumlahan	Ya penjumlahan		
+AOK-02	AOK		302	1029.840	1035.500	5.660	Berarti harus nyari mikro program	Berarti harus nyari mikro program		
+AOK-02	AOK		303	1035.500	1041.120	5.620	Ya atau bahasa mesin yang dipakai untuk melakukan kalkulasi penjumlahan	Ya atau bahasa mesin yang dipakai untuk melakukan kalkulasi penjumlahan		
+AOK-02	AOK		304	1041.120	1043.420	2.300	Oke ini ngambil dulu instruksinya	Oke ini ngambil dulu instruksinya		
+AOK-02	AOK		305	1043.420	1047.480	4.060	Nah yang melakukan ya instruction operation decoding ini	Nah yang melakukan ya instruction operation decoding ini		
+AOK-02	AOK		306	1047.480	1052.740	5.260	Oke kemudian operan address calculation	Oke kemudian operand address calculation		
+AOK-02	AOK		307	1052.740	1058.680	5.940	Jika operasi melibatkan referensi	Jika operasi melibatkan referensi		
+AOK-02	AOK		308	1058.680	1060.000	1.320	Di dalam memori	Di dalam memori		
+AOK-02	AOK		309	1060.000	1061.520	1.520	Atau tersedia lewat	Atau tersedia lewat		
+AOK-02	AOK		310	1061.520	1062.760	1.240	I.O.	I/O		
+AOK-02	AOK		311	1062.960	1065.360	2.400	Nah kemudian ditentukan alamat operannya	Nah kemudian ditentukan alamat operand-nya		
+AOK-02	AOK		312	1065.360	1068.760	3.400	Jadi misalkan melibatkan I.O.	Jadi misalkan melibatkan I/O		
+AOK-02	AOK		313	1068.860	1070.900	2.040	Ya dia misalkan disimpan di	Ya dia misalkan disimpan di		
+AOK-02	AOK		314	1070.900	1074.000	3.100	Memori dulu	Memori dulu		
+AOK-02	AOK		315	1074.000	1075.880	1.880	Atau langsung di	Atau langsung di		
+AOK-02	AOK		316	1075.880	1077.440	1.560	Eksekusi	Eksekusi		
+AOK-02	AOK		317	1077.440	1079.120	1.680	Misalkan tadi	Misalkan tadi		
+AOK-02	AOK		318	1079.120	1082.400	3.280	1 tambah 1 tambah 1	1 tambah 1 tambah 1		
+AOK-02	AOK		319	1082.400	1084.100	1.700	Tambahnya kan ada dua	Tambahnya kan ada dua		
+AOK-02	AOK		320	1084.100	1085.580	1.480	Berarti membutuhkan memory	Berarti membutuhkan memory		
+AOK-02	AOK		321	1085.580	1087.400	1.820	Yang tambah yang kedua	Yang tambah yang kedua		
+AOK-02	AOK		322	1087.400	1089.440	2.040	Disimpan dulu	Disimpan dulu		
+AOK-02	AOK		323	1089.440	1091.420	1.980	Tambah yang awal ini tadi	Tambah yang awal ini tadi		
+AOK-02	AOK		324	1091.420	1092.940	1.520	Dia dieksekusi dulu	Dia dieksekusi dulu		
+AOK-02	AOK		325	1092.940	1099.000	6.060	Kemudian operan fetch	Kemudian operand fetch		
+AOK-02	AOK		326	1099.000	1101.780	2.780	Mengambil operan dari memory	Mengambil operan dari memory		
+AOK-02	AOK		327	1101.780	1103.980	2.200	Atau membaca operan dari IO	Atau membaca operand dari IO		
+AOK-02	AOK		328	1103.980	1108.020	4.040	Operannya diambil dan dibaca	Operannya diambil dan dibaca		
+AOK-02	AOK		329	1108.020	1110.980	2.960	Baru disini dilakukan operation	Baru disini dilakukan operation		
+AOK-02	AOK		330	1110.980	1116.520	5.540	Ya, penambahan, penjumlahan, perkalian, atau yang lain	Ya, penambahan, penjumlahan, perkalian, atau yang lain		
+AOK-02	AOK		331	1116.520	1122.060	5.540	Oke, kemudian ada operan address calculation	Oke, kemudian ada operand address calculation		
+AOK-02	AOK		332	1122.060	1130.220	8.160	Ya, ini alamatnya operan tadi diambil	Ya, ini alamatnya operand tadi diambil		
+AOK-02	AOK		333	1130.220	1132.940	2.720	Ya, kemudian dieksekusi, dioperasikan	Ya, kemudian dieksekusi, dioperasikan		
+AOK-02	AOK		334	1132.940	1136.840	3.900	Oke, nah kemudian ini dia looping disini	Oke, nah kemudian ini dia looping disini		
+AOK-02	AOK		335	1136.840	1139.640	2.800	Misalkan tadi ya, 1 tambah 1 tambah 1	Misalkan tadi ya, 1 tambah 1 tambah 1		
+AOK-02	AOK		336	1139.640	1142.140	2.500	operasinya kan disini, nah ini dihitung	operasinya kan disini, nah ini dihitung		
+AOK-02	AOK		337	1142.140	1144.240	2.100	eksekusinya sudah selesai	eksekusinya sudah selesai		
+AOK-02	AOK		338	1144.240	1144.860	0.620	apa belum sih?	apa belum sih?		
+AOK-02	AOK		339	1145.660	1147.640	1.980	ya kalau belum selesai	ya kalau belum selesai		
+AOK-02	AOK		340	1147.640	1149.840	2.200	ya ini balik sini lagi	ya ini balik sini lagi		
+AOK-02	AOK		341	1149.840	1150.680	0.840	dihitung lagi	dihitung lagi		
+AOK-02	AOK		342	1150.680	1153.920	3.240	kalau sudah selesai operan store ini	kalau sudah selesai operand store ini		
+AOK-02	AOK		343	1153.920	1155.680	1.760	ini dia kembali ke	ini dia kembali ke		
+AOK-02	AOK		344	1155.680	1156.720	1.040	sini	sini		
+AOK-02	AOK		345	1156.720	1159.700	2.980	jika dia mengembalikan data	jika dia mengembalikan data		
+AOK-02	AOK		346	1159.700	1161.920	2.220	dia kembali ke operan	dia kembali ke operand		
+AOK-02	AOK		347	1161.920	1162.940	1.020	address calculation	address calculation		
+AOK-02	AOK		348	1162.940	1165.760	2.820	hasil 1 tambah	hasil 1 tambah		
+AOK-02	AOK		349	1165.760	1167.940	2.180	1 awal tadi disimpan di memori	1 awal tadi disimpan di memori		
+AOK-02	AOK		350	1167.940	1171.440	3.500	Kemudian hasilnya yang 2	Kemudian hasilnya yang 2		
+AOK-02	AOK		351	1171.440	1173.000	1.560	1-1 awal 2	1-1 awal 2		
+AOK-02	AOK		352	1173.000	1174.580	1.580	Nah ini dimasukkan sini	Nah ini dimasukkan sini		
+AOK-02	AOK		353	1174.580	1178.380	3.800	Baru dia ngambil plus 1 yang selanjutnya	Baru dia ngambil plus 1 yang selanjutnya		
+AOK-02	AOK		354	1178.380	1179.680	1.300	Oke	Oke		
+AOK-02	AOK		355	1179.680	1180.960	1.280	Nah ini	Nah ini		
+AOK-02	AOK		356	1180.960	1183.840	2.880	Berulangnya disini	Berulangnya disini		
+AOK-02	AOK		357	1183.840	1186.190	2.350	Oke	Oke		
+AOK-02	AOK		358	1186.190	1189.610	3.420	Kemudian jika tidak ada atau selesai	Kemudian jika tidak ada atau selesai		
+AOK-02	AOK		359	1189.610	1193.470	3.860	Ini dikembalikan ke instruction address calculation	Ini dikembalikan ke instruction address calculation		
+AOK-02	AOK		360	1193.470	1199.710	6.240	Oke, menentukan alamat instruksi berikutnya yang akan dieksekusi	Oke, menentukan alamat instruksi berikutnya yang akan dieksekusi		
+AOK-02	AOK		361	1199.710	1202.190	2.480	Ada enggak? Atau selesai?	Ada enggak? Atau selesai?		
+AOK-02	AOK		362	1204.590	1211.870	7.280	Oke, kemudian pada sebuah komputer	Oke, kemudian pada sebuah komputer		
+AOK-02	AOK		363	1211.870	1215.790	3.920	Ini ada yang namanya interrupt	Ini ada yang namanya interrupt		
+AOK-02	AOK		364	1215.790	1218.110	2.320	Atau instruksi	Atau instruksi		
+AOK-02	AOK		365	1218.110	1223.710	5.600	Oke, misalkan ketika saya ngitung ya	Oke, misalkan ketika saya ngitung ya		
+AOK-02	AOK		366	1223.710	1227.750	4.040	Satu plus satu plus satu	Satu plus satu plus satu		
+AOK-02	AOK		367	1227.750	1232.950	5.200	Tapi ternyata ada sesuatu yang urgent	Tapi ternyata ada sesuatu yang urgent		
+AOK-02	AOK		368	1232.950	1236.190	3.240	Ada sesuatu yang harus dihitung dulu	Ada sesuatu yang harus dihitung dulu		
+AOK-02	AOK		369	1236.190	1238.890	2.700	Ada sesuatu yang harus diolah dulu	Ada sesuatu yang harus diolah dulu		
+AOK-02	AOK		370	1238.890	1244.590	5.700	Nah, otomatis kan berarti kalkulasi yang sebelumnya harus diinterap	Nah, otomatis kan berarti kalkulasi yang sebelumnya harus di-interupt		
+AOK-02	AOK		371	1244.590	1246.490	1.900	Atau diintrupsi	Atau diintrupsi		
+AOK-02	AOK		372	1246.490	1248.490	2.000	Atau diganggu	Atau diganggu		
+AOK-02	AOK		373	1248.490	1249.110	0.620	Oke	Oke		
+AOK-02	AOK		374	1249.110	1251.750	2.640	Hitungan yang sebelumnya stop dulu	Hitungan yang sebelumnya stop dulu		
+AOK-02	AOK		375	1251.750	1256.090	4.340	Ini ada sesuatu yang harus diolah	Ini ada sesuatu yang harus diolah		
+AOK-02	AOK		376	1256.090	1257.170	1.080	Oke	Oke		
+AOK-02	AOK		377	1257.170	1259.010	1.840	Yang lama tahan dulu ya	Yang lama tahan dulu ya		
+AOK-02	AOK		378	1259.010	1261.930	2.920	Ini yang baru mau dieksekusi	Ini yang baru mau dieksekusi		
+AOK-02	AOK		379	1261.930	1263.550	1.620	Nah	Nah		
+AOK-02	AOK		380	1263.550	1270.090	6.540	Hal ini tidak serta-merta bisa dilakukan	Hal ini tidak serta-merta bisa dilakukan		
+AOK-02	AOK		381	1270.090	1278.190	8.100	Nah, interrupt ini bisa dilakukan oleh empat faktor ini	Nah, interrupt ini bisa dilakukan oleh empat faktor ini		
+AOK-02	AOK		382	1278.190	1282.610	4.420	Yang pertama ini adalah faktor program	Yang pertama ini adalah faktor program		
+AOK-02	AOK		383	1282.610	1292.750	10.140	Faktor program interrupt ini digenerate dari berbagai kondisi yang muncul	Faktor program interrupt ini digenerate dari berbagai kondisi yang muncul		
+AOK-02	AOK		384	1292.750	1298.850	6.100	Misalkan dari instruksi eksekusi itu sendiri	Misalkan dari instruksi eksekusi itu sendiri		
+AOK-02	AOK		385	1298.850	1301.330	2.480	Dari alu, misalkan alu mengharuskan	Dari ALU, misalkan ALU mengharuskan		
+AOK-02	AOK		386	1301.330	1304.110	2.780	Itu di-intrub	Itu di-interrupt		
+AOK-02	AOK		387	1304.110	1305.210	1.100	Di-interrupt	Di-interrupt		
+AOK-02	AOK		388	1305.210	1308.830	3.620	Kemudian yang kedua	Kemudian yang kedua		
+AOK-02	AOK		389	1308.830	1310.450	1.620	Aritmetic overflow	Aritmetic overflow		
+AOK-02	AOK		390	1310.450	1312.890	2.440	Jadi ngitungnya kebanyakan	Jadi ngitungnya kebanyakan		
+AOK-02	AOK		391	1312.890	1315.530	2.640	Kemudian division by	Kemudian division by		
+AOK-02	AOK		392	1315.530	1316.630	1.100	Zero	Zero		
+AOK-02	AOK		393	1316.630	1318.110	1.480	Dibagi 0	Dibagi 0		
+AOK-02	AOK		394	1318.110	1320.690	2.580	Sesuatu yang dibagi 0 kan gak bisa tak terhingga	Sesuatu yang dibagi 0 kan gak bisa tak terhingga		
+AOK-02	AOK		395	1320.690	1323.510	2.820	Atau error	Atau error		
+AOK-02	AOK		396	1323.510	1325.330	1.820	Itu juga termasuk	Itu juga termasuk		
+AOK-02	AOK		397	1325.330	1327.070	1.740	Interrupt dari program	Interrupt dari program		
+AOK-02	AOK		398	1327.070	1333.090	6.020	Nah, atau percobaan eksekusi dari illegal machine instruction	Nah, atau percobaan eksekusi dari illegal machine instruction		
+AOK-02	AOK		399	1333.090	1341.190	8.100	Percobaan eksekusi dari bahasa mesin yang illegal atau yang tidak diperbolehkan	Percobaan eksekusi dari bahasa mesin yang illegal atau yang tidak diperbolehkan		
+AOK-02	AOK		400	1341.190	1351.190	10.000	Oke, atau sebuah referensi dari allowed memory space	Oke, atau sebuah referensi dari allowed memory space		
+AOK-02	AOK		401	1351.190	1354.530	3.340	Memory space yang diperbolehkan	Memory space yang diperbolehkan		
+AOK-02	AOK		402	1354.530	1361.550	7.020	Jadi misalkan ada tambahan data dari memori lain yang ilegal	Jadi misalkan ada tambahan data dari memori lain yang ilegal		
+AOK-02	AOK		403	1361.550	1366.690	5.140	Yang kedua adalah timer	Yang kedua adalah timer		
+AOK-02	AOK		404	1366.690	1370.850	4.160	Timer ini dibuat	Timer ini dibuat		
+AOK-02	AOK		405	1370.850	1375.810	4.960	Timer within the processor	Timer within the processor		
+AOK-02	AOK		406	1375.810	1379.530	3.720	Jadi di dalamnya processor itu ada timernya	Jadi di dalamnya processor itu ada timernya		
+AOK-02	AOK		407	1379.530	1389.750	10.220	Hal ini memperbolehkan OS untuk melakukan hal lain	Hal ini memperbolehkan OS untuk melakukan hal lain		
+AOK-02	AOK		408	1389.750	1398.210	8.460	Jadi intinya gini, timer misalkan ada sebuah data yang diolah terlalu lama	Jadi intinya gini, timer misalkan ada sebuah eee data yang diolah terlalu lama		
+AOK-02	AOK		409	1398.210	1402.610	4.400	Atau bahkan tidak bisa diolah	Atau bahkan tidak bisa diolah		
+AOK-02	AOK		410	1402.610	1405.890	3.280	Setiap data yang masuk ke dalam	Setiap data yang masuk ke dalam		
+AOK-02	AOK		411	1405.890	1407.090	1.200	Prosesor itu mesti	Prosesor itu mesti		
+AOK-02	AOK		412	1407.090	1409.290	2.200	Atau ke dalam CPU	Atau ke dalam CPU		
+AOK-02	AOK		413	1409.290	1410.710	1.420	Itu mesti dikasih waktu	Itu mesti dikasih waktu		
+AOK-02	AOK		414	1410.710	1413.610	2.900	Nah jika	Nah jika		
+AOK-02	AOK		415	1413.610	1414.810	1.200	Program tersebut	Program tersebut		
+AOK-02	AOK		416	1414.810	1417.450	2.640	Dieksekusi melebihi waktu yang	Dieksekusi melebihi waktu yang		
+AOK-02	AOK		417	1417.450	1418.550	1.100	Diberikan oleh	Diberikan oleh		
+AOK-02	AOK		418	1418.550	1422.330	3.780	CPU	CPU		
+AOK-02	AOK		419	1422.330	1425.310	2.980	Maka program itu akan	Maka program itu akan		
+AOK-02	AOK		420	1425.310	1426.230	0.920	Di stop	Di stop		
+AOK-02	AOK		421	1426.230	1428.410	2.180	Kamu terlalu lama stop	Kamu terlalu lama stop		
+AOK-02	AOK		422	1428.410	1429.610	1.200	Gantian yang lain dulu	Gantian yang lain dulu		
+AOK-02	AOK		423	1429.610	1431.170	1.560	Kalau tidak ada	Kalau tidak ada		
+AOK-02	AOK		424	1431.170	1434.070	2.900	operasi lain	operasi lain		
+AOK-02	AOK		425	1434.070	1434.910	0.840	kalau saya sudah	kalau saya sudah		
+AOK-02	AOK		426	1434.910	1437.770	2.860	tidak ada yang saya kerjakan, kamu akan	tidak ada yang saya kerjakan, kamu akan		
+AOK-02	AOK		427	1437.770	1439.450	1.680	saya panggil lagi.	saya panggil lagi.		
+AOK-02	AOK		428	1440.650	1441.450	0.800	Oke, ini timer.	Oke, ini timer.		
+AOK-02	AOK		429	1442.770	1444.030	1.260	Oke, kemudian	Oke, kemudian		
+AOK-02	AOK		430	1444.030	1445.370	1.340	yang ketiga adalah	yang ketiga adalah		
+AOK-02	AOK		431	1445.370	1447.350	1.980	interrupt by IO.	interrupt by I/O.		
+AOK-02	AOK		432	1449.960	1451.420	1.460	Oke, IO ini	Oke, I/O ini		
+AOK-02	AOK		433	1451.420	1454.060	2.640	memberikan sinyal operasi	memberikan sinyal operasi		
+AOK-02	AOK		434	1454.060	1456.020	1.960	untuk request service	untuk request service		
+AOK-02	AOK		435	1456.020	1456.620	0.600	atau	atau		
+AOK-02	AOK		436	1456.620	1459.240	2.620	mengeksekusi	mengeksekusi		
+AOK-02	AOK		437	1459.240	1461.220	1.980	kondisi error.	kondisi error.		
+AOK-02	AOK		438	1461.220	1463.360	2.140	Jadi misalkan gini	Jadi misalkan gini		
+AOK-02	AOK		439	1463.360	1466.420	3.060	Ketika Anda menjalankan sesuatu	ee ketika Anda menjalankan sesuatu		
+AOK-02	AOK		440	1466.420	1471.820	5.400	Kemudian Anda tidak menginginkan hal itu	Kemudian Anda tidak menginginkan hal itu		
+AOK-02	AOK		441	1471.820	1474.120	2.300	Biasanya kan Anda tekan keyboard ya	Biasanya kan Anda tekan keyboard ya		
+AOK-02	AOK		442	1474.120	1476.480	2.360	Misalkan, oh ditekan escape gitu	Misalkan, oh ditekan escape gitu		
+AOK-02	AOK		443	1476.480	1482.540	6.060	Ya atau ditekan Alt F4 ketika tengah-tengah menjalankan program	Ya atau ditekan Alt F4 ketika tengah-tengah menjalankan program		
+AOK-02	AOK		444	1482.540	1487.580	5.040	Nah itu adalah sebuah interrupt yang berasal dari IO	Nah itu adalah sebuah interrupt yang berasal dari I/O		
+AOK-02	AOK		445	1487.580	1494.390	6.810	Jadi misalkan Anda tengah-tengah menjalankan program atau sesuatu	Jadi misalkan Anda tengah-tengah menjalankan program atau sesuatu		
+AOK-02	AOK		446	1494.390	1498.750	4.360	Kemudian sesuatu itu kan diolah oleh CPU	Kemudian sesuatu itu kan diolah oleh CPU		
+AOK-02	AOK		447	1498.750	1502.010	3.260	Kemudian Anda tekan Escape atau Alt F4	Kemudian Anda tekan Escape atau Alt F4		
+AOK-02	AOK		448	1502.010	1506.810	4.800	Kemudian program itu akan menutup atau selesai dijalankan	Kemudian program itu akan menutup atau selesai dijalankan		
+AOK-02	AOK		449	1506.810	1511.810	5.000	Nah ini adalah salah satu bentuk dari interrupt	Nah ini adalah salah satu bentuk dari interrupt		
+AOK-02	AOK		450	1511.810	1514.810	3.000	Yang dilakukan oleh I.O	Yang dilakukan oleh I/O		
+AOK-02	AOK		451	1514.810	1522.530	7.720	Kemudian yang keempat adalah hardware failure	Kemudian yang keempat adalah hardware failure		
+AOK-02	AOK		452	1522.530	1528.890	6.360	Atau kegagalan hardware dalam mengoperasikan data Anda	Atau kegagalan hardware dalam mengoperasikan data Anda		
+AOK-02	AOK		453	1528.890	1538.970	10.080	Kemudian ini instruction cyclernya	Kemudian ini instruction cycle nya		
+AOK-02	AOK		454	1538.970	1541.210	2.240	Jadi ketika disini ada user program	Jadi ketika disini ada user program		
+AOK-02	AOK		455	1541.210	1544.490	3.280	Atau kita sedang menjalankan data	Atau kita sedang menjalankan data		
+AOK-02	AOK		456	1544.490	1549.290	4.800	Oke, kemudian jalan di tengah-tengah	Oke, kemudian jalan di tengah-tengah		
+AOK-02	AOK		457	1549.290	1551.410	2.120	Kemudian ada interrupt	Kemudian ada interrupt		
+AOK-02	AOK		458	1551.410	1552.970	1.560	Interrupt terjadi di sini	Interrupt terjadi di sini		
+AOK-02	AOK		459	1552.970	1560.010	7.040	Oke, maka user program yang awal ini akan ditampung di interrupt handler	Oke, maka user program yang awal ini akan ditampung di interrupt handler		
+AOK-02	AOK		460	1560.010	1564.870	4.860	Oke, nah jika selesai	Oke, nah jika selesai		
+AOK-02	AOK		461	1564.870	1568.750	3.880	Di tengah-tengah sini CPU-nya mengerjakan yang lain	Di tengah-tengah sini CPU-nya mengerjakan yang lain		
+AOK-02	AOK		462	1568.750	1574.250	5.500	Nah, jika yang lain yang dikerjakan di tengah-tengah sini sudah selesai	Nah, jika yang lain yang dikerjakan di tengah-tengah sini sudah selesai		
+AOK-02	AOK		463	1574.250	1577.970	3.720	Oke, maka user program yang lama	Oke, maka user program yang lama		
+AOK-02	AOK		464	1577.970	1582.650	4.680	Yang belum selesai ini tadi akan dilanjutkan eksekusinya	Yang belum selesai ini tadi akan dilanjutkan eksekusinya		
+AOK-02	AOK		465	1582.650	1584.750	2.100	Nah, dia jalannya begini terus	Nah, dia jalannya begini terus		
+AOK-02	AOK		466	1584.750	1586.550	1.800	Ya, siklusnya	Ya, siklusnya		
+AOK-02	AOK		467	1586.550	1591.700	5.150	Oke, nah sehingga di	Oke, nah sehingga di		
+AOK-02	AOK		468	1591.700	1598.830	7.130	Interrupt, di instruction cycle	Interrupt, di eee instruction cycle		
+AOK-02	AOK		469	1598.830	1605.090	6.260	Ya, ditambahkan skema interrupt	Ya, ditambahkan skema interrupt		
+AOK-02	AOK		470	1605.090	1607.930	2.840	Oke, kalau tadi fetch execution	Oke, kalau tadi fetch execution		
+AOK-02	AOK		471	1607.930	1609.310	1.380	Fetch execution	Fetch execution		
+AOK-02	AOK		472	1609.310	1612.110	2.800	Start fetch execution	Start fetch execution		
+AOK-02	AOK		473	1612.110	1614.310	2.200	Nah, namun sekarang	Nah, namun sekarang		
+AOK-02	AOK		474	1614.310	1615.930	1.620	Ini ditambahkan	Ini ditambahkan		
+AOK-02	AOK		475	1615.930	1618.510	2.580	Interrupt, proses checking interrupt	Interrupt, proses checking interrupt		
+AOK-02	AOK		476	1618.510	1622.270	3.760	Oke, kalau interruptnya di disable	Oke, kalau interruptnya di disable		
+AOK-02	AOK		477	1622.270	1624.010	1.740	Dia caranya fetch execute	Dia caranya fetch execute		
+AOK-02	AOK		478	1624.010	1626.290	2.280	Balik ke depan lagi	Balik ke depan lagi		
+AOK-02	AOK		479	1626.290	1627.410	1.120	Fetch execute	Fetch execute		
+AOK-02	AOK		480	1627.410	1630.370	2.960	Nah, namun jika interruptnya	Nah, namun jika interruptnya		
+AOK-02	AOK		481	1630.370	1632.050	1.680	Di enable, ini ngecek dia	Di enable, ini ngecek dia		
+AOK-02	AOK		482	1632.050	1633.670	1.620	Ada interrupt gak?	Ada interrupt gak?		
+AOK-02	AOK		483	1633.670	1635.070	1.400	Ada gangguan gak	Ada gangguan gak		
+AOK-02	AOK		484	1635.070	1637.890	2.820	Oke, kalau gak ada gangguan	Oke, kalau gak ada gangguan		
+AOK-02	AOK		485	1637.890	1639.530	1.640	Ya dia kembali fetch	Ya dia kembali fetch		
+AOK-02	AOK		486	1639.530	1642.070	2.540	Nah, kalau ada gangguan	Nah, kalau ada gangguan		
+AOK-02	AOK		487	1642.070	1643.770	1.700	Ya dia akan hold	Ya dia akan hold		
+AOK-02	AOK		488	1643.770	1645.010	1.240	Menahan diri disini	Menahan diri disini		
+AOK-02	AOK		489	1645.010	1647.850	2.840	Dia gak akan fetch lagi	Dia gak akan fetch lagi		
+AOK-02	AOK		490	1647.850	1651.330	3.480	Oke, kalau eksekusinya selesai	Oke, kalau eksekusinya selesai		
+AOK-02	AOK		491	1651.330	1656.500	5.170	Dia halt atau selesai	Dia halt atau selesai		
+AOK-02	AOK		492	1656.500	1657.000	0.500	Oke	Oke		
+AOK-02	AOK		493	1657.000	1659.940	2.940	Nah, kalau di	Nah, eee kalau di		
+AOK-02	AOK		494	1659.940	1662.580	2.640	State diagram	State diagram		
+AOK-02	AOK		495	1662.580	1665.980	3.400	Di state diagram	Di state diagram		
+AOK-02	AOK		496	1665.980	1667.860	1.880	Interrupt ini prosesnya ada disini	Interrupt ini prosesnya ada disini		
+AOK-02	AOK		497	1667.860	1672.160	4.300	Setelah operan	Setelah operan		
+AOK-02	AOK		498	1672.160	1672.980	0.820	Setur jadi	Setur jadi		
+AOK-02	AOK		499	1672.980	1675.140	2.160	Misalkan tadi ya	Misalkan tadi ya		
+AOK-02	AOK		500	1675.140	1678.180	3.040	Satu tambah satu tambah satu	Satu tambah satu tambah satu		
+AOK-02	AOK		501	1678.180	1679.520	1.340	Misalkan	Misalkan		
+AOK-02	AOK		502	1679.520	1681.920	2.400	Oke ketika satu	Oke ketika satu		
+AOK-02	AOK		503	1681.920	1683.680	1.760	Tambah satu yang awal ini tadi	Tambah satu yang awal ini tadi		
+AOK-02	AOK		504	1683.680	1684.620	0.940	Yang ini kan belum	Yang ini kan belum		
+AOK-02	AOK		505	1684.620	1687.940	3.320	Oke ketika yang pertama ini	Oke ketika yang pertama ini		
+AOK-02	AOK		506	1687.940	1690.420	2.480	Selesai di operasikan	Selesai di operasikan		
+AOK-02	AOK		507	1690.420	1691.860	1.440	Keluar muncul angka dua	Keluar muncul angka dua		
+AOK-02	AOK		508	1691.860	1693.720	1.860	Ini ngecek programnya	Ini ngecek programnya		
+AOK-02	AOK		509	1693.720	1694.580	0.860	Ada interrupt gak	Ada interrupt gak		
+AOK-02	AOK		510	1694.580	1696.900	2.320	Kalau ada interrupt	Kalau ada interrupt		
+AOK-02	AOK		511	1696.900	1699.600	2.700	Hasilnya 1 tambah 1 awal ini	Hasilnya 1 tambah 1 awal ini		
+AOK-02	AOK		512	1699.600	1700.760	1.160	Dia disimpan di memori	Dia disimpan di memori		
+AOK-02	AOK		513	1700.760	1703.060	2.300	Dan CCPU mengolah	Dan si CPU mengolah		
+AOK-02	AOK		514	1703.060	1705.280	2.220	Program lain yang	Program lain yang		
+AOK-02	AOK		515	1705.280	1706.320	1.040	Di interap tadi	Di interap tadi		
+AOK-02	AOK		516	1706.320	1709.140	2.820	Program lain masuk	Program lain masuk		
+AOK-02	AOK		517	1709.140	1711.620	2.480	Kemudian setelah program lain ini tadi selesai	Kemudian setelah program lain ini tadi selesai		
+AOK-02	AOK		518	1711.620	1714.400	2.780	2 ini tadi dipanggil lagi	2 ini tadi dipanggil lagi		
+AOK-02	AOK		519	1714.400	1715.140	0.740	Kesini	Kesini		
+AOK-02	AOK		520	1715.140	1717.300	2.160	Nah tetapi	Nah tetapi		
+AOK-02	AOK		521	1717.300	1718.540	1.240	Jika tidak ada interap	Jika tidak ada interrupt		
+AOK-02	AOK		522	1718.540	1720.420	1.880	Dia akan langsung dikalkulasikan	Dia akan langsung dikalkulasikan		
+AOK-02	AOK		523	1720.420	1721.020	0.600	Oke 2	Oke 2		
+AOK-02	AOK		524	1721.020	1723.640	2.620	Masuk kesini	Masuk kesini		
+AOK-02	AOK		525	1723.640	1725.940	2.300	Tambah 1	Tambah 1		
+AOK-02	AOK		526	1725.940	1727.280	1.340	Oke, hasilnya 3	Oke, hasilnya 3		
+AOK-02	AOK		527	1727.280	1730.760	3.480	Masuk lagi, interrupt check	Masuk lagi, interrupt check		
+AOK-02	AOK		528	1730.760	1733.560	2.800	Kalau ada interrupt, ya di interrupt	Kalau ada interrupt, ya di interrupt		
+AOK-02	AOK		529	1733.560	1736.400	2.840	Kalau tidak ada, ya dia akan ke	Kalau tidak ada, ya dia akan ke		
+AOK-02	AOK		530	1736.400	1738.780	2.380	Kembali ke sini	Kembali ke sini		
+AOK-02	AOK		531	1738.780	1740.460	1.680	Instruction, address, calculation	Instruction, address, calculation		
+AOK-02	AOK		532	1740.460	1741.560	1.100	Oke, sudah selesai	Oke, sudah selesai		
+AOK-02	AOK		533	1741.560	1743.820	2.260	3 ini hasilnya	3 ini hasilnya		
+AOK-02	AOK		534	1743.820	1748.810	4.990	Oke, kemudian	Oke, kemudian		
+AOK-02	AOK		535	1748.810	1751.010	2.200	Nah, kalau multiper interrupt	Nah, kalau multiper interrupt		
+AOK-02	AOK		536	1751.010	1752.110	1.100	Bentuknya seperti ini	Bentuknya seperti ini		
+AOK-02	AOK		537	1752.110	1756.430	4.320	Ketika user menjalankan program	Ketika user menjalankan program		
+AOK-02	AOK		538	1756.430	1758.290	1.860	Misalkan kemudian ada interrupt	Misalkan kemudian ada interrupt		
+AOK-02	AOK		539	1758.290	1760.230	1.940	Oke program yang awal di hold	Oke program yang awal di hold		
+AOK-02	AOK		540	1760.230	1762.690	2.460	Nah kemudian	Nah kemudian		
+AOK-02	AOK		541	1762.690	1764.410	1.720	Mau jalanin	Mau jalanin		
+AOK-02	AOK		542	1764.410	1765.430	1.020	Ada interrupt lagi	Ada interrupt lagi		
+AOK-02	AOK		543	1765.430	1767.450	2.020	Oke	Oke		
+AOK-02	AOK		544	1767.450	1770.290	2.840	Baru yang lain dijalankan	Baru yang lain dijalankan		
+AOK-02	AOK		545	1771.030	1772.470	1.440	Nah interrupt pada	Nah interrupt pada		
+AOK-02	AOK		546	1772.470	1773.250	0.780	Suatu	Suatu		
+AOK-02	AOK		547	1773.250	1776.070	2.820	Komputer ini	Komputer ini		
+AOK-02	AOK		548	1776.070	1778.070	2.000	Boleh lebih dari	Boleh lebih dari		
+AOK-02	AOK		549	1778.070	1779.770	1.700	Satu	Satu		
+AOK-02	AOK		550	1779.770	1780.930	1.160	Atau	Atau		
+AOK-02	AOK		551	1780.930	1783.590	2.660	Setiap berjalannya	Setiap berjalannya		
+AOK-02	AOK		552	1783.590	1786.090	2.500	Komputer CPU	Komputer CPU		
+AOK-02	AOK		553	1786.090	1786.810	0.720	Setiap step	Setiap step		
+AOK-02	AOK		554	1786.810	1789.310	2.500	Atau disini direpresentasikan dengan	Atau disini direpresentasikan dengan		
+AOK-02	AOK		555	1789.310	1790.890	1.580	Garis putus-putus ini	Garis putus-putus ini		
+AOK-02	AOK		556	1790.890	1793.670	2.780	Setiap garis putus-putus ini	Setiap garis putus-putus ini		
+AOK-02	AOK		557	1793.670	1794.330	0.660	Boleh	Boleh		
+AOK-02	AOK		558	1794.330	1797.450	3.120	Si komputer atau si CPU	Si komputer atau si CPU		
+AOK-02	AOK		559	1797.450	1799.110	1.660	Memperbolehkan adanya	Memperbolehkan adanya		
+AOK-02	AOK		560	1799.110	1800.190	1.080	Interact	Interrupt		
+AOK-02	AOK		561	1800.190	1803.170	2.980	Nah satu garis ini	Nah satu garis ini		
+AOK-02	AOK		562	1803.170	1804.410	1.240	Dia merepresentasikan	Dia merepresentasikan		
+AOK-02	AOK		563	1804.410	1806.110	1.700	Fetch execution	Fetch execution		
+AOK-02	AOK		564	1806.110	1809.250	3.140	Start fetch execution	Start fetch execution		
+AOK-02	AOK		565	1809.250	1812.590	3.340	Memperbolehkan	Memperbolehkan		
+AOK-02	AOK		566	1812.590	1814.530	1.940	Satu siklus instruksi	Satu siklus instruksi		
+AOK-02	AOK		567	1814.530	1818.150	3.620	Oke, hingga halt yang disini selesai	Oke, hingga halt yang disini selesai		
+AOK-02	AOK		568	1818.150	1823.610	5.460	Oke, nah setelah interrupt	Oke, nah setelah interrupt		
+AOK-02	AOK		569	1823.610	1831.950	8.340	Disini ada yang namanya struktur interkoneksi	eee disini ada yang namanya struktur interkoneksi		
+AOK-02	AOK		570	1831.950	1837.250	5.300	Nah, komputer ini terdiri dari sebuah set komponen	Nah, komputer ini terdiri dari sebuah set komponen		
+AOK-02	AOK		571	1837.250	1839.990	2.740	Atau modul-modul dari tiga tipe dasar	Atau modul-modul dari tiga tipe dasar		
+AOK-02	AOK		572	1839.990	1845.830	5.840	Oke, modul dari prosesor, memori, I.O. yang saling berkomunikasi	Oke, modul dari prosesor, memori, I/O yang saling berkomunikasi		
+AOK-02	AOK		573	1845.830	1850.630	4.800	Nah, proses komunikasi mereka	Nah, proses komunikasi mereka		
+AOK-02	AOK		574	1850.630	1854.670	4.040	Tadi kan yang melakukan adalah si sistem bus	Tadi kan yang melakukan adalah si sistem bus		
+AOK-02	AOK		575	1854.670	1860.750	6.080	Nah, pada sistem bus ini dia memiliki struktur interkoneksi	Nah, pada sistem bus ini dia memiliki struktur interkoneksi		
+AOK-02	AOK		576	1860.750	1863.030	2.280	Atau pertukaran data	Atau pertukaran data		
+AOK-02	AOK		577	1863.030	1874.610	11.580	Sehingga komputer ini adalah jaringan dari sebuah jaringan komunikasi	Sehingga komputer ini adalah jaringan dari sebuah jaringan komunikasi		
+AOK-02	AOK		578	1874.610	1876.130	1.520	Setiap modul	Setiap modul		
+AOK-02	AOK		579	1876.130	1878.970	2.840	Sehingga harus ada jalan untuk menghubungkan	Sehingga harus ada jalan untuk menghubungkan		
+AOK-02	AOK		580	1878.970	1880.150	1.180	Modul-modul tersebut	Modul-modul tersebut		
+AOK-02	AOK		581	1880.150	1883.070	2.920	Misalkan modul memori, modul CPU	Misalkan modul memori, modul CPU		
+AOK-02	AOK		582	1883.070	1884.050	0.980	Modul I.O	Modul I/O		
+AOK-02	AOK		583	1884.050	1887.330	3.280	Nah, desain struktur ini	Nah, desain struktur ini		
+AOK-02	AOK		584	1887.330	1889.050	1.720	Akan tergantung dari pertukaran	Akan tergantung dari pertukaran		
+AOK-02	AOK		585	1889.050	1891.410	2.360	Data yang dilakukan antar modul	Data yang dilakukan antar modul		
+AOK-02	AOK		586	1891.410	1892.830	1.420	Jadi	Jadi		
+AOK-02	AOK		587	1892.830	1894.370	1.540	Desain komunikasinya	Desain komunikasinya		
+AOK-02	AOK		588	1894.370	1897.090	2.720	Itu bisa dilakukan secara	Itu bisa dilakukan secara		
+AOK-02	AOK		589	1897.090	1898.110	1.020	Dinamis	Dinamis		
+AOK-02	AOK		590	1898.110	1901.300	3.190	Nah	Nah		
+AOK-02	AOK		591	1901.300	1905.240	3.940	Karena proses dinamis ini	Karena proses dinamis ini		
+AOK-02	AOK		592	1905.240	1905.580	0.340	Tadi	Tadi		
+AOK-02	AOK		593	1905.580	1908.100	2.520	Sebuah komputer	Sebuah komputer		
+AOK-02	AOK		594	1908.100	1910.620	2.520	Atau sebuah komputer yang	Atau sebuah komputer yang		
+AOK-02	AOK		595	1910.620	1912.780	2.160	Untuk antara CPU	Untuk antara CPU		
+AOK-02	AOK		596	1912.780	1914.520	1.740	Memori dan	Memori dan		
+AOK-02	AOK		597	1914.520	1915.880	1.360	I.O	I/O		
+AOK-02	AOK		598	1915.880	1918.600	2.720	Ini harus memiliki	Ini harus memiliki		
+AOK-02	AOK		599	1918.600	1920.640	2.040	Struktur transfer interkoneksi	Struktur transfer interkoneksi		
+AOK-02	AOK		600	1920.640	1922.740	2.100	Oke, yang pertama	Oke, yang pertama		
+AOK-02	AOK		601	1922.740	1924.480	1.740	Memori ke prosesor	Memori ke prosesor		
+AOK-02	AOK		602	1924.480	1926.720	2.240	Jadi hubungannya antara CPU	Jadi hubungannya antara CPU		
+AOK-02	AOK		603	1926.720	1930.680	3.960	Antara prosesor dengan memori	Antara prosesor dengan memori		
+AOK-02	AOK		604	1930.680	1934.520	3.840	Jadi prosesor membaca instruksi	Jadi prosesor membaca instruksi		
+AOK-02	AOK		605	1934.520	1937.440	2.920	Atau data dari memori	Atau data dari memori		
+AOK-02	AOK		606	1937.440	1939.060	1.620	Nah yang kedua	Nah yang kedua		
+AOK-02	AOK		607	1939.060	1940.040	0.980	Prosesor itu	Prosesor itu		
+AOK-02	AOK		608	1940.040	1942.000	1.960	Memori	Memori		
+AOK-02	AOK		609	1942.000	1944.320	2.320	Yaitu prosesor menulis	Yaitu prosesor menulis		
+AOK-02	AOK		610	1944.320	1946.980	2.660	Data ke unit	Data ke unit		
+AOK-02	AOK		611	1946.980	1947.900	0.920	Memori	Memori		
+AOK-02	AOK		612	1947.900	1951.180	3.280	Kemudian I.O. itu	Kemudian I/O itu		
+AOK-02	AOK		613	1951.180	1953.360	2.180	Prosesor dari perangkat input output	Prosesor dari perangkat input output		
+AOK-02	AOK		614	1953.360	1953.840	0.480	Ke	Ke		
+AOK-02	AOK		615	1953.840	1955.640	1.800	Prosesor	Prosesor		
+AOK-02	AOK		616	1955.640	1958.460	2.820	Kemudian dari prosesor ke	Kemudian dari prosesor ke		
+AOK-02	AOK		617	1958.460	1959.820	1.360	Input output	Input output		
+AOK-02	AOK		618	1959.820	1962.600	2.780	Nah yang terakhir	Nah yang terakhir		
+AOK-02	AOK		619	1962.600	1966.280	3.680	Hubungannya antara input-output dan memori itu sendiri	Hubungannya antara input-output dan memori itu sendiri		
+AOK-02	AOK		620	1966.280	1973.240	6.960	Jadi input-output itu bisa menulis atau mengambil data dari memori	Jadi input-output itu bisa menulis atau mengambil data dari memori		
+AOK-02	AOK		621	1973.240	1985.740	12.500	Pada bagian 1 ini tadi	Pada bagian 1 ini tadi		
+AOK-02	AOK		622	1985.740	1991.320	5.580	Sudah kita bahas terkait komputer komponen	Sudah kita bahas terkait komputer komponen		
+AOK-02	AOK		623	1991.320	1995.660	4.340	Mulai dari CPU, memori, IOModule	Mulai dari CPU, memori, I/O Module		
+AOK-02	AOK		624	1995.660	1998.000	2.340	Kemudian	Kemudian		
+AOK-02	AOK		625	1998.000	2002.620	4.620	Ada basic instruction cycle	Ada basic instruction cycle		
+AOK-02	AOK		626	2002.620	2004.860	2.240	Mulai start, fast, execution	Mulai start, fast, execution		
+AOK-02	AOK		627	2004.860	2007.220	2.360	Kemudian ada	Kemudian ada		
+AOK-02	AOK		628	2007.220	2009.860	2.640	Ditambahkan interrupt	Ditambahkan interrupt		
+AOK-02	AOK		629	2009.860	2013.520	3.660	Kemudian	Kemudian		
+AOK-02	AOK		630	2013.520	2016.440	2.920	Interconnection ini tadi	Interconnection ini tadi		
+AOK-02	AOK		631	2016.440	2018.060	1.620	Mulai ada memory to processor	Mulai ada memory to processor		
+AOK-02	AOK		632	2018.060	2018.940	0.880	Dan sebaliknya	Dan sebaliknya		
+AOK-02	AOK		633	2018.940	2020.780	1.840	I.O. to processor	I/O to processor		
+AOK-02	AOK		634	2020.780	2022.240	1.460	Dan sebaliknya	Dan sebaliknya		
+AOK-02	AOK		635	2022.240	2023.020	0.780	Kemudian	Kemudian		
+AOK-02	AOK		636	2023.020	2025.600	2.580	I.O. dari	I/O dari		
+AOK-02	AOK		637	2025.600	2027.020	1.420	Dan ke	Dan ke		
+AOK-02	AOK		638	2027.020	2028.520	1.500	Memori	Memori		
+AOK-02	AOK		639	2028.520	2030.810	2.290	Oke	Oke		
+AOK-02	AOK		640	2030.810	2033.310	2.500	Baik	Baik		
+AOK-02	AOK		641	2033.310	2035.990	2.680	Sekian	Sekian		
+AOK-02	AOK		642	2035.990	2038.610	2.620	Bab ini	Bab ini		
+AOK-02	AOK		643	2038.610	2040.610	2.000	Jadi top level view komputer	Jadi top level view computer		
+AOK-02	AOK		644	2040.610	2042.170	1.560	Bagian pertama ini tadi	Bagian pertama ini tadi		
+AOK-02	AOK		645	2042.170	2045.670	3.500	Terima kasih	Terima kasih		
+AOK-02	AOK		646	2045.670	2047.870	2.200	Atas perhatiannya	Atas perhatiannya		
+AOK-02	AOK		647	2047.870	2049.630	1.760	Selamat	Selamat		
+AOK-02	AOK		648	2049.630	2051.170	1.540	Belajar	Belajar		
+AOK-02	AOK		649	2051.170	2053.950	2.780	Wassalamualaikum warahmatullahi	Wassalamualaikum warahmatullahi		
+AOK-02	AOK		650	2053.950	2083.930	29.980	Terima kasih.	Wabarakatuh		

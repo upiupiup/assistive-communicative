@@ -1,0 +1,123 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+APS-03	APS	P1	1	0.430	2.690	2.260	Halo semuanya, saya Fida Mastrika.	Halo semuanya, saya Fida Mastrika.		
+APS-03	APS	P1	2	2.910	6.330	3.420	Dalam video tentang analisis dan design system kali ini,	Dalam video tentang analisis dan design system kali ini,		
+APS-03	APS	P1	3	6.510	14.210	7.700	saya akan menjelaskan apa perbedaan dari object-oriented analysis dan juga structured analysis.	saya akan menjelaskan apa perbedaan dari object-oriented analysis dan juga structured analysis.		
+APS-03	APS	P1	4	14.570	21.370	6.800	Di dalam video sebelumnya, saya sudah menjelaskan tentang pengertian dari analisis dan design system.	Di dalam video sebelumnya, saya sudah menjelaskan tentang pengertian dari analisis dan design system.		
+APS-03	APS	P1	5	21.870	27.670	5.800	Kalau yang belum menonton video sebelumnya, silakan ditonton dulu video sebelumnya sebelum menonton video ini.	Kalau yang belum menonton video sebelumnya, silakan ditonton dulu video sebelumnya sebelum menonton video ini.		
+APS-03	APS	P1	6	27.670	31.730	4.060	Kalau yang sudah, ayo kita langsung lanjut ke materi kali ini.	Kalau yang sudah, ayo kita langsung lanjut ke materi kali ini.		
+APS-03	APS	P1	7	48.570	56.930	8.360	Oke, dalam video sebelumnya saya sudah menjelaskan tentang sistem analisis itu terdiri dari dua, ya bisa kita bagi jadi dua.	Oke, dalam video sebelumnya saya sudah menjelaskan tentang sistem analisis itu terdiri dari dua, ya bisa kita bagi jadi dua.		
+APS-03	APS	P1	8	57.570	62.830	5.260	Ada yang namanya structured analysis, ada yang namanya object-oriented atau OO-analysis.	Ada yang namanya structured analysis, ada yang namanya object-oriented atau OO-analysis.		
+APS-03	APS	P1	9	63.690	72.850	9.160	Dalam video ini saya akan menjelaskan secara singkat apa sih perbedaan dari structured analysis dan object-oriented analysis.	Dalam video ini saya akan menjelaskan secara singkat apa sih perbedaan dari structured analysis dan object-oriented analysis.		
+APS-03	APS	P1	10	73.990	87.790	13.800	Secara deskripsi, ini adalah perbedaannya atau perbandingannya ya, structured analysis ini merepresentasikan sistem berdasarkan data dan proses yang dikenakan pada data tersebut.	Secara deskripsi, ini adalah perbedaannya atau perbandingannya ya, structured analysis ini merepresentasikan sistem berdasarkan data dan proses yang dikenakan pada data tersebut.		
+APS-03	APS	P1	11	87.790	98.550	10.760	Nah, ini biasanya digunakan untuk menganalisis dan mendesain sistem yang nantinya dibangun dengan cara structured programming.	Nah, ini biasanya digunakan untuk menganalisis dan mendesain sistem yang nantinya dibangun dengan cara structured programming.		
+APS-03	APS	P1	12	98.550	106.050	7.500	Modeling tools yang digunakan untuk structured analysis adalah data flow diagram atau DFD	Modeling tools yang digunakan untuk structured analysis adalah data flow diagram atau DFD		
+APS-03	APS	P1	13	106.050	113.750	7.700	Data flow diagram ini dan bagaimana cara pembuatannya akan saya jelaskan di video-video saya selanjutnya	Data flow diagram ini dan bagaimana cara pembuatannya akan saya jelaskan di video-video saya selanjutnya		
+APS-03	APS	P1	14	113.750	122.630	8.880	Untuk yang object oriented analysis, itu sistem dilihat sebagai kumpulan objek yang terdiri dari data dan proses	Untuk yang object oriented analysis, itu sistem dilihat sebagai kumpulan objek yang terdiri dari data dan proses		
+APS-03	APS	P1	15	122.630	128.230	5.600	Kalau di dalam structured analysis, data dan proses ini dianggap sesuatu yang berbeda	Kalau di dalam structured analysis, data dan proses ini dianggap sesuatu yang berbeda		
+APS-03	APS	P1	16	128.230	135.990	7.760	Kalau di dalam object-oriented analysis, mungkin untuk kalian yang sudah belajar tentang object-oriented programming,	Kalau di dalam object-oriented analysis, mungkin untuk kalian yang sudah belajar tentang object-oriented programming,		
+APS-03	APS	P1	17	136.470	140.670	4.200	kalian ingat-ingat dulu apa yang dimaksud dengan sebuah objek.	kalian ingat-ingat dulu apa yang dimaksud dengan sebuah objek.		
+APS-03	APS	P1	18	141.130	147.870	6.740	Nah, objek itu terdiri dari data dan proses, jadi satu di dalam satu kesatuan yang namanya objek.	Nah, objek itu terdiri dari data dan proses, jadi satu di dalam satu kesatuan yang namanya objek.		
+APS-03	APS	P1	19	148.650	157.430	8.780	Nah, jadi sistem yang dalam object-oriented analysis itu data dan proses dilihat sebagai satu kesatuan.	Nah, jadi sistem yang dalam object-oriented analysis itu data dan proses dilihat sebagai satu kesatuan.		
+APS-03	APS	P1	20	157.430	164.310	6.880	Dan kita mendesain dan menganalisisnya dengan Unified Modeling Language atau UML.	Dan kita mendesain dan menganalisisnya dengan Unified Modeling Language atau UML.		
+APS-03	APS	P1	21	164.530	173.350	8.820	Nanti saya akan punya juga beberapa video untuk menjelaskan apa itu UML dan bagaimana cara membuat UML.	Nanti saya akan punya juga beberapa video untuk menjelaskan apa itu UML dan bagaimana cara membuat UML.		
+APS-03	APS	P1	22	175.150	185.150	10.000	Selanjutnya, contohnya structured analysis ini bisa dibangun dengan metode waterfall.	Selanjutnya, contohnya structured analysis ini bisa dibangun dengan metode waterfall.		
+APS-03	APS	P1	23	185.150	194.250	9.100	Nah dalam SDLC atau system life cycle development itu ada beberapa metode yang bisa kalian pilih	Nah dalam SDLC atau system life cycle development itu ada beberapa metode yang bisa kalian pilih		
+APS-03	APS	P1	24	194.250	201.030	6.780	Nah ini juga saya ada satu video yang menjelaskan beberapa metode yang bisa kalian pilih selain waterfall	Nah ini juga saya ada satu video yang menjelaskan beberapa metode yang bisa kalian pilih selain waterfall		
+APS-03	APS	P1	25	201.030	206.930	5.900	Nah disini saya akan menjelaskan sedikit saja ya tentang metode waterfall ini	Nah disini saya akan menjelaskan sedikit saja ya tentang metode waterfall ini		
+APS-03	APS	P1	26	206.930	214.730	7.800	Kalian ingat-ingat dulu di video saya sebelumnya menjelaskan tentang SDLC atau system life cycle development	Kalian ingat-ingat dulu di video saya sebelumnya menjelaskan tentang SDLC atau system life cycle development		
+APS-03	APS	P1	27	214.730	222.390	7.660	Itu ada 5 tahapan pokok yang bisa kalian jadikan sebuah siklus untuk mendesain sebuah sistem	Itu ada 5 tahapan pokok yang bisa kalian jadikan sebuah siklus untuk mendesain sebuah sistem		
+APS-03	APS	P1	28	222.390	231.130	8.740	Itu diawali dengan planning, terus analisis, design, implementation, dan support dan security	Itu diawali dengan planning, terus analisis, design, implementation, dan support dan security		
+APS-03	APS	P1	29	231.130	234.610	3.480	dari tahapan	dari tahapan		
+APS-03	APS	P1	30	234.610	236.210	1.600	pokok SDLC tersebut	pokok SDLC tersebut		
+APS-03	APS	P1	31	236.210	238.870	2.660	dalam waterfall ini	dalam waterfall ini		
+APS-03	APS	P1	32	238.870	241.410	2.540	penampakannya	penampakannya		
+APS-03	APS	P1	33	241.410	244.730	3.320	atau alurnya ini seperti air terjun	atau alurnya ini seperti air terjun		
+APS-03	APS	P1	34	244.730	246.090	1.360	jadi dari fase 1	jadi dari fase 1		
+APS-03	APS	P1	35	246.090	248.690	2.600	itu turun ke fase 2, fase 3	itu turun ke fase 2, fase 3		
+APS-03	APS	P1	36	248.690	250.450	1.760	fase 4 dan fase 5	fase 4 dan fase 5		
+APS-03	APS	P1	37	250.450	254.090	3.640	ini bisa kembali lagi ke atas	ini bisa kembali lagi ke atas		
+APS-03	APS	P1	38	254.090	256.470	2.380	tapi saya rasa ini harus melalui	tapi saya rasa ini harus melalui		
+APS-03	APS	P1	39	256.470	258.570	2.100	fase 5 dulu baru bisa kembali	fase 5 dulu baru bisa kembali		
+APS-03	APS	P1	40	258.570	259.990	1.420	ke atas	ke atas		
+APS-03	APS	P1	41	259.990	263.150	3.160	kenapa namanya waterfall? karena seperti air terjun	kenapa namanya waterfall? karena seperti air terjun		
+APS-03	APS	P1	42	263.150	270.510	7.360	fase-fasenya itu melambangkan fase-fase yang ada di tahapan SDLC	fase-fasenya itu melambangkan fase-fase yang ada di tahapan SDLC		
+APS-03	APS	P1	43	270.510	275.490	4.980	kalau misalnya lebih dari 5 ini juga boleh ya ada variasinya atau ada tambahannya	kalau misalnya lebih dari 5 ini juga boleh ya ada variasinya atau ada tambahannya		
+APS-03	APS	P1	44	275.490	280.950	5.460	tapi yang pokok saya rasa di sini 5 ini sudah melambangkan semuanya	tapi yang pokok saya rasa di sini 5 ini sudah melambangkan semuanya		
+APS-03	APS	P1	45	280.950	287.590	6.640	dari beberapa tahapan ini dalam seri video ini	dari beberapa tahapan ini dalam seri video ini		
+APS-03	APS	P1	46	287.590	293.290	5.700	Kita akan fokus ke analisis dan desain dari sistem	Kita akan fokus ke analisis dan desain dari sistem		
+APS-03	APS	P1	47	293.290	295.130	1.840	Untuk yang structured analysis	Untuk yang structured analysis		
+APS-03	APS	P1	48	295.130	297.310	2.180	Contohnya adalah seperti ini	Contohnya adalah seperti ini		
+APS-03	APS	P1	49	297.310	298.730	1.420	Jadi kita planning dulu	Jadi kita planning dulu		
+APS-03	APS	P1	50	298.730	300.810	2.080	Setelah planning selesai	Setelah planning selesai		
+APS-03	APS	P1	51	300.810	303.410	2.600	Baru kita ke analisis	Baru kita ke analisis		
+APS-03	APS	P1	52	303.410	305.630	2.220	Setelah analisis selesai	Setelah analisis selesai		
+APS-03	APS	P1	53	305.630	307.730	2.100	Sudah terdokumentasi dengan baik	Sudah terdokumentasi dengan baik		
+APS-03	APS	P1	54	307.730	309.910	2.180	Baru kita ke fase selanjutnya	Baru kita ke fase selanjutnya		
+APS-03	APS	P1	55	309.910	310.410	0.500	Desain	Desain		
+APS-03	APS	P1	56	310.410	312.130	1.720	Setelah desain selesai	Setelah desain selesai		
+APS-03	APS	P1	57	312.130	313.450	1.320	Baru ke implementasi	Baru ke implementasi		
+APS-03	APS	P1	58	313.450	315.690	2.240	Dan setelah implementasi selesai	Dan setelah implementasi selesai		
+APS-03	APS	P1	59	315.690	318.950	3.260	baru kita ke sistem support and security	baru kita ke sistem support and security		
+APS-03	APS	P1	60	318.950	320.950	2.000	jadi ciri khas dari waterfall ini	jadi ciri khas dari waterfall ini		
+APS-03	APS	P1	61	320.950	325.570	4.620	dia menunggu satu fase atau satu tahapan selesai dulu	dia menunggu satu fase atau satu tahapan selesai dulu		
+APS-03	APS	P1	62	325.570	331.950	6.380	selesai dengan baik dan nantinya tidak akan ada perbaikan yang major atau yang berarti lagi ya	selesai dengan baik dan nantinya tidak akan ada perbaikan yang major atau yang berarti lagi ya		
+APS-03	APS	P1	63	331.950	335.690	3.740	baru dia lanjut ke tahap yang selanjutnya	baru dia lanjut ke tahap yang selanjutnya		
+APS-03	APS	P1	64	336.530	339.130	2.600	nah itu gambaran dari structured analysis	nah itu gambaran dari structured analysis		
+APS-03	APS	P1	65	339.130	343.490	4.360	nah sekarang ini adalah gambaran dari object oriented analysis	nah sekarang ini adalah gambaran dari object oriented analysis		
+APS-03	APS	P1	66	343.490	348.770	5.280	Nah disini gambarannya sudah agak berbeda ya, tapi kita lihat tahapan-tahapannya mungkin mirip.	Nah disini gambarannya sudah agak berbeda ya, tapi kita lihat tahapan-tahapannya mungkin mirip.		
+APS-03	APS	P1	67	348.890	356.310	7.420	Coba kita lihat ada planning, ada analisis, ada desain, setelah itu dia menghasilkan prototype dan testing.	Coba kita lihat ada planning, ada analisis, ada desain, setelah itu dia menghasilkan prototype dan testing.		
+APS-03	APS	P1	68	356.830	371.570	14.740	Disini bedanya adalah dalam object oriented analysis ini dia mempunyai tahapan yang hampir mirip dengan SDLC atau yang waterfall tadi yang saya jelaskan.	Disini bedanya adalah dalam object oriented analysis ini dia mempunyai tahapan yang hampir mirip dengan SDLC atau yang waterfall tadi yang saya jelaskan.		
+APS-03	APS	P1	69	371.570	381.890	10.320	tapi tidak ada kepastian yang baku dari jumlah fasenya itu harus ada berapa	tapi tidak ada kepastian yang baku dari jumlah fasenya itu harus ada berapa		
+APS-03	APS	P1	70	381.890	385.470	3.580	dan nama dari fasenya itu apa saja gitu ya	dan nama dari fasenya itu apa saja gitu ya		
+APS-03	APS	P1	71	385.470	390.010	4.540	dan bentuknya kira-kira seperti ini untuk object oriented analysis	dan bentuknya kira-kira seperti ini untuk object oriented analysis		
+APS-03	APS	P1	72	390.010	393.330	3.320	tidak kaku seperti waterfall tadi ya	tidak kaku seperti waterfall tadi ya		
+APS-03	APS	P1	73	393.330	398.290	4.960	tapi kita bisa lihat disini ada yang berulang seperti siklus	tapi kita bisa lihat disini ada yang berulang seperti siklus		
+APS-03	APS	P1	74	398.290	409.290	11.000	Yang pertama kita planning dulu, setelah itu analisis, terus design, dan satu kali iterasi ini dia akan menghasilkan prototype.	Yang pertama kita planning dulu, setelah itu analisis, terus design, dan satu kali iterasi ini dia akan menghasilkan prototype.		
+APS-03	APS	P1	75	409.970	420.090	10.120	Prototype itu sistem yang belum lengkap dulu ya, sistem yang belum lengkap atau prototype ini kita testing dulu bersama dengan user.	Prototype itu sistem yang belum lengkap dulu ya, sistem yang belum lengkap atau prototype ini kita testing dulu bersama dengan user.		
+APS-03	APS	P1	76	420.710	427.250	6.540	Nah kalau sudah di testing dengan user itu pasti kita mendapatkan feedback ya, disini kurangnya, disini kurangnya.	Nah kalau sudah di testing dengan user itu pasti kita mendapatkan feedback ya, disini kurangnya, disini kurangnya.		
+APS-03	APS	P1	77	427.250	439.750	12.500	Nah, feedback itu kita masukkan lagi ke tahap planning, terus lanjut lagi ke analisis, terus ke desain, menghasilkan prototipe lagi, testing lagi, dapat feedback lagi, dan berulang lagi seperti ini.	Nah, feedback itu kita masukkan lagi ke tahap planning, terus lanjut lagi ke analisis, terus ke desain, menghasilkan prototipe lagi, testing lagi, dapat feedback lagi, dan berulang lagi seperti ini.		
+APS-03	APS	P1	78	440.450	444.370	3.920	Nah, seperti itu kira-kira untuk object-oriented analysis.	Nah, seperti itu kira-kira untuk object-oriented analysis.		
+APS-03	APS	P1	79	445.130	450.070	4.940	Oke, siapa sebenarnya yang membangun sistem?	Oke, siapa sebenarnya yang membangun sistem?		
+APS-03	APS	P1	80	450.070	457.390	7.320	Kita di dalam seri video tentang analisis dan desain sistem ini kita berperan sebagai apa sih sebenarnya?	Kita di dalam seri video tentang analisis dan desain sistem ini kita berperan sebagai apa sih sebenarnya?		
+APS-03	APS	P1	81	457.630	459.770	2.140	Apakah sebagai programmer atau yang lain?	Apakah sebagai programmer atau yang lain?		
+APS-03	APS	P1	82	460.770	468.190	7.420	Siapa yang membangun sistem itu ada dua jenis, kita bisa secara umum membaginya menjadi dua jenis.	Siapa yang membangun sistem itu ada dua jenis, kita bisa secara umum membaginya menjadi dua jenis.		
+APS-03	APS	P1	83	468.690	473.490	4.800	Ada in-house application, jadi sebuah perusahaan itu membangun sistem informasinya sendiri.	Ada in-house application, jadi sebuah perusahaan itu membangun sistem informasinya sendiri.		
+APS-03	APS	P1	84	473.490	480.050	6.560	Sebuah perusahaan tersebut punya divisi untuk membangun sistem sendiri yang di dalam perusahaan tersebut.	Sebuah perusahaan tersebut punya divisi untuk membangun sistem sendiri yang di dalam perusahaan tersebut.		
+APS-03	APS	P1	85	480.070	487.530	7.460	Yang kedua, perusahaan itu bisa membeli software packages yang dijual oleh vendor dari luar perusahaan.	Yang kedua, perusahaan itu bisa membeli software packages yang dijual oleh vendor dari luar perusahaan.		
+APS-03	APS	P1	86	487.630	497.270	9.640	Kita juga bisa misalnya di dalam perusahaan tersebut tidak mempunyai divisi IT yang bisa untuk membangun sistem sendiri,	Kita juga bisa misalnya di dalam perusahaan tersebut tidak mempunyai divisi IT yang bisa untuk membangun sistem sendiri,		
+APS-03	APS	P1	87	497.890	505.550	7.660	perusahaan bisa membeli dari luar dan akhirnya menginstal sistemnya di dalam perusahaan tersebut.	perusahaan bisa membeli dari luar dan akhirnya menginstal sistemnya di dalam perusahaan tersebut.		
+APS-03	APS	P1	88	505.550	511.790	6.240	contohnya di dalam suatu perusahaan misalnya ada IT department seperti ini	contohnya di dalam suatu perusahaan misalnya ada IT department seperti ini		
+APS-03	APS	P1	89	511.790	518.670	6.880	itu membawahi ada application development, system support and security dan lain-lainnya	itu membawahi ada application development, system support and security dan lain-lainnya		
+APS-03	APS	P1	90	518.670	524.930	6.260	nanti siapa yang membangun sistem itu ada di application development	nanti siapa yang membangun sistem itu ada di application development		
+APS-03	APS	P1	91	524.930	532.170	7.240	dan di dalam divisi application development itu terdiri dari beberapa fungsi seperti ini	dan di dalam divisi application development itu terdiri dari beberapa fungsi seperti ini		
+APS-03	APS	P1	92	532.170	545.170	13.000	Nah, ini sangat umum sekali dan tidak semua perusahaan mengikuti yang seperti ini, tetapi pasti di sana ada project manager, ada sistem analis, dan ada programmer.	Nah, ini sangat umum sekali dan tidak semua perusahaan mengikuti yang seperti ini, tetapi pasti di sana ada project manager, ada system analyst, dan ada programmer.		
+APS-03	APS	P1	93	545.950	554.150	8.200	Nah, di dalam analisis dan desain sistem informasi itu semuanya adalah tugas dari sistem analis.	Nah, di dalam analisis dan desain sistem informasi itu semuanya adalah tugas dari sistem analis.		
+APS-03	APS	P1	94	555.090	556.890	1.800	Project manager tugasnya apa?	Project manager tugasnya apa?		
+APS-03	APS	P1	95	556.890	558.410	1.520	tugasnya adalah	tugasnya adalah		
+APS-03	APS	P1	96	558.410	560.810	2.400	planning, apa saja	planning, apa saja		
+APS-03	APS	P1	97	560.810	563.050	2.240	yang menjadi fokus dalam planning	yang menjadi fokus dalam planning		
+APS-03	APS	P1	98	563.050	565.010	1.960	itu sudah ada di video saya	itu sudah ada di video saya		
+APS-03	APS	P1	99	565.010	567.010	2.000	sebelumnya, apa saja yang ada	sebelumnya, apa saja yang ada		
+APS-03	APS	P1	100	567.010	567.550	0.540	di	di		
+APS-03	APS	P1	101	567.550	570.970	3.420	tugas dari analis	tugas dari analyst		
+APS-03	APS	P1	102	570.970	572.710	1.740	itu ada di tahap analisis	itu ada di tahap analisis		
+APS-03	APS	P1	103	572.710	574.290	1.580	dan tahap desain	dan tahap desain		
+APS-03	APS	P1	104	574.290	576.830	2.540	dan programmer disini tugasnya	dan programmer disini tugasnya		
+APS-03	APS	P1	105	576.830	578.170	1.340	adalah di tahap	adalah di tahap		
+APS-03	APS	P1	106	578.170	580.730	2.560	implementation, jadi di dalam	implementation, jadi di dalam		
+APS-03	APS	P1	107	580.730	582.190	1.460	seri video ini kita hanya	seri video ini kita hanya		
+APS-03	APS	P1	108	582.190	584.430	2.240	berperan sebagai sistem analis	berperan sebagai sistem analis		
+APS-03	APS	P1	109	584.430	586.410	1.980	kita ada di tahap	kita ada di tahap		
+APS-03	APS	P1	110	586.410	596.070	9.660	analis dan tahap desain dari sebuah perangkat luna. Oke terima kasih untuk kalian yang sudah	analis dan tahap desain dari sebuah perangkat luna. Oke terima kasih untuk kalian yang sudah		
+APS-03	APS	P1	111	596.070	602.790	6.720	menonton video ini sampai terakhir. Jadi kalian mungkin sudah lebih mengerti apa perbedaan dari	menonton video ini sampai terakhir. Jadi kalian mungkin sudah lebih mengerti apa perbedaan dari		
+APS-03	APS	P1	112	602.790	609.870	7.080	structured analysis dan object-oriented analysis. Untuk video-video selanjutnya saya akan membahas	structured analysis dan object-oriented analysis. Untuk video-video selanjutnya saya akan membahas		
+APS-03	APS	P1	113	609.870	612.510	2.640	tentang structured analysis terlebih dahulu	tentang structured analysis terlebih dahulu		
+APS-03	APS	P1	114	612.510	614.010	1.500	dan menggunakan	dan menggunakan		
+APS-03	APS	P1	115	614.010	615.530	1.520	data flow diagram	data flow diagram		
+APS-03	APS	P1	116	615.530	617.430	1.900	untuk seri video selanjutnya	untuk seri video selanjutnya		
+APS-03	APS	P1	117	617.430	619.430	2.000	saya juga akan menjelaskan tentang	saya juga akan menjelaskan tentang		
+APS-03	APS	P1	118	619.430	620.930	1.500	object oriented analysis	object oriented analysis		
+APS-03	APS	P1	119	620.930	622.710	1.780	dengan menggunakan tools	dengan menggunakan tools		
+APS-03	APS	P1	120	622.710	625.350	2.640	unified modeling language	unified modeling language		
+APS-03	APS	P1	121	625.350	627.530	2.180	terima kasih untuk kalian semua	terima kasih untuk kalian semua		
+APS-03	APS	P1	122	627.530	630.370	2.840	dan sampai ketemu di video saya selanjutnya	dan sampai ketemu di video saya selanjutnya		

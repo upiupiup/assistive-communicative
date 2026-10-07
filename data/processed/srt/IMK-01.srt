@@ -1,0 +1,759 @@
+1
+00:00:00,530 --> 00:00:04,910
+Selamat datang di video materi untuk mata kuliah interaksi manusia dan komputer.
+
+2
+00:00:05,430 --> 00:00:11,130
+Pada kesempatan kali ini, kita akan membahas topik interaksi manusia-komputer dan juga desain interaksi.
+
+3
+00:00:11,630 --> 00:00:12,310
+Selamat menyimak.
+
+4
+00:00:14,770 --> 00:00:16,830
+Ada tiga topik pembahasan dalam materi ini.
+
+5
+00:00:17,230 --> 00:00:20,310
+Pertama adalah pengenalan interaksi manusia dan komputer.
+
+6
+00:00:21,030 --> 00:00:25,550
+Lalu pembahasan yang kedua, kita juga membahas desain interaksi atau interaction design.
+
+7
+00:00:26,290 --> 00:00:30,270
+Dan pembahasan yang terakhir adalah tentang usability dan juga user experience.
+
+8
+00:00:30,270 --> 00:00:32,250
+Mari kita bahas satu persatu.
+
+9
+00:00:33,470 --> 00:00:37,290
+Apa sebetulnya yang dimaksud dengan istilah interaksi manusia dan komputer?
+
+10
+00:00:37,990 --> 00:00:40,390
+Namanya sebetulnya sudah menjelaskan maknanya.
+
+11
+00:00:40,970 --> 00:00:45,290
+Hanya saja dalam konteks program studi teknik informatika dan juga sistem informasi,
+
+12
+00:00:45,850 --> 00:00:53,790
+interaksi manusia-komputer atau human-computer interaction adalah bidang ilmu yang mempelajari desain dan penggunaan komputer,
+
+13
+00:00:54,250 --> 00:00:57,690
+yang fokusnya adalah pada antarmuka atau user interface.
+
+14
+00:00:57,690 --> 00:01:04,570
+Jika kita lihat sejarahnya, yang dianggap tahun kelahiran IMK ini adalah tahun 1980-an
+
+15
+00:01:04,570 --> 00:01:08,070
+Gambar di kiri ini adalah timeline sejarah IMK
+
+16
+00:01:08,070 --> 00:01:13,410
+Sebetulnya komputer sudah muncul sejak tahun 1940-an
+
+17
+00:01:13,410 --> 00:01:17,490
+Sedangkan tahun 1980-an, IMK baru lahir
+
+18
+00:01:17,490 --> 00:01:21,290
+Pertanyaannya, apa yang terjadi di antara tahun tersebut?
+
+19
+00:01:21,570 --> 00:01:27,450
+Apakah pada tahun 1950-an misalnya, manusia tidak berinteraksi sama sekali dengan komputer?
+
+20
+00:01:27,690 --> 00:01:37,570
+Pada tahun 1940 hingga tahun 1980-an, komputer ini masih merupakan barang berharga yang keberadaannya dijaga dengan baik
+
+21
+00:01:37,570 --> 00:01:41,910
+Hanya organisasi atau bahkan negara tertentu saja yang memilikinya
+
+22
+00:01:41,910 --> 00:01:44,910
+Dan tidak sembarangan orang bisa menggunakannya
+
+23
+00:01:44,910 --> 00:01:51,090
+Pada zaman itu, orang yang bisa melihat langsung komputer hanya orang penting atau ilmuwan saja
+
+24
+00:01:51,090 --> 00:01:57,090
+Masyarakat umum dianggap baru mulai menggunakan komputer secara luas pada tahun 1980-an
+
+25
+00:01:57,090 --> 00:02:03,230
+Ada tiga event di tahun-tahun tersebut yang menandakan kelahiran HCI atau Human Computer Interaction.
+
+26
+00:02:03,750 --> 00:02:15,410
+Pertama adalah diselenggarakannya konferensi IMK yang pertama oleh The Special Interest Group on Computer Human Interaction atau SICCI pada tahun 1982.
+
+27
+00:02:16,710 --> 00:02:23,550
+SICCI ini merupakan kumpulan ilmuwan atau pakar yang memiliki minat di bidang penelitian interaksi manusia dan komputer.
+
+28
+00:02:23,550 --> 00:02:28,270
+Event yang kedua adalah terbitnya sebuah buku yang berjudul
+
+29
+00:02:28,270 --> 00:02:32,490
+The Psychology of Human-Computer Interaction pada tahun 1983
+
+30
+00:02:32,490 --> 00:02:35,490
+yang ditulis oleh Card, Moran, dan Newell
+
+31
+00:02:35,490 --> 00:02:40,290
+Dan ditambah lagi, setahun berikutnya yaitu tahun 1984
+
+32
+00:02:40,290 --> 00:02:43,190
+Apple Macintosh pertama kali diluncurkan
+
+33
+00:02:43,190 --> 00:02:48,270
+Tiga event tersebut membuat pakar menyepakati bahwa HCI atau IMK
+
+34
+00:02:48,270 --> 00:02:50,670
+lahir pada tahun 1980-an
+
+35
+00:02:50,670 --> 00:02:56,490
+IMK ini sangat banyak pengaruhnya untuk device atau perangkat komputer
+
+36
+00:02:56,490 --> 00:03:01,250
+yang memungkinkan manusia dapat dengan mudah menggunakannya atau berinteraksi dengannya.
+
+37
+00:03:02,010 --> 00:03:03,270
+Bahkan hingga sekarang.
+
+38
+00:03:04,030 --> 00:03:08,870
+Pada tahun 1962, Ivan Sutherland mengenalkan Skidpage untuk pertama kalinya.
+
+39
+00:03:09,650 --> 00:03:14,310
+Dia merasa interaksi dengan komputer yang hanya menggunakan teks melalui keyboard tidaklah cukup.
+
+40
+00:03:15,230 --> 00:03:18,910
+Konsep yang serupa bahkan masih digunakan hingga 50 tahun berikutnya,
+
+41
+00:03:18,910 --> 00:03:22,870
+ditunjukkan dengan adanya Apple Pencil pada tahun 2015 lalu.
+
+42
+00:03:24,230 --> 00:03:28,710
+Satu perangkat lain yang sampai sekarang digunakan untuk interaksi dengan komputer adalah mouse.
+
+43
+00:03:29,430 --> 00:03:34,970
+Mouse ini pertama kali muncul tahun 1963, dan bentuknya kurang lebih seperti pada gambar.
+
+44
+00:03:35,670 --> 00:03:37,730
+Hingga hari ini, mouse masih digunakan,
+
+45
+00:03:38,230 --> 00:03:42,990
+walaupun bentuk dan teknologinya sudah jauh berkembang, namun konsepnya tetap sama.
+
+46
+00:03:44,590 --> 00:03:48,190
+Interaksi manusia dan komputer tentu berbicara tentang dua aspek,
+
+47
+00:03:48,190 --> 00:03:51,450
+yaitu manusianya dan komputer yang digunakan.
+
+48
+00:03:52,010 --> 00:03:54,870
+Aspek manusia adalah faktor penting dalam bidang ilmu ini.
+
+49
+00:03:55,470 --> 00:04:00,530
+Salah satu isi dari buku The Psychology of Human-Computer Interaction adalah model human processor
+
+50
+00:04:00,530 --> 00:04:04,690
+yang mengilustrasikan bagaimana manusia memproses informasi.
+
+51
+00:04:05,530 --> 00:04:07,810
+Kita tidak membahasnya secara rinci untuk saat ini,
+
+52
+00:04:08,230 --> 00:04:10,510
+tapi pada intinya, dalam merancang antarmuka,
+
+53
+00:04:10,950 --> 00:04:14,850
+kita perlu memahami manusia terlebih dahulu sebelum memahami komputer.
+
+54
+00:04:14,850 --> 00:04:24,150
+Interaksi manusia dan komputer erat kaitannya dengan istilah lain yang bernama interaction design atau desain interaksi.
+
+55
+00:04:24,850 --> 00:04:29,630
+Ada juga yang menyebutnya sebagai sistem interaksi, rancangan interaksi, dan sebagainya.
+
+56
+00:04:30,030 --> 00:04:32,010
+Pada intinya kurang lebih sama secara konsep.
+
+57
+00:04:32,670 --> 00:04:36,810
+Sharp, Rogers, dan Priest mendefinisikan interaction design secara eksplisit.
+
+58
+00:04:37,050 --> 00:04:45,350
+Definisi tersebut jika kita sederhanakan adalah merancang produk interaktif yang membantu keseharian atau pekerjaan penggunanya.
+
+59
+00:04:46,230 --> 00:04:53,050
+Interaktif di sini artinya sebagai pengguna, manusia dapat memberikan suatu input dan komputer bisa meresponnya.
+
+60
+00:04:53,910 --> 00:04:56,350
+Lantas, apa tujuan dari interaksi desain ini?
+
+61
+00:04:57,150 --> 00:05:00,330
+Tujuan utamanya adalah menghasilkan produk yang bisa digunakan,
+
+62
+00:05:00,890 --> 00:05:05,650
+dalam arti mudah dipelajari, efektif, dan memberikan pengalaman yang menyenangkan.
+
+63
+00:05:06,130 --> 00:05:09,250
+Karena fokusnya adalah manusia sebagai pengguna,
+
+64
+00:05:09,690 --> 00:05:13,830
+maka desain interaksi perlu melibatkan pengguna produk di dalam proses pengembangannya.
+
+65
+00:05:13,830 --> 00:05:19,660
+Apa kaitannya desain interaksi dengan interaksi manusia dan komputer?
+
+66
+00:05:20,420 --> 00:05:27,400
+Gambar hubungan antar disiplin ilmu pada desain interaksi yang ada di buku Sharp, Rogers, dan Priest bisa membantu untuk memahaminya
+
+67
+00:05:27,400 --> 00:05:30,580
+Interaction design bersifat multidisiplin
+
+68
+00:05:30,580 --> 00:05:34,160
+Ada berbagai disiplin ilmu yang membentuk interaction design
+
+69
+00:05:34,160 --> 00:05:49,680
+Pada bagian disiplin ilmu di sebelah kiri, dapat kita lihat bahwa bidang-bidang ilmu yang membentuk desain interaksi adalah ergonomi, psikologi, cognitive science, informatics, engineering, termasuk software engineering, dan juga social science.
+
+70
+00:05:50,640 --> 00:05:59,940
+Desain interaksi ini juga diterapkan pada berbagai industri, misalnya desain grafis, produk desain, seni, desain industri, dan juga industri perfilman.
+
+71
+00:05:59,940 --> 00:06:10,660
+Pada praktiknya, desain interaksi merupakan aktivitas antardisiplin ilmu yang salah satunya adalah human-computer interaction atau interaksi manusia dan komputer
+
+72
+00:06:10,660 --> 00:06:15,320
+Desain interaksi melibatkan banyak orang dari berbagai latar belakang
+
+73
+00:06:15,320 --> 00:06:20,280
+Ini berdampak baik karena akan lebih banyak ide dan juga rancangan yang dapat dihasilkan
+
+74
+00:06:20,280 --> 00:06:23,380
+Namun, tantangan dalam komunikasi sering terjadi
+
+75
+00:06:23,380 --> 00:06:29,620
+Desain interaksi bisa digunakan untuk produk apa saja yang digunakan oleh manusia
+
+76
+00:06:29,620 --> 00:06:35,780
+Namun pada mata kuliah ini konteksnya adalah produk-produk aplikasi komputer atau sistem informasi
+
+77
+00:06:35,780 --> 00:06:41,100
+Kita sudah memahami tujuan desain interaksi
+
+78
+00:06:41,100 --> 00:06:45,380
+Namun apakah desain interaksi ini sangat penting hingga kita perlu melakukannya?
+
+79
+00:06:46,460 --> 00:06:49,040
+Desain interaksi sangat penting untuk dua hal ini
+
+80
+00:06:49,040 --> 00:06:54,020
+Pertama adalah untuk menghasilkan produk interaktif yang sesuai dengan kebutuhan pengguna
+
+81
+00:06:54,020 --> 00:06:57,280
+Istilahnya adalah memiliki usability yang baik
+
+82
+00:06:57,280 --> 00:07:01,760
+Dan yang kedua adalah untuk memberikan pengalaman yang menyenangkan kepada pengguna
+
+83
+00:07:01,760 --> 00:07:04,160
+ketika mereka menggunakan produk tersebut.
+
+84
+00:07:04,600 --> 00:07:07,780
+Ini dikenal dengan istilah user experience atau UX.
+
+85
+00:07:08,820 --> 00:07:10,400
+Mengapa dua hal ini perlu diperhatikan?
+
+86
+00:07:10,880 --> 00:07:13,880
+Itu karena produk yang baik tidak sebatas berfungsi saja,
+
+87
+00:07:14,380 --> 00:07:17,100
+tapi juga harus mudah dan nyaman untuk digunakan.
+
+88
+00:07:18,460 --> 00:07:21,400
+Di sini perlu ditekankan bahwa keterlibatan pengguna
+
+89
+00:07:21,400 --> 00:07:23,620
+sangat diperlukan dalam desain interaksi.
+
+90
+00:07:26,460 --> 00:07:28,700
+Dalam merancang interaksi untuk sebuah produk,
+
+91
+00:07:29,280 --> 00:07:32,400
+mengenal siapa penggunanya adalah hal yang tidak boleh dilewatkan.
+
+92
+00:07:32,400 --> 00:07:36,040
+Pengguna produk aplikasi memiliki berbagai karakteristik
+
+93
+00:07:36,040 --> 00:07:39,120
+Dalam konteks penggunaan aplikasi e-commerce misalnya
+
+94
+00:07:39,120 --> 00:07:41,020
+Anggaplah ada tiga pengguna
+
+95
+00:07:41,020 --> 00:07:44,000
+Yaitu nenek Sumariah yang berusia 65 tahun
+
+96
+00:07:44,000 --> 00:07:46,520
+Pak Edi yang berusia 35 tahun
+
+97
+00:07:46,520 --> 00:07:48,720
+Dan Bagus yang berusia 15 tahun
+
+98
+00:07:48,720 --> 00:07:54,080
+Anggaplah nenek Sumariah menggunakan aplikasi e-commerce ini untuk membeli suplemen kesehatan
+
+99
+00:07:54,080 --> 00:07:56,340
+Pak Edi ingin membeli jas baru
+
+100
+00:07:56,340 --> 00:07:58,820
+Dan Bagus hendak memilih sebuah skateboard
+
+101
+00:07:58,820 --> 00:08:06,680
+Sebetulnya, dari usia dan apa yang ingin dibeli oleh masing-masing dari mereka, sudah memperlihatkan perbedaan karakteristik yang ada.
+
+102
+00:08:07,260 --> 00:08:14,040
+Ada beberapa pertanyaan yang bisa menunjukkan perbedaan karakteristik tersebut, yaitu pertama, apakah kebutuhannya sama?
+
+103
+00:08:14,680 --> 00:08:17,460
+Apakah kemampuan dalam mempelajari aplikasinya sama?
+
+104
+00:08:18,000 --> 00:08:22,020
+Dan apakah pengaturan aplikasi yang diinginkan oleh masing-masing tersebut sama?
+
+105
+00:08:22,020 --> 00:08:32,880
+Biasanya, di antara tiga pengguna dengan karakteristik seperti contoh ini, memiliki kebutuhan, kemampuan mempelajari aplikasi, dan pengaturan yang diinginkannya berbeda-beda
+
+106
+00:08:32,880 --> 00:08:38,740
+Satu istilah lain yang juga erat kaitannya dengan desain interaksi adalah user experience
+
+107
+00:08:38,740 --> 00:08:41,180
+Apa itu user experience atau UX?
+
+108
+00:08:41,300 --> 00:08:49,140
+User experience mencakup semua aspek interaksi antara pengguna dengan produk, layanan, dan organisasi yang menyediakannya
+
+109
+00:08:49,880 --> 00:08:52,180
+Itu merupakan definisi dari Nielsen dan Norman.
+
+110
+00:08:53,220 --> 00:08:57,760
+UX ini berkaitan sekali dengan user interface atau UI, dan juga usability.
+
+111
+00:08:58,540 --> 00:09:03,340
+Hati-hati karena ketiganya sering dianggap sama, namun padahal berbeda dan tiga-tiganya penting.
+
+112
+00:09:03,840 --> 00:09:08,980
+Dari definisi UX tadi, kita bisa mengatakan bahwa konsep user experience sangat luas.
+
+113
+00:09:09,320 --> 00:09:13,780
+Tidak sebatas permasalahan tentang user interface atau UI, dan usability saja.
+
+114
+00:09:13,780 --> 00:09:19,200
+Sebuah produk memiliki usability yang baik karena didukung oleh UI yang baik
+
+115
+00:09:19,200 --> 00:09:21,680
+Belum tentu memberikan UX yang baik pula
+
+116
+00:09:21,680 --> 00:09:25,820
+Tapi keduanya sangat penting karena jika ingin menghasilkan UX yang baik
+
+117
+00:09:25,820 --> 00:09:30,820
+Produk aplikasi kita perlu memiliki user interface dan usability yang baik juga
+
+118
+00:09:30,820 --> 00:09:35,520
+Yang sulit dibedakan biasanya adalah antara UX dengan usability
+
+119
+00:09:35,520 --> 00:09:39,040
+Karena keduanya sebetulnya tidak terlihat secara eksplisit
+
+120
+00:09:39,040 --> 00:09:41,120
+Mari kita bahas perbedaannya
+
+121
+00:09:41,120 --> 00:09:47,480
+Usability merupakan atribut kualitas dari antarmuka pengguna atau user interface
+
+122
+00:09:47,480 --> 00:09:56,180
+Usability ini adalah tentang apakah suatu aplikasi mudah untuk dipelajari, efisien untuk digunakan, menyenangkan, dan sebagainya
+
+123
+00:09:56,180 --> 00:10:02,280
+Tujuan dari usability ini adalah produk atau aplikasi yang dikembangkan memenuhi beberapa hal berikut
+
+124
+00:10:02,280 --> 00:10:09,660
+Yaitu, pertama misalnya efektif untuk digunakan, lalu efisien, aman, dan juga memiliki utilitas yang baik
+
+125
+00:10:09,660 --> 00:10:14,960
+Lalu juga mudah untuk dipelajari dan juga mudah untuk diingat cara menggunakannya
+
+126
+00:10:14,960 --> 00:10:18,900
+Walaupun ada hal-hal baik lain yang menjadi tujuan dari usability
+
+127
+00:10:18,900 --> 00:10:21,880
+Namun ke-6 hal ini sudah cukup untuk mewakili
+
+128
+00:10:21,880 --> 00:10:25,440
+Lalu bagaimana dengan user experience?
+
+129
+00:10:26,100 --> 00:10:31,060
+UX ini sedikit lebih rumit dari usability karena faktor manusianya sangat besar
+
+130
+00:10:31,060 --> 00:10:36,000
+User experience memiliki tujuan untuk memberikan aspek-aspek yang diinginkan
+
+131
+00:10:36,000 --> 00:10:38,600
+Dan menghilangkan aspek-aspek yang dihindari
+
+132
+00:10:38,600 --> 00:10:43,660
+Ini adalah daftar aspek-aspek yang diinginkan dan juga yang perlu untuk dihindari.
+
+133
+00:10:44,960 --> 00:10:49,920
+Jika kita lihat, semua aspek ini berkaitan dengan manusia sebagai pengguna produk.
+
+134
+00:10:50,580 --> 00:11:00,340
+Misalnya aspek yang diinginkan adalah kepuasan, merasa terbantu, menyenangkan, dapat dinikmati, memberikan tantangan, menghibur, dan lain sebagainya.
+
+135
+00:11:01,000 --> 00:11:06,220
+Sedangkan contoh aspek yang ingin dihindari misalnya seperti bosan saat menggunakan produk kita,
+
+136
+00:11:06,220 --> 00:11:11,720
+tidak menyenangkan, jadi merasa bodoh karena tidak bisa menggunakan aplikasinya dengan baik,
+
+137
+00:11:12,260 --> 00:11:15,540
+membuat jengkel, membuat marah, dan lain sebagainya.
+
+138
+00:11:21,350 --> 00:11:25,090
+Di dalam desain interaksi, ada prinsip-prinsip yang sebaiknya kita ikuti.
+
+139
+00:11:25,710 --> 00:11:28,410
+Sekurang-kurangnya ada lima prinsip dalam desain interaksi.
+
+140
+00:11:29,070 --> 00:11:30,390
+Pertama adalah visibility.
+
+141
+00:11:31,070 --> 00:11:33,130
+Ini berkaitan dengan terlihat atau tidak.
+
+142
+00:11:33,770 --> 00:11:35,550
+Semakin jelas terlihat suatu fungsi,
+
+143
+00:11:35,970 --> 00:11:39,610
+semakin mudah pengguna mengetahui apa yang perlu mereka lakukan selanjutnya.
+
+144
+00:11:39,610 --> 00:11:41,950
+Kedua adalah feedback
+
+145
+00:11:41,950 --> 00:11:48,710
+Feedback yang dimaksud di sini terkait dengan pemberian informasi tentang hal apa yang telah atau berhasil dilakukan
+
+146
+00:11:48,710 --> 00:11:51,070
+Dan ketiga adalah constraint
+
+147
+00:11:51,070 --> 00:11:55,030
+Yaitu membatasi aktivitas yang dapat dilakukan pengguna
+
+148
+00:11:55,030 --> 00:11:58,470
+Sesuai dengan situasi dan kondisi pada waktu tertentu
+
+149
+00:11:58,470 --> 00:12:00,870
+Keempat adalah konsistensi
+
+150
+00:12:00,870 --> 00:12:05,190
+Misalnya menggunakan interface yang sama untuk mengeksekusi fungsi yang sama
+
+151
+00:12:05,190 --> 00:12:09,390
+Itu membuat produk lebih mudah dipahami dan digunakan
+
+152
+00:12:09,390 --> 00:12:17,170
+Kelima adalah affordance, yaitu kemampuan suatu produk dalam memberikan kejelasan penggunaan produk tersebut
+
+153
+00:12:17,170 --> 00:12:21,270
+Kita coba lihat contoh-contoh bagaimana prinsip-prinsip tersebut diterapkan
+
+154
+00:12:21,270 --> 00:12:25,000
+Prinsip pertama adalah visibility
+
+155
+00:12:25,000 --> 00:12:33,180
+Seperti yang sudah dijelaskan tadi, semakin jelas terlihat suatu fungsi, semakin mudah pengguna mengetahui apa yang perlu mereka lakukan selanjutnya
+
+156
+00:12:33,180 --> 00:12:34,880
+Perhatikan gambar berikut
+
+157
+00:12:35,200 --> 00:12:39,380
+Menurut Anda, gambar apakah yang terlihat ini? Apa fungsinya kira-kira?
+
+158
+00:12:39,380 --> 00:12:46,980
+Bagi kebanyakan orang, gambar ini akan terlihat seperti switch atau tombol untuk menyalakan lampu pada ruangan tertentu
+
+159
+00:12:46,980 --> 00:12:52,480
+Karena benda yang fungsinya seperti itu memiliki bentuk yang kurang lebih sama seperti gambar
+
+160
+00:12:52,480 --> 00:12:57,100
+Bagaimana jika bentuk tersebut digunakan untuk produk lain yang tidak umum
+
+161
+00:12:57,100 --> 00:13:00,920
+Misalnya untuk colokan listrik seperti gambar di sebelah kanannya
+
+162
+00:13:01,520 --> 00:13:05,560
+Apakah membuat rancangan colokan listrik seperti gambar ini adalah hal yang baik?
+
+163
+00:13:05,560 --> 00:13:14,900
+Kebanyakan orang mungkin tidak melihat adanya colokan listrik jika bentuknya lebih mirip sebagai switch yang biasanya digunakan untuk menyalakan lampu.
+
+164
+00:13:15,580 --> 00:13:23,820
+Jadi ini merupakan contoh bagaimana dalam merancang produk akan lebih baik jika membuat pengguna mengetahui apa fungsinya hanya dengan melihat bentuknya.
+
+165
+00:13:26,430 --> 00:13:28,010
+Prinsip yang kedua adalah feedback.
+
+166
+00:13:28,250 --> 00:13:31,570
+Feedback berguna untuk memperjelas suatu event tertentu.
+
+167
+00:13:31,570 --> 00:13:40,190
+Misalnya setelah melakukan sesuatu, ada informasi atau keterangan lain, seperti menjelaskan instruksi selanjutnya, dan lain sebagainya.
+
+168
+00:13:41,370 --> 00:13:48,730
+Perhatikan gambar berikut. Ini adalah salah satu feedback yang diberikan oleh Tokopedia apabila kita berhasil melakukan transaksi.
+
+169
+00:13:49,490 --> 00:13:55,390
+Feedback ini sangat penting karena pengguna perlu mengetahui respon dari sistem ketika kita melakukan sesuatu.
+
+170
+00:13:56,190 --> 00:14:03,370
+Dari contoh ini, kita dapat mengetahui bahwa aktivitas yang dilakukan berhasil dan tersedia juga pilihan untuk melakukan aktivitas selanjutnya.
+
+171
+00:14:05,840 --> 00:14:07,720
+Prinsip yang selanjutnya adalah constraints.
+
+172
+00:14:08,320 --> 00:14:15,360
+Constraints di sini berarti membatasi aktivitas yang dapat dilakukan pengguna sesuai dengan situasi dan kondisi pada waktu tertentu.
+
+173
+00:14:16,840 --> 00:14:18,960
+Perhatikan contoh yang terlihat pada gambar.
+
+174
+00:14:19,700 --> 00:14:21,540
+Ini adalah aplikasi Google Slides.
+
+175
+00:14:21,540 --> 00:14:29,720
+Kita lihat ketika kita sedang memilih gambar di dalam slide dan mengakses menu format, maka ada beberapa fitur yang tidak bisa diakses.
+
+176
+00:14:30,240 --> 00:14:34,840
+Secara logis, kita memang tidak bisa membuat tabel saat kursornya sedang memilih gambar.
+
+177
+00:14:35,460 --> 00:14:38,420
+Ini adalah contoh bagaimana prinsip constraint diterapkan.
+
+178
+00:14:39,840 --> 00:14:41,840
+Prinsip selanjutnya adalah konsistensi.
+
+179
+00:14:42,520 --> 00:14:48,520
+Contoh penerapannya, misalnya penggunaan interface yang sama untuk mengeksekusi fungsi yang sama pula.
+
+180
+00:14:48,520 --> 00:14:53,520
+Dengan melakukannya, produk kita akan lebih mudah dipahami dan mudah untuk digunakan
+
+181
+00:14:53,520 --> 00:14:58,680
+Sama halnya ketika kita membuat aplikasi yang bisa dijalankan di berbagai perangkat
+
+182
+00:14:58,680 --> 00:15:04,900
+Konsistensi terhadap konten, fungsi, layout, dan lain sebagainya juga perlu untuk dijaga
+
+183
+00:15:04,900 --> 00:15:08,420
+Dan terakhir adalah affordance
+
+184
+00:15:08,420 --> 00:15:14,100
+Yang merujuk pada kemampuan suatu produk dalam memberikan kejelasan penggunaan produk tersebut
+
+185
+00:15:14,100 --> 00:15:19,480
+Misalnya pada aplikasi Siri yang menerima perintah berupa suara dari penggunanya
+
+186
+00:15:19,480 --> 00:15:28,020
+Ada keterangan berupa label atau teks yang menjelaskan apa yang perlu dilakukan penggunanya untuk dapat menjalankan fungsi dari aplikasinya
+
+187
+00:15:28,020 --> 00:15:32,940
+Baiklah, lima prinsip dalam desain interaksi ini menjadi penutup pembahasan kita
+
+188
+00:15:32,940 --> 00:15:37,020
+Berikut adalah daftar referensi yang digunakan saat penyusunan materi ini
+
+189
+00:15:37,160 --> 00:15:40,440
+Terima kasih karena Anda telah menyimak materi ini hingga selesai
+
+190
+00:15:40,440 --> 00:16:10,420
+Terima kasih.

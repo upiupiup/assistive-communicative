@@ -1,0 +1,120 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+RPL-06	RPL		1	0.372	20.372	20.000		selamat datang di video materi untuk kelas rekayasa perangkat lunak di video ini kita akan membahas tentang requirements modeling secara umum ada empat jenis model requirements yang ada di dalam rekayasa perangkat lunak kita bagi dua pembahasannya pada video ini yang kita bahas adalah bagian pertama yaitu scenario based model dan juga class model	jalur-wav2vec2	
+RPL-06	RPL		2	23.764	32.944	9.180		ada tiga topik yang kita bahas dalam video ini pertama kita samakan dahulu persepsi tentang tujuan memodelkan requirements ini adalah untuk apa	jalur-wav2vec2	
+RPL-06	RPL		3	32.944	45.228	12.284		kedua adalah pembahasan scenario based model yang pembahasan utamanya adalah tentang user case dan ke tiga kita bahas model requirements yang ke dua ya itu class model mari kita bahas satu persatu	jalur-wav2vec2	
+RPL-06	RPL		4	46.740	56.876	10.136		setelah kita mendapatkan daftar kebutuhan sistem atau system requirements langkah umum yang biasa dilakukan dalam proses rekayasa perangkat lunak adalah memodelkan requirements tersebut	jalur-wav2vec2	
+RPL-06	RPL		5	56.948	67.360	10.412		dari system requirements sebetulnya secara tidak langsung kita sudah mendapatkan apa yang dinamakan dengan system description terlepas ini terdokumentasi secara formal atau tidak	jalur-wav2vec2	
+RPL-06	RPL		6	67.360	72.428	5.068		software atau sistem yang kita kembangkan haruslah sesuai dengan system description tersebut	jalur-wav2vec2	
+RPL-06	RPL		7	72.500	78.188	5.688		langkah logis sebelum membangun sistem ini adalah dengan membuat model rancangannya terlebih dahulu	jalur-wav2vec2	
+RPL-06	RPL		8	78.196	93.740	15.544		namun demikian dalam kondisi tertentu dan yang umum terjadi kita perlu melakukan proses analisis requirements sampai pada tahap membuat model requirementsnya model requirements ini akan menjadi jembatan dari system description ke rancangan sistemnya	jalur-wav2vec2	
+RPL-06	RPL		9	94.356	108.780	14.424		requirements model ini harus memenuhi tiga tujuan utamanya yaitu pertama menggambarkan apa yang dibutuhkan oleh customer yang kita modelkan adalah requirements tentu saja requirements ini merupakan sesuatu yang dibutuhkan oleh mereka	jalur-wav2vec2	
+RPL-06	RPL		10	109.204	128.300	19.096		kedua adalah membangun dasar untuk pembuatan rancangan atau desain dari softwarenya ingat kembali bahwa pada tahap modeling memang ada dua kegiatan utama yaitu requirements engineering dan juga system design model dari kebutuhan ini merupakan dasar pembuatan model rancangan atau desain dari software yang dikembangkan	jalur-wav2vec2	
+RPL-06	RPL		11	128.532	146.444	17.912		dan tujuan yang ke tiga adalah menetapkan serangkaian requirements yang dapat divalidasi setelah softwarenya selesai di bangun jika software sudah selesai dibangun kita dapat menggunakan model kebutuhan ini sebagai checklist untuk memastikan software tersebut sudah memenuhi semua kebutuhan yang kita identifikasi	jalur-wav2vec2	
+RPL-06	RPL		12	147.540	154.284	6.744		requirements model dalam perangkat lunak secara umum dapat dibagi menjadi empat kelompok seperti yang terlihat pada gambar	jalur-wav2vec2	
+RPL-06	RPL		13	154.292	163.276	8.984		kelompok yang pertama adalah scenario based model contoh yang termasuk di dalam kelombok scenario based model ini adalah use case dan juga user stories	jalur-wav2vec2	
+RPL-06	RPL		14	163.668	170.604	6.936		kelompok model kebutuhan yang kedua adalah class model contohnya adalah class diagram dan juga collaboration diagrams	jalur-wav2vec2	
+RPL-06	RPL		15	173.648	178.092	4.444		data flow diagram dan juga data model berada di dalam kelompok ini	jalur-wav2vec2	
+RPL-06	RPL		16	178.260	185.196	6.936		dan kelompok yang terakhir adalah behavioral models yang contohnya adalah state diagram dan juga sequence diagram	jalur-wav2vec2	
+RPL-06	RPL		17	185.204	193.740	8.536		untuk video kali ini yang dibahas adalah scenario based dan juga class model flow dan behavioral model dijelaskan pada video lain yang terpisah	jalur-wav2vec2	
+RPL-06	RPL		18	195.444	215.444	20.000		kita mulai saja untuk requirements model yang pertama yaitu scenario based model scenario based model umumnya dilakukan dengan membuat use case use case ini dapat menjelaskan siapa melakukan apa di dalam sebuah software atau sistem atau pada dasarnya use case menggambarkan interaksi yang terjadi antara pengguna dengan sistem	jalur-wav2vec2	
+RPL-06	RPL		19	215.732	223.724	7.992		lalu aa saja yang perlu dituliskan di dalam use case sekurang kurangnya adalah enam hal berikut pertama siapa aktornya	jalur-wav2vec2	
+RPL-06	RPL		20	223.764	226.960	3.196		kedua apa yang menjadi tujuan use case nya	jalur-wav2vec2	
+RPL-06	RPL		21	226.960	237.036	10.076		ketiga apa saja kondisi atau syarat yang harus dipenuhi lalu ke empat bagaimana scenarionya termasuk juga seperti apa scenario alternatifnya jika ada	jalur-wav2vec2	
+RPL-06	RPL		22	237.204	240.656	3.452		kelima apa saja pengecualiannya atau exceptions	jalur-wav2vec2	
+RPL-06	RPL		23	240.656	243.948	3.292		dan yang ke enam apa prioritas dari use case nya	jalur-wav2vec2	
+RPL-06	RPL		24	244.308	253.836	9.528		output atau luaran setelah membuat use case ini adalah sebuah dokumen biasanya disebut dengan sistem requirements specification atau srs	jalur-wav2vec2	
+RPL-06	RPL		25	255.028	275.028	20.000		perhatikan contoh use case dalam sistem inventaris berikut seperti yang terlihat setiap use case di dokumentasikan mengikuti template dokumen srs tadi di dalamnya memuat informasi mulai dari nama use case aktor utama tujuan dari use case tersebut prasyarat use case nya prioritas sce	jalur-wav2vec2	
+RPL-06	RPL		26	275.028	278.800	3.772		nario dan alternatifnya exception atau pengecualian	jalur-wav2vec2	
+RPL-06	RPL		27	278.800	284.012	5.212		frekuensi penggunaan dan jika diperlukan juga disertakan catatan tambahan	jalur-wav2vec2	
+RPL-06	RPL		28	284.308	290.764	6.456		use case yang dijadikan contoh dalam sistem inventaris ini adalah use case mengajukan permohonan peminjaman barang	jalur-wav2vec2	
+RPL-06	RPL		29	290.804	295.180	4.376		di sini dijelaskan bahwa aktor utamanya adalah staf perusahaan	jalur-wav2vec2	
+RPL-06	RPL		30	295.188	303.596	8.408		tujuan dari use case nya adalah membuat permohonan peminjaman inventaris perusahaan yang kemudian akan disetujui oleh bagian peminjaman	jalur-wav2vec2	
+RPL-06	RPL		31	303.860	314.892	11.032		ada dua prasyarat dalam use case ini yaitu si pengguna atau staf tadi harus login ke dalam sistem terlebih dahulu sedangkan syarat yang kedua adalah data inventarisnya sudah terisi	jalur-wav2vec2	
+RPL-06	RPL		32	315.092	324.492	9.400		prioritas untuk use case ini adalah tinggi itu menunjukkan bahwa use case ini harus di prioritaskan paling utama dalam pengembangan sistem inventaris ini	jalur-wav2vec2	
+RPL-06	RPL		33	324.596	331.884	7.288		di bagian selanjutnya ada skenario dapat kita lihat ada sepuluh langkah bagaimana use case ini dilakukan oleh aktornya	jalur-wav2vec2	
+RPL-06	RPL		34	331.988	341.260	9.272		mulai dari memilih menu daftar inventaris di menu utama hingga pada akhirnya sistem menampilkan notifikasi permohonan peminjaman barang telah terkirim	jalur-wav2vec2	
+RPL-06	RPL		35	342.612	360.812	18.200		apabila terdapat alternatif skenario maka itu disampaikan pada bagian yang terpisah atau paling tidak dibedakan dengan skenario utamanya pada contoh ada skenario alternatif untuk use case ini pertama staf dapat menggunakan fitur pencarian inventaris untuk menemukan barang yang ingin dipinjam	jalur-wav2vec2	
+RPL-06	RPL		36	360.948	367.564	6.616		kedua staf dapat memilih lebih dari satu barang dengan mengulangi langkah ketiga pada skenario utama	jalur-wav2vec2	
+RPL-06	RPL		37	367.732	382.764	15.032		selain skenario kita juga perlu menuliskan pengecualian untuk use case tersebut jika memang ada contoh pengecualian misalnya jika staf ternyata tidak berhasil login maka lihat use case membuat password yang baru atau menambahkan pengguna kedalam sistem	jalur-wav2vec2	
+RPL-06	RPL		38	382.932	395.532	12.600		atau jika daftar inventaris masih kosong maka lihat usa case menambahkan inventaris ini berarti kita perlu menambahkan inventaris terlebih dahulu yang use casenya dijelaskan secara terpisah	jalur-wav2vec2	
+RPL-06	RPL		39	396.916	410.732	13.816		di bagian frekuensi penggunaan kita menjelaskan seberapa sering use case ini digunakan apakah use case sering digunakan jarang jarang dan pada kasus kusus tertentu saja digunakan di akhir tahun dan lain sebagainya	jalur-wav2vec2	
+RPL-06	RPL		40	411.060	419.404	8.344		apa bila ada catatan tambahan yang dirasa penting untuk disertakan maka dapat ditambahkan pada bagian sendiri seperti yang dapat dilihat pada contoh	jalur-wav2vec2	
+RPL-06	RPL		41	420.980	426.412	5.432		saat membuat use case seringkali tim software juga membuat use case diagram sebagai pelengkap	jalur-wav2vec2	
+RPL-06	RPL		42	426.452	433.484	7.032		use case diagram menjelaskan apa saja yang bisa dilakukan oleh suatu aktor di dalam sistem dalam bentuk visual	jalur-wav2vec2	
+RPL-06	RPL		43	433.492	439.756	6.264		komponen dari use case diagram yang utama ada dua yaitu aktor dan use case nya itu sendiri	jalur-wav2vec2	
+RPL-06	RPL		44	439.828	444.384	4.556		gambar berikut adalah notasi atau sintaks saat membuat use case diagram	jalur-wav2vec2	
+RPL-06	RPL		45	444.384	450.380	5.996		aktor dinotasikan dalam gambar orang sedangkan use case dibuat dalam bentuk oval	jalur-wav2vec2	
+RPL-06	RPL		46	450.580	456.716	6.136		apabila aktor dapat melakukan use case tersebut maka perlu digambarkan garis yang menghubungkan keduanya	jalur-wav2vec2	
+RPL-06	RPL		47	457.940	463.980	6.040		dalam membuat use case umumnya kita juga membuat beberapa model tambahan yang mendukung use case tersebut	jalur-wav2vec2	
+RPL-06	RPL		48	463.988	475.276	11.288		ada banyak kondisi di mana informasi terkait requirements masih belum jelas jika hanya dibuat dengan use case saja saat itulah kita perlu membuat model lain untuk mendukung use case tersebut	jalur-wav2vec2	
+RPL-06	RPL		49	475.540	485.836	10.296		model yang biasa digunakan untuk mendukung use case adalah activity diagram dan juga swimlane diagram model ini digunakan untuk menjelaskan alur skenario di dalam use case	jalur-wav2vec2	
+RPL-06	RPL		50	485.844	491.308	5.464		apabila diperlukan model tersebut bisa dibuat sebagai pelengkap use case	jalur-wav2vec2	
+RPL-06	RPL		51	493.556	499.328	5.772		mari kita lihat contoh dari activity diagram yang merupakan salah satu model pendukung dari use case	jalur-wav2vec2	
+RPL-06	RPL		52	499.328	512.236	12.908		activity diagram mendukung use case dengan menyediakan gambar alur interaksi yang terjadi dalam satu skenario tertentu perhatikan contoh activity dagram untuk mendukung use case mengajukan permohonan peminjaman barang	jalur-wav2vec2	
+RPL-06	RPL		53	512.596	523.532	10.936		activity diagram ini sebetulnya menjelaskan skenario yang sebelumnya sudah kita lihat bersama di dalam use case baik skenario utamanya ataupun juga sekenario alternatifnya	jalur-wav2vec2	
+RPL-06	RPL		54	523.572	529.200	5.628		yang perlu diperhatikan dalam membuat activity diagram ini adalah penulisan simbol simbol yang digunakan	jalur-wav2vec2	
+RPL-06	RPL		55	529.200	537.632	8.432		umumnya ada lima notasi simbol dalam activity diagram yang pertama adalah lingkaran hitam yang menandakan titik awal atau titik mulai	jalur-wav2vec2	
+RPL-06	RPL		56	537.632	545.132	7.500		lalu ada juga lingkaran kecil berwarna hitam dengan putih diluarnya ini menandakan titik akhir dari aktivitas tersebut	jalur-wav2vec2	
+RPL-06	RPL		57	545.140	551.980	6.840		jika sudah sampai simbol ini berarti aktivitasnya sudah selesai atau tidak ada proses lagi yang harus dikuti	jalur-wav2vec2	
+RPL-06	RPL		58	552.276	560.172	7.896		sementara itu setiap proses atau aktivitas dinyatakan dalam bentuk persegi panjang kita juga memberikan nama pada aktivitasnya	jalur-wav2vec2	
+RPL-06	RPL		59	560.308	573.644	13.336		notasi yang lainnya adalah gambar belah ketupat yang menandakan adanya percabangan ini biasanya digunakan apabila ada skenario alternatif yang bisa dilakukan artinya aktivitas akan dipecah jalurnya	jalur-wav2vec2	
+RPL-06	RPL		60	573.812	583.692	9.880		dan terakhir adalah garis dengan tanda panah di salah satu ujungnya ini menandakan aktivitas apa yang selanjutnya perlu dilakukan untuk menyelesaikan use case tersebut	jalur-wav2vec2	
+RPL-06	RPL		61	585.588	590.112	4.524		selanjutnya kita masuk pada model requirements yang kedua yaitu class model	jalur-wav2vec2	
+RPL-06	RPL		62	590.112	599.020	8.908		class model atau class based model umumnya digunakan dalam analisis kebutuhan yang menggunakan pendekatan berbasis objek atau object oriented	jalur-wav2vec2	
+RPL-06	RPL		63	599.284	610.828	11.544		class model ini menggambarkan objek yang akan dimanipulasi oleh sistem operasi atau disebut juga dengan metode yang dimiliki oleh objek hubungan antar objek dan juga kolaborasi antar class	jalur-wav2vec2	
+RPL-06	RPL		64	610.964	626.768	15.804		ada enam komponen di dalam model berbasis class ini yaitu sebagai berikut yang pertama adalah class atau object yang kedua adalah atribut lalu ke tiga adalah operations ke empat adalah class responsibility collaborator atau crc model	jalur-wav2vec2	
+RPL-06	RPL		65	626.768	631.360	4.592		yang ke lima adalah collaborations diagrams dan yang ke enam adalah package	jalur-wav2vec2	
+RPL-06	RPL		66	631.360	637.228	5.868		komponen komponen tersebut juga dapat digambarkan dalam sebuah diagram yang dinamakan class diagram	jalur-wav2vec2	
+RPL-06	RPL		67	638.068	644.588	6.520		class diagram terdiri atas nama class atributs operations dan juga relationship	jalur-wav2vec2	
+RPL-06	RPL		68	644.660	658.508	13.848		perhatikan contoh class diagram berikut ini hanya contoh class diagram dengan satu class yaitu mahasiswa satu kotak ini merupakan class setiap kelas memiliki nama pada contoh nama class nya adalah mahasiswa	jalur-wav2vec2	
+RPL-06	RPL		69	658.708	671.020	12.312		di dalam kelas ada atribut dan juga operations atau methods atribut mengacu pada informasi apa yang dimiliki oleh class mahasiswa ini misalnya nim nama dan status mahasiswa	jalur-wav2vec2	
+RPL-06	RPL		70	671.156	678.956	7.800		kita juga bisa menentukan tipe datanya apakah itu berupa string integer float binary dan lain sebagainya	jalur-wav2vec2	
+RPL-06	RPL		71	679.028	684.012	4.984		atribut ini umumnya juga menunjukkan data yang di simpan pada database software nantinya	jalur-wav2vec2	
+RPL-06	RPL		72	684.180	693.136	8.956		bagian selanjutnya dari class diagram adalah operations atau method oprations ini terkait dengan apa saja hal yang dapat dilakukan oleh suatu class	jalur-wav2vec2	
+RPL-06	RPL		73	693.136	700.492	7.356		contohnya class mahasiswa memiliki operation untuk isi krs es cetak kpu dan juga cetak khs	jalur-wav2vec2	
+RPL-06	RPL		74	700.788	715.984	15.196		terakhir adalah relationship yang digambarkan dengan garis dan simbol di salah satu ujungnya masing masing garis dan simbol tersebut memiliki makna yang berbeda ada yang berupa garis putus putus dengan segi tiga putih yang berarti menandakan hubungan realization	jalur-wav2vec2	
+RPL-06	RPL		75	715.984	721.964	5.980		ada juga yang digambarkan dengan garis nyambung dengan simbol belah ketupat yang menunjukkan composition	jalur-wav2vec2	
+RPL-06	RPL		76	722.484	742.484	20.000		bagian penting dan mungkin yang paling sulit saat membuat class based model adalah menentukan apa yang dijadikan class nya itu sendiri untuk membuat class diagram kita memang perlu menganggap komponen yang ada di dalam software sebagai kumpulan kumpulan class atau objek pertanyaan mendasar yang sering ditanyakan adalah apa yang sebetulnya layak untuk dijadikan class atau objek tersebut	jalur-wav2vec2	
+RPL-06	RPL		77	743.252	748.204	4.952		ada enam hal yang biasanya layak dipertimbangkan untuk dijadikan objek atau class	jalur-wav2vec2	
+RPL-06	RPL		78	748.276	760.236	11.960		yang pertama adalah entitas eksternal seperti orang perangkat atau sistem lainnya misalnya dalam sistem akademik contoh yang termasuk entitas eksternal adalah mahasiswa dan juga dosen	jalur-wav2vec2	
+RPL-06	RPL		79	760.724	769.200	8.476		yang kedua adalah sesuatu seperti laporan tampilan atau huruf yang merupakan bagian dari informasi untuk domain masalah kita	jalur-wav2vec2	
+RPL-06	RPL		80	769.200	775.148	5.948		misalnya krs atau khs di dalam sistem akademik keduanya bisa kita jadikan objek	jalur-wav2vec2	
+RPL-06	RPL		81	775.700	785.868	10.168		yang ketiga adalah roles misalnya manager engineer sales person dan lain sebagainya yang diperankan oleh orang orang yang berinteraksi dengan sistem	jalur-wav2vec2	
+RPL-06	RPL		82	786.260	792.492	6.232		ke empat adalah unit organisasi seperti divisi group atau tim yang relevan dengan sistem	jalur-wav2vec2	
+RPL-06	RPL		83	792.756	804.076	11.320		yang ke lima adalah tempat misalnya gudang perpustakaan atau universitas tentu tempat yang dipilih adalah yang membangun konteks masalah dan fungsi sistem secara keseluruhan	jalur-wav2vec2	
+RPL-06	RPL		84	804.212	813.708	9.496		dan yang ke enam adalash struktur yang mendefinisikan sebuah class atau objek objek misalnya sensor kendaraan roda empat komputer dan lain sebagainya	jalur-wav2vec2	
+RPL-06	RPL		85	813.876	818.060	4.184		umumnya yang dijadikan kelas atau objek adalah enam hal tersebut	jalur-wav2vec2	
+RPL-06	RPL		86	819.764	830.220	10.456		jika di dalam use case ada yang disebut dengan use case specification maka pada class model ada yang disebut dengan kartu class responsibility collaborator atau crc card	jalur-wav2vec2	
+RPL-06	RPL		87	830.356	837.452	7.096		crc ini digunakan untuk mengidentifikasi dan mengatur kelas yang relevan dengan kebutuhan sistem atau produknya	jalur-wav2vec2	
+RPL-06	RPL		88	837.620	849.324	11.704		sesuai namanya biasanya crc ini disajikan dalam bentuk kartu sehingga sering disebut juga dengan istilah crc card ini adalah ilustrasi seperti apa kartu crc dituliskan	jalur-wav2vec2	
+RPL-06	RPL		89	849.844	859.916	10.072		crc card ini direview oleh stakeholders pada metode pengembangan software dengan pendekatan agile seperti extreme programming penggunaan crc card menjadi sangat penting	jalur-wav2vec2	
+RPL-06	RPL		90	861.588	870.796	9.208		apabila suatu class sudah berhasil ditentukan langkah selanjutnya yang biasa dilakukan adalah menentukan relationship atau hubungan kelas tersebut dengan kelas lainnya	jalur-wav2vec2	
+RPL-06	RPL		91	870.836	875.820	4.984		ada banyak jenis hubungan antar class namun yang paling umum adalah tiga berikut	jalur-wav2vec2	
+RPL-06	RPL		92	875.860	879.372	3.512		yang pertama adalah the is part of relationship	jalur-wav2vec2	
+RPL-06	RPL		93	879.412	891.116	11.704		ini menunjukkan bawa sebuah kelas merupakan bagian dari kelas yang lainnya misalnya anda membuat kelas mobil dan kelas ban depan keduanya dapat dihubungkan dengan relationship jenis pertama ini	jalur-wav2vec2	
+RPL-06	RPL		94	891.700	895.040	3.340		yang kedua adalah the has knowledge of relationship	jalur-wav2vec2	
+RPL-06	RPL		95	895.040	904.044	9.004		misalnya ada kelas dosen dan ada kelas mata kuliah yang diajarkan maka keduanya dapat saling terhubung karena memiliki relationship jenis ini	jalur-wav2vec2	
+RPL-06	RPL		96	904.596	907.872	3.276		dan yang ketiga adalah the depends upon relationship	jalur-wav2vec2	
+RPL-06	RPL		97	907.872	919.628	11.756		ini menyatakan bahwa kelas terhubung karena salah satu kelas tersebut tergantung dari kelas lainnya misalkan anda membuat kelas krs yang untuk pengoperasiannya tergantung pada kelas mahasiswa	jalur-wav2vec2	
+RPL-06	RPL		98	920.980	928.908	7.928		dua notasi yang paling sering digunakan untuk menyatakan hubungan antar class pada class diagram adalah association dan juga dependencies	jalur-wav2vec2	
+RPL-06	RPL		99	928.948	933.920	4.972		association merupakan hubungan antar class ini merupakan hubungan yang umum	jalur-wav2vec2	
+RPL-06	RPL		100	933.920	937.772	3.852		pada class diagram association digambarkan dalam bentuk garis	jalur-wav2vec2	
+RPL-06	RPL		101	937.972	943.936	5.964		association biasanya juga dilengkapi dengan multiplicity yang dituliskan dalam angka angka	jalur-wav2vec2	
+RPL-06	RPL		102	943.936	951.980	8.044		dapat kita lihat contohnya ada class wall yang berasosiasi dengan tiga kelas lain yaitu wallsegment window dan juga door	jalur-wav2vec2	
+RPL-06	RPL		103	952.116	967.340	15.224		ada mutiplicity di sana misalnya pada kelas window yang dapat dibaca satu objek dari kelas window hanya dimiliki oleh satu objek dari kelas wall sementara itu satu objek kelas wall bisa memiliki nol hingga banyak objek window	jalur-wav2vec2	
+RPL-06	RPL		104	967.444	978.892	11.448		tentu kita paham maksudnya pada logika dunia nyata sebuah tembok bisa memiliki banyak jendela ataupun tidak sama sekali sementara itu satu buah jendela hannya dipasang pada satu tembok saja	jalur-wav2vec2	
+RPL-06	RPL		105	978.964	983.660	4.696		seperti itulah kurang lebih cara memaknai multiplicity dalam class diagram ini	jalur-wav2vec2	
+RPL-06	RPL		106	987.136	993.164	6.028		hubungan dependency terjadi apa bila ada suatu kelas yang memiliki ketergantungan dengan kelas lainnya	jalur-wav2vec2	
+RPL-06	RPL		107	993.300	996.588	3.288		ini adalah contoh kelas yang terhubung secara dependency	jalur-wav2vec2	
+RPL-06	RPL		108	996.852	1000.752	3.900		kelas displaywindow di sini akan tergantung dari camera yang merkeam	jalur-wav2vec2	
+RPL-06	RPL		109	1000.752	1006.864	6.112		logika di dunia nyata apa yang ditampilkan pada layar tergantung dari apa yang direkam oleh kamera	jalur-wav2vec2	
+RPL-06	RPL		110	1006.864	1012.428	5.564		jika kameranya tidak ada atau mati maka tidak ada yang bisa ditampilkan pada layar	jalur-wav2vec2	
+RPL-06	RPL		111	1012.500	1016.108	3.608		kurang lebih seperti itulah hubungan dependency antar kelas	jalur-wav2vec2	
+RPL-06	RPL		112	1016.788	1036.224	19.436		mari kita lanjutkan pembahasan kepada package dalam class model class based model biasanya menghasilkan banyak kelas yang akan mudah dilihat dan dianalisis jika dikelompokkan kedalam suatu package atau dengan kata lain suatu package berisi beberapa class yang dikelompokkan berdasarkan kesamaan atau kedekatan relasinya	jalur-wav2vec2	
+RPL-06	RPL		113	1036.224	1041.900	5.676		perhatikan gambar berikut ini merupakan contoh package diagram untuk sebuah aplikasi game	jalur-wav2vec2	
+RPL-06	RPL		114	1041.972	1051.436	9.464		package digambarkan dalam bentuk atau icon folder seperti yang dicontohkan ada tiga package yaitu environment characters dan rules off the game	jalur-wav2vec2	
+RPL-06	RPL		115	1051.540	1061.644	10.104		di dalam package environment ini terdapat delapan class yaitu mulai dari tree hingga scene simbol plus di sini merujuk pada class bukan method atau atribut	jalur-wav2vec2	
+RPL-06	RPL		116	1061.780	1068.972	7.192		sementara itu package character pada contoh memiliki empat class sedangkan package rule off the game memiliki dua kelas	jalur-wav2vec2	
+RPL-06	RPL		117	1069.172	1076.940	7.768		membuat package diagram sangat membantu kita dalam mengorganisir class class yang sudah kita buat terutama apabila class nya sangat banyak	jalur-wav2vec2	
+RPL-06	RPL		118	1078.164	1084.876	6.712		baiklah pembahasan tentang package tadi menjadi pembahasan penutup pada materi requirements modeling bagian pertama ini	jalur-wav2vec2	
+RPL-06	RPL		119	1084.948	1097.014	12.066		dua jenis model requirements lainnya dibahas pada video bagian ke dua secara terpisah berikut ini adalah dua referensi utama yang digunakan dalam penyusunan materinya terima kasih karena sudah menyimak video ini hingga selesai	jalur-wav2vec2	

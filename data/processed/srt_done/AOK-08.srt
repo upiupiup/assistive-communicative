@@ -1,0 +1,1259 @@
+1
+00:00:04,850 --> 00:00:07,190
+Baik, Assalamualaikum warahmatullahi wabarakatuh.
+
+2
+00:00:07,470 --> 00:00:13,210
+Kita lanjutkan sesi kedua dari topik operating system.
+
+3
+00:00:13,490 --> 00:00:18,930
+Bahasanya, dalam operating system,
+
+4
+00:00:20,250 --> 00:00:28,330
+terdiri dari beberapa subproses yang ada,
+
+5
+00:00:28,330 --> 00:00:48,150
+Dan di dalam pembahasan, di dalam proses eee kendalinya, di dalam monitoring kerja dari operating system nanti selalu dilakukan monitor oleh operating system terhadap proses-proses yang terjadi.
+
+6
+00:00:48,150 --> 00:01:14,890
+Jadi, melanjutkan pada sesi pertama yang materi di sesi 1, bahwasannya di dalam proses kendali batch processing pada sistem thread pada operating system ini terdiri dari beberapa proses scheduling.
+
+7
+00:01:14,890 --> 00:01:17,230
+di proses scheduling seperti ini
+
+8
+00:01:17,230 --> 00:01:18,630
+jadi misalnya ini pada saat
+
+9
+00:01:18,630 --> 00:01:21,050
+sekarang operating system
+
+10
+00:01:21,050 --> 00:01:23,030
+dalam hal ini komputasi
+
+11
+00:01:23,030 --> 00:01:25,450
+proses di CPU ini sedang menjalankan
+
+12
+00:01:25,450 --> 00:01:26,910
+aplikasi A
+
+13
+00:01:26,910 --> 00:01:29,650
+nah pada waktu berikutnya
+
+14
+00:01:29,650 --> 00:01:30,630
+step berikutnya
+
+15
+00:01:30,630 --> 00:01:32,210
+time berikutnya
+
+16
+00:01:32,210 --> 00:01:35,550
+menjalankan operating itu sendiri
+
+17
+00:01:35,550 --> 00:01:36,850
+operating system itu sendiri
+
+18
+00:01:36,850 --> 00:01:39,130
+kemudian pada state berikutnya
+
+19
+00:01:39,130 --> 00:01:41,030
+ini menjalankan
+
+20
+00:01:41,030 --> 00:01:42,110
+aplikasi B
+
+21
+00:01:42,110 --> 00:01:44,270
+kemudian nanti akan berulang lagi ke
+
+22
+00:01:44,270 --> 00:01:46,350
+A, operating system
+
+23
+00:01:46,350 --> 00:01:47,550
+B, dan seterusnya
+
+24
+00:01:47,550 --> 00:01:49,550
+jadi pada kasus
+
+25
+00:01:49,550 --> 00:01:52,550
+eee task manager
+
+26
+00:01:52,550 --> 00:01:54,430
+yang ada di komputer kita
+
+27
+00:01:54,430 --> 00:01:55,550
+dalam operating system
+
+28
+00:01:55,550 --> 00:01:57,650
+dalam hal ini operating system
+
+29
+00:01:57,650 --> 00:01:59,850
+Windows, ini akan
+
+30
+00:01:59,850 --> 00:02:01,530
+menjalankan proses
+
+31
+00:02:01,530 --> 00:02:03,950
+scheduling dari
+
+32
+00:02:03,950 --> 00:02:05,950
+aplikasi-aplikasi yang
+
+33
+00:02:05,950 --> 00:02:08,230
+sekarang aktif dan termasuk juga
+
+34
+00:02:08,230 --> 00:02:09,870
+otomatis juga modul-modul
+
+35
+00:02:09,870 --> 00:02:12,350
+yang ada di dalam operating system
+
+36
+00:02:12,350 --> 00:02:14,110
+bahwasannya
+
+37
+00:02:14,110 --> 00:02:16,370
+proses
+
+38
+00:02:16,370 --> 00:02:18,690
+time sharing semacam ini
+
+39
+00:02:18,690 --> 00:02:20,770
+jadi pembagian kerja
+
+40
+00:02:20,770 --> 00:02:23,050
+semacam ini dikenal dengan round robin
+
+41
+00:02:23,050 --> 00:02:25,650
+kalau di dalam istilah operating system
+
+42
+00:02:25,650 --> 00:02:27,190
+jadi round robin itu adalah merupakan
+
+43
+00:02:27,190 --> 00:02:28,930
+time yang berputar
+
+44
+00:02:28,930 --> 00:02:31,630
+secara pergantian dalam waktu yang cepat
+
+45
+00:02:31,630 --> 00:02:32,530
+ingat bahwasannya
+
+46
+00:02:32,530 --> 00:02:35,110
+prosesor kita itu dengan speed
+
+47
+00:02:35,110 --> 00:02:36,890
+katalah 2 GHz
+
+48
+00:02:36,890 --> 00:02:39,150
+artinya 2 milliard cycle
+
+49
+00:02:39,150 --> 00:02:40,790
+2 milliard cycle nanti
+
+50
+00:02:40,790 --> 00:02:42,470
+secara terus menerus
+
+51
+00:02:42,470 --> 00:02:44,870
+nanti akan pergantian
+
+52
+00:02:44,870 --> 00:02:47,170
+dari job satu ke job yang lain
+
+53
+00:02:47,170 --> 00:02:49,310
+dari aplikasi satu ke aplikasi yang lain
+
+54
+00:02:49,310 --> 00:02:50,010
+secara berurutan
+
+55
+00:02:50,010 --> 00:02:52,470
+pada task manager yang tadi sudah saya tunjukkan
+
+56
+00:02:52,470 --> 00:02:55,090
+misalkan ada 90 atau 100
+
+57
+00:02:55,090 --> 00:02:57,310
+aplikasi termasuk modul-modul
+
+58
+00:02:57,310 --> 00:02:58,810
+yang aktif dalam operating system itu secara
+
+59
+00:02:58,810 --> 00:03:00,810
+pergantian akan
+
+60
+00:03:00,810 --> 00:03:02,750
+dijalankan oleh operating system
+
+61
+00:03:02,750 --> 00:03:04,210
+dengan kendali dari
+
+62
+00:03:04,210 --> 00:03:06,630
+operating system tentu saja
+
+63
+00:03:06,630 --> 00:03:08,210
+dari
+
+64
+00:03:08,210 --> 00:03:09,690
+mekanisme
+
+65
+00:03:09,690 --> 00:03:12,810
+antriannya, proses
+
+66
+00:03:12,810 --> 00:03:14,010
+schedulingnya
+
+67
+00:03:14,010 --> 00:03:16,590
+operator system nanti akan memiliki
+
+68
+00:03:16,590 --> 00:03:17,870
+service call, nanti akan
+
+69
+00:03:17,870 --> 00:03:20,390
+berdasarkan sistem
+
+70
+00:03:20,390 --> 00:03:22,290
+interrupt yang ada di dalam
+
+71
+00:03:22,290 --> 00:03:24,710
+komputer, nanti akan bisa secara
+
+72
+00:03:24,710 --> 00:03:26,730
+bergantian untuk bagaimana proses
+
+73
+00:03:26,730 --> 00:03:28,470
+antrian menjalankan
+
+74
+00:03:28,470 --> 00:03:30,650
+mekanisme multitaskingnya
+
+75
+00:03:30,650 --> 00:03:32,470
+nah ini adalah
+
+76
+00:03:32,470 --> 00:03:34,810
+mekanisme multitasking
+
+77
+00:03:34,810 --> 00:03:36,550
+jadi melalui suatu
+
+78
+00:03:36,550 --> 00:03:38,610
+antrian, proses, jadi asumsinya
+
+79
+00:03:38,610 --> 00:03:40,890
+disini dengan satu prosesor, satu core
+
+80
+00:03:40,890 --> 00:03:44,950
+dengan teknologi komputer
+
+81
+00:03:44,950 --> 00:03:47,050
+yang sekarang, prosesor ini memiliki
+
+82
+00:03:47,050 --> 00:03:48,950
+memiliki multi core
+
+83
+00:03:48,950 --> 00:03:50,210
+misalkan ada dua core
+
+84
+00:03:50,210 --> 00:03:52,810
+dan dalam masing-masing core ada dua thread
+
+85
+00:03:52,810 --> 00:03:54,310
+sehingga totalnya empat thread, artinya
+
+86
+00:03:54,310 --> 00:03:57,190
+beban kerja yang sekarang ini
+
+87
+00:03:57,190 --> 00:03:59,030
+dijalankan oleh prosesor dalam hal ini
+
+88
+00:03:59,030 --> 00:04:00,790
+misalkan kita punya empat thread
+
+89
+00:04:00,790 --> 00:04:02,710
+maka proses komputasinya ini
+
+90
+00:04:02,710 --> 00:04:05,030
+berjalan paralel, ada empat thread
+
+91
+00:04:05,030 --> 00:04:06,950
+proses, thread proses yang menjalankan
+
+92
+00:04:06,950 --> 00:04:12,950
+dijalankan antrian-antrian ataupun run, secara run-robin tadinya,
+
+93
+00:04:12,950 --> 00:04:20,950
+bergantian secara terus-menerus untuk menjalankan antara satu aplikasi dengan aplikasi yang lain,
+
+94
+00:04:20,950 --> 00:04:27,950
+seolah-olah komputer kita ini sedang menjalankan sekian puluh aplikasi yang jalan bersama-sama.
+
+95
+00:04:27,950 --> 00:04:32,950
+Jadi pada saat kita browsing, kita bisa melakukan presentasi,
+
+96
+00:04:32,950 --> 00:04:34,730
+kita bisa sedang melakukan
+
+97
+00:04:34,730 --> 00:04:36,390
+proses record dalam hal ini
+
+98
+00:04:36,390 --> 00:04:38,650
+dalam waktu yang
+
+99
+00:04:38,650 --> 00:04:41,350
+serempak, dalam waktu yang
+
+100
+00:04:41,350 --> 00:04:43,270
+kontinu
+
+101
+00:04:43,270 --> 00:04:44,690
+terus menerus, ini
+
+102
+00:04:44,690 --> 00:04:46,930
+secara bergantian semua aplikasi itu bisa
+
+103
+00:04:46,930 --> 00:04:48,930
+berjalan bersama-sama
+
+104
+00:04:48,930 --> 00:04:50,530
+nah ini adalah mekanisme antrian
+
+105
+00:04:50,530 --> 00:04:53,070
+dalam operating system yang
+
+106
+00:04:53,070 --> 00:04:53,870
+dalam hal ini
+
+107
+00:04:53,870 --> 00:04:56,130
+membutuhkan
+
+108
+00:04:56,130 --> 00:04:58,930
+proses antrian, berbagai antrian
+
+109
+00:04:58,930 --> 00:05:01,110
+yang di long term
+
+110
+00:05:01,110 --> 00:05:10,830
+Jadi untuk yang antrian-antrian yang lambat sebenarnya bisa langsung dimasukkan ke swap apabila sistem komputer kita itu memiliki keterbatasan memori.
+
+111
+00:05:11,690 --> 00:05:18,430
+Manajemen memori dalam sistem operating kita, jadi ada yang menggunakan manajemen equal size partition atau yang unequal.
+
+112
+00:05:18,590 --> 00:05:23,710
+Jadi unequal pada umumnya yang pendekatannya yang sekarang dilakukan pada operating system sekarang adalah dengan unequal.
+
+113
+00:05:23,710 --> 00:05:30,750
+Tergantung kepada berapa besarnya kebutuhan suatu aplikasi ataupun data
+
+114
+00:05:30,750 --> 00:05:35,810
+Sehingga nanti masing-masing ini bisa berbeda-beda
+
+115
+00:05:35,810 --> 00:05:40,050
+Ini adalah contoh kasusnya, ini komputer pada kondisi kosong
+
+116
+00:05:40,050 --> 00:05:46,290
+Ini aplikasi satu jalan, aplikasi satu masuk, kemudian aplikasi kedua masuk, aplikasi ketiga masuk
+
+117
+00:05:46,290 --> 00:05:51,750
+Jadi langsung ditambahkan pada segmen-segmen memori tersebut
+
+118
+00:05:51,750 --> 00:05:54,450
+kemudian disini aplikasi kedua
+
+119
+00:05:54,450 --> 00:05:56,190
+keluar, kemudian
+
+120
+00:05:56,190 --> 00:05:57,530
+masuk aplikasi keempat
+
+121
+00:05:57,530 --> 00:06:00,430
+aplikasi keempat masuk, dijalankan
+
+122
+00:06:00,430 --> 00:06:01,970
+kemudian aplikasi
+
+123
+00:06:01,970 --> 00:06:04,010
+satu keluar, aplikasi dua
+
+124
+00:06:04,010 --> 00:06:05,830
+mungkin jalan lagi, nah
+
+125
+00:06:05,830 --> 00:06:08,010
+nanti akan diatur
+
+126
+00:06:08,010 --> 00:06:10,010
+mekanisme manajemen di memori
+
+127
+00:06:10,010 --> 00:06:12,010
+proses mekanisme
+
+128
+00:06:12,010 --> 00:06:14,250
+manajemennya, sehingga nanti di dalam
+
+129
+00:06:14,250 --> 00:06:17,410
+manajemen
+
+130
+00:06:17,410 --> 00:06:19,710
+akses untuk
+
+131
+00:06:19,710 --> 00:06:21,670
+misalkan terbatas memori, nanti
+
+132
+00:06:21,670 --> 00:06:23,870
+akan dibuat mekanisme virtual
+
+133
+00:06:23,870 --> 00:06:25,410
+memory, jadi pada
+
+134
+00:06:25,410 --> 00:06:27,350
+virtual memory nanti sebenarnya
+
+135
+00:06:27,350 --> 00:06:29,810
+mengalokasikan main
+
+136
+00:06:29,810 --> 00:06:31,730
+memory kita itu kepada device
+
+137
+00:06:31,730 --> 00:06:33,630
+secondary, misalkan di
+
+138
+00:06:33,630 --> 00:06:35,670
+hard disk, nah keterbatasan
+
+139
+00:06:35,670 --> 00:06:38,050
+keterbatasan memory
+
+140
+00:06:38,050 --> 00:06:39,210
+ini sebenarnya nanti akan
+
+141
+00:06:39,210 --> 00:06:41,350
+mengakibatkan
+
+142
+00:06:41,350 --> 00:06:43,450
+performance
+
+143
+00:06:43,450 --> 00:06:45,830
+karena virtual
+
+144
+00:06:45,830 --> 00:06:47,810
+memory ini menggunakan
+
+145
+00:06:47,810 --> 00:06:49,870
+secondary memory yang ada di hard disk
+
+146
+00:06:49,870 --> 00:06:54,070
+di mana kecepatan hard disk dibandingkan dengan kecepatan main memory sangat jauh
+
+147
+00:06:54,070 --> 00:07:00,050
+mengibatkan mungkin akan terjadi keterlambatan-keterlambatan
+
+148
+00:07:00,050 --> 00:07:03,890
+oleh karena itu sebaiknya apabila sistem komputer kita itu
+
+149
+00:07:03,890 --> 00:07:09,090
+memorinya terbatas ya jangan sampai kita membuka aplikasi yang terlalu banyak
+
+150
+00:07:09,090 --> 00:07:15,510
+jadi ketika kita sedang menjalankan suatu aplikasi
+
+151
+00:07:15,510 --> 00:07:37,810
+maka sebaiknya aplikasi kita itu akan aktif ataupun diaktifkan untuk menjalankan aplikasi-aplikasi tersebut sesuai dengan beberapa kebutuhan aplikasi dan disesuaikan dengan ketersediaan memori.
+
+152
+00:07:37,810 --> 00:07:39,410
+jadi kalau memori kita
+
+153
+00:07:39,410 --> 00:07:41,630
+di main memori kita sangat
+
+154
+00:07:41,630 --> 00:07:44,110
+longgar, jadi dengan kapasitas
+
+155
+00:07:44,110 --> 00:07:45,550
+yang 6GB ataupun
+
+156
+00:07:45,550 --> 00:07:47,270
+16GB, saya kira itu
+
+157
+00:07:47,270 --> 00:07:49,550
+kita bisa menjalankan aplikasi yang lebih
+
+158
+00:07:49,550 --> 00:07:51,670
+leluasa, tapi kalau
+
+159
+00:07:51,670 --> 00:07:53,510
+misalkan memori kita terbatas
+
+160
+00:07:53,510 --> 00:07:55,690
+terpaksa nanti operating system
+
+161
+00:07:55,690 --> 00:07:57,830
+akan define memori virtual
+
+162
+00:07:57,830 --> 00:07:59,550
+yang mengakibatkan nanti
+
+163
+00:07:59,550 --> 00:08:00,830
+performa komputer kita itu akan
+
+164
+00:08:00,830 --> 00:08:02,150
+melambat
+
+165
+00:08:02,150 --> 00:08:05,230
+ini adalah mekanisme virtual
+
+166
+00:08:05,230 --> 00:08:07,230
+memori dan
+
+167
+00:08:07,230 --> 00:08:09,630
+aksesnya dan demikian pula
+
+168
+00:08:09,630 --> 00:08:11,750
+dalam pengalokasian
+
+169
+00:08:11,750 --> 00:08:13,270
+memiliki nanti akan menggunakan
+
+170
+00:08:13,270 --> 00:08:14,890
+segmentasi-segmentasi
+
+171
+00:08:14,890 --> 00:08:17,690
+sehingga antara instruksi dan data nanti bisa
+
+172
+00:08:17,690 --> 00:08:19,610
+teralokasi
+
+173
+00:08:19,610 --> 00:08:21,450
+pada tempat yang
+
+174
+00:08:21,450 --> 00:08:23,110
+benar
+
+175
+00:08:23,110 --> 00:08:25,290
+contoh manajemen
+
+176
+00:08:25,290 --> 00:08:27,690
+manajemen
+
+177
+00:08:27,690 --> 00:08:28,590
+memori di
+
+178
+00:08:28,590 --> 00:08:31,150
+Intel 8.6
+
+179
+00:08:31,150 --> 00:08:33,430
+disana ada segmentasi
+
+180
+00:08:33,430 --> 00:08:35,070
+ada register segment yang nantinya
+
+181
+00:08:35,070 --> 00:08:37,770
+berinteraksi dengan operating system
+
+182
+00:08:37,770 --> 00:08:39,390
+nanti bagaimana mengalokasikan
+
+183
+00:08:39,390 --> 00:08:41,510
+memori-memori itu dalam
+
+184
+00:08:41,510 --> 00:08:43,050
+proses
+
+185
+00:08:43,050 --> 00:08:45,950
+penyimpanan
+
+186
+00:08:45,950 --> 00:08:47,750
+datanya, jadi melalui
+
+187
+00:08:47,750 --> 00:08:49,850
+mekanisme segmentasi dengan
+
+188
+00:08:49,850 --> 00:08:53,410
+penggunaan virtual
+
+189
+00:08:53,410 --> 00:08:55,990
+ataupun dengan alokasi
+
+190
+00:08:55,990 --> 00:08:57,430
+pada umumnya sekarang ini menggunakan
+
+191
+00:08:57,430 --> 00:09:00,150
+virtual yang otomatis
+
+192
+00:09:00,150 --> 00:09:02,430
+di sistem operasi
+
+193
+00:09:02,430 --> 00:09:03,350
+operating system yang
+
+194
+00:09:03,350 --> 00:09:05,530
+baru, sehingga
+
+195
+00:09:05,530 --> 00:09:07,570
+prinsipnya bahwasannya
+
+196
+00:09:07,570 --> 00:09:09,950
+segmen-segmen dalam memori
+
+197
+00:09:09,950 --> 00:09:11,990
+ataupun dalam virtual nanti harus
+
+198
+00:09:11,990 --> 00:09:13,910
+tetap dijaga sehingga operasinya
+
+199
+00:09:13,910 --> 00:09:16,390
+bisa berjalan
+
+200
+00:09:16,390 --> 00:09:18,410
+ini adalah mekanisme segmentasi
+
+201
+00:09:18,410 --> 00:09:20,190
+dalam
+
+202
+00:09:20,190 --> 00:09:23,930
+memori kita
+
+203
+00:09:23,930 --> 00:09:24,790
+dari manajemen
+
+204
+00:09:24,790 --> 00:09:27,670
+memori dari Intel
+
+205
+00:09:27,670 --> 00:09:29,810
+tentu saja nanti berbeda
+
+206
+00:09:29,810 --> 00:09:32,130
+tentu saja mekanisme manajemen
+
+207
+00:09:32,130 --> 00:09:35,530
+memorinya antara satu prosesor dengan prosesor yang lain
+
+208
+00:09:35,530 --> 00:09:38,670
+dan operating system nanti akan menyesuaikan
+
+209
+00:09:38,670 --> 00:09:41,250
+oleh karena itu platform operating system ini
+
+210
+00:09:41,250 --> 00:09:44,390
+antara satu prosesor dengan prosesor yang lain
+
+211
+00:09:44,390 --> 00:09:46,930
+itu bisa berbeda-beda
+
+212
+00:09:46,930 --> 00:09:50,210
+jadi misalnya operating system
+
+213
+00:09:50,210 --> 00:09:53,270
+android, tadi android itu ada android
+
+214
+00:09:53,270 --> 00:09:56,150
+padamnya menggunakan ARM
+
+215
+00:09:56,150 --> 00:09:59,250
+dan ARM ini ada banyak-banyak vendor yang telah
+
+216
+00:09:59,250 --> 00:10:00,530
+branding ulang
+
+217
+00:10:00,530 --> 00:10:03,410
+prosesor masing-masing, jadi seperti
+
+218
+00:10:03,410 --> 00:10:05,110
+prosesor dari
+
+219
+00:10:05,110 --> 00:10:06,710
+Samsung
+
+220
+00:10:06,710 --> 00:10:09,470
+kemudian Mediatek
+
+221
+00:10:09,470 --> 00:10:10,430
+ataupun dari
+
+222
+00:10:10,430 --> 00:10:15,570
+beberapa pabrikan
+
+223
+00:10:15,570 --> 00:10:17,270
+seperti Intel itu memiliki
+
+224
+00:10:17,270 --> 00:10:19,410
+spesifikasi prosesor dan nanti
+
+225
+00:10:19,410 --> 00:10:21,090
+meskipun sama-sama Android
+
+226
+00:10:21,090 --> 00:10:23,550
+barangkali nanti ada beberapa
+
+227
+00:10:23,550 --> 00:10:25,230
+perbedaan
+
+228
+00:10:25,230 --> 00:10:27,950
+apalagi antara operating system
+
+229
+00:10:27,950 --> 00:10:29,890
+dari sistem operasi
+
+230
+00:10:29,890 --> 00:10:31,430
+misalkan kita punya Windows ini
+
+231
+00:10:31,430 --> 00:10:34,110
+padahal jalan di Intel ataupun AMD
+
+232
+00:10:34,110 --> 00:10:35,610
+nah mekanisme
+
+233
+00:10:35,610 --> 00:10:37,730
+manajemen memori
+
+234
+00:10:37,730 --> 00:10:39,990
+disesuaikan dengan bagaimana
+
+235
+00:10:39,990 --> 00:10:42,130
+alokasi manajemen segmentasi
+
+236
+00:10:42,130 --> 00:10:44,350
+yang ada di prosesor Intel
+
+237
+00:10:44,350 --> 00:10:46,130
+dan
+
+238
+00:10:46,130 --> 00:10:47,150
+mungkin juga compatible
+
+239
+00:10:47,150 --> 00:10:49,350
+tapi mungkin ke depan
+
+240
+00:10:49,350 --> 00:10:51,930
+Windows juga akan
+
+241
+00:10:51,930 --> 00:10:53,350
+bisa masuk
+
+242
+00:10:53,350 --> 00:10:56,070
+menggunakan operating system
+
+243
+00:10:56,070 --> 00:10:58,150
+platform dari ARM
+
+244
+00:10:58,150 --> 00:11:00,150
+mungkin sekarang masih terbatas
+
+245
+00:11:00,150 --> 00:11:01,890
+tapi mungkin ke depan
+
+246
+00:11:01,890 --> 00:11:03,910
+prosesor ARM ini kayaknya
+
+247
+00:11:03,910 --> 00:11:05,850
+juga memiliki segmen yang
+
+248
+00:11:05,850 --> 00:11:07,890
+cukup menarik
+
+249
+00:11:07,890 --> 00:11:09,290
+karena efisiensi
+
+250
+00:11:09,290 --> 00:11:09,890
+jadi padahal
+
+251
+00:11:09,890 --> 00:11:13,710
+keunggulan dari prosesor ARM ini
+
+252
+00:11:13,710 --> 00:11:14,590
+terletak pada
+
+253
+00:11:14,590 --> 00:11:17,890
+low power consumption
+
+254
+00:11:17,890 --> 00:11:19,310
+sehingga hemat
+
+255
+00:11:19,310 --> 00:11:20,930
+baterai, padahal untuk
+
+256
+00:11:20,930 --> 00:11:23,490
+mobile-mobile, perangkat-perangkat mobile
+
+257
+00:11:23,490 --> 00:11:24,910
+ini dengan ARM, tetapi
+
+258
+00:11:24,910 --> 00:11:26,930
+Intel memiliki keunggulan
+
+259
+00:11:26,930 --> 00:11:28,370
+dalam sisi performance
+
+260
+00:11:28,370 --> 00:11:30,610
+dari sisi performance dan efisiensi
+
+261
+00:11:30,610 --> 00:11:31,670
+jadi
+
+262
+00:11:31,670 --> 00:11:34,130
+management memory di
+
+263
+00:11:34,130 --> 00:11:35,550
+Intel pada umumnya lebih
+
+264
+00:11:35,550 --> 00:11:37,530
+kompak gitu ya
+
+265
+00:11:37,530 --> 00:11:37,930
+lebih
+
+266
+00:11:37,930 --> 00:11:44,190
+efisien gitu ya
+
+267
+00:11:44,190 --> 00:11:45,890
+sehingga alokasinya
+
+268
+00:11:45,890 --> 00:11:48,030
+sama-sama kita punya RAM
+
+269
+00:11:48,030 --> 00:11:49,470
+dengan 8GB di
+
+270
+00:11:49,470 --> 00:11:52,490
+handphone kita yang berbesar
+
+271
+00:11:52,490 --> 00:11:54,190
+yang pada umumnya dibandingkan
+
+272
+00:11:54,190 --> 00:11:56,270
+dengan lawan mereka
+
+273
+00:11:56,270 --> 00:11:58,050
+di laptop ataupun PC
+
+274
+00:11:58,050 --> 00:11:58,610
+itu
+
+275
+00:11:58,610 --> 00:12:02,410
+bisa lebih banyak menampung
+
+276
+00:12:02,410 --> 00:12:03,730
+aplikasi waktun data
+
+277
+00:12:03,730 --> 00:12:05,970
+ataupun manajemen
+
+278
+00:12:05,970 --> 00:12:07,830
+aplikasinya
+
+279
+00:12:07,830 --> 00:12:10,250
+jadi tampaknya memang
+
+280
+00:12:10,250 --> 00:12:12,130
+ada beberapa
+
+281
+00:12:12,130 --> 00:12:13,670
+keunggulan memang di
+
+282
+00:12:13,670 --> 00:12:16,470
+proses-proses yang berbasiskan
+
+283
+00:12:16,470 --> 00:12:17,230
+Intel ini
+
+284
+00:12:17,230 --> 00:12:18,450
+ini adalah
+
+285
+00:12:18,450 --> 00:12:20,870
+mekanisme addressing
+
+286
+00:12:20,870 --> 00:12:22,190
+dari mid memory ke
+
+287
+00:12:22,190 --> 00:12:25,470
+ke prosesor
+
+288
+00:12:25,470 --> 00:12:27,190
+untuk yang ARM
+
+289
+00:12:27,190 --> 00:12:28,570
+dengan manajemen
+
+290
+00:12:28,570 --> 00:12:31,510
+memory unit yang nantinya bagaimana
+
+291
+00:12:31,510 --> 00:12:32,510
+mengalokasikan
+
+292
+00:12:32,510 --> 00:12:34,810
+cache
+
+293
+00:12:34,810 --> 00:12:36,430
+manajemen cache
+
+294
+00:12:36,430 --> 00:12:39,750
+dan proses dengan ke main memory
+
+295
+00:12:39,750 --> 00:12:41,210
+jadi pada penunjuknya
+
+296
+00:12:41,210 --> 00:12:43,870
+masing-masing prosesor itu memiliki
+
+297
+00:12:43,870 --> 00:12:45,650
+proses manajemen waktu
+
+298
+00:12:45,650 --> 00:12:46,150
+yang
+
+299
+00:12:46,150 --> 00:12:49,350
+berbeda-beda dan memiliki
+
+300
+00:12:49,350 --> 00:12:51,530
+keunggulan yang berbeda untuk
+
+301
+00:12:51,530 --> 00:12:53,750
+proses aksesnya
+
+302
+00:12:53,750 --> 00:12:55,210
+oke
+
+303
+00:12:55,210 --> 00:12:57,710
+demikian untuk sesi kedua
+
+304
+00:12:57,710 --> 00:13:00,290
+materi operating system
+
+305
+00:13:00,290 --> 00:13:03,790
+kita ketemu
+
+306
+00:13:03,790 --> 00:13:05,710
+pada materi
+
+307
+00:13:05,710 --> 00:13:08,250
+selanjutnya
+
+308
+00:13:08,250 --> 00:13:09,890
+selamat
+
+309
+00:13:09,890 --> 00:13:14,460
+untuk bisa meneruskan
+
+310
+00:13:14,460 --> 00:13:16,200
+pada materi
+
+311
+00:13:17,040 --> 00:13:18,620
+berikutnya kita sambung
+
+312
+00:13:18,620 --> 00:13:19,520
+ke depan
+
+313
+00:13:19,520 --> 00:13:21,880
+demikian, assalamualaikum warahmatullahi
+
+314
+00:13:21,880 --> 00:13:23,460
+wabarakatuh
+
+315
+00:13:23,480 --> 00:13:53,460
+

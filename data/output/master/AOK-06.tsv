@@ -1,0 +1,391 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+AOK-06	AOK		1	0.000	1.540	1.540	Assalamualaikum warahmatullahi wabarakatuh	Assalamualaikum warahmatullahi wabarakatuh		
+AOK-06	AOK		2	1.540	3.960	2.420	pada kesempatan kali ini	pada kesempatan kali ini		
+AOK-06	AOK		3	3.960	6.220	2.260	kita akan mempelajari	kita akan mempelajari		
+AOK-06	AOK		4	6.220	7.980	1.760	topik terkait dengan	topik terkait dengan		
+AOK-06	AOK		5	7.980	9.860	1.880	memori eksternal	memori eksternal		
+AOK-06	AOK		6	9.860	12.100	2.240	pada mata kuliah AUK	pada mata kuliah AOK		
+AOK-06	AOK		7	12.100	13.460	1.360	dengan cara	dengan cara		
+AOK-06	AOK		8	13.460	14.520	1.060	madadipi mananda	madadipi mananda		
+AOK-06	AOK		9	14.520	17.780	3.260	pada dasarnya	pada dasarnya		
+AOK-06	AOK		10	17.780	19.000	1.220	nanti kita akan	nanti kita akan		
+AOK-06	AOK		11	19.000	21.520	2.520	membahas terkait dengan	membahas terkait dengan		
+AOK-06	AOK		12	21.520	22.540	1.020	hard disk	hard disk		
+AOK-06	AOK		13	22.540	25.700	3.160	bagaimana sifat utama hard disk	bagaimana sifat utama hard disk		
+AOK-06	AOK		14	25.700	26.900	1.200	atau disk manetik	atau disk manetik		
+AOK-06	AOK		15	27.820	28.860	1.040	kemudian	kemudian		
+AOK-06	AOK		16	28.860	30.860	2.000	masalah kinerja yang ada di disk	masalah kinerja yang ada di disk		
+AOK-06	AOK		17	30.860	32.780	1.920	magnetic dan bagaimana	magnetic dan bagaimana		
+AOK-06	AOK		18	32.780	34.100	1.320	konsep rate nantinya	konsep RAID nantinya		
+AOK-06	AOK		19	34.100	34.700	0.600	atau	atau		
+AOK-06	AOK		20	34.700	38.280	3.580	untuk redundancy atau backup	untuk redundancy atau backup		
+AOK-06	AOK		21	38.280	40.080	1.800	biasanya digunakan untuk itu	biasanya digunakan untuk itu		
+AOK-06	AOK		22	40.080	42.000	1.920	dan level-levelnya karena ada	dan level-levelnya karena ada		
+AOK-06	AOK		23	42.000	43.500	1.500	7 level nantinya	7 level nantinya		
+AOK-06	AOK		24	43.500	46.080	2.580	kemudian membandingkan kinerja	kemudian membandingkan kinerja		
+AOK-06	AOK		25	46.080	48.080	2.000	ataupun membandingkan spek dari	ataupun membandingkan spek dari		
+AOK-06	AOK		26	48.080	50.380	2.300	hard disk dengan SSD	hard disk dengan SSD		
+AOK-06	AOK		27	50.380	52.100	1.720	yang saat ini sedang	yang saat ini sedang		
+AOK-06	AOK		28	52.780	56.120	3.340	berkembang di SSD nya	eee apa namanya berkembang di SSD nya		
+AOK-06	AOK		29	56.120	57.400	1.280	kemudian	kemudian		
+AOK-06	AOK		30	57.400	59.000	1.600	flash memory	flash memory		
+AOK-06	AOK		31	59.000	61.940	2.940	beberapa operasi	beberapa operasi		
+AOK-06	AOK		32	61.940	63.980	2.040	flash memory yang salah satunya	flash memory yang salah satunya		
+AOK-06	AOK		33	63.980	64.900	0.920	pembentuk dari	pembentuk dari		
+AOK-06	AOK		34	64.900	67.060	2.160	solid state drive	solid state drive		
+AOK-06	AOK		35	67.060	70.400	3.340	kemudian yang selanjutnya	kemudian yang selanjutnya		
+AOK-06	AOK		36	70.400	71.980	1.580	adalah perbedaan	adalah perbedaan		
+AOK-06	AOK		37	71.980	74.340	2.360	berbagai media penyimpanan	berbagai media penyimpanan		
+AOK-06	AOK		38	74.340	74.980	0.640	disk optik	disk optik		
+AOK-06	AOK		39	74.980	78.300	3.320	dimana masuknya disini adalah	dimana masuknya disini adalah		
+AOK-06	AOK		40	78.300	78.940	0.640	seperti	seperti		
+AOK-06	AOK		41	78.940	82.560	3.620	cd, cdrw, dvd	cd, cdrw, dvd		
+AOK-06	AOK		42	82.560	84.480	1.920	kemudian	kemudian		
+AOK-06	AOK		43	84.480	86.400	1.920	gambaran umum terkait dengan	gambaran umum terkait dengan		
+AOK-06	AOK		44	86.400	88.980	2.580	penyimpanan	penyimpanan		
+AOK-06	AOK		45	88.980	90.700	1.720	pita magnetik	pita magnetik		
+AOK-06	AOK		46	90.700	91.280	0.580	seperti	seperti		
+AOK-06	AOK		47	91.280	93.560	2.280	model	model		
+AOK-06	AOK		48	93.560	96.140	2.580	recording dulu	recording dulu		
+AOK-06	AOK		49	96.140	97.240	1.100	ada film	ada film		
+AOK-06	AOK		50	97.240	99.480	2.240	modelnya itu seperti itu	modelnya itu seperti itu		
+AOK-06	AOK		51	99.480	102.520	3.040	oke nanti kita akan bahas satu persatu	oke nanti kita akan bahas satu persatu		
+AOK-06	AOK		52	102.520	104.500	1.980	nah yang pertama	nah yang pertama		
+AOK-06	AOK		53	104.500	106.140	1.640	disini adalah disk	disini adalah disk		
+AOK-06	AOK		54	106.140	108.700	2.560	yang mungkin kita	yang mungkin kita		
+AOK-06	AOK		55	108.700	110.120	1.420	sekarang ini pakai	sekarang ini pakai		
+AOK-06	AOK		56	110.120	112.640	2.520	di dalam laptop ataupun komputer kita	di dalam laptop ataupun komputer kita		
+AOK-06	AOK		57	112.640	113.860	1.220	merupakan	merupakan		
+AOK-06	AOK		58	113.860	116.020	2.160	piringan atau	piringan atau		
+AOK-06	AOK		59	116.020	117.160	1.140	istilahnya plater	istilahnya plater		
+AOK-06	AOK		60	117.160	119.700	2.540	yang berbentuk bundar	yang berbentuk bundar		
+AOK-06	AOK		61	119.700	121.600	1.900	atau seperti ini	atau seperti ini		
+AOK-06	AOK		62	121.600	124.060	2.460	terbuat dari	terbuat dari		
+AOK-06	AOK		63	124.060	125.500	1.440	bahan non-magnetic yang	bahan non-magnetic yang		
+AOK-06	AOK		64	125.500	127.220	1.720	disebut substrate	disebut substrat		
+AOK-06	AOK		65	127.220	130.120	2.900	jadi substrate ini	jadi substrat ini		
+AOK-06	AOK		66	130.120	131.360	1.240	merupakan salah satu	merupakan salah satu		
+AOK-06	AOK		67	131.360	132.480	1.120	bahan	bahan		
+AOK-06	AOK		68	132.480	135.820	3.340	kemudian dilapisi bahan yang dapat	kemudian dilapisi bahan yang dapat		
+AOK-06	AOK		69	135.820	136.800	0.980	dimagnetisasi	dimagnetisasi		
+AOK-06	AOK		70	136.800	138.540	1.740	jadi ada layer	jadi ada layer		
+AOK-06	AOK		71	138.540	140.140	1.600	kemudian diatas layernya lagi	kemudian diatas layernya lagi		
+AOK-06	AOK		72	140.140	142.740	2.600	dilapisi dengan bahan yang	dilapisi dengan bahan yang		
+AOK-06	AOK		73	142.740	143.540	0.800	magnet	magnet		
+AOK-06	AOK		74	143.540	146.280	2.740	kemudian secara tradisional	kemudian secara tradisional		
+AOK-06	AOK		75	146.280	147.660	1.380	jadi adalah bahannya aluminium	jadi adalah bahannya aluminium		
+AOK-06	AOK		76	147.660	149.880	2.220	kalau saat ini bentuknya seperti	kalau saat ini bentuknya seperti		
+AOK-06	AOK		77	149.880	151.740	1.860	kaca, bahan kaca	kaca, bahan kaca		
+AOK-06	AOK		78	151.740	153.980	2.240	kenapa bahan kaca?	kenapa bahan kaca?		
+AOK-06	AOK		79	154.140	156.320	2.180	karena ada beberapa manfaat	karena ada beberapa manfaat		
+AOK-06	AOK		80	156.320	158.040	1.720	dimana dia bisa	dimana dia bisa		
+AOK-06	AOK		81	158.040	160.200	2.160	meningkatkan keandalan dari	meningkatkan keandalan dari		
+AOK-06	AOK		82	160.200	162.200	2.000	disk, artinya	disk, artinya		
+AOK-06	AOK		83	162.200	164.140	1.940	robust	robust		
+AOK-06	AOK		84	164.140	165.860	1.720	disini, kemudian	disini, kemudian		
+AOK-06	AOK		85	165.860	167.860	2.000	mengurangi kesalahan dari read and write	mengurangi kesalahan dari read and write		
+AOK-06	AOK		86	167.860	170.420	2.560	artinya dalam membaca sebuah data	artinya dalam membaca sebuah data		
+AOK-06	AOK		87	170.420	172.420	2.000	dan menulis sebuah data	dan menulis sebuah data		
+AOK-06	AOK		88	172.420	174.420	2.000	itu bisa dikurangi kalau menggunakan	itu bisa dikurangi kalau menggunakan		
+AOK-06	AOK		89	174.420	176.440	2.020	kaca, kemudian	kaca, kemudian		
+AOK-06	AOK		90	176.440	178.460	2.020	mendukung ketinggian terbang	mendukung ketinggian terbang		
+AOK-06	AOK		91	178.460	180.500	2.040	yang lebih rendah, maksudnya ketinggian terbang ini	yang lebih rendah, maksudnya ketinggian terbang ini		
+AOK-06	AOK		92	180.500	182.680	2.180	headnya	headnya		
+AOK-06	AOK		93	182.680	184.320	1.640	karena yang membaca itu adalah	karena yang membaca itu adalah		
+AOK-06	AOK		94	184.320	186.020	1.700	head dari disk	head dari disk		
+AOK-06	AOK		95	186.020	188.580	2.560	jadi nanti ada konsep head	jadi nanti ada konsep head		
+AOK-06	AOK		96	188.580	190.300	1.720	yang nanti akan membaca	yang nanti akan membaca		
+AOK-06	AOK		97	190.300	192.560	2.260	dari disk ini, ketinggian terbangnya	dari disk ini, ketinggian terbangnya		
+AOK-06	AOK		98	192.560	193.580	1.020	yang lebih rendah	yang lebih rendah		
+AOK-06	AOK		99	193.580	196.500	2.920	kemudian mengurangi dinamika disk	kemudian mengurangi dinamika disk		
+AOK-06	AOK		100	196.500	198.440	1.940	dan menahan guncangan	dan menahan guncangan		
+AOK-06	AOK		101	198.440	200.200	1.760	dan kerusakan, karena terkadang	dan kerusakan, karena terkadang		
+AOK-06	AOK		102	200.200	202.780	2.580	kalau terkena guncangan dan kerusakan	kalau terkena guncangan dan kerusakan		
+AOK-06	AOK		103	202.780	204.180	1.400	kalau misalkan tanpa	kalau misalkan tanpa		
+AOK-06	AOK		104	204.180	206.520	2.340	bahan sebelum kaca ini	bahan sebelum kaca ini		
+AOK-06	AOK		105	206.520	209.140	2.620	mudah sekali untuk terguncang	mudah sekali untuk terguncang		
+AOK-06	AOK		106	209.140	210.520	1.380	nah kalau kaca	nah kalau kaca		
+AOK-06	AOK		107	210.520	212.700	2.180	ini bisa sampai menahan	ini bisa sampai menahan		
+AOK-06	AOK		108	212.700	214.320	1.620	guncangan tersebut	guncangan tersebut		
+AOK-06	AOK		109	214.320	216.500	2.180	nah	nah		
+AOK-06	AOK		110	216.500	218.700	2.200	dari sisi mekanisme	dari sisi mekanisme		
+AOK-06	AOK		111	218.700	219.760	1.060	read and write disini	read and write disini		
+AOK-06	AOK		112	219.760	222.380	2.620	jadi yang namanya	jadi yang namanya		
+AOK-06	AOK		113	222.380	225.020	2.640	data itu akan dikirimkan	data itu akan dikirimkan		
+AOK-06	AOK		114	225.020	226.420	1.400	dan diambil dari disk	dan diambil dari disk		
+AOK-06	AOK		115	226.420	228.460	2.040	melalui pembahasan kondisi	melalui pembahasan kondisi		
+AOK-06	AOK		116	228.460	240.280	11.820	Jadi ada sejenis koil atau kumparan yang nantinya ini akan berada pada sebuah head	Jadi ada sejenis koil atau kumparan yang nantinya ini akan berada pada sebuah head		
+AOK-06	AOK		117	240.280	246.540	6.260	Yang mana head ini yang digunakan untuk proses membaca ataupun menulis	Yang mana head ini yang digunakan untuk proses membaca ataupun menulis		
+AOK-06	AOK		118	246.540	249.780	3.240	Dan menempatkan di sektor mana	Dan menempatkan di sektor mana		
+AOK-06	AOK		119	249.780	256.560	6.780	Ada yang dua headnya itu adalah head untuk read	Ada yang dua headnya itu adalah head untuk read		
+AOK-06	AOK		120	256.560	259.800	3.240	dan yang satunya adalah head untuk right	dan yang satunya adalah head untuk write		
+AOK-06	AOK		121	259.800	262.880	3.080	nah selama proses read or write	nah selama proses read or write		
+AOK-06	AOK		122	262.880	264.480	1.600	head ini tidak bergerak	head ini tidak bergerak		
+AOK-06	AOK		123	264.480	267.820	3.340	jadi konsepnya adalah dia tidak bergerak	jadi konsepnya adalah dia tidak bergerak		
+AOK-06	AOK		124	267.820	269.420	1.600	namun nanti ada juga yang bergerak	namun nanti ada juga yang bergerak		
+AOK-06	AOK		125	269.420	270.820	1.400	ya ini secara defaultnya	ya ini secara defaultnya		
+AOK-06	AOK		126	270.820	273.820	3.000	nah yang bergerak adalah piringannya	nah yang bergerak adalah piringannya		
+AOK-06	AOK		127	273.820	275.920	2.100	jadi ini nanti ada piringan	jadi ini nanti ada piringan		
+AOK-06	AOK		128	275.920	277.400	1.480	kemudian ada head	kemudian ada head		
+AOK-06	AOK		129	277.400	279.040	1.640	headnya ini fix	headnya ini fix		
+AOK-06	AOK		130	279.040	282.980	3.940	sedangkan piringannya ini yang berputar	sedangkan piringannya ini yang berputar		
+AOK-06	AOK		131	282.980	287.020	4.040	nah mekanisme	nah mekanisme		
+AOK-06	AOK		132	287.020	287.740	0.720	yang berada disini	yang berada disini		
+AOK-06	AOK		133	287.740	290.120	2.380	nantinya akan ada arus	nantinya akan ada arus		
+AOK-06	AOK		134	290.120	291.880	1.760	karena ada	karena ada		
+AOK-06	AOK		135	291.880	293.720	1.840	arus	arus		
+AOK-06	AOK		136	293.720	296.700	2.980	yang mengalir melalui pumparan	yang mengalir melalui pumparan		
+AOK-06	AOK		137	296.700	297.200	0.500	ya	ya		
+AOK-06	AOK		138	297.200	299.960	2.760	maka dia akan menghasilkan	maka dia akan menghasilkan		
+AOK-06	AOK		139	299.960	300.920	0.960	medan magnet	medan magnet		
+AOK-06	AOK		140	300.920	304.340	3.420	disini akan menghasilkan medan magnet	disini akan menghasilkan medan magnet		
+AOK-06	AOK		141	304.340	306.660	2.320	baru akan dikirim ke head	baru akan dikirim ke head		
+AOK-06	AOK		142	306.660	308.440	1.780	nah di head ini	nah di head ini		
+AOK-06	AOK		143	308.440	309.820	1.380	pola magnetiknya akan	pola magnetiknya akan		
+AOK-06	AOK		144	309.820	311.900	2.080	terken di permukaan bawah	terken di permukaan bawah		
+AOK-06	AOK		145	311.900	315.740	3.840	Jadi nanti akan ada nilai minus dan plus	Jadi nanti akan ada nilai minus dan plus		
+AOK-06	AOK		146	315.740	319.220	3.480	Nah ini nanti akan membaca data tadi	Nah ini nanti akan membaca data tadi		
+AOK-06	AOK		147	319.220	321.000	1.780	Satu dan nolnya	Satu dan nolnya		
+AOK-06	AOK		148	321.000	325.820	4.820	Nah kalau dari sisi mekanisme readnya secara tradisional	Nah kalau dari sisi mekanisme readnya secara tradisional		
+AOK-06	AOK		149	325.820	331.320	5.500	Medan magnet itu bergerak relatif terhadap kumparan dan menghasilkan arus	Medan magnet itu bergerak relatif terhadap kumparan dan menghasilkan arus		
+AOK-06	AOK		150	331.320	332.180	0.860	Seperti tadi ya	Seperti tadi ya		
+AOK-06	AOK		151	332.180	335.340	3.160	Struktur head itu sama untuk membaca dan tulis	Struktur head itu sama untuk membaca dan tulis		
+AOK-06	AOK		152	335.340	338.680	3.340	Jadi ada headnya ini sebetulnya sama	Jadi ada headnya ini sebetulnya sama		
+AOK-06	AOK		153	338.680	341.160	2.480	Yang antara read dan non-read	Yang antara read dan non-read		
+AOK-06	AOK		154	341.160	344.500	3.340	Kalau yang mekanisme secara modern	Kalau yang mekanisme secara modern		
+AOK-06	AOK		155	344.500	345.680	1.180	Read secara modern	Read secara modern		
+AOK-06	AOK		156	345.680	346.880	1.200	Itu ada	Itu ada		
+AOK-06	AOK		157	346.880	350.280	3.400	Modelnya terpisah	eee Modelnya terpisah		
+AOK-06	AOK		158	350.280	351.100	0.820	Read	Read		
+AOK-06	AOK		159	351.100	354.440	3.340	Read untuk headnya	Read untuk headnya		
+AOK-06	AOK		160	354.440	355.800	1.360	Itu terpisah	Itu terpisah		
+AOK-06	AOK		161	355.800	357.100	1.300	Dan dekat dengan	Dan dekat dengan		
+AOK-06	AOK		162	357.100	358.840	1.740	Headnya untuk right	Headnya untuk write		
+AOK-06	AOK		163	358.840	359.720	0.880	Jadi disini ya	Jadi disini ya		
+AOK-06	AOK		164	359.720	360.520	0.800	Ada	Ada		
+AOK-06	AOK		165	360.520	363.420	2.900	Untuk readnya	Untuk readnya		
+AOK-06	AOK		166	363.420	366.300	2.880	Dan ada untuk rightnya	Dan ada untuk write-nya		
+AOK-06	AOK		167	366.300	367.700	1.400	Nah disini	Nah disini		
+AOK-06	AOK		168	367.700	369.600	1.900	Memiliki arus nantinya	Memiliki arus nantinya		
+AOK-06	AOK		169	369.600	371.880	2.280	arus untuk read	arus untuk read		
+AOK-06	AOK		170	371.880	373.360	1.480	dan arus untuk write	dan arus untuk write		
+AOK-06	AOK		171	373.360	375.500	2.140	nah oleh karena itu	nah oleh karena itu		
+AOK-06	AOK		172	375.500	377.140	1.640	karena adanya	karena adanya		
+AOK-06	AOK		173	377.140	380.460	3.320	dua kubu yang menghasilkan	dua kubu yang menghasilkan		
+AOK-06	AOK		174	380.460	382.000	1.540	medan magnet tadi	medan magnet tadi		
+AOK-06	AOK		175	382.000	384.360	2.360	ini adalah	ini adalah		
+AOK-06	AOK		176	384.360	386.460	2.100	tergantung dari	tergantung dari		
+AOK-06	AOK		177	386.460	387.620	1.160	arah medan magnetnya	arah medan magnetnya		
+AOK-06	AOK		178	387.620	389.560	1.940	nah ini tentunya yang	nah ini tentunya yang		
+AOK-06	AOK		179	389.560	391.560	2.000	membuat seperti itu adalah	membuat seperti itu adalah		
+AOK-06	AOK		180	391.560	392.700	1.140	pengaruh dari	pengaruh dari		
+AOK-06	AOK		181	392.700	396.100	3.400	ini MR sensor atau	ini MR sensor atau		
+AOK-06	AOK		182	396.100	398.000	1.900	magnet resistif	Magnetoresistive		
+AOK-06	AOK		183	398.000	401.660	3.660	jadi nantinya akan tergantung	jadi nantinya akan tergantung		
+AOK-06	AOK		184	401.660	402.420	0.760	arahnya kemana	arahnya kemana		
+AOK-06	AOK		185	402.420	404.160	1.740	apakah	apakah		
+AOK-06	AOK		186	404.160	408.240	4.080	ke bagian sana	ke bagian sana		
+AOK-06	AOK		187	408.240	409.500	1.260	atau ke sana	atau ke sana		
+AOK-06	AOK		188	409.500	411.680	2.180	ini ada polanya	ini ada polanya		
+AOK-06	AOK		189	411.680	412.960	1.280	kemudian	kemudian		
+AOK-06	AOK		190	412.960	415.080	2.120	kalau yang modern ini memang	kalau yang modern ini memang		
+AOK-06	AOK		191	415.080	417.040	1.960	didesain untuk operasi frekuensi tinggi	didesain untuk operasi frekuensi tinggi		
+AOK-06	AOK		192	417.040	417.460	0.420	artinya	artinya		
+AOK-06	AOK		193	417.460	420.380	2.920	kepadatan	kepadatan		
+AOK-06	AOK		194	420.380	423.340	2.960	atau densitas dan speednya	atau densitas dan speednya		
+AOK-06	AOK		195	423.340	424.420	1.080	itu lebih tinggi	itu lebih tinggi		
+AOK-06	AOK		196	424.420	426.700	2.280	speed dari storage-nya atau	speed dari storage-nya atau		
+AOK-06	AOK		197	426.700	429.040	2.340	penyimpanannya lebih tinggi	penyimpanannya lebih tinggi		
+AOK-06	AOK		198	429.040	432.120	3.080	nah kemudian nanti	nah kemudian nanti		
+AOK-06	AOK		199	432.120	434.240	2.120	ini ya untuk media recordingnya	ini ya untuk media recordingnya		
+AOK-06	AOK		200	434.240	435.280	1.040	itu dari	itu dari		
+AOK-06	AOK		201	435.280	438.220	2.940	hasil	hasil		
+AOK-06	AOK		202	438.220	440.420	2.200	dari magnet yang diciptakan oleh	dari magnet yang diciptakan oleh		
+AOK-06	AOK		203	440.420	441.920	1.500	magneto resistif	Magnetoresistive		
+AOK-06	AOK		204	441.920	445.390	3.470	nah bagaimana terkait	nah bagaimana terkait		
+AOK-06	AOK		205	445.390	447.370	1.980	dengan organisasi data dan	dengan organisasi data dan		
+AOK-06	AOK		206	447.370	448.730	1.360	format pada disk	format pada disk		
+AOK-06	AOK		207	448.730	451.590	2.860	jadi organisasi datanya	jadi organisasi datanya		
+AOK-06	AOK		208	451.590	452.370	0.780	itu akan	itu akan		
+AOK-06	AOK		209	452.370	455.630	3.260	dibentuk oleh sebuah piringan	dibentuk oleh sebuah piringan		
+AOK-06	AOK		210	455.630	457.430	1.800	atau plater yang berbentuk	atau plater yang berbentuk		
+AOK-06	AOK		211	457.430	458.650	1.220	lingkaran konsentris	lingkaran konsentris		
+AOK-06	AOK		212	458.650	460.910	2.260	nah ini	nah ini		
+AOK-06	AOK		213	460.910	463.570	2.660	ini adalah sebagai	ini adalah sebagai		
+AOK-06	AOK		214	463.570	464.910	1.340	sebuah track	sebuah track		
+AOK-06	AOK		215	464.910	468.870	3.960	ini adalah sebagai sebuah track	ini adalah sebagai sebuah track		
+AOK-06	AOK		216	468.870	471.910	3.040	jadi antar track	jadi antar track		
+AOK-06	AOK		217	471.910	472.970	1.060	track ini tadi	track ini tadi		
+AOK-06	AOK		218	472.970	475.270	2.300	ini akan	ini akan		
+AOK-06	AOK		219	475.270	477.690	2.420	ini track	ini track		
+AOK-06	AOK		220	477.690	479.530	1.840	kemudian ini track	kemudian ini track		
+AOK-06	AOK		221	479.530	480.450	0.920	dan seterusnya	dan seterusnya		
+AOK-06	AOK		222	480.450	483.270	2.820	jadi track yang berdekatan	jadi track yang berdekatan		
+AOK-06	AOK		223	483.270	485.530	2.260	itu nanti dipisahkan oleh	itu nanti dipisahkan oleh		
+AOK-06	AOK		224	485.530	487.570	2.040	inter track gap	inter track gap		
+AOK-06	AOK		225	487.570	489.110	1.540	jadi ini	jadi ini		
+AOK-06	AOK		226	489.110	490.450	1.340	ini yang ini	ini yang ini		
+AOK-06	AOK		227	490.450	491.990	1.540	di tengah-tengahnya ini	di tengah-tengahnya ini		
+AOK-06	AOK		228	491.990	494.790	2.800	ini adalah inter track gap nya	ini adalah inter track gap nya		
+AOK-06	AOK		229	494.790	497.210	2.420	jadi antara track	jadi antara track		
+AOK-06	AOK		230	497.210	499.050	1.840	dengan track yang lain yang berdekatan	dengan track yang lain yang berdekatan		
+AOK-06	AOK		231	499.050	501.570	2.520	itu dipisahkan oleh inter track gap	itu dipisahkan oleh inter track gap		
+AOK-06	AOK		232	501.570	503.610	2.040	nah inter track gap ini	nah inter track gap ini		
+AOK-06	AOK		233	503.610	505.490	1.880	digunakan untuk meminimalkan	digunakan untuk meminimalkan		
+AOK-06	AOK		234	505.490	506.970	1.480	kesalahan	kesalahan		
+AOK-06	AOK		235	506.970	508.630	1.660	karena ketika sejajaran head	karena ketika sejajaran head		
+AOK-06	AOK		236	508.630	510.550	1.920	atau intervensi medan magnet	atau intervensi medan magnet		
+AOK-06	AOK		237	510.550	512.910	2.360	karena medan magnet disini	karena medan magnet disini		
+AOK-06	AOK		238	512.910	515.130	2.220	tentunya kalau berdekatan	tentunya kalau berdekatan		
+AOK-06	AOK		239	515.130	516.190	1.060	akan berpengaruh ya	akan berpengaruh ya		
+AOK-06	AOK		240	516.190	521.190	5.000	Oleh karena itu, karena memang berdekatan jarak antara track 1 dengan track yang lainnya,	Oleh karena itu, karena memang berdekatan jarak antara track 1 dengan track yang lainnya,		
+AOK-06	AOK		241	521.830	526.270	4.440	maka harus ada pemisahnya untuk meminimalisir kesalahan tadi.	maka harus ada pemisahnya untuk meminimalisir kesalahan tadi.		
+AOK-06	AOK		242	527.250	534.830	7.580	Kemudian, data itu ditransfer ke ataupun dan dari disk di sektor.	Kemudian, data itu ditransfer ke ataupun dan dari disk di sektor.		
+AOK-06	AOK		243	535.410	542.590	7.180	Jadi, sektor ini adalah ukuran dari atau unit pada track.	Jadi, sektor ini adalah ukuran dari atau unit pada track.		
+AOK-06	AOK		244	542.590	545.510	2.920	Jadi, setiap track ini memiliki sektor.	Jadi, setiap track ini memiliki sektor.		
+AOK-06	AOK		245	546.190	548.370	2.180	Ini sektor, ini sektor	Ini sektor, ini sektor		
+AOK-06	AOK		246	548.370	549.590	1.220	Bisa-bisa	Pisah-pisah		
+AOK-06	AOK		247	549.590	551.650	2.060	Jadi	Jadi		
+AOK-06	AOK		248	551.650	554.530	2.880	Satu track atau satu lintasan	Satu track atau satu lintasan		
+AOK-06	AOK		249	554.530	556.690	2.160	Ini memiliki sektor-sektor	Ini memiliki sektor-sektor		
+AOK-06	AOK		250	556.690	558.230	1.540	Nah	Nah		
+AOK-06	AOK		251	558.230	559.870	1.640	Satu track itu biasanya	Satu track itu biasanya		
+AOK-06	AOK		252	559.870	561.630	1.760	Bisa 10 hingga	Bisa 10 hingga		
+AOK-06	AOK		253	561.630	562.430	0.800	100	100		
+AOK-06	AOK		254	562.430	565.190	2.760	Jadi satu track ini	Jadi satu track ini		
+AOK-06	AOK		255	565.190	567.590	2.400	Itu	Itu		
+AOK-06	AOK		256	567.590	569.650	2.060	Bisa sampai 100	Bisa sampai 100		
+AOK-06	AOK		257	569.650	571.410	1.760	Nah makanya disini ada titik-titik	Nah makanya disini ada titik-titik		
+AOK-06	AOK		258	571.410	572.490	1.080	Ini maksudnya	Ini maksudnya		
+AOK-06	AOK		259	572.490	575.690	3.200	Bisa sampai	Bisa sampai		
+AOK-06	AOK		260	575.690	576.410	0.720	Lebih dari	Lebih dari		
+AOK-06	AOK		261	576.410	578.290	1.880	100	100		
+AOK-06	AOK		262	578.290	581.910	3.620	Nah ukuran blok minimumnya adalah 1 sektor	Nah ukuran blok minimumnya adalah 1 sektor		
+AOK-06	AOK		263	581.910	584.310	2.400	Dan ukuran panjangnya	Dan ukuran panjangnya		
+AOK-06	AOK		264	584.310	586.210	1.900	Tetap ataupun berubah-ubah	Tetap ataupun berubah-ubah		
+AOK-06	AOK		265	586.210	589.670	3.460	Kalau di model sistem modern	Kalau di model sistem modern		
+AOK-06	AOK		266	589.670	590.970	1.300	Panjangnya tetap	Panjangnya tetap		
+AOK-06	AOK		267	590.970	593.970	3.000	Jadi disini 512	Jadi disini 512		
+AOK-06	AOK		268	593.970	594.730	0.760	Baik	Byte		
+AOK-06	AOK		269	594.730	599.080	4.350	Nah kemudian di sisi yang lain	Nah kemudian di sisi yang lain		
+AOK-06	AOK		270	599.080	600.800	1.720	Disk itu	Disk itu		
+AOK-06	AOK		271	600.800	602.480	1.680	Memiliki spindle	Memiliki spindle		
+AOK-06	AOK		272	602.480	603.840	1.360	Spindle ini poros	Spindle ini poros		
+AOK-06	AOK		273	603.840	605.560	1.720	jadi ini ya	jadi ini ya		
+AOK-06	AOK		274	605.560	607.380	1.820	spindle ini adalah poros yang	spindle ini adalah poros yang		
+AOK-06	AOK		275	607.380	609.360	1.980	digunakan untuk menahan	digunakan untuk menahan		
+AOK-06	AOK		276	609.360	610.560	1.200	platernya	platernya		
+AOK-06	AOK		277	610.560	615.500	4.940	ini digunakan untuk menahan platernya atau piringannya	ini digunakan untuk menahan platernya atau piringannya		
+AOK-06	AOK		278	615.500	617.120	1.620	kemudian ada juga	kemudian ada juga		
+AOK-06	AOK		279	617.120	618.060	0.940	silinder	silinder		
+AOK-06	AOK		280	618.060	620.880	2.820	nah silinder ini adalah	nah silinder ini adalah		
+AOK-06	AOK		281	620.880	623.480	2.600	beberapa kumpulan yang	beberapa kumpulan yang		
+AOK-06	AOK		282	623.480	625.540	2.060	kumpulan track	kumpulan track		
+AOK-06	AOK		283	625.540	626.960	1.420	yang dalam posisi	yang dalam posisi		
+AOK-06	AOK		284	626.960	629.420	2.460	sama, relatif sama di piringan	sama, relatif sama di piringan		
+AOK-06	AOK		285	629.420	630.220	0.800	jadi	jadi		
+AOK-06	AOK		286	630.220	633.020	2.800	antara track yang	antara track yang		
+AOK-06	AOK		287	633.020	634.860	1.840	di plater pertama	di plater pertama		
+AOK-06	AOK		288	634.860	636.860	2.000	plater kedua dengan plater ketiga	plater kedua dengan plater ketiga		
+AOK-06	AOK		289	636.860	638.840	1.980	itu dinamakan silinder	itu dinamakan silinder		
+AOK-06	AOK		290	638.840	640.320	1.480	artinya kumpulan semua track	artinya kumpulan semua track		
+AOK-06	AOK		291	640.320	643.260	2.940	dalam posisi yang sama	dalam posisi yang sama		
+AOK-06	AOK		292	643.260	644.760	1.500	kemudian untuk	kemudian untuk		
+AOK-06	AOK		293	644.760	647.360	2.600	mengatur perputaran dari spindle	mengatur perputaran dari spindle		
+AOK-06	AOK		294	647.360	649.260	1.900	ini tadi, itu adalah	ini tadi, itu adalah		
+AOK-06	AOK		295	649.260	651.700	2.440	dilakukan oleh	dilakukan oleh		
+AOK-06	AOK		296	651.700	653.520	1.820	armnya atau lengannya	armnya atau lengannya		
+AOK-06	AOK		297	653.520	655.220	1.700	disini	disini		
+AOK-06	AOK		298	655.220	657.380	2.160	jadi lengannya	jadi lengannya		
+AOK-06	AOK		299	657.380	658.400	1.020	ini nanti yang akan	ini nanti yang akan		
+AOK-06	AOK		300	658.400	660.700	2.300	mengatur spindlenya ini	mengatur spindlenya ini		
+AOK-06	AOK		301	660.700	663.140	2.440	kemana dia akan mencari	kemana dia akan mencari		
+AOK-06	AOK		302	663.140	665.380	2.240	datanya atau membaca	datanya atau membaca		
+AOK-06	AOK		303	665.380	665.980	0.600	datanya	datanya		
+AOK-06	AOK		304	665.980	668.160	2.180	tentunya disini	tentunya disini		
+AOK-06	AOK		305	668.160	670.540	2.380	yang	yang		
+AOK-06	AOK		306	670.540	673.140	2.600	saling berorganisasi	saling berorganisasi		
+AOK-06	AOK		307	673.140	674.960	1.820	antara komponen satu	antara komponen satu		
+AOK-06	AOK		308	674.960	677.060	2.100	dengan komponen yang lain pada disk tersebut	dengan komponen yang lain pada disk tersebut		
+AOK-06	AOK		309	677.060	679.160	2.100	nah sedangkan	nah sedangkan		
+AOK-06	AOK		310	679.160	681.400	2.240	untuk layout disk disini ada dua model	untuk layout disk disini ada dua model		
+AOK-06	AOK		311	681.400	684.820	3.420	ada yang berbentuk	ada yang berbentuk		
+AOK-06	AOK		312	684.820	687.260	2.440	atau memiliki konsep	atau memiliki konsep		
+AOK-06	AOK		313	687.260	689.320	2.060	constant angular	constant angular		
+AOK-06	AOK		314	689.320	690.820	1.500	velocity dan	velocity dan		
+AOK-06	AOK		315	690.820	692.060	1.240	multiple zone recording	multiple zone recording		
+AOK-06	AOK		316	692.060	694.580	2.520	Kalau pasang angular velocity	Kalau pasang angular velocity		
+AOK-06	AOK		317	694.580	696.040	1.460	Disini kita lihat bahwa	Disini kita lihat bahwa		
+AOK-06	AOK		318	696.040	697.560	1.520	Jumlah sektor	Jumlah sektor		
+AOK-06	AOK		319	697.560	700.400	2.840	Itu sama di setiap track	Itu sama di setiap track		
+AOK-06	AOK		320	700.400	701.380	0.980	Kita bisa lihat disini	Kita bisa lihat disini		
+AOK-06	AOK		321	701.380	703.280	1.900	Ini sama	Ini sama		
+AOK-06	AOK		322	703.280	704.460	1.180	Ini sama	Ini sama		
+AOK-06	AOK		323	704.460	705.420	0.960	Ini sama	Ini sama		
+AOK-06	AOK		324	705.420	709.160	3.740	Jadi sama	Jadi sama		
+AOK-06	AOK		325	709.160	711.740	2.580	Kemudian bagian luar	Kemudian bagian luar		
+AOK-06	AOK		326	711.740	713.080	1.340	Atau outernya ini	Atau outernya ini		
+AOK-06	AOK		327	713.080	714.980	1.900	Atau outsidenya ini	Atau outsidenya ini		
+AOK-06	AOK		328	714.980	718.020	3.040	Bisa lebih panjang daripada bagian	Bisa lebih panjang daripada bagian		
+AOK-06	AOK		329	718.020	719.080	1.060	Dalam	Dalam		
+AOK-06	AOK		330	719.080	721.640	2.560	Karena semakin luar	Karena semakin luar		
+AOK-06	AOK		331	721.640	724.200	2.560	Semakin panjang	Semakin panjang		
+AOK-06	AOK		332	724.200	726.040	1.840	Kemudian	Kemudian		
+AOK-06	AOK		333	726.040	727.540	1.500	Keuntungannya disini lebih mudah	Keuntungannya disini lebih mudah		
+AOK-06	AOK		334	727.540	729.140	1.600	Menemukan sektor karena sama tadi	Menemukan sektor karena sama tadi		
+AOK-06	AOK		335	729.140	731.000	1.860	Kekurangannya	Kekurangannya		
+AOK-06	AOK		336	731.000	733.740	2.740	Jumlah data yang disimpan pada track terluar	Jumlah data yang disimpan pada track terluar		
+AOK-06	AOK		337	733.740	735.720	1.980	Sama dengan track yang	Sama dengan track yang		
+AOK-06	AOK		338	735.720	737.640	1.920	Berdalam karena kepadatan rendah	Berdalam karena kepadatan rendah		
+AOK-06	AOK		339	737.640	739.640	2.000	Meskipun tadi bagian luar	Meskipun tadi bagian luar		
+AOK-06	AOK		340	739.640	740.600	0.960	Adalah lebih panjang	Adalah lebih panjang		
+AOK-06	AOK		341	740.600	742.100	1.500	Tapi kekurangannya itu	Tapi kekurangannya itu		
+AOK-06	AOK		342	742.100	745.180	3.080	Kemudian yang selanjutnya adalah	Kemudian yang selanjutnya adalah		
+AOK-06	AOK		343	745.180	747.400	2.220	Multiple zone recording	Multiple zone recording		
+AOK-06	AOK		344	747.400	749.700	2.300	Jadi kalau multiple zone recording	Jadi kalau multiple zone recording		
+AOK-06	AOK		345	749.700	751.720	2.020	jumlah sektornya berdasarkan	jumlah sektornya berdasarkan		
+AOK-06	AOK		346	751.720	754.240	2.520	keliling track, nah ini beda-beda	keliling track, nah ini beda-beda		
+AOK-06	AOK		347	754.240	755.940	1.700	nantinya, nah setiap	nantinya, nah setiap		
+AOK-06	AOK		348	755.940	758.380	2.440	surface atau permukaan itu dibagi menjadi	surface atau permukaan itu dibagi menjadi		
+AOK-06	AOK		349	758.380	759.840	1.460	zona konsentris	zona konsentris		
+AOK-06	AOK		350	759.840	761.440	1.600	yang mana	yang mana		
+AOK-06	AOK		351	761.440	764.360	2.920	setiap zona berisi jumlah track yang berdekatan	setiap zona berisi jumlah track yang berdekatan		
+AOK-06	AOK		352	764.360	766.220	1.860	misalkan ini, ini zona	misalkan ini, ini zona		
+AOK-06	AOK		353	766.220	767.940	1.720	yang pertama	yang pertama		
+AOK-06	AOK		354	767.940	769.800	1.860	ini berbeda	ini berbeda		
+AOK-06	AOK		355	769.800	772.200	2.400	ini zona yang kedua, zona yang ketiga	ini zona yang kedua, zona yang ketiga		
+AOK-06	AOK		356	772.200	774.360	2.160	zona yang keempat, nah artinya	zona yang keempat, nah artinya		
+AOK-06	AOK		357	774.360	775.960	1.600	bisa kita lihat bahwa	bisa kita lihat bahwa		
+AOK-06	AOK		358	775.960	777.600	1.640	misalkan seperti ini ya, kita lihat	misalkan seperti ini ya, kita lihat		
+AOK-06	AOK		359	777.600	785.020	7.420	1, 2, 3, 4, 5, 6, 7, 8, 9	1, 2, 3, 4, 5, 6, 7, 8, 9		
+AOK-06	AOK		360	785.020	786.180	1.160	Coba yang terluar	Coba yang terluar		
+AOK-06	AOK		361	786.180	794.620	8.440	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16		
+AOK-06	AOK		362	794.620	796.020	1.400	Sampai 2 kali lipatnya	Sampai 2 kali lipatnya		
+AOK-06	AOK		363	796.020	799.780	3.760	Jadi keuntungannya kapasitas penyimpanannya lebih besar	Jadi keuntungannya kapasitas penyimpanannya lebih besar		
+AOK-06	AOK		364	799.780	807.780	8.000	Karena setiap zona memiliki nilai sektor yang berbeda-beda	Karena setiap zona memiliki nilai eee sektor yang berbeda-beda		
+AOK-06	AOK		365	808.620	815.780	7.160	Namun kekurangannya lebih kompleks karena harus menyesuaikan antara zona satu dengan zona yang lainnya	Namun kekurangannya lebih kompleks karena harus menyesuaikan antara zona satu dengan zona yang lainnya		
+AOK-06	AOK		366	816.320	823.800	7.480	Nah pada awalnya dulu contoh kasusnya ada di Winchester	Nah pada awalnya dulu contoh kasusnya ada di Winchester		
+AOK-06	AOK		367	823.800	828.860	5.060	Pertama kalinya disini dimunculkan formatnya pada Seagate ST506	Pertama kalinya disini dimunculkan formatnya pada Seagate ST506		
+AOK-06	AOK		368	828.860	833.020	4.160	yang mana harus mengidentifikasi awal dan akhir tiap sektor	yang mana harus mengidentifikasi awal dan akhir tiap sektor		
+AOK-06	AOK		369	833.020	835.820	2.800	yang ditangani oleh data kontrol	yang ditangani oleh data kontrol		
+AOK-06	AOK		370	835.820	839.720	3.900	nah hider data tambahan tidak bisa diakses oleh pengguna	nah hider data tambahan tidak bisa diakses oleh pengguna		
+AOK-06	AOK		371	839.720	843.760	4.040	nah artinya dalam kondisi seperti ini ada sektor	nah artinya dalam kondisi seperti ini ada sektor		
+AOK-06	AOK		372	843.760	847.960	4.200	yang mana misalkan berisi 30 sektor	yang mana misalkan berisi 30 sektor		
+AOK-06	AOK		373	847.960	851.260	3.300	disini mulai dari 0 sampai 29	disini mulai dari 0 sampai 29		
+AOK-06	AOK		374	851.260	852.940	1.680	berarti kan 30	berarti kan 30		
+AOK-06	AOK		375	852.940	858.000	5.060	yang mana masing-masing memiliki panjang yang tetap yaitu 600	yang mana masing-masing memiliki panjang yang tetap yaitu 600		
+AOK-06	AOK		376	858.000	863.900	5.900	Setiap sektor memiliki 512 byte data	Setiap sektor memiliki 512 byte data		
+AOK-06	AOK		377	863.900	869.660	5.760	Jadi ada 512, 512 ditambahkan informasi kontrolnya	Jadi ada 512, 512 ditambahkan informasi kontrolnya		
+AOK-06	AOK		378	869.660	872.660	3.000	Nah kemudian ID fieldnya	Nah kemudian ID fieldnya		
+AOK-06	AOK		379	872.660	878.860	6.200	Ini digunakan untuk mengenali atau alamat yang unik	Ini digunakan untuk mengenali atau alamat yang unik		
+AOK-06	AOK		380	878.860	881.360	2.500	Supaya bisa menemukan sektor tertentu	Supaya bisa menemukan sektor tertentu		
+AOK-06	AOK		381	881.360	886.120	4.760	Kemudian sync byte nya ini adalah sebagai pola bit khusus	Kemudian sync byte nya ini adalah sebagai pola bit khusus		
+AOK-06	AOK		382	886.120	888.760	2.640	yang membatasi awal fieldnya	yang membatasi awal fieldnya		
+AOK-06	AOK		383	888.760	890.360	1.600	kemudian	kemudian		
+AOK-06	AOK		384	890.360	891.380	1.020	nomor track	nomor track		
+AOK-06	AOK		385	891.380	894.080	2.700	ini nantinya akan mengidentifikasi track di	ini nantinya akan mengidentifikasi track di		
+AOK-06	AOK		386	894.080	895.560	1.480	permukaan	permukaan		
+AOK-06	AOK		387	895.560	897.660	2.100	dan nomor sektor	dan nomor sektor		
+AOK-06	AOK		388	897.660	900.500	2.840	seperti itu juga menandai ID field	seperti itu juga menandai ID field		
+AOK-06	AOK		389	900.500	902.200	1.700	yang berisi nanti	yang berisi nanti		
+AOK-06	AOK		390	902.200	904.420	2.220	CRC ataupun kode kesalahan	CRC ataupun kode kesalahan		

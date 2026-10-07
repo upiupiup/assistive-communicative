@@ -1,0 +1,47 @@
+{
+  "tanggal": "2026-10-07T11:47:07",
+  "tahap": "pemulihan stempel waktu jalur wav2vec2",
+  "python": "3.12.4",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "parameter_segmentasi": {
+    "sample_rate": 16000,
+    "min_speech_duration_ms": 1000,
+    "speech_pad_ms": 300,
+    "min_silence_duration_ms": 500,
+    "min_seg_duration": 3.0,
+    "max_seg_duration": 20.0
+  },
+  "parameter_praproses": {
+    "sample_rate": 16000,
+    "channels": 1,
+    "loudnorm_I": -23.0,
+    "loudnorm_TP": -2.0,
+    "loudnorm_LRA": 7.0
+  },
+  "rekaman_lolos": [
+    "jarnir1",
+    "jarnir3",
+    "jarnir4",
+    "jarnir5",
+    "pkk1",
+    "pkk2",
+    "pkk3",
+    "pkk5",
+    "rpl10",
+    "rpl11",
+    "rpl2",
+    "rpl3",
+    "rpl4",
+    "rpl6",
+    "rpl7",
+    "rpl9"
+  ],
+  "versi_pustaka": {
+    "torch": "2.4.1+cu121",
+    "librosa": "0.10.2.post1",
+    "soundfile": "0.13.1",
+    "numpy": "2.0.2",
+    "pandas": "3.0.3",
+    "onnxruntime": "1.26.0"
+  }
+}

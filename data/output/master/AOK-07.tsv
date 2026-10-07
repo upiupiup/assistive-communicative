@@ -1,0 +1,292 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+AOK-07	AOK		1	1.780	11.400	9.620	Oke, bertemu lagi dengan saya, Hanas, di Mata Kuliah Arsitektur dan Organisasi Komputer	Oke, bertemu lagi dengan saya, Hanas, di Mata Kuliah Arsitektur dan Organisasi Komputer		
+AOK-07	AOK		2	11.400	17.860	6.460	Pada topik 7 ini terkait input-output bagian ke 1	Pada topik 7 ini terkait input-output bagian ke 1		
+AOK-07	AOK		3	17.860	32.320	14.460	Oke, pada materi ini akan disampaikan terkait penjabaran antarmuka dari perangkat input-output	Oke, pada materi ini akan disampaikan terkait penjabaran antarmuka dari perangkat input-output		
+AOK-07	AOK		4	32.320	40.020	7.700	Dan perangkat peripheral lain yang ada maupun akan terhubung pada suatu komputer	Dan perangkat peripheral lain yang ada maupun akan terhubung pada suatu komputer		
+AOK-07	AOK		5	40.020	47.920	7.900	Nah pada bab ini akan dijelaskan terkait pengertian sistem I.O	Nah pada bab ini akan dijelaskan terkait pengertian sistem I/O		
+AOK-07	AOK		6	47.920	55.000	7.080	Kemudian fungsi modul I.O hingga struktur modul I.O	Kemudian fungsi modul I/O hingga struktur modul I/O		
+AOK-07	AOK		7	55.000	75.480	20.480	Oke, nah input-output, perangkat I.O. ini adalah salah satu elemen penting pada sebuah sistem komputer selain CPU dan sejumlah modul memori.	Oke, nah input-output, perangkat I/O ini adalah salah satu elemen penting pada sebuah sistem komputer selain CPU dan sejumlah modul memori.		
+AOK-07	AOK		8	77.080	85.280	8.200	Nah, modul I.O. ini bukan hanya merupakan konektor mekanis yang sederhana untuk menghubungkan suatu perangkat dengan bas sistem.	Nah, modul I/O ini bukan hanya merupakan konektor mekanis yang sederhana untuk menghubungkan suatu perangkat dengan bas sistem.		
+AOK-07	AOK		9	85.280	90.720	5.440	Nah tetapi modul IO ini berisi sesuatu yang cerdas	Nah tetapi modul I/O ini berisi sesuatu yang cerdas		
+AOK-07	AOK		10	90.720	92.920	2.200	Yang berisi logika	Yang berisi logika		
+AOK-07	AOK		11	92.920	98.420	5.500	Untuk melakukan fungsi komunikasi antara peripheral dengan bus	Untuk melakukan fungsi komunikasi antara peripheral dengan bus		
+AOK-07	AOK		12	98.420	104.080	5.660	Nah unit input output ini adalah bagian dari sistem mikroprosesor	Nah unit input output ini adalah bagian dari sistem mikroprosesor		
+AOK-07	AOK		13	104.080	108.880	4.800	Yang digunakan mikroprosesor untuk perhubungan dengan dunia luar	Yang digunakan mikroprosesor untuk perhubungan dengan dunia luar		
+AOK-07	AOK		14	108.880	124.340	15.460	Oke, modul IO ya ini tidak hanya untuk keluar masuknya data kepada dari CPU, prosesor, memori ke perangkat masukan keluaran	Oke, modul I/O ya ini tidak hanya untuk keluar masuknya data kepada dari CPU, prosesor, memori ke perangkat masukan keluaran		
+AOK-07	AOK		15	124.340	135.600	11.260	Tetapi bagaimana perangkat input output itu juga bisa berkomunikasi dengan baik oleh CPU	Tetapi eee bagaimana perangkat input output itu juga bisa berkomunikasi dengan baik oleh CPU		
+AOK-07	AOK		16	135.600	141.620	6.020	Nah, misalkan unit input ini unit masukannya	Nah, misalkan unit input ini unit masukannya		
+AOK-07	AOK		17	141.620	143.820	2.200	Contohnya sederhana, keyboard, mouse	Contohnya sederhana, keyboard, mouse		
+AOK-07	AOK		18	143.820	146.740	2.920	Misalkan kemudian unit output	Misalkan kemudian unit output		
+AOK-07	AOK		19	146.740	149.860	3.120	Biasanya untuk menampilkan atau menyajikan data	Biasanya untuk menampilkan atau menyajikan data		
+AOK-07	AOK		20	149.860	155.560	5.700	Nah, ada lagi unit yang dia berfungsi sebagai input dan output	Nah, ada lagi unit yang dia berfungsi sebagai input dan output		
+AOK-07	AOK		21	155.560	158.380	2.820	Misalkan touchscreen, layar sentuh	Misalkan touchscreen, layar sentuh		
+AOK-07	AOK		22	158.380	160.180	1.800	Nah, dia kan dual fungsi	Nah, dia kan dual fungsi		
+AOK-07	AOK		23	160.180	165.460	5.280	Bisa jadi touchscreen, bisa jadi input, bisa jadi output	Bisa jadi touchscreen, bisa jadi input, bisa jadi output		
+AOK-07	AOK		24	165.460	167.440	1.980	Oke	Oke		
+AOK-07	AOK		25	167.440	170.620	3.180	Nah secara tidak langsung seperti ini	Nah secara tidak langsung seperti ini		
+AOK-07	AOK		26	170.620	172.100	1.480	Ya jadi IO module	Ya jadi I/O module		
+AOK-07	AOK		27	172.100	174.100	2.000	Ya ini misalkan	Ya ini misalkan		
+AOK-07	AOK		28	174.100	176.360	2.260	Bayangkan saja sebuah port USB	Bayangkan saja sebuah port USB		
+AOK-07	AOK		29	176.360	177.380	1.020	Pada komputer Anda	Pada komputer Anda		
+AOK-07	AOK		30	177.380	180.320	2.940	Oke dia akan berhubung	Oke dia akan berhubung		
+AOK-07	AOK		31	180.320	182.000	1.680	Dengan sistem bus	Dengan sistem bus		
+AOK-07	AOK		32	182.000	184.420	2.420	Sistem bus yang berisi antara	Sistem bus yang berisi antara		
+AOK-07	AOK		33	184.420	186.180	1.760	Attrace data	address, data		
+AOK-07	AOK		34	186.180	187.160	0.980	Dan control	Dan control		
+AOK-07	AOK		35	187.160	189.980	2.820	Yang dipergunakan untuk berkomunikasi	Yang dipergunakan untuk berkomunikasi		
+AOK-07	AOK		36	189.980	192.080	2.100	Dengan CPU atau memory	Dengan CPU atau memory		
+AOK-07	AOK		37	192.080	193.980	1.900	Secara langsung	Secara langsung		
+AOK-07	AOK		38	193.980	196.480	2.500	Nah, namun	Nah, namun		
+AOK-07	AOK		39	196.480	205.140	8.660	I.O. ini tidak boleh langsung berkomunikasi dengan CPU atau memori	I/O ini tidak boleh langsung berkomunikasi dengan CPU atau memori		
+AOK-07	AOK		40	205.140	209.560	4.420	Namun harus melewati I.O. modul	Namun harus melewati I/O modul		
+AOK-07	AOK		41	209.560	210.520	0.960	Nah, kenapa?	Nah, kenapa?		
+AOK-07	AOK		42	211.660	216.580	4.920	Karena bervariasinya metode operasi piranti peripheral	Karena bervariasinya metode operasi piranti peripheral		
+AOK-07	AOK		43	216.580	221.560	4.980	Misalkan sederhana saja, keyboard sama mouse	Misalkan sederhana saja, keyboard sama mouse		
+AOK-07	AOK		44	221.560	226.780	5.220	Nah kan proses yang ada di keyboard sama mouse itu kan beda-beda	Nah kan proses yang ada di keyboard sama mouse itu kan beda-beda		
+AOK-07	AOK		45	226.780	229.560	2.780	Mulai jumlah tombolnya	Mulai jumlah tombolnya		
+AOK-07	AOK		46	229.560	233.560	4.000	Kemudian operasi yang bisa dijalankan	Kemudian operasi yang bisa dijalankan		
+AOK-07	AOK		47	233.560	239.160	5.600	Apalagi bentuk komunikasinya	Apalagi bentuk komunikasinya		
+AOK-07	AOK		48	239.160	242.560	3.400	Ya proses komunikasinya juga beda	Ya proses komunikasinya juga beda		
+AOK-07	AOK		49	243.080	251.120	8.040	Nah sehingga tidak praktis apabila sistem komputer ini menangani berbagai macam operasi piranti peripheral tersebut	Nah sehingga tidak praktis apabila sistem komputer ini menangani berbagai macam operasi piranti peripheral tersebut		
+AOK-07	AOK		50	251.560	254.420	2.860	keyboard saja macamnya	keyboard saja macamnya		
+AOK-07	AOK		51	254.420	255.740	1.320	tidak hanya satu, banyak	tidak hanya satu, banyak		
+AOK-07	AOK		52	255.740	258.160	2.420	kan tidak mungkin, misalkan ada 100	kan tidak mungkin, misalkan ada 100		
+AOK-07	AOK		53	258.160	260.460	2.300	merek keyboard gitu, sebuah CPU	merek keyboard gitu, sebuah CPU		
+AOK-07	AOK		54	260.460	262.260	1.800	harus menyesuaikan diri, tidak	harus menyesuaikan diri, tidak		
+AOK-07	AOK		55	262.260	264.320	2.060	yang harus	yang harus		
+AOK-07	AOK		56	264.320	266.440	2.120	menyesuaikan diri adalah perangkat	menyesuaikan diri adalah perangkat		
+AOK-07	AOK		57	266.440	268.740	2.300	peripheral itu terhadap CPU nya	peripheral itu terhadap CPU nya		
+AOK-07	AOK		58	268.740	270.880	2.140	nah kemudian	nah kemudian		
+AOK-07	AOK		59	270.880	272.380	1.500	format data dan	format data dan		
+AOK-07	AOK		60	272.380	274.380	2.000	panjang data pada perangkat itu	panjang data pada perangkat itu		
+AOK-07	AOK		61	274.380	276.200	1.820	juga beda	juga beda		
+AOK-07	AOK		62	276.200	277.480	1.280	oke, misalkan mouse	oke, misalkan mouse		
+AOK-07	AOK		63	277.480	280.000	2.520	komunikasinya karena tombolnya	komunikasinya karena tombolnya		
+AOK-07	AOK		64	280.000	281.400	1.400	mungkin cuma 3	mungkin cuma 3		
+AOK-07	AOK		65	281.400	283.100	1.700	Sampai 10 gak banyak ya	Sampai 10 gak banyak ya		
+AOK-07	AOK		66	283.100	285.680	2.580	Ya mungkin panjang datanya bisa	Ya mungkin panjang datanya bisa		
+AOK-07	AOK		67	285.680	287.320	1.640	Hanya 4 bit saja	Hanya 4 bit saja		
+AOK-07	AOK		68	287.320	289.520	2.200	Nah bayangkan kalau keyboard	Nah bayangkan kalau keyboard		
+AOK-07	AOK		69	289.520	291.360	1.840	Dengan puluhan tombol	Dengan puluhan tombol		
+AOK-07	AOK		70	291.360	293.080	1.720	Nah bisa jadi panjang datanya	Nah bisa jadi panjang datanya		
+AOK-07	AOK		71	293.080	295.960	2.880	16 bit	16 bit		
+AOK-07	AOK		72	295.960	297.120	1.160	Misalkan	Misalkan		
+AOK-07	AOK		73	297.120	297.800	0.680	Ya kan boleh	Ya kan boleh		
+AOK-07	AOK		74	297.800	300.880	3.080	Nah sehingga perlu sebuah modul untuk	Nah sehingga perlu sebuah modul untuk		
+AOK-07	AOK		75	300.880	303.660	2.780	Mentranslasikan	Mentranslasikan		
+AOK-07	AOK		76	303.660	305.080	1.420	Istilahnya	Istilahnya		
+AOK-07	AOK		77	305.080	306.100	1.020	Mentranslasikan	Mentranslasikan		
+AOK-07	AOK		78	306.100	308.620	2.520	Bagaimana sebuah port USB	Bagaimana sebuah port USB		
+AOK-07	AOK		79	308.620	310.360	1.740	Atau modul I.O	Atau modul I/O		
+AOK-07	AOK		80	310.360	312.760	2.400	itu bisa	itu bisa		
+AOK-07	AOK		81	312.760	314.940	2.180	mengakomodir sesuatu yang ada	mengakomodir sesuatu yang ada		
+AOK-07	AOK		82	314.940	315.800	0.860	di dunia luar	di dunia luar		
+AOK-07	AOK		83	315.800	318.820	3.020	dan bisa diolah oleh CPU	dan bisa diolah oleh CPU		
+AOK-07	AOK		84	318.820	321.080	2.260	nah kalau semuanya	nah kalau semuanya		
+AOK-07	AOK		85	321.080	322.180	1.100	yang olah CPU ya	yang olah CPU ya		
+AOK-07	AOK		86	322.180	325.380	3.200	banyak yang dilakukan	banyak yang dilakukan		
+AOK-07	AOK		87	325.380	326.980	1.600	oleh CPU	oleh CPU		
+AOK-07	AOK		88	326.980	328.800	1.820	nah makanya dia harus	nah makanya dia harus		
+AOK-07	AOK		89	328.800	330.700	1.900	ada modul sendiri biar CPU	ada modul sendiri biar CPU		
+AOK-07	AOK		90	330.700	332.920	2.220	fokus untuk sebagai unit	fokus untuk sebagai unit		
+AOK-07	AOK		91	332.920	334.500	1.580	pemroses saja	pemroses saja		
+AOK-07	AOK		92	334.500	336.860	2.360	oke	oke		
+AOK-07	AOK		93	336.860	338.940	2.080	ini tadi ya	ini tadi ya		
+AOK-07	AOK		94	338.940	341.520	2.580	yang Anda bayangkan	yang Anda bayangkan		
+AOK-07	AOK		95	341.520	343.580	2.060	misalkan dia sebagai	misalkan dia sebagai		
+AOK-07	AOK		96	343.580	344.320	0.740	port USB	port USB		
+AOK-07	AOK		97	344.320	347.820	3.500	oke, nah sebelum	oke, nah sebelum		
+AOK-07	AOK		98	347.820	349.480	1.660	masuk ke	masuk ke		
+AOK-07	AOK		99	349.480	353.140	3.660	bagian-bagian dari	bagian-bagian dari		
+AOK-07	AOK		100	353.140	354.540	1.400	modul I.O	modul I/O		
+AOK-07	AOK		101	354.540	358.100	3.560	mayor fungsi	mayor fungsi		
+AOK-07	AOK		102	358.100	360.060	1.960	fungsi mayor dari sebuah perangkat	fungsi mayor dari sebuah perangkat		
+AOK-07	AOK		103	360.060	360.960	0.900	I.O	I/O		
+AOK-07	AOK		104	360.960	363.860	2.900	jadi fungsi mayor	jadi fungsi mayor		
+AOK-07	AOK		105	363.860	366.080	2.220	yang minimal harus dimiliki	yang minimal harus dimiliki		
+AOK-07	AOK		106	366.080	367.060	0.980	oleh perangkat I.O	oleh perangkat I/O		
+AOK-07	AOK		107	367.060	370.360	3.300	Yang pertama adalah kontrol dan timing	Yang pertama adalah kontrol dan timing		
+AOK-07	AOK		108	370.360	375.720	5.360	Jadi modul I.O. ini harus ada kontrol dan timing	Jadi modul I/O ini harus ada kontrol dan timing		
+AOK-07	AOK		109	375.720	379.100	3.380	Kontrol dan timing ini untuk apa?	Kontrol dan timing ini untuk apa?		
+AOK-07	AOK		110	379.280	382.400	3.120	Pewaktuan kapan CPU itu bisa menerima data	Pewaktuan kapan CPU itu bisa menerima data		
+AOK-07	AOK		111	382.400	386.920	4.520	Kapan dia bisa dipanggil untuk diolah sama CPU-nya	Kapan dia bisa dipanggil untuk diolah sama CPU-nya		
+AOK-07	AOK		112	386.920	391.020	4.100	Kemudian prosesor communication	Kemudian prosesor communication		
+AOK-07	AOK		113	391.020	395.060	4.040	Misalkan ada komen decoding untuk mengartikan	Misalkan ada komen decoding untuk mengartikan		
+AOK-07	AOK		114	395.060	397.240	2.180	Ya kalau klik kiri itu artinya apa sih	Ya kalau klik kiri itu artinya apa sih		
+AOK-07	AOK		115	397.240	400.660	3.420	Yang bisa dibaca oleh CPU itu	Yang bisa dibaca oleh CPU itu		
+AOK-07	AOK		116	400.660	401.700	1.040	Dia bentuknya apa	Dia bentuknya apa		
+AOK-07	AOK		117	401.700	404.360	2.660	Ya misalkan ada 3 tombol	Ya misalkan ada 3 tombol		
+AOK-07	AOK		118	404.360	406.940	2.580	Misalkan yang tombol pertama	Misalkan yang tombol pertama		
+AOK-07	AOK		119	406.940	408.100	1.160	Kodenya 00	Kodenya 00		
+AOK-07	AOK		120	408.100	409.640	1.540	Tombol kedua 01	Tombol kedua 01		
+AOK-07	AOK		121	409.640	412.300	2.660	Tombol ketiga 10 ya boleh	Tombol ketiga 10 ya boleh		
+AOK-07	AOK		122	412.300	413.800	1.500	Misalkan seperti itu	Misalkan seperti itu		
+AOK-07	AOK		123	413.800	416.740	2.940	Kemudian status reporting	Kemudian status reporting		
+AOK-07	AOK		124	416.740	419.160	2.420	Ini ready atau enggak	Ini ready atau enggak		
+AOK-07	AOK		125	419.160	420.660	1.500	Misalkan ada sebuah	Misalkan ada sebuah		
+AOK-07	AOK		126	420.660	423.160	2.500	Mouse saya masukkan ke komputer	Mouse saya masukkan ke komputer		
+AOK-07	AOK		127	423.160	425.540	2.380	Nah MOS itu ready dipakai	Nah Mouse itu ready dipakai		
+AOK-07	AOK		128	425.540	427.240	1.700	Atau jangan-jangan masih	Atau jangan-jangan masih		
+AOK-07	AOK		129	427.240	431.760	4.520	Belum dikenali oleh prosesor datanya	Belum dikenali oleh prosesor datanya		
+AOK-07	AOK		130	431.760	433.760	2.000	Oke kemudian	Oke kemudian		
+AOK-07	AOK		131	433.760	434.800	1.040	Device information	Device information		
+AOK-07	AOK		132	434.800	436.940	2.140	Ini ada komen status information	Ini ada komen status information		
+AOK-07	AOK		133	436.940	439.280	2.340	Dan data dari perangkat yang butuh	Dan data dari perangkat yang butuh		
+AOK-07	AOK		134	439.280	440.020	0.740	Itu sendiri	Itu sendiri		
+AOK-07	AOK		135	440.020	443.860	3.840	Nah yang ketiga data buffering	Nah yang ketiga data buffering		
+AOK-07	AOK		136	443.860	445.460	1.600	Oke kalau MOS	Oke kalau Mouse		
+AOK-07	AOK		137	445.460	447.060	1.600	Mungkin simple, nah kalau keyboard	Mungkin simple, nah kalau keyboard		
+AOK-07	AOK		138	447.060	448.040	0.980	Berarti harus	Berarti harus		
+AOK-07	AOK		139	448.040	450.480	2.440	Atau misalkan perangkat lain	Atau misalkan perangkat lain		
+AOK-07	AOK		140	450.480	451.400	0.920	Misalkan kamera	Misalkan kamera		
+AOK-07	AOK		141	451.400	456.020	4.620	Nah, kamera kan data yang dihasilkan kan lebih kompleks	Nah, kamera kan data yang dihasilkan kan lebih kompleks		
+AOK-07	AOK		142	456.020	459.160	3.140	Nah, bagaimana dia bisa ditranslasikan	Nah, bagaimana dia bisa ditranslasikan		
+AOK-07	AOK		143	459.160	462.080	2.920	Biar bisa diolah sama CPU	Biar bisa diolah sama CPU		
+AOK-07	AOK		144	462.080	465.060	2.980	Oke, yang terakhir	Oke, yang terakhir		
+AOK-07	AOK		145	465.060	466.500	1.440	Error detection	Error detection		
+AOK-07	AOK		146	466.500	469.100	2.600	Oke, deteksi error	Oke, deteksi error		
+AOK-07	AOK		147	469.100	472.980	3.880	Jadi, misalkan perangkat yang error CPU-nya baik-baik aja	Jadi, misalkan perangkat yang error CPU-nya baik-baik aja		
+AOK-07	AOK		148	472.980	475.760	2.780	Jangan sampai nyalakan CPU-nya nggak bisa kerja	Jangan sampai nyalakan CPU-nya nggak bisa kerja		
+AOK-07	AOK		149	475.760	480.900	5.140	Berarti IOModule harus bisa memberitahu ke prosesor	Berarti I/O Module harus bisa memberitahu ke prosesor		
+AOK-07	AOK		150	480.900	483.240	2.340	Misalkan, oh perangkat I.O. itu sudah rusak	Misalkan, oh perangkat I/O itu sudah rusak		
+AOK-07	AOK		151	483.240	486.100	2.860	Tidak bisa dipakai, dia tidak mau mengirim data	Tidak bisa dipakai, dia tidak mau mengirim data		
+AOK-07	AOK		152	486.100	491.960	5.860	Oke, itu adalah fungsi mayor dari I.O. modul	Oke, itu adalah fungsi mayor dari I/O modul		
+AOK-07	AOK		153	491.960	498.430	6.470	Nah, struktur dari I.O. modul	Nah, struktur dari I/O modul		
+AOK-07	AOK		154	498.430	501.890	3.460	Port USB pada, misalkan contohnya	Port USB pada, misalkan contohnya		
+AOK-07	AOK		155	501.890	504.830	2.940	Salah satu contoh, port USB pada komputer Anda	Salah satu contoh, port USB pada komputer Anda		
+AOK-07	AOK		156	504.830	507.750	2.920	Yaitu harus memiliki bagian-bagian ini	Yaitu harus memiliki bagian-bagian ini		
+AOK-07	AOK		157	507.750	511.010	3.260	Yang pertama ini data register	Yang pertama ini data register		
+AOK-07	AOK		158	511.010	513.130	2.120	Kedua status control	Kedua status control		
+AOK-07	AOK		159	513.130	515.070	1.940	yang ketiga IO logic	yang ketiga I/O logic		
+AOK-07	AOK		160	515.070	517.550	2.480	nah masing-masing	nah masing-masing		
+AOK-07	AOK		161	517.550	519.330	1.780	fungsinya data register	fungsinya data register		
+AOK-07	AOK		162	519.330	520.850	1.520	dan status control register	dan status control register		
+AOK-07	AOK		163	520.850	523.650	2.800	ini untuk mengirimkan	ini untuk mengirimkan		
+AOK-07	AOK		164	523.650	525.310	1.660	data atau memberikan informasi	data atau memberikan informasi		
+AOK-07	AOK		165	525.310	527.350	2.040	data pada data lines di sistem	data pada data lines di sistem		
+AOK-07	AOK		166	527.350	528.330	0.980	bus	bus		
+AOK-07	AOK		167	528.330	531.010	2.680	nah kemudian	nah kemudian		
+AOK-07	AOK		168	531.010	532.990	1.980	address lines dan control lines	address lines dan control lines		
+AOK-07	AOK		169	532.990	535.270	2.280	ini dioperasikan oleh IO	ini dioperasikan oleh I/O		
+AOK-07	AOK		170	535.270	536.190	0.920	logic	logic		
+AOK-07	AOK		171	536.190	539.030	2.840	ini semacam alu	ini semacam ALU		
+AOK-07	AOK		172	539.030	540.890	1.860	arithmetic and logic unit	arithmetic and logic unit		
+AOK-07	AOK		173	540.890	543.070	2.180	jadi unit logika	jadi unit logika		
+AOK-07	AOK		174	543.070	547.750	4.680	Untuk memberikan instruksi pada modul IEO	Untuk memberikan instruksi pada modul I/O		
+AOK-07	AOK		175	547.750	550.710	2.960	Nah kemudian dari IEO modul baru	Nah kemudian dari I/O modul baru		
+AOK-07	AOK		176	550.710	553.950	3.240	Ini yang berhubungan dengan external logic	Ini yang berhubungan dengan external logic		
+AOK-07	AOK		177	553.950	555.290	1.340	Perangkat luar	Perangkat luar		
+AOK-07	AOK		178	555.290	560.310	5.020	Nah perangkat luar ini dia juga punya masing-masing sendiri	Nah perangkat luar ini dia juga punya masing-masing sendiri		
+AOK-07	AOK		179	560.310	562.590	2.280	Data, status, sama kontrol	Data, status, sama kontrol		
+AOK-07	AOK		180	562.590	569.450	6.860	Nah sedangkan di dalamnya IEO logic ini	Nah sedangkan di dalamnya I/O logic ini		
+AOK-07	AOK		181	569.450	570.010	0.560	apa	apa		
+AOK-07	AOK		182	570.010	573.670	3.660	nah, blok diagramnya	nah, blok diagramnya		
+AOK-07	AOK		183	573.670	575.430	1.760	seperti ini, jadi disini ada	seperti ini, jadi disini ada		
+AOK-07	AOK		184	575.430	577.450	2.020	kontrol logik, ada buffer dan	control logic, ada buffer dan		
+AOK-07	AOK		185	577.450	578.990	1.540	transducer	transducer		
+AOK-07	AOK		186	578.990	581.710	2.720	nah, kontrol logik ini berfungsi	nah, control logic ini berfungsi		
+AOK-07	AOK		187	581.710	583.710	2.000	untuk mengenerate kontrol	untuk mengenerate kontrol		
+AOK-07	AOK		188	583.710	585.910	2.200	dari menerima	dari menerima		
+AOK-07	AOK		189	585.910	587.690	1.780	kontrol	kontrol		
+AOK-07	AOK		190	587.690	588.970	1.280	dari CPU	dari CPU		
+AOK-07	AOK		191	588.970	591.190	2.220	kemudian dan mengirimkan	kemudian dan mengirimkan		
+AOK-07	AOK		192	591.190	593.950	2.760	ke IOModule	ke I/O Module		
+AOK-07	AOK		193	593.950	597.610	3.660	nah, kontrol	nah, kontrol		
+AOK-07	AOK		194	597.610	599.410	1.800	kontrol logik, bagaimana sih	kontrol logik, bagaimana sih		
+AOK-07	AOK		195	599.410	600.330	0.920	Cara kerjanya	Cara kerjanya		
+AOK-07	AOK		196	600.330	601.770	1.440	Oke	Oke		
+AOK-07	AOK		197	601.770	604.390	2.620	Kontrol logik ini dia sebagai	Kontrol logik ini dia sebagai		
+AOK-07	AOK		198	604.390	605.810	1.420	Kontrol dan timing	Kontrol dan timing		
+AOK-07	AOK		199	605.810	609.630	3.820	Dia adalah salah satu hal penting	Dia adalah salah satu hal penting		
+AOK-07	AOK		200	609.630	611.310	1.680	Untuk sinkronisasi	Untuk sinkronisasi		
+AOK-07	AOK		201	611.310	613.910	2.600	Kinerja masing-masing komponen penyusun komputer	Kinerja masing-masing komponen penyusun komputer		
+AOK-07	AOK		202	613.910	616.430	2.520	Nah yang pertama	Nah yang pertama		
+AOK-07	AOK		203	616.430	619.090	2.660	Fungsi kontrol and timing	Fungsi kontrol and timing		
+AOK-07	AOK		204	619.090	620.630	1.540	Dia sebagai	Dia sebagai		
+AOK-07	AOK		205	620.630	623.230	2.600	Yang meminta dan memeriksa	Yang meminta dan memeriksa		
+AOK-07	AOK		206	623.230	624.770	1.540	Status perangkat	Status perangkat		
+AOK-07	AOK		207	624.770	627.070	2.300	Dari CPU ke modul I.O	Dari CPU ke modul I/O		
+AOK-07	AOK		208	627.070	630.430	3.360	CPU memberikan request	CPU memberikan request		
+AOK-07	AOK		209	630.430	630.850	0.420	Oh ada	Oh ada		
+AOK-07	AOK		210	630.850	634.110	3.260	Misalkan periksa ada modul	Misalkan periksa ada modul		
+AOK-07	AOK		211	634.110	636.310	2.200	Ada I.O. yang nancep gak	Ada I/O yang nancep gak		
+AOK-07	AOK		212	636.310	638.450	2.140	Atau misalkan ada	Atau misalkan ada		
+AOK-07	AOK		213	638.450	640.490	2.040	I.O. yang nancep dia bisa kerja gak	I/O yang nancep dia bisa kerja gak		
+AOK-07	AOK		214	640.490	641.850	1.360	Nah itu sih	Nah itu sih		
+AOK-07	AOK		215	641.850	644.070	2.220	Ini control and timing	Ini control and timing		
+AOK-07	AOK		216	644.070	645.590	1.520	Sewaktu-waktu	Sewaktu-waktu		
+AOK-07	AOK		217	645.590	648.430	2.840	Akan dilakukan pengecekan oleh CPU	Akan dilakukan pengecekan oleh CPU		
+AOK-07	AOK		218	648.430	650.230	1.800	Oke	Oke		
+AOK-07	AOK		219	650.230	652.490	2.260	Kemudian modul I.O.	Kemudian modul I/O		
+AOK-07	AOK		220	652.490	653.550	1.060	Memberi jawaban	Memberi jawaban		
+AOK-07	AOK		221	653.550	656.750	3.200	Bisa perangkatnya bisa dipakai	Bisa perangkatnya bisa dipakai		
+AOK-07	AOK		222	656.750	658.450	1.700	Atau misalkan portnya sedang kosong	Atau misalkan portnya sedang kosong		
+AOK-07	AOK		223	658.450	660.170	1.720	Oke	Oke		
+AOK-07	AOK		224	660.170	665.110	4.940	Nah kemudian ngasih informasi apabila perangkat eksternal telah siap untuk transfer data	Nah kemudian ngasih informasi apabila perangkat eksternal telah siap untuk transfer data		
+AOK-07	AOK		225	665.110	668.290	3.180	Ya jadi peripheralnya siap untuk transfer data	Ya jadi peripheralnya siap untuk transfer data		
+AOK-07	AOK		226	668.290	673.390	5.100	Maka CPU akan mengirimkan perintah ke modul I.O	Maka CPU akan mengirimkan perintah ke modul I/O		
+AOK-07	AOK		227	673.390	675.030	1.640	Oke	Oke		
+AOK-07	AOK		228	675.030	680.130	5.100	Kemudian modul I.O akan menerima paket data dengan panjang tertentu dari peripheral	Kemudian modul I/O akan menerima paket data dengan panjang tertentu dari peripheral		
+AOK-07	AOK		229	680.130	684.210	4.080	Oke misalkan panjangnya 16 bit tadi dari keyboard ya	Oke misalkan panjangnya 16 bit tadi dari keyboard ya		
+AOK-07	AOK		230	684.210	690.610	6.400	Sementara CPU-nya misalkan bisa mengolah cuma 8 bit	Sementara CPU-nya misalkan bisa mengolah cuma 8 bit		
+AOK-07	AOK		231	690.610	693.570	2.960	Ya diantrikan, gantian yang masuk ke CPU	Ya diantrikan, gantian yang masuk ke CPU		
+AOK-07	AOK		232	693.570	697.610	4.040	Ini adalah proses sinkronisasi	Ini adalah proses sinkronisasi		
+AOK-07	AOK		233	697.610	702.770	5.160	Sehingga semua data itu bisa diterima oleh CPU	Sehingga semua data itu bisa diterima oleh CPU		
+AOK-07	AOK		234	702.770	708.210	5.440	Nah yang kedua, ini adalah transducer	Nah yang kedua, ini adalah transducer		
+AOK-07	AOK		235	708.210	713.330	5.120	Data to and from environment	Data to and from environment		
+AOK-07	AOK		236	713.330	716.090	2.760	Ke atau dari environment	Ke atau dari environment		
+AOK-07	AOK		237	716.090	721.930	5.840	Nah, transfer data ini tidak akan lepas dari penggunaan sistem bus	Nah, transfer data ini tidak akan lepas dari penggunaan sistem bus		
+AOK-07	AOK		238	721.930	727.170	5.240	Ya, maka interaksi CPU dan modul I.O. akan melibatkan kontrol dan pewaktuan	Ya, maka interaksi CPU dan modul I/O akan melibatkan kontrol dan pewaktuan		
+AOK-07	AOK		239	727.170	730.030	2.860	Ya, ini istilahnya bus arbitration	Ya, ini istilahnya bus arbitration		
+AOK-07	AOK		240	730.030	735.690	5.660	Nah, transducer yang dilakukan pertama kali adalah command decoding	Nah, transducer yang dilakukan pertama kali adalah command decoding		
+AOK-07	AOK		241	735.690	739.970	4.280	Ya, ini modul I.O. menerima perintah dari CPU	Ya, ini modul I/O menerima perintah dari CPU		
+AOK-07	AOK		242	739.970	744.210	4.240	Untuk dikirimkan sebagai sinyalnya bus control	Untuk dikirimkan sebagai sinyalnya bus control		
+AOK-07	AOK		243	744.210	750.590	6.380	Ya misalkan CPU itu ngirim ke CD-ROM misalkan	Ya misalkan CPU itu ngirim ke CD-ROM misalkan		
+AOK-07	AOK		244	750.590	752.570	1.980	Komputernya ada CD-ROMnya	Komputernya ada CD-ROMnya		
+AOK-07	AOK		245	752.570	756.850	4.280	Oke, kamu bisa melakukan operasi baca data	Oke, kamu bisa melakukan operasi baca data		
+AOK-07	AOK		246	756.850	760.050	3.200	Tulis data atau memformat data	Tulis data atau memformat data		
+AOK-07	AOK		247	760.050	764.510	4.460	Nah pertukarannya itu melalui data bus	Nah pertukarannya itu melalui data bus		
+AOK-07	AOK		248	764.510	768.770	4.260	Kemudian status reporting yaitu melaporkan kondisi	Kemudian status reporting yaitu melaporkan kondisi		
+AOK-07	AOK		249	768.770	775.070	6.300	Jadi perangkat I.O. itu juga harus melaporkan kondisi melewati modul I.O.	Jadi perangkat I/O itu juga harus melaporkan kondisi melewati modul I/O		
+AOK-07	AOK		250	776.270	786.710	10.440	Jadi modul I.O. meriksa, oh kamu baik-baik saja, MOS-nya baik-baik saja, MOS-nya rusak, kemudian itu diinformasikan ke CPU, yaitu status reporting.	Jadi modul I/O meriksa, oh kamu baik-baik saja, Mouse-nya baik-baik saja, Mouse-nya rusak, kemudian itu diinformasikan ke CPU, yaitu status reporting.		
+AOK-07	AOK		251	788.050	791.630	3.580	Nah, kemudian yang terakhir ini adalah address recognition.	Nah, kemudian yang terakhir ini adalah address recognition.		
+AOK-07	AOK		252	791.630	798.790	7.160	Bahwa peralatan atau komponen person komputer dapat dihubungi atau dipanggil	Bahwa peralatan atau komponen person komputer dapat dihubungi atau dipanggil		
+AOK-07	AOK		253	798.790	801.290	2.500	Maka harus memiliki alamat yang unik	Maka harus memiliki alamat yang unik		
+AOK-07	AOK		254	801.290	808.930	7.640	Biasanya kita kenal sama port ya	eee biasanya kita kenal sama port ya		
+AOK-07	AOK		255	808.930	811.690	2.760	Port USB ke satu, port USB ke dua	Port USB ke satu, port USB ke dua		
+AOK-07	AOK		256	811.690	814.290	2.600	Nah ini sebagai address recognition	Nah ini sebagai address recognition		
+AOK-07	AOK		257	814.290	817.690	3.400	Atau rekognisi alamat	Atau rekognisi alamat		
+AOK-07	AOK		258	817.690	820.910	3.220	Oh dia ada di alamat ke satu	Oh dia ada di alamat ke satu		
+AOK-07	AOK		259	820.910	822.050	1.140	Ada di alamat kedua	Ada di alamat kedua		
+AOK-07	AOK		260	822.050	823.410	1.360	Tahunya dari mana ya	Tahunya dari mana ya		
+AOK-07	AOK		261	823.410	826.350	2.940	Dari address recognition ini	Dari address recognition ini		
+AOK-07	AOK		262	826.350	828.210	1.860	Sehingga setiap modul I.O. harus	Sehingga setiap modul I/O harus		
+AOK-07	AOK		263	828.210	829.570	1.360	Tahu	Tahu		
+AOK-07	AOK		264	829.570	833.050	3.480	Siapa yang lagi nancep di dalamnya	Siapa yang lagi nancep di dalamnya		
+AOK-07	AOK		265	833.050	835.810	2.760	Oke	Oke		
+AOK-07	AOK		266	835.810	838.730	2.920	Nah yang terakhir ini adalah	Nah yang terakhir ini adalah		
+AOK-07	AOK		267	838.730	840.490	1.760	Buffer itu sendiri	Buffer itu sendiri		
+AOK-07	AOK		268	840.490	844.130	3.640	Nah buffer ini tujuannya adalah	Nah buffer ini tujuannya adalah		
+AOK-07	AOK		269	844.130	845.650	1.520	Mendapatkan penyesuaian data	Mendapatkan penyesuaian data		
+AOK-07	AOK		270	845.650	851.190	5.540	So, berhubungan dengan perbedaan laju transfer data dari perangkat	So, berhubungan dengan perbedaan laju transfer data dari perangkat		
+AOK-07	AOK		271	851.190	854.150	2.960	Dengan kecepatan pengolahan CPU ya	Dengan kecepatan pengolahan CPU ya		
+AOK-07	AOK		272	854.150	858.150	4.000	Yang mentranslasikan dan ngontrol waktu	Yang mentranslasikan dan ngontrol waktu		
+AOK-07	AOK		273	858.150	861.710	3.560	Oke, misalkan CPU-nya bisa mengolah 8 bit	Oke, misalkan CPU-nya bisa mengolah 8 bit		
+AOK-07	AOK		274	861.710	864.810	3.100	Tapi keyboardnya ternyata datanya 16 ya	Tapi keyboardnya ternyata datanya 16 ya		
+AOK-07	AOK		275	864.810	866.390	1.580	Dibagi 8, 8	Dibagi 8, 8		
+AOK-07	AOK		276	866.390	871.730	5.340	Yang mentranslasikan 8 sama 8 yang tadi adalah si buffer	Yang mentranslasikan 8 sama 8 yang tadi adalah si buffer		
+AOK-07	AOK		277	871.730	878.860	7.130	Fungsi terakhir adalah deteksi kesalahan	Fungsi terakhir adalah deteksi kesalahan		
+AOK-07	AOK		278	878.860	881.720	2.860	Apabila pada perangkat peripheral terdapat masalah	Apabila pada perangkat peripheral terdapat masalah		
+AOK-07	AOK		279	881.720	884.920	3.200	Yang tidak dapat dieksekusi	Yang tidak dapat dieksekusi		
+AOK-07	AOK		280	884.920	889.580	4.660	Modul I.O. harus melaporkan kesalahan data tersebut	Modul I/O harus melaporkan kesalahan data tersebut		
+AOK-07	AOK		281	889.580	895.740	6.160	Pada bab ini telah kita bahas	Pada bab ini telah kita bahas		
+AOK-07	AOK		282	895.740	899.200	3.460	Mulai generik model	Mulai generik model		
+AOK-07	AOK		283	899.200	902.240	3.040	Generik model of an I.O. modul	Generik model of an I/O modul		
+AOK-07	AOK		284	902.240	906.460	4.220	Jadi model umum I.O. yang bisa diterima oleh CPU	Jadi model umum I/O yang bisa diterima oleh CPU		
+AOK-07	AOK		285	906.460	908.560	2.100	Dan hubungannya dengan sistem bus	Dan hubungannya dengan sistem bus		
+AOK-07	AOK		286	908.560	911.140	2.580	Kemudian perangkat I.O. eksternal	Kemudian perangkat I/O eksternal		
+AOK-07	AOK		287	911.140	914.120	2.980	Dan struktur modul I.O.	Dan struktur modul I/O		
+AOK-07	AOK		288	914.120	921.600	7.480	Oke, sekian bab input-output bagian ke-1	Oke, sekian bab input-output bagian ke-1		
+AOK-07	AOK		289	921.600	925.240	3.640	Terima kasih atas perhatiannya	Terima kasih atas perhatiannya		
+AOK-07	AOK		290	925.240	926.060	0.820	Saya akhiri	Saya akhiri		
+AOK-07	AOK		291	926.060	928.940	2.880	Wassalamualaikum warahmatullahi wabarakatuh	Wassalamualaikum warahmatullahi wabarakatuh		

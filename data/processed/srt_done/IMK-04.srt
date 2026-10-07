@@ -1,0 +1,680 @@
+1
+00:00:00,000 --> 00:00:04,060
+Selamat datang di video materi untuk mata kuliah interaksi manusia dan komputer.
+
+2
+00:00:04,620 --> 00:00:08,460
+Kita lanjutkan pada pembahasan tentang evaluasi desain interaksi.
+
+3
+00:00:08,940 --> 00:00:09,600
+Selamat menyimak.
+
+4
+00:00:11,240 --> 00:00:14,080
+Pembahasan yang tercakup dalam video ini ada tiga.
+
+5
+00:00:14,640 --> 00:00:21,180
+Yaitu pertama adalah pembahasan tentang mengapa perlu dilakukan evaluasi terhadap desain interaksi yang sudah kita buat.
+
+6
+00:00:21,940 --> 00:00:27,780
+Kemudian kedua, kita pelajari ada apa saja metode atau tipe-tipe evaluasi yang bisa kita gunakan.
+
+7
+00:00:27,780 --> 00:00:34,300
+Dan ketiga adalah pembahasan tentang tantangan yang mungkin dihadapi saat kita melakukan evaluasi tersebut.
+
+8
+00:00:34,800 --> 00:00:37,240
+Mari kita bahas satu persatu dimulai dari yang pertama.
+
+9
+00:00:38,240 --> 00:00:40,300
+Mengapa perlu melakukan evaluasi?
+
+10
+00:00:41,040 --> 00:00:55,840
+Sebelum menjawab pertanyaan tersebut, mari kita simak apa yang dikatakan oleh Bruce Tognazzini bahwa desain interaktif dengan siklus desain dan testingnya yang berulang adalah satu-satunya metodologi yang valid dalam menghasilkan produk aplikasi yang berhasil.
+
+11
+00:00:55,840 --> 00:01:05,300
+Sebetulnya, dari pernyataan tersebut, sudah eksplisit disebutkan bahwa aktivitas evaluasi atau testing tujuannya adalah untuk mencapai keberhasilan produk
+
+12
+00:01:05,300 --> 00:01:08,520
+Lalu apa maksudnya mencapai keberhasilan produk?
+
+13
+00:01:08,520 --> 00:01:16,940
+Pada dasarnya, ini sama saja halnya dengan memastikan produk yang dibuat benar-benar sesuai dengan kebutuhan dan juga ekspektasi penggunanya
+
+14
+00:01:16,940 --> 00:01:24,120
+Bahkan walaupun produknya sudah dirasa memenuhi semua kebutuhan yang diidentifikasi pada tahap awal pengembangan
+
+15
+00:01:24,120 --> 00:01:26,500
+Evaluasi tetap perlu dilakukan
+
+16
+00:01:26,500 --> 00:01:29,080
+Tidak ada jaminan kebutuhannya berubah
+
+17
+00:01:29,080 --> 00:01:33,600
+Dan secara alami, sifat teknologi informasi adalah berkembang dengan pesat
+
+18
+00:01:33,600 --> 00:01:39,760
+Oleh karena itulah, produk teknologi informasi perlu dievaluasi dan diperbaiki sesering mungkin
+
+19
+00:01:39,760 --> 00:01:42,480
+Seiring perkembangan teknologi yang pesat
+
+20
+00:01:42,480 --> 00:01:49,320
+Tanpa adanya evaluasi, organisasi tidak akan mengetahui apa yang menjadi kelemahan produknya
+
+21
+00:01:49,320 --> 00:01:54,680
+Dalam artian, kebutuhan apa yang belum terpenuhi menjadi tidak terlihat
+
+22
+00:01:54,680 --> 00:01:59,840
+Dan bila dibiarkan, bukan tidak mungkin produk tersebut ditinggalkan oleh para usernya
+
+23
+00:01:59,840 --> 00:02:07,600
+Proses evaluasi sebaiknya tidak dilakukan satu kali di akhir siklus pengembangan produk saja
+
+24
+00:02:07,600 --> 00:02:14,580
+Waktu terbaik untuk melakukan evaluasi adalah kapanpun sepanjang iterasi konsep desain dapat diuji
+
+25
+00:02:14,580 --> 00:02:18,800
+Tujuannya adalah memperoleh masukan bagi iterasi berikutnya
+
+26
+00:02:18,800 --> 00:02:25,140
+Terhadap apa evaluasi ini dilakukan juga tidak sebatas pada prototipe dari aplikasinya saja
+
+27
+00:02:25,140 --> 00:02:28,660
+Aplikasi yang masih berupa rancangan pun dapat dievaluasi
+
+28
+00:02:28,660 --> 00:02:33,540
+Metode agile seperti Scrum misalnya memiliki agenda pertemuan rutin
+
+29
+00:02:33,540 --> 00:02:39,080
+Yang sebetulnya mengevaluasi pada setiap aktivitas pengembangan aplikasi yang sudah dilakukan
+
+30
+00:02:39,080 --> 00:02:43,420
+Kegiatan evaluasi dapat dilakukan pada natural setting
+
+31
+00:02:43,420 --> 00:02:46,480
+Seperti studi lapangan dan juga observasi langsung
+
+32
+00:02:46,480 --> 00:02:51,320
+ataupun dilakukan pada laboratorium dengan lingkungan dan variable yang terkontrol.
+
+33
+00:02:51,960 --> 00:02:53,960
+Keduanya punya kelebihan dan kekurangan.
+
+34
+00:02:54,540 --> 00:02:56,860
+Dan selanjutnya kita akan membahasnya lebih detail.
+
+35
+00:02:59,230 --> 00:03:01,410
+Apa saja tipe-tipe evaluasi yang ada?
+
+36
+00:03:02,010 --> 00:03:05,390
+Secara umum ada tiga tipe evaluasi yang dapat kita gunakan.
+
+37
+00:03:05,990 --> 00:03:09,130
+Pertama adalah evaluasi yang dilakukan pada lingkungan alami.
+
+38
+00:03:09,550 --> 00:03:14,230
+Misalnya saja studi lapangan untuk mengamati penggunaan produk di dunia nyata.
+
+39
+00:03:14,230 --> 00:03:22,150
+Sesuai namanya, evaluasi jenis ini tidak banyak melibatkan pengaturan dari pihak yang mengevaluasi atau pihak yang meneliti
+
+40
+00:03:22,150 --> 00:03:28,150
+Semua berjalan secara alami, kita hanya perlu mengamati atau mengobservasinya saja
+
+41
+00:03:28,150 --> 00:03:33,670
+Tipe yang kedua adalah evaluasi yang dilakukan pada lingkungan terkontrol
+
+42
+00:03:33,670 --> 00:03:40,150
+Berbeda dengan tipe pertama, jenis evaluasi ini lingkungan pengujiannya sudah diatur sebelumnya
+
+43
+00:03:40,150 --> 00:03:45,870
+Sebagai catatan, pengaturan ini dilakukan agar lebih fokus pada variable yang diamati.
+
+44
+00:03:46,430 --> 00:03:51,730
+Faktor-faktor yang dianggap bisa membuat hasil evaluasi menjadi bias ini diminimalkan.
+
+45
+00:03:52,930 --> 00:03:55,870
+Variable kontrolnya juga sudah diperhitungkan dengan baik.
+
+46
+00:03:56,750 --> 00:04:02,670
+Contoh metode evaluasi yang termasuk dalam tipe ini misalnya adalah eksperimen dan juga pengujian usability.
+
+47
+00:04:04,370 --> 00:04:09,350
+Baik tipe yang pertama ataupun yang kedua, sama-sama melibatkan pengguna secara langsung.
+
+48
+00:04:09,350 --> 00:04:14,790
+Kita mengamati bagaimana pengguna berinteraksi dengan produk, secara langsung tentunya.
+
+49
+00:04:15,390 --> 00:04:18,890
+Hal tersebut tidak dilakukan pada tipe evaluasi yang ketiga,
+
+50
+00:04:19,410 --> 00:04:23,750
+yaitu evaluasi yang dilakukan tanpa melibatkan pengguna secara langsung.
+
+51
+00:04:24,630 --> 00:04:31,210
+Ada beberapa metode yang memang memungkinkan kita untuk melakukan evaluasi tanpa harus melibatkan pengguna secara langsung,
+
+52
+00:04:31,850 --> 00:04:36,970
+misalnya dengan membuat prediksi, analisis, dan pemodelan analitika antarmuka.
+
+53
+00:04:36,970 --> 00:04:41,490
+Mari kita lihat metode-metode evaluasi yang ada
+
+54
+00:04:41,490 --> 00:04:44,610
+Pertama adalah studi lapangan
+
+55
+00:04:44,610 --> 00:04:50,150
+Studi lapangan dilakukan dengan mengobservasi penggunaan sistem secara langsung di lapangan
+
+56
+00:04:50,150 --> 00:04:55,250
+Tujuannya adalah untuk memperoleh gambaran bagi pengembangan desain interaksi yang baru
+
+57
+00:04:55,250 --> 00:05:02,870
+Untuk metode evaluasi ini, status produk yang dievaluasi sebaiknya memang sudah dicoba oleh pengguna aslinya
+
+58
+00:05:02,870 --> 00:05:08,790
+Dan pengguna tersebut sudah memiliki waktu yang cukup untuk memahami penggunaan aplikasinya
+
+59
+00:05:08,790 --> 00:05:12,890
+Studi lapangan biasanya dilakukan terhadap prototype produk
+
+60
+00:05:12,890 --> 00:05:18,670
+Evaluasi ini bertujuan untuk mengevaluasi ide awal mengenai desain interaksinya
+
+61
+00:05:18,670 --> 00:05:23,050
+Dan output atau luaran yang diharapkan adalah user feedback
+
+62
+00:05:23,050 --> 00:05:26,910
+Terutama yang terkait dengan kesulitan penggunaan saat ini
+
+63
+00:05:26,910 --> 00:05:30,070
+Dan juga usulan desain yang memang mereka harapkan
+
+64
+00:05:30,070 --> 00:05:35,300
+Metode evaluasi yang berikutnya adalah usability testing.
+
+65
+00:05:35,980 --> 00:05:44,460
+Sesuai namanya, pengujian ini dilakukan untuk mengetahui seberapa mudah produk aplikasi digunakan dan juga dipelajari oleh penggunanya.
+
+66
+00:05:45,780 --> 00:05:50,560
+Usability testing merupakan metode yang paling umum dalam user experience research.
+
+67
+00:05:51,100 --> 00:05:58,520
+Dilakukan untuk menguji suatu konsep desain interaksi, serta mensimulasikan penggunaan sistem menggunakan sebuah prototype.
+
+68
+00:05:58,520 --> 00:06:07,240
+Ingat kembali pembahasan materi-materi sebelumnya yang sudah membahas bahwa usability dan juga user experience keduanya saling berkaitan erat.
+
+69
+00:06:08,060 --> 00:06:15,000
+Pada usability testing, pengguna diminta melakukan aktivitas tertentu untuk mensimulasikan penggunaan sistem.
+
+70
+00:06:15,620 --> 00:06:22,640
+Artinya, pengguna diberikan sebuah tujuan atau goal tertentu yang harus mereka capai dengan menggunakan aplikasi tersebut.
+
+71
+00:06:22,640 --> 00:06:29,320
+Tapi perlu diketahui bahwa di sini UX researcher hanya berperan sebagai fasilitator saja
+
+72
+00:06:29,320 --> 00:06:33,620
+Tidak menjelaskan cara serta langkah untuk mencapai tujuan tersebut
+
+73
+00:06:33,620 --> 00:06:39,060
+Kita biarkan pengguna mengeksplorasi sendiri produk aplikasi dan juga fungsi-fungsinya
+
+74
+00:06:39,060 --> 00:06:44,500
+Dan diamati apakah mereka bisa menyelesaikan tugas-tugas yang diberikan tadi
+
+75
+00:06:44,500 --> 00:06:50,740
+Umumnya sesi evaluasi ini direkam dan dianalisis berdasarkan parameter tertentu
+
+76
+00:06:50,740 --> 00:06:58,540
+Bisa dilihat dari waktu, urutan langkah yang dilakukan, hingga berapa rasio keberhasilan tugas yang berhasil mereka selesaikan.
+
+77
+00:07:01,170 --> 00:07:07,130
+Studi lapangan dan juga usability testing bisa dilakukan dua-duanya dalam satu proses pengembangan aplikasi.
+
+78
+00:07:07,810 --> 00:07:13,150
+Gambar yang terlihat ini adalah contoh bagaimana mengkombinasikan dua jenis evaluasi tersebut.
+
+79
+00:07:14,090 --> 00:07:21,670
+Pada skenario yang ditunjukkan pada gambar, studi lapangan dilakukan terlebih dahulu untuk mengevaluasi ide awal aplikasinya.
+
+80
+00:07:21,670 --> 00:07:30,790
+Setelah mendapatkan hasil evaluasi studi lapangan, selanjutnya dilakukan perbaikan atau revisi pada desain sesuai dengan hasil yang didapat
+
+81
+00:07:30,790 --> 00:07:36,550
+Aplikasi dengan desain yang telah direvisi tadi kemudian diuji dengan usability testing
+
+82
+00:07:36,550 --> 00:07:42,570
+Perhatikan bahwa yang diuji hanya fitur-fitur spesifik yang direvisi tadi saja
+
+83
+00:07:42,570 --> 00:07:50,210
+Itu juga yang menjadi alasan mengapa model pengujiannya dilakukan dalam lingkungan terkontrol seperti usability testing ini
+
+84
+00:07:50,210 --> 00:07:57,350
+Jika hasil usability testing ini telah didapat dan juga memuaskan, maka dilakukan kembali studi lapangan
+
+85
+00:07:57,350 --> 00:08:04,330
+Pengguna dipersilahkan menggunakan aplikasi kembali dan interaksi mereka dengan aplikasi tersebut kita observasi
+
+86
+00:08:04,890 --> 00:08:15,230
+Apabila ada feedback dari pengguna dan dirasa perlu untuk dipenuhi, maka kita lakukan revisi kembali sesuai hasil usability testing dan juga studi lapangan
+
+87
+00:08:15,970 --> 00:08:21,270
+Skenario seperti ini menunjukkan bahwa usability testing dan juga studi lapangan dapat saling mendukung.
+
+88
+00:08:23,860 --> 00:08:27,900
+Beberapa metode evaluasi aplikasi membutuhkan instrumen berupa questionnaire.
+
+89
+00:08:28,580 --> 00:08:35,040
+Pengisian questionnaire diperlukan untuk mendapatkan data yang kemudian dianalisis dan diinterpretasikan hasilnya.
+
+90
+00:08:35,400 --> 00:08:45,040
+Dua contoh metode evaluasi yang memerlukan pengisian questionnaire oleh pengguna adalah System Usability Scale dan user experience questionnaire.
+
+91
+00:08:45,040 --> 00:08:49,800
+Pada SUS, instrumen yang digunakan adalah questionnaire sederhana.
+
+92
+00:08:50,380 --> 00:08:53,880
+Ini digunakan untuk mengevaluasi sistem secara keseluruhan.
+
+93
+00:08:54,500 --> 00:08:57,800
+Hasilnya adalah skor penilaian antara 1 hingga 100.
+
+94
+00:08:58,680 --> 00:09:04,180
+Semakin tinggi nilainya, maka semakin mudah aplikasi tersebut untuk digunakan dan untuk dipelajari.
+
+95
+00:09:05,240 --> 00:09:12,120
+Sementara itu, User Experience Questionnaire mengukur kualitas desain interaksi berdasarkan 5 skala UEQ.
+
+96
+00:09:12,120 --> 00:09:22,940
+6 skala yang tercakup adalah Attractiveness, Perspectivity, Efficiency, Dependability, Stimulation, dan juga Novelty
+
+97
+00:09:22,940 --> 00:09:29,040
+Baik SUS ataupun UEQ, keduanya merupakan evaluasi secara kuantitatif
+
+98
+00:09:29,040 --> 00:09:37,020
+Hasil keduanya dapat mendukung hasil usability testing ataupun field study dengan hasil analisis secara kuantitatif
+
+99
+00:09:37,020 --> 00:09:43,840
+Evaluasi desain interaksi juga dapat dilakukan dengan bertanya kepada pakar.
+
+100
+00:09:44,380 --> 00:09:50,500
+Teknik ini merupakan tipe evaluasi yang ketiga tadi, yaitu tidak melibatkan pengguna secara langsung.
+
+101
+00:09:51,180 --> 00:09:56,600
+Teknik ini berusaha memperoleh insight dari para pakar mengenai desain interaksi yang dikembangkan.
+
+102
+00:09:57,160 --> 00:10:01,200
+Biasanya yang menjadi pakar adalah para peneliti UX yang sudah berpengalaman.
+
+103
+00:10:01,800 --> 00:10:05,740
+Penilaiannya berdasarkan asumsi dan intuisi sang pakar tersebut.
+
+104
+00:10:05,740 --> 00:10:15,860
+Jika teknik evaluasi ini merupakan satu-satunya yang dilakukan, maka teknik ini hampir serupa dengan konsep Genius Design yang hanya melibatkan expert
+
+105
+00:10:15,860 --> 00:10:24,400
+Genius Design merupakan konsep perancangan interaksi yang setiap keputusan perancangannya diambil berdasarkan pendapat pakar
+
+106
+00:10:24,640 --> 00:10:32,100
+Kalaupun ada keterlibatan pengguna, maka itu hanya dilakukan pada bagian paling akhir dari proyek pengembangan aplikasinya saja
+
+107
+00:10:32,100 --> 00:10:41,460
+Dengan asumsi kepakaran dari expert sudah sesuai dan tepat, maka pendekatan jenius desain ini dapat memangkas waktu perancangan dengan signifikan
+
+108
+00:10:41,460 --> 00:10:44,220
+Namun pendekatan ini bukan tanpa kelemahan
+
+109
+00:10:44,220 --> 00:10:52,640
+Kita perlu berhati-hati pada hasilnya yang mungkin bias dan tidak valid karena memang tidak secara langsung melibatkan pengguna aslinya
+
+110
+00:10:52,640 --> 00:10:59,310
+Metode evaluasi lain yang juga tidak melibatkan pengguna secara langsung adalah heatmap
+
+111
+00:10:59,310 --> 00:11:09,410
+Heatmap menampilkan titik-titik yang paling sering dilihat dan dilakukan interaksi oleh pengguna, baik itu berupa klik, tap, atau bahkan fokus matanya.
+
+112
+00:11:10,450 --> 00:11:15,590
+Umumnya tersedia di berbagai web analytics package dan dibuat berdasarkan session sampling.
+
+113
+00:11:16,130 --> 00:11:18,470
+Salah satu toolsnya adalah Google Analytics.
+
+114
+00:11:19,270 --> 00:11:24,550
+Heatmap memberikan visualisasi titik-titik pada antar muka yang memiliki interaksi terbanyak.
+
+115
+00:11:24,550 --> 00:11:31,770
+Teknik ini membantu mengevaluasi apakah suatu desain mudah dipahami atau malah disalahpahami oleh user.
+
+116
+00:11:32,550 --> 00:11:36,530
+Ini adalah salah satu contoh heatmap pada aplikasi Facebook Feed.
+
+117
+00:11:37,150 --> 00:11:46,230
+Warna merah menandakan bagian atau area yang paling sering dilihat oleh user, kuning menyatakan medium, dan hijau menyatakan intensitas yang rendah.
+
+118
+00:11:46,850 --> 00:11:53,330
+Jika warnanya putih, itu berarti wilayah tersebut dapat dianggap sama sekali tidak menarik untuk dilihat oleh user.
+
+119
+00:11:54,550 --> 00:12:01,910
+Insight yang bisa kita dapatkan dari contoh heatmap ini adalah bahwa ternyata user hanya melihat postingan terbaru saja.
+
+120
+00:12:02,450 --> 00:12:08,090
+Karena warna merah cenderung berada di bagian atas halaman tempat postingan baru tersebut muncul.
+
+121
+00:12:10,720 --> 00:12:13,200
+Kita sudah bahas berbagai metode evaluasi.
+
+122
+00:12:13,200 --> 00:12:20,880
+Tabel berikut merupakan ringkasan metode evaluasi bila dipetakan pada tiga jenis evaluasi yang sudah dibahas di awal.
+
+123
+00:12:20,880 --> 00:12:28,440
+Metode observasi dapat dilakukan pada lingkungan terkontrol di lab ataupun di lapangan atau natural setting
+
+124
+00:12:28,440 --> 00:12:31,660
+Sama juga halnya dengan metode wawancara pengguna
+
+125
+00:12:31,660 --> 00:12:38,640
+Sedangkan menanyakan pada pakar dapat dilakukan pada lingkungan natural dan juga tanpa melibatkan pengguna
+
+126
+00:12:38,640 --> 00:12:45,180
+Di sisi lain, metode pengujian atau testing hanya bisa dilakukan pada lingkungan terkontrol
+
+127
+00:12:45,180 --> 00:12:55,200
+Dan kebalikannya, modeling, baik itu secara statistik atau analisis log, dan juga heatmap, merupakan jenis evaluasi yang dilakukan tanpa pengguna.
+
+128
+00:12:56,380 --> 00:13:00,760
+Dalam kondisi nyata, kita dapat melakukan lebih dari satu metode evaluasi.
+
+129
+00:13:01,480 --> 00:13:09,200
+Misalnya seperti yang telah dicontohkan tadi, kita dapat menggabungkan metode observasi atau studi lapangan dengan usability testing.
+
+130
+00:13:09,760 --> 00:13:15,160
+Sekurang-kurangnya kita perlu melakukan satu teknik evaluasi yang ada di dalam tabel ini.
+
+131
+00:13:15,180 --> 00:13:22,420
+Ketika kita melakukan evaluasi desain interaksi, terutama yang melibatkan pengguna secara langsung
+
+132
+00:13:22,420 --> 00:13:28,860
+Satu hal yang perlu diperhatikan adalah persetujuan dan hak partisipan atau pengguna yang berpartisipasi
+
+133
+00:13:28,860 --> 00:13:35,260
+Beberapa hal perlu atau bahkan wajib diperhatikan saat kita melakukan evaluasi desain interaksi
+
+134
+00:13:35,640 --> 00:13:42,640
+Pertama, kita wajib menyampaikan tujuan, alasan, penelitian, resiko dan juga hak-hak partisipannya
+
+135
+00:13:43,460 --> 00:13:48,500
+Dan kita wajib membuat informed consent form yang perlu disetujui oleh partisipan.
+
+136
+00:13:49,400 --> 00:13:53,480
+Bentuknya berupa form yang harus diisi dan ditanda tangani oleh partisipan.
+
+137
+00:13:54,740 --> 00:13:59,560
+Informed consent form ini penting karena merupakan dokumen legal persetujuan partisipan.
+
+138
+00:13:59,560 --> 00:14:05,900
+Dengan dokumen tersebut, kita tidak melanggar etika dan menghargai hak-hak pengguna yang berpartisipasi.
+
+139
+00:14:08,780 --> 00:14:12,920
+Proses evaluasi desain interaksi tidak selalu berjalan mulus tanpa hambatan.
+
+140
+00:14:12,920 --> 00:14:17,220
+Terkadang muncul isu-isu atau tantangan ketika kita melakukannya
+
+141
+00:14:17,220 --> 00:14:22,880
+Setidaknya ada 6 isu dalam evaluasi desain interaksi yang sebaiknya kita ketahui
+
+142
+00:14:22,880 --> 00:14:29,760
+Isu pertama adalah terkait reliability atau kehandalan dan kekonsistenan metode yang digunakan
+
+143
+00:14:29,760 --> 00:14:34,980
+Metode dianggap reliable apabila hasilnya konsisten jika diulang
+
+144
+00:14:35,060 --> 00:14:38,540
+Ibarat penggaris yang digunakan untuk mengukur panjang meja
+
+145
+00:14:38,540 --> 00:14:43,020
+apabila kita mengukur meja tersebut berulang-ulang dengan penggaris yang sama
+
+146
+00:14:43,020 --> 00:14:45,140
+maka tentu hasilnya konsisten
+
+147
+00:14:45,140 --> 00:14:48,700
+Isu yang kedua adalah terkait validity
+
+148
+00:14:48,700 --> 00:14:54,240
+Ini berkaitan dengan kesesuaian metode yang digunakan dengan hasil yang ingin kita capai
+
+149
+00:14:54,240 --> 00:15:02,020
+Kita perlu memastikan apakah metode yang digunakan berhasil mengukur apa yang memang sebetulnya ingin kita ukur
+
+150
+00:15:02,020 --> 00:15:05,440
+Ibaratnya, apabila ingin mengukur lebar ruangan
+
+151
+00:15:05,440 --> 00:15:09,280
+maka alat yang digunakan adalah meteran, bukan penggaris.
+
+152
+00:15:10,140 --> 00:15:13,040
+Isu ketiga adalah ecological validity.
+
+153
+00:15:13,800 --> 00:15:18,100
+Ini berkaitan dengan kondisi lingkungan yang kondusif untuk melakukan evaluasi.
+
+154
+00:15:18,960 --> 00:15:23,160
+Apakah lingkungan sekitar saat melakukan evaluasi dapat mempengaruhi hasilnya?
+
+155
+00:15:23,640 --> 00:15:25,940
+Pertanyaan tersebut perlu dijawab terlebih dahulu.
+
+156
+00:15:26,540 --> 00:15:30,820
+Misalnya, menanyakan pengguna aplikasi secara langsung di hadapan atasannya
+
+157
+00:15:30,820 --> 00:15:37,800
+bisa jadi menghasilkan luaran yang berbeda dengan apabila menanyakannya di ruangan tertutup dengan privasi terjamin.
+
+158
+00:15:39,020 --> 00:15:41,480
+Isu selanjutnya adalah terkait dengan bias.
+
+159
+00:15:42,140 --> 00:15:45,860
+Apakah ada hal-hal yang bisa membuat hasil evaluasi menjadi bias?
+
+160
+00:15:46,660 --> 00:15:50,560
+Teknik evaluasi yang tidak melibatkan pengguna akan sangat rentan dengan isu ini,
+
+161
+00:15:51,000 --> 00:15:54,200
+atau apabila melibatkan pengguna tapi salah memilih pengguna,
+
+162
+00:15:54,620 --> 00:15:57,400
+atau bisa juga yang dipilih bukanlah pengguna aslinya.
+
+163
+00:15:57,400 --> 00:16:03,740
+Dan isu yang terakhir adalah terkait dengan scope atau lingkup pengujian
+
+164
+00:16:03,740 --> 00:16:08,240
+Kita perlu tahu sejauh mana hasil evaluasi dapat digeneralisasi
+
+165
+00:16:08,240 --> 00:16:11,880
+Misalnya jika aplikasi digunakan untuk skala global
+
+166
+00:16:11,880 --> 00:16:16,700
+Maka evaluasi yang dilakukan terhadap pengguna di satu tempat dan bersifat homogen
+
+167
+00:16:16,700 --> 00:16:21,420
+Tentu hasilnya tidak bisa diklaim berlaku juga di semua tempat secara global
+
+168
+00:16:21,420 --> 00:16:27,580
+Isu-isu dalam evaluasi desain interaksi tadi menjadi akhir dari pembahasan kita ini
+
+169
+00:16:27,580 --> 00:16:31,840
+Berikut ini adalah daftar referensi yang digunakan dalam penyusunan materinya.
+
+170
+00:16:32,480 --> 00:16:35,860
+Terima kasih karena Anda telah menyimak video materi ini hingga selesai.
+

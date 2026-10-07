@@ -1,0 +1,298 @@
+mata_kuliah,entri_id,bentuk_kanonik,bentuk_permukaan,sumber,tanggal_kunci
+AOK,AOK-001,access time,access time,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-001,access time,waktu akses,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-002,accumulator,accumulator,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-002,accumulator,akumulator,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-003,addressing mode,addressing mode,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-003,addressing mode,addressing modes,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-003,addressing mode,mode pengalamatan,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-004,ALU,ALU,materi ajar (BAB 15 - RISC. CISC1.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-004,ALU,unit aritmatika dan logika,materi ajar (BAB 15 - RISC. CISC1.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-005,amdahl's law,amdahl's law,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-005,amdahl's law,hukum amdahl,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-006,ARM,ARM,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-007,arsitektur komputer,arsitektur komputer,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-007,arsitektur komputer,arsitektur,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-008,associative mapping,associative mapping,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-008,associative mapping,pemetaan asosiatif,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-009,benchmark,benchmark,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-009,benchmark,benchmarking,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-010,binary,binary,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-010,binary,biner,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-010,binary,bilangan biner,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-011,bit,bit,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-011,bit,bits,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-012,boolean function,boolean function,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-012,boolean function,fungsi boolean,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-012,boolean function,boolean,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-013,branch,branch,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-013,branch,percabangan,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-014,buffer,buffer,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-014,buffer,buffering,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-015,bus,bus,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-015,bus,bus sistem,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-016,byte,byte,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-016,byte,bytes,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-017,cache,cache,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-017,cache,caches,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-017,cache,cache memory,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-017,cache,memori cache,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-018,cache coherence,cache coherence,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-018,cache coherence,koherensi cache,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-019,cache line,cache line,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-019,cache line,baris cache,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-020,chip,chip,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-021,CISC,CISC,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-021,CISC,complex instruction set computers,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-022,clock,clock,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-022,clock,clock cycle,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-022,clock,frekuensi clock,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-023,cloud computing,cloud computing,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-023,cloud computing,komputasi awan,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-024,cluster,cluster,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-024,cluster,kluster,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-025,combinational circuit,combinational circuit,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-025,combinational circuit,rangkaian kombinasional,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-026,computer arithmetic,computer arithmetic,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-026,computer arithmetic,aritmatika komputer,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-026,computer arithmetic,aritmatika,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-026,computer arithmetic,arithmetic,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-027,control unit,control unit,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-027,control unit,CU,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-027,control unit,unit kontrol,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-028,core,core,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-028,core,cores,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-029,CPI,CPI,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-029,CPI,cycles per instruction,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-029,CPI,cycle per instruction,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-029,CPI,siklus per instruksi,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-030,CPU,CPU,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-030,CPU,central processing unit,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-031,data bus,data bus,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-031,data bus,bus data,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-032,data transfer,data transfer,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-032,data transfer,transfer data,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-033,DDR SDRAM,DDR SDRAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-033,DDR SDRAM,DDR-DRAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-033,DDR SDRAM,DDR,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-034,decoder,decoder,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-034,decoder,dekoder,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-035,device controller,device controller,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-035,device controller,pengontrol I/O,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-035,device controller,I/O controller,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-036,digital logic,digital logic,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-036,digital logic,logika digital,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-036,digital logic,digital system,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-036,digital logic,sistem digital,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-037,direct mapping,direct mapping,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-037,direct mapping,pemetaan langsung,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-038,disk,disk,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-038,disk,disks,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-038,disk,harddisk,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-039,displacement addressing,displacement addressing,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-039,displacement addressing,displacement,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-040,DMA,DMA,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-040,DMA,direct memory access,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-040,DMA,akses memori langsung,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-041,DRAM,DRAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-041,DRAM,RAM dinamis,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-042,EEPROM,EEPROM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-043,elemen penyimpanan,elemen penyimpanan,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-043,elemen penyimpanan,storage element,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-044,embedded system,embedded system,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-044,embedded system,sistem tertanam,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-045,error correction,error correction,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-045,error correction,koreksi kesalahan,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-046,exponent,exponent,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-046,exponent,eksponen,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-047,external memory,external memory,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-047,external memory,memori eksternal,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-048,fetch,fetch,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-048,fetch,instruction fetch,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-049,fixed point,fixed point,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-050,flash memory,flash memory,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-050,flash memory,memori flash,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-050,flash memory,flash,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-051,flip-flop,flip-flop,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-052,floating point,floating point,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-052,floating point,bilangan floating point,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-053,GPU,GPU,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-053,GPU,unit pemrosesan grafis,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-054,I/O,I/O,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-054,I/O,input/output,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-054,I/O,input-output,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-055,I/O module,I/O module,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-055,I/O module,modul I/O,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-056,IEEE 754,IEEE 754,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-057,immediate addressing,immediate addressing,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-057,immediate addressing,immediate,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-058,indikator kinerja,indikator kinerja,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-058,indikator kinerja,performance indicator,buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-059,indirect addressing,indirect addressing,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-059,indirect addressing,pengalamatan tidak langsung,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-060,instruction,instruction,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-060,instruction,instructions,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-060,instruction,instruksi,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-061,instruction cycle,instruction cycle,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-061,instruction cycle,siklus instruksi,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-062,instruction format,instruction format,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-062,instruction format,format instruksi,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-063,instruction level parallelism,instruction level parallelism,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-063,instruction level parallelism,paralelisme tingkat instruksi,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-064,instruction set,instruction set,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-064,instruction set,set instruksi,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-064,instruction set,kumpulan instruksi,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-065,integer,integer,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-065,integer,bilangan bulat,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-066,integrated circuit,integrated circuit,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-066,integrated circuit,IC,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-066,integrated circuit,sirkuit terpadu,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-067,interconnection,interconnection,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-067,interconnection,interkoneksi,materi ajar (Bab 2 - Performance Issues and Top Level View of Computer Function.pdf),2026-10-01
+AOK,AOK-068,interface,interface,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-068,interface,interfacing,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-068,interface,antarmuka,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-069,internal memory,internal memory,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-069,internal memory,memori internal,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-070,interrupt,interrupt,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-070,interrupt,interrupts,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-070,interrupt,interupsi,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-071,interrupt handler,interrupt handler,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-072,IoT,IoT,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-073,ISA,ISA,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-073,ISA,instruction set architecture,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-073,ISA,arsitektur set instruksi,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-074,logic gate,logic gate,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-074,logic gate,gerbang logika,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-074,logic gate,gate,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-074,logic gate,gerbang,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-075,machine instruction,machine instruction,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-075,machine instruction,instruksi mesin,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-076,main memory,main memory,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-076,main memory,memori utama,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-077,mainframe,mainframe,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-078,MAR,MAR,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-079,MBR,MBR,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-080,memori,memori,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-080,memori,memory,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-081,memory cell,memory cell,materi ajar (BAB 5 - Internal Memory.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-081,memory cell,sel memori,materi ajar (BAB 5 - Internal Memory.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-082,memory management,memory management,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-082,memory management,manajemen memori,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-083,MESI,MESI,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-083,MESI,protokol MESI,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-084,microcontroller,microcontroller,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-084,microcontroller,mikrokontroler,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-085,microprocessor,microprocessor,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-085,microprocessor,mikroprosesor,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-086,MIPS,MIPS,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-087,MMU,MMU,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-088,MSB,MSB,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-089,multicore,multicore,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-089,multicore,prosesor multicore,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-090,multiplexer,multiplexer,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-091,multiprocessor,multiprocessor,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-091,multiprocessor,multiprosesor,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-092,multiprogramming,multiprogramming,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-093,multithreading,multithreading,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-094,NAND,NAND,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-095,nonvolatile,nonvolatile,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-096,normalization,normalization,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-096,normalization,normalisasi,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-097,NUMA,NUMA,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-098,opcode,opcode,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-098,opcode,kode operasi,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-099,operand,operand,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-099,operand,operands,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-099,operand,operan,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-100,operating system,operating system,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-100,operating system,sistem operasi,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-100,operating system,OS,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-101,organisasi komputer,organisasi komputer,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-101,organisasi komputer,organisasi,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-102,out-of-order,out-of-order,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-103,page table,page table,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-103,page table,tabel halaman,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-104,paging,paging,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-105,parity,parity,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-105,parity,paritas,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-106,peripheral,peripheral,materi ajar (BAB 7 - Input Output.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-106,peripheral,periferal,materi ajar (BAB 7 - Input Output.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-106,peripheral,perangkat periferal,materi ajar (BAB 7 - Input Output.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-106,peripheral,piranti peripheral,materi ajar (BAB 7 - Input Output.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-107,physical address,physical address,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-107,physical address,alamat fisik,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-108,pipeline,pipeline,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-108,pipeline,pipelining,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-108,pipeline,pipelines,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-108,pipeline,saluran pipa,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-108,pipeline,pipa instruksi,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-109,program counter,program counter,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-109,program counter,pencacah program,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-110,programmed I/O,programmed I/O,materi ajar (BAB 7 - Input Output.pdf),2026-10-01
+AOK,AOK-111,prosesor,prosesor,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-111,prosesor,processor,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-111,prosesor,processors,materi ajar (BAB 17 Parallel Processing Multicore.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-112,RAID,RAID,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-113,RAM,RAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-114,random access,random access,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-114,random access,akses acak,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-115,register,register,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-115,register,registers,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-116,register addressing,register addressing,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-116,register addressing,pengalamatan register,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-117,register file,register file,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-118,register indirect addressing,register indirect addressing,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-118,register indirect addressing,pengalamatan register tidak langsung,materi ajar (Bab 11 - ISA Addressing.pdf),2026-10-01
+AOK,AOK-119,RISC,RISC,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-119,RISC,reduced instruction set computers,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-120,ROM,ROM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-120,ROM,read only memory,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-121,scheduling,scheduling,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-121,scheduling,penjadwalan,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-122,scientific notation,scientific notation,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-122,scientific notation,notasi ilmiah,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-123,sector,sector,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-124,segmentation,segmentation,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-124,segmentation,segmentasi,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-125,semiconductor memory,semiconductor memory,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-125,semiconductor memory,memori semikonduktor,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-126,sign bit,sign bit,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-126,sign bit,bit tanda,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-127,significand,significand,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-128,SIMD,SIMD,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-129,simultaneous multithreading,simultaneous multithreading,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-129,simultaneous multithreading,SMT,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-130,SMP,SMP,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-131,source operand,source operand,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-132,SPARC,SPARC,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-133,SRAM,SRAM,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-133,SRAM,RAM statis,materi ajar (BAB 5 - Internal Memory.pdf),2026-10-01
+AOK,AOK-134,SSD,SSD,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-135,stack,stack,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-136,superpipeline,superpipeline,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-137,superscalar,superscalar,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-137,superscalar,superskalar,materi ajar (Bab 13 - ILP and Superscalar.pdf),2026-10-01
+AOK,AOK-138,tag,tag,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-138,tag,tags,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-139,thread,thread,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-139,thread,utas,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-140,TLB,TLB,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf),2026-10-01
+AOK,AOK-141,track,track,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-142,transfer rate,transfer rate,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-142,transfer rate,kecepatan transfer,materi ajar (BAB 6 - Memori Eksternal.pdf),2026-10-01
+AOK,AOK-143,transistor,transistor,materi ajar (Bab 1 - Konsep Dasar dan Evolusi Komputer.pdf),2026-10-01
+AOK,AOK-144,two's complement,two's complement,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-144,two's complement,twos complement,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-144,two's complement,komplemen dua,materi ajar (FIX Bab 9 - Aritmatika Komputer.pdf),2026-10-01
+AOK,AOK-145,virtual address,virtual address,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-145,virtual address,alamat virtual,materi ajar (BAB 15 - RISC. CISC1.pdf),2026-10-01
+AOK,AOK-146,virtual memory,virtual memory,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-146,virtual memory,memori virtual,materi ajar (BAB 8 - Dukungan Sistem Operasi.pdf); buku pedoman kurikulum 2024,2026-10-01
+AOK,AOK-147,volatile,volatile,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-147,volatile,mudah menguap,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-148,word,word,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-148,word,words,materi ajar (BAB 4 - Cache memory.pdf),2026-10-01
+AOK,AOK-149,write back,write back,materi ajar (BAB 17 Parallel Processing Multicore.pdf),2026-10-01
+AOK,AOK-150,x86,x86,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01
+AOK,AOK-150,x86,intel x86,materi ajar (FIX Bab 10 - ISA_ Karakteristik dan Fungsi.pdf),2026-10-01

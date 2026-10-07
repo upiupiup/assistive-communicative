@@ -1,0 +1,283 @@
+mata_kuliah,entri_id,bentuk_kanonik,bentuk_permukaan,sumber,tanggal_kunci
+RPL,RPL-001,abstraction,abstraction,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-001,abstraction,abstraksi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-002,acceptance testing,acceptance testing,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-003,agile,agile,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-003,agile,agile manifesto,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-004,agile unified process,agile unified process,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-004,agile unified process,AUP,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-005,ambiguity,ambiguity,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-005,ambiguity,ambiguous,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-006,architectural design,architectural design,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-007,bespoke software,bespoke software,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-007,bespoke software,custom software,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-008,black box testing,black box testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-009,boilerplate,boilerplate,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-010,bug,bug,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-011,change management,change management,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-012,class diagram,class diagram,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-013,coding standard,coding standard,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-014,compatibility,compatibility,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-014,compatibility,kompatibilitas,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-015,completeness,completeness,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-015,completeness,complete,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-016,component design,component design,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-017,component-based software engineering,component-based software engineering,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-017,component-based software engineering,CBSE,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-017,component-based software engineering,rekayasa perangkat lunak berbasis komponen,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-018,composition,composition,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-018,composition,komposisi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-019,configuration management,configuration management,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-019,configuration management,manajemen konfigurasi,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-020,consistency,consistency,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-020,consistency,consistent,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-021,constraint,constraint,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-021,constraint,constraints,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-021,constraint,batasan,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-021,constraint,kendala,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-022,customer,customer,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-022,customer,customers,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-022,customer,pelanggan,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-023,customer testing,customer testing,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-024,daily scrum,daily scrum,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-025,data design,data design,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-026,data flow model,data flow model,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-027,decomposition,decomposition,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-027,decomposition,dekomposisi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-028,deliverable,deliverable,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-028,deliverable,deliverables,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-029,delivery,delivery,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-029,delivery,delivered,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-030,deployment,deployment,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-030,deployment,penyebaran perangkat lunak,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-031,developer,developer,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-031,developer,developers,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-031,developer,pengembang,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-032,development team,development team,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-033,distributed system,distributed system,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-033,distributed system,sistem terdistribusi,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-034,DSDM,DSDM,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-034,DSDM,dynamic systems development method,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-035,embedded system,embedded system,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-035,embedded system,sistem tertanam,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-035,embedded system,embedded software,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-035,embedded system,perangkat lunak tertanam,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-036,estimation,estimation,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-037,ethnography,ethnography,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-038,extreme programming,extreme programming,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-038,extreme programming,XP,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-039,feasibility study,feasibility study,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-039,feasibility study,studi kelayakan,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-040,feature,feature,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-040,feature,features,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-040,feature,fitur,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-041,feature creep,feature creep,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-042,feature description,feature description,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-043,feature identification,feature identification,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-044,feature list,feature list,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-045,functional requirement,functional requirement,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-045,functional requirement,kebutuhan fungsional,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-045,functional requirement,functional,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-046,functional suitability,functional suitability,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-047,generic software,generic software,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-047,generic software,perangkat lunak generik,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-048,hybrid,hybrid,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-049,implementation,implementation,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-049,implementation,implementasi,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-050,incremental,incremental,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-051,integration testing,integration testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-052,interface design,interface design,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-053,interview,interview,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-053,interview,interviewing,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-054,iterative,iterative,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-055,kegagalan perangkat lunak,kegagalan perangkat lunak,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-055,kegagalan perangkat lunak,software failure,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-055,kegagalan perangkat lunak,kegagalan PL,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-056,kualitas perangkat lunak,kualitas perangkat lunak,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-056,kualitas perangkat lunak,software quality,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-057,maintainability,maintainability,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-057,maintainability,maintenance,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-057,maintainability,pemeliharaan,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-057,maintainability,kemudahan pemeliharaan,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-058,manajemen proyek,manajemen proyek,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-058,manajemen proyek,project management,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-059,model,model,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-059,model,models,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-060,modeling,modeling,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-060,modeling,pemodelan,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-060,modeling,pemodelan kebutuhan,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-061,natural language,natural language,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-061,natural language,bahasa natural,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-062,notation,notation,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-062,notation,notasi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-063,object oriented analysis,object oriented analysis,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-064,observation,observation,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-065,perangkat lunak,perangkat lunak,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-065,perangkat lunak,software,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-065,perangkat lunak,PL,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-066,performance,performance,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-066,performance,unjuk kerja,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-067,performance efficiency,performance efficiency,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-067,performance efficiency,efisiensi kinerja,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-068,persona,persona,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-068,persona,personas,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-069,phase,phase,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-069,phase,phases,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-069,phase,fase,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-070,portability,portability,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-070,portability,portabilitas,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-071,problem,problem,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-071,problem,masalah,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-071,problem,permasalahan,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-072,problem domain,problem domain,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-072,problem domain,domain masalah,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-073,product backlog,product backlog,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-074,product management,product management,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-075,product manager,product manager,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-075,product manager,PM,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-075,product manager,manajer produk,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-076,product owner,product owner,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-077,product roadmap,product roadmap,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-078,product software engineering,product software engineering,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-079,product vision,product vision,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-079,product vision,visi produk,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-080,programming,programming,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-081,programming language,programming language,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-082,project planning,project planning,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-082,project planning,perencanaan proyek,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-083,prototyping,prototyping,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-083,prototyping,prototype,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-083,prototyping,prototipe,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-084,quality assurance,quality assurance,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-085,rational unified process,rational unified process,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-085,rational unified process,RUP,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-086,rationale,rationale,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-087,rekayasa perangkat lunak,rekayasa perangkat lunak,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-087,rekayasa perangkat lunak,software engineering,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-087,rekayasa perangkat lunak,RPL,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-088,release,release,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-089,requirement,requirement,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-089,requirement,requirements,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-089,requirement,kebutuhan,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-089,requirement,kebutuhan PL,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-090,requirement gathering,requirement gathering,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-090,requirement gathering,requirements gathering,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-090,requirement gathering,pengumpulan kebutuhan,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-091,requirement statement,requirement statement,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-091,requirement statement,requirement statements,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-091,requirement statement,pernyataan kebutuhan,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-092,requirements analysis,requirements analysis,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-092,requirements analysis,analisis kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-093,requirements definition,requirements definition,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-093,requirements definition,definisi kebutuhan,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,requirements elicitation,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,elisitasi kebutuhan,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,elisitasi,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,elicitation,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-094,requirements elicitation,penggalian dan analisis kebutuhan,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-095,requirements engineering,requirements engineering,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-095,requirements engineering,rekayasa kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-095,requirements engineering,RE,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-096,requirements management,requirements management,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-096,requirements management,manajemen kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-097,requirements specification,requirements specification,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-097,requirements specification,spesifikasi kebutuhan,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-098,requirements validation,requirements validation,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-098,requirements validation,validasi kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-099,requirements verification,requirements verification,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-099,requirements verification,verifikasi kebutuhan,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-100,review and inspection,review and inspection,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-100,review and inspection,review,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-101,risk management,risk management,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-101,risk management,manajemen risiko,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-102,scenario,scenario,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-102,scenario,scenarios,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-102,scenario,skenario,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-103,scheduling,scheduling,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-104,scope creep,scope creep,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-105,scrum,scrum,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-105,scrum,scrum framework,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-106,scrum master,scrum master,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-107,scrum team,scrum team,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-108,SDLC,SDLC,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-108,SDLC,software development life cycle,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-108,SDLC,siklus hidup pengembangan perangkat lunak,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-108,SDLC,model SDLC,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-108,SDLC,life cycle,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-109,security,security,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-110,service-oriented architecture,service-oriented architecture,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-110,service-oriented architecture,SOA,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-110,service-oriented architecture,arsitektur berorientasi layanan,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-110,service-oriented architecture,service-oriented,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-111,SMART,SMART,materi ajar (CIF61101-Bab5-Teknik Elisitasi & Penulisan Kebutuhan-v1.0.pdf),2026-10-01
+RPL,RPL-112,software as a service,software as a service,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-113,software component,software component,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-113,software component,komponen perangkat lunak,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-113,software component,komponen PL,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-114,software design,software design,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf); buku pedoman kurikulum 2024",2026-10-01
+RPL,RPL-114,software design,desain perangkat lunak,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf); buku pedoman kurikulum 2024",2026-10-01
+RPL,RPL-114,software design,design,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf); buku pedoman kurikulum 2024",2026-10-01
+RPL,RPL-114,software design,perancangan,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf); buku pedoman kurikulum 2024",2026-10-01
+RPL,RPL-115,software development,software development,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-115,software development,pengembangan perangkat lunak,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-115,software development,pengembangan PL,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-116,software evolution,software evolution,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-116,software evolution,evolusi perangkat lunak,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-117,software maintenance,software maintenance,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-117,software maintenance,pemeliharaan perangkat lunak,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-118,software measurement,software measurement,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-119,software process,software process,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-119,software process,proses perangkat lunak,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-119,software process,proses PL,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-120,software product,software product,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-120,software product,software products,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-120,software product,produk perangkat lunak,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-121,software programmer,software programmer,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-122,software project,software project,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-122,software project,proyek perangkat lunak,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-122,software project,projek PL,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-122,software project,proyek PL,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-123,software specification,software specification,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-124,software validation,software validation,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-125,solution domain,solution domain,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-125,solution domain,domain solusi,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-126,spiral,spiral,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-127,sprint,sprint,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-127,sprint,sprints,materi ajar (CIF61101-Bab6-Simulasi-SDLC-agile-v1.0.pdf),2026-10-01
+RPL,RPL-128,SRS,SRS,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-129,stakeholder,stakeholder,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-129,stakeholder,stakeholders,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-129,stakeholder,pemangku kepentingan,materi ajar (CIF61101-Bab4-Konsep Kebutuhan PL & Elisitasi-v3.0 .pdf),2026-10-01
+RPL,RPL-130,system requirements,system requirements,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-130,system requirements,kebutuhan sistem,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-131,test case,test case,materi ajar (CIF61101-Bab3-Konsep Abstraksi dalam RPL-v3.0.pdf),2026-10-01
+RPL,RPL-132,testing,testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-132,testing,pengujian,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf); buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-133,traceability,traceability,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-134,trade-off,trade-off,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-135,UML,UML,materi ajar (CIF61101-Bab2-Proses PL (Bag. 2)-v1.0.pdf),2026-10-01
+RPL,RPL-136,unit testing,unit testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-137,usability,usability,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-138,user,user,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-138,user,users,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-138,user,pengguna,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-138,user,end-user,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-139,user interface,user interface,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-140,user interface design,user interface design,materi ajar (CIF61101-Bab8a-Software Products (Sommerville).pdf),2026-10-01
+RPL,RPL-141,user requirements,user requirements,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-141,user requirements,kebutuhan pengguna,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-142,user story,user story,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-142,user story,user stories,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-142,user story,cerita pengguna,"materi ajar (CIF61101-Bab8b-Features, Scenarios, and Stories (Sommerville).pdf)",2026-10-01
+RPL,RPL-143,V&V,V&V,materi ajar (CIF61101-Bab7-Konsep Spesifikasi dan V&V Kebutuhan PL-v2.0.pdf),2026-10-01
+RPL,RPL-144,v-model,v-model,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-145,validation,validation,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-145,validation,validasi,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-146,verification,verification,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-146,verification,verifikasi,materi ajar (CIF61101-Bab3-Rekayasa Kebutuhan (Konsep)-v1.0.pdf),2026-10-01
+RPL,RPL-147,version management,version management,materi ajar (CIF61101-Bab1-Pengantar-v1.0.pdf),2026-10-01
+RPL,RPL-148,waterfall,waterfall,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01
+RPL,RPL-149,web service,web service,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-149,web service,layanan web,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-149,web service,web services,buku pedoman kurikulum 2024,2026-10-01
+RPL,RPL-150,white box testing,white box testing,materi ajar (CIF61101-Bab2-Proses PL (Bag. 1)-v2.0.pdf),2026-10-01

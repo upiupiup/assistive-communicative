@@ -1,0 +1,871 @@
+1
+00:00:00,060 --> 00:00:04,200
+Selamat datang di video materi untuk mata kuliah analisis dan perancangan sistem.
+
+2
+00:00:04,780 --> 00:00:09,100
+Sampai saat ini kita sudah memasuki pembahasan pada topik sistem implementation.
+
+3
+00:00:09,780 --> 00:00:13,200
+Topik pembahasan yang kita bahas dalam video kali ini adalah tentang programming,
+
+4
+00:00:13,840 --> 00:00:16,300
+sistem testing, dan juga sistem documentation.
+
+5
+00:00:16,960 --> 00:00:17,580
+Selamat menyimak.
+
+6
+00:00:19,670 --> 00:00:22,290
+Pembahasan yang tercakup dalam video kali ini ada tiga.
+
+7
+00:00:22,830 --> 00:00:25,950
+Pertama, kita bahas bagaimana strategi dalam membuat program.
+
+8
+00:00:26,630 --> 00:00:30,570
+Kedua, kita pelajari berbagai jenis pengujian sistem yang bisa kita gunakan.
+
+9
+00:00:30,570 --> 00:00:35,550
+Dan ketiga adalah pembahasan tentang bagaimana membuat dokumentasi sistem yang efektif.
+
+10
+00:00:36,010 --> 00:00:38,010
+Mari kita bahas secara mendalam satu per satu.
+
+11
+00:00:39,750 --> 00:00:45,110
+Membangun program untuk sebuah sistem merupakan pekerjaan yang perlu dikontrol atau dikelola dengan baik.
+
+12
+00:00:45,770 --> 00:00:49,270
+Ini tidak sebatas menyerahkan blueprint saja kepada programmer.
+
+13
+00:00:50,210 --> 00:00:55,590
+Sebagai seorang project manager, kita juga perlu memikirkan strategi pengelolaan pembuatan program.
+
+14
+00:00:56,350 --> 00:00:59,310
+Ada tiga strategi dasar dalam pengelolaan pembuatan program.
+
+15
+00:00:59,310 --> 00:01:03,570
+Pertama adalah memberikan tugas pemrograman pada orang yang tepat
+
+16
+00:01:03,570 --> 00:01:08,950
+Lalu strategi dasar yang kedua adalah mengkoordinasikan kegiatan pemrograman yang dilakukan
+
+17
+00:01:08,950 --> 00:01:13,090
+Dan ketiga adalah mengelola jadwal pembuatan program dengan baik
+
+18
+00:01:13,090 --> 00:01:17,230
+Mari kita perdalam tentang masing-masing dari tiga strategi tersebut
+
+19
+00:01:17,230 --> 00:01:22,850
+Strategi pertama sebetulnya berkaitan dengan penentuan tugas pemrograman
+
+20
+00:01:22,850 --> 00:01:29,070
+Harus diketahui bahwa pembagian tugas pemrograman dilakukan oleh project manager kepada para programmer
+
+21
+00:01:29,830 --> 00:01:41,310
+Dalam sebuah proyek sistem informasi, tanggung jawab dari kegiatan apapun yang dilakukan di dalam proyek tersebut menjadi tanggung jawab seorang project manager, termasuk dalam hal pembuatan program untuk sistemnya.
+
+22
+00:01:41,590 --> 00:01:51,810
+Oleh karena itu, penting bagi project manager untuk memahami berapa banyak programmer yang diperlukan, dan juga kemampuan atau skill apa saja yang harus mereka penuhi.
+
+23
+00:01:51,810 --> 00:01:56,510
+Memberikan tugas pemrograman kepada programmer yang tidak sesuai dengan kompetensinya
+
+24
+00:01:56,510 --> 00:02:00,850
+hanya akan membuat proyek terhambat atau bisa saja malah gagal.
+
+25
+00:02:01,890 --> 00:02:07,890
+Saat memilih programmer, sebaiknya kita tidak hanya menilai kemampuan teknis individunya saja.
+
+26
+00:02:08,510 --> 00:02:12,830
+Penting juga untuk mengetahui bagaimana kemampuan mereka dalam bekerjasama.
+
+27
+00:02:13,690 --> 00:02:18,530
+Ketika berbicara suatu sistem, maka jarang sekali dikerjakan oleh satu orang programmer saja.
+
+28
+00:02:18,530 --> 00:02:23,690
+Bahkan metode pengembangan sistem yang paling agile sekalipun seperti extreme programming
+
+29
+00:02:23,690 --> 00:02:26,310
+Sekurang-kurangnya membutuhkan dua orang programmer
+
+30
+00:02:26,310 --> 00:02:35,790
+Ketika memberikan tugas pemrograman, project manager juga sudah harus memahami ukuran keberhasilan program atau modul yang sedang dikembangkan
+
+31
+00:02:35,790 --> 00:02:40,350
+Setiap tugas yang diberikan harus jelas apa output atau luarannya
+
+32
+00:02:40,350 --> 00:02:42,650
+Dan ini harus dipahami bersama
+
+33
+00:02:42,650 --> 00:02:46,650
+Dengan demikian proses evaluasi nantinya akan lebih efektif
+
+34
+00:02:46,650 --> 00:02:55,610
+Pembagian tugas pemrograman ini sendiri umumnya dilakukan per modul sistem dan mengacu pada rancangan program yang sudah dibuat pada tahap desain.
+
+35
+00:02:56,270 --> 00:03:00,170
+Biasanya sudah diprioritaskan modul mana yang dikerjakan lebih dahulu.
+
+36
+00:03:00,910 --> 00:03:04,710
+Tugas programmer adalah mengikuti rancangan sistem yang sudah dibuat tersebut.
+
+37
+00:03:06,270 --> 00:03:14,810
+Walaupun tugas pemrograman sudah diberikan kepada orang yang tepat, kita tetap perlu berkoordinasi dengan orang-orang yang terlibat dalam pembuatan program tersebut.
+
+38
+00:03:14,810 --> 00:03:19,850
+Cara umum yang bisa dilakukan untuk berkoordinasi adalah dengan mengadakan meeting rutin.
+
+39
+00:03:20,250 --> 00:03:22,170
+Biasanya ini dilakukan tiap minggu.
+
+40
+00:03:23,130 --> 00:03:30,210
+Scrum meeting pada metode agile adalah contoh yang baik untuk menggambarkan bagaimana menjaga koordinasi yang baik saat membuat program.
+
+41
+00:03:31,210 --> 00:03:36,490
+Dalam proyek sistem informasi, penting juga untuk melakukan penetapan standar dalam pembuatan program.
+
+42
+00:03:37,210 --> 00:03:38,990
+Standar di sini bisa bermacam-macam.
+
+43
+00:03:39,450 --> 00:03:44,950
+Misalnya framework yang digunakan, aturan penamaan variable, dan lain sebagainya.
+
+44
+00:03:46,690 --> 00:03:55,130
+Salah satu dampak yang mungkin terjadi bila tidak ada standar adalah aturan penulisan kode program yang dibuat sesuai dengan selera individu programmer-nya saja.
+
+45
+00:03:55,190 --> 00:03:58,990
+Ini akan menyulitkan pada saat maintaining kode-kode program nantinya.
+
+46
+00:03:59,610 --> 00:04:05,030
+Kita juga perlu memisahkan program antara yang sudah selesai dengan yang masih dalam pengembangan.
+
+47
+00:04:05,690 --> 00:04:10,590
+Membuat direktori khusus untuk file program yang sudah dianggap selesai bisa menjadi salah satu caranya.
+
+48
+00:04:11,090 --> 00:04:14,350
+Atau bisa juga dengan memberikan penomoran versi program.
+
+49
+00:04:14,990 --> 00:04:20,610
+Di sini kita juga perlu mencatat setiap perubahan atau perbaikan yang dilakukan selama membuat program.
+
+50
+00:04:21,110 --> 00:04:27,470
+Dicatat dalam suatu log tertentu dan jelas apa perubahan yang dilakukan pada setiap versi program tersebut.
+
+51
+00:04:28,170 --> 00:04:35,510
+Dan jangan lupa untuk mengevaluasi progres untuk memastikan program masih sesuai dengan rancangan sistem yang sudah ditetapkan.
+
+52
+00:04:36,190 --> 00:04:42,050
+Strategi membagi tugas pemrograman ke dalam modul-modul yang lebih kecil dapat membantu proses evaluasi ini.
+
+53
+00:04:44,130 --> 00:04:48,670
+Selanjutnya, strategi dasar yang ketiga adalah terkait dengan jadwal pembuatan program.
+
+54
+00:04:49,430 --> 00:04:55,590
+Tidak hanya mengetahui kapan proyek harus selesai, namun kita perlu juga mendetailkan jadwal pembuatan program.
+
+55
+00:04:55,590 --> 00:04:58,970
+bila perlu jadwal pengerjaan tiap modul programnya.
+
+56
+00:04:59,910 --> 00:05:02,990
+Estimasi waktu pengerjaan setiap modul program perlu dibuat.
+
+57
+00:05:02,990 --> 00:05:07,710
+Ini penting, biasanya sudah dibuat pun tetap ada resiko terlambat.
+
+58
+00:05:08,250 --> 00:05:11,190
+Akan lebih parah jika tidak diestimasi di awal.
+
+59
+00:05:12,090 --> 00:05:16,450
+Keterlambatan pengembangan sistem biasanya terakumulasi dari keterlambatan harian
+
+60
+00:05:16,450 --> 00:05:18,750
+ketika membuat program untuk modul,
+
+61
+00:05:19,410 --> 00:05:23,110
+seperti efek bola salju yang semakin lama akan semakin membesar.
+
+62
+00:05:23,110 --> 00:05:30,470
+Karena itulah, project manager perlu mengantisipasi resiko keterlambatan yang mungkin terjadi sedini mungkin.
+
+63
+00:05:31,630 --> 00:05:36,170
+Sebaiknya, luangkan waktu lebih sekitar 10% ketika membuat penjadwalan.
+
+64
+00:05:36,170 --> 00:05:39,050
+Ini untuk antisipasi keterlambatan tadi.
+
+65
+00:05:39,650 --> 00:05:45,290
+Jika ternyata lebih cepat selesai, kita juga memiliki waktu yang cukup untuk melakukan evaluasi.
+
+66
+00:05:46,130 --> 00:05:50,550
+Dan ada baiknya jika kita memanfaatkan tools atau software pengelolaan proyek.
+
+67
+00:05:50,550 --> 00:05:54,710
+Saat ini ada banyak tools yang dapat digunakan untuk berkolaborasi.
+
+68
+00:05:55,270 --> 00:06:02,330
+Pemain besar seperti Microsoft ataupun Google, mereka sudah menyediakan tools yang cukup baik untuk mengelola proyek sistem informasi.
+
+69
+00:06:04,450 --> 00:06:13,310
+Tiga strategi dasar yang sudah dibahas tadi pada dasarnya berguna untuk mengurangi secara signifikan resiko terjadinya kesalahan dalam pembuatan program.
+
+70
+00:06:13,970 --> 00:06:17,290
+Sekurang-kurangnya ada empat kesalahan umum saat membuat program.
+
+71
+00:06:17,290 --> 00:06:23,010
+Pertama adalah kemampuan programmer tidak sesuai dengan kebutuhan sistem yang diperlukan
+
+72
+00:06:23,010 --> 00:06:26,810
+Lalu kesalahan umum yang kedua adalah masalah bug program
+
+73
+00:06:26,810 --> 00:06:34,030
+Baik yang ditemukan dan dilaporkan, ditemukan namun disembunyikan, ataupun terlambat untuk ditemukan
+
+74
+00:06:34,030 --> 00:06:37,810
+Ketiga adalah terlalu banyak programmer di dalam tim
+
+75
+00:06:37,810 --> 00:06:42,410
+Jumlah programmer yang terlalu banyak seringkali justru menghambat pembuatan program
+
+76
+00:06:42,950 --> 00:06:48,530
+Kebaikan pada tingkat rancangan program biasanya lebih efektif dibandingkan dengan menambah programmer.
+
+77
+00:06:49,390 --> 00:06:55,590
+Dan dampak kesalahan-kesalahan ini biasanya adalah keterlambatan jadwal atau bahkan program gagal dibuat.
+
+78
+00:06:56,410 --> 00:07:01,530
+Dengan menghindari empat kesalahan umum ini, maka peluang untuk berhasil akan jauh lebih tinggi.
+
+79
+00:07:01,870 --> 00:07:09,100
+Saat sistem sudah selesai dikembangkan, dalam artian semua modul programnya sudah selesai ditulis,
+
+80
+00:07:09,100 --> 00:07:14,360
+maka selanjutnya yang perlu dilakukan adalah pengujian sistem atau sistem testing.
+
+81
+00:07:15,140 --> 00:07:18,480
+Pengujian sistem merupakan hal yang kritikal dan harus dilakukan
+
+82
+00:07:18,480 --> 00:07:22,240
+sebelum memberikan sistemnya kepada klien atau kepada pengguna.
+
+83
+00:07:23,000 --> 00:07:26,380
+Jangan pernah sekali-kali menyerahkan sistem yang belum pernah diuji.
+
+84
+00:07:26,920 --> 00:07:31,860
+Ingat bahwa sistem dinyatakan berhasil adalah ketika semua kebutuhan klien terpenuhi.
+
+85
+00:07:32,440 --> 00:07:37,420
+Melakukan testing akan lebih menjamin sistem yang dikembangkan memenuhi kebutuhan tersebut.
+
+86
+00:07:39,100 --> 00:07:49,180
+Pengujian sistem harus dibuat berdasarkan perencanaan atau test plan, dan skenario pengujian atau test case perlu dibuat sebagai acuan saat melakukan pengujian tersebut.
+
+87
+00:07:49,840 --> 00:07:56,560
+Gambar di samping adalah contoh template yang bisa digunakan untuk membuat test plan dan juga test case apa saja yang ada di dalamnya.
+
+88
+00:07:57,300 --> 00:08:00,880
+Pengujian sistem itu sendiri biasanya melewati berbagai tahapan.
+
+89
+00:08:01,460 --> 00:08:10,940
+Sekurang-kurangnya terdapat 4 tahapan pengujian sistem, yaitu unit testing, integration testing, system testing, dan terakhir adalah acceptance testing.
+
+90
+00:08:11,600 --> 00:08:14,400
+Mari kita dalami 4 tahap pengujian sistem tersebut.
+
+91
+00:08:16,430 --> 00:08:19,110
+Tahap pengujian sistem yang pertama adalah unit testing.
+
+92
+00:08:19,370 --> 00:08:26,110
+Unit testing fokus pada satu unit, baik itu sebuah fungsi program ataupun sebuah modul program.
+
+93
+00:08:26,110 --> 00:08:30,950
+Tujuannya untuk memastikan modul tersebut menjalankan fungsinya dengan benar
+
+94
+00:08:30,950 --> 00:08:33,750
+Sesuai dengan spesifikasi program yang ada
+
+95
+00:08:33,750 --> 00:08:37,810
+Yang diuji pada dasarnya adalah kode-kode programnya itu sendiri
+
+96
+00:08:37,810 --> 00:08:41,830
+Apakah menghasilkan luaran yang sesuai dengan rancangan atau tidak
+
+97
+00:08:41,830 --> 00:08:47,370
+Unit testing ini bisa dilakukan dengan teknik black box ataupun white box testing
+
+98
+00:08:47,570 --> 00:08:53,290
+Keduanya harus dilakukan oleh orang yang memang mengerti program atau modul-modul sistem tersebut
+
+99
+00:08:53,290 --> 00:08:57,930
+Kita lihat perbedaan antara black box dengan white box testing
+
+100
+00:08:57,930 --> 00:09:01,990
+Pada black box testing, penguji tidak melihat kode program
+
+101
+00:09:01,990 --> 00:09:04,190
+Karena itulah dinamakan black box
+
+102
+00:09:04,190 --> 00:09:08,910
+Di sini yang diuji adalah kesesuaian program dengan program specification-nya
+
+103
+00:09:08,910 --> 00:09:13,050
+Fokusnya adalah luaran yang dihasilkan oleh program ataupun modul
+
+104
+00:09:13,050 --> 00:09:17,890
+Black box testing ini memang digunakan untuk unit testing yang sederhana
+
+105
+00:09:17,890 --> 00:09:25,030
+Penguji memastikan apakah unit memenuhi kebutuhan yang tertulis pada spesifikasi programnya atau tidak
+
+106
+00:09:25,030 --> 00:09:31,790
+Berbeda dengan blackbox testing, pada whitebox testing penguji bisa melihat kode program
+
+107
+00:09:31,790 --> 00:09:37,530
+Yang diuji adalah source code programnya, biasanya elemen yang paling utama dari program
+
+108
+00:09:37,750 --> 00:09:44,310
+Pada whitebox testing bahkan diperiksa aturan penamaan variable dan standar lain yang sudah ditentukan sebelumnya
+
+109
+00:09:44,310 --> 00:09:48,970
+Jenis pengujian ini memang digunakan ketika kompleksitas programnya tinggi
+
+110
+00:09:48,970 --> 00:09:52,070
+Penguji memeriksa source code program secara langsung
+
+111
+00:09:52,070 --> 00:09:56,430
+Tentu saja orang yang menguji adalah yang paham tentang kode-kode programnya
+
+112
+00:09:56,430 --> 00:09:59,850
+Biasanya memang dilakukan oleh senior programmer
+
+113
+00:09:59,850 --> 00:10:04,790
+Tahap pengujian sistem yang kedua adalah integration testing
+
+114
+00:10:04,790 --> 00:10:10,230
+Integration testing menilai apakah modul-modul dapat saling terintegrasi dengan baik
+
+115
+00:10:10,230 --> 00:10:13,750
+ketika menjalankan suatu task atau tugas tertentu
+
+116
+00:10:13,750 --> 00:10:25,170
+Ada empat pilihan metode dalam integration testing, yaitu user interface testing, data flow testing, use scenario testing, dan system integration testing.
+
+117
+00:10:25,670 --> 00:10:32,890
+Pada user interface testing, fokusnya adalah apakah antarmuka sistem sudah menampilkan informasi yang diharapkan.
+
+118
+00:10:33,470 --> 00:10:39,930
+Di sini kita memeriksa setiap menu pada antarmuka sistem dan melihat apa yang ditampilkan oleh sistemnya.
+
+119
+00:10:40,650 --> 00:10:49,550
+Sementara itu, pada data flow testing, yang kita lakukan adalah memastikan setiap data yang digunakan oleh sistem diolah dengan benar dan juga konsisten.
+
+120
+00:10:50,250 --> 00:10:54,990
+Kita telusuri aliran data pada sistem jika ternyata ada kesalahan yang ditemukan.
+
+121
+00:10:56,010 --> 00:11:03,630
+Lalu pada teknik selanjutnya, yaitu use scenario testing, kita memastikan semua use case sudah dapat dilakukan oleh sistem.
+
+122
+00:11:03,630 --> 00:11:11,150
+Sesuai namanya, yang menjadi acuan pengujian adalah spesifikasi use case yang sudah dibuat pada tahap analisis
+
+123
+00:11:11,150 --> 00:11:17,270
+Pengujian ini memastikan program yang dihasilkan sesuai dengan spesifikasi use case tersebut
+
+124
+00:11:17,930 --> 00:11:26,270
+Dan pada teknik sistem interface testing, yang kita lakukan adalah memastikan interaksi dengan sistem lain berjalan sebagaimana mestinya
+
+125
+00:11:26,270 --> 00:11:32,110
+Interaksi antar sistem bisa dalam berbagai bentuk, yang paling umum adalah pertukaran data
+
+126
+00:11:32,830 --> 00:11:41,610
+Teknik pengujian ini memang biasanya dilakukan hanya jika sistem yang dikembangkan perlu berinteraksi atau terintegrasi dengan sistem yang lainnya.
+
+127
+00:11:44,300 --> 00:11:47,020
+Tahap pengujian sistem yang ketiga adalah sistem testing.
+
+128
+00:11:47,020 --> 00:11:53,360
+Ini menguji sistem sebagai satu kesatuan, bukan hanya sebagai aplikasi perangkat lunak saja.
+
+129
+00:11:54,080 --> 00:12:01,140
+Sistem testing biasanya dilakukan oleh sistem analis untuk memastikan semua modul dan program dapat bekerja tanpa error.
+
+130
+00:12:01,860 --> 00:12:07,660
+Sistem testing ini sebetulnya mirip dengan integration testing, hanya saja skup atau cakupannya lebih luas.
+
+131
+00:12:08,840 --> 00:12:11,760
+Metode untuk melakukan sistem testing yang umum ada lima.
+
+132
+00:12:12,360 --> 00:12:14,280
+Pertama adalah requirement testing.
+
+133
+00:12:15,000 --> 00:12:20,200
+Sesuai namanya, tujuan pengujian ini adalah memastikan semua kebutuhan bisnis terpenuhi.
+
+134
+00:12:21,260 --> 00:12:23,320
+Lalu yang kedua adalah security testing.
+
+135
+00:12:23,880 --> 00:12:27,220
+Tujuannya adalah menguji hal-hal terkait dengan keamanan sistem.
+
+136
+00:12:27,220 --> 00:12:34,900
+Dan ketiga adalah performance testing yang dilakukan untuk memastikan kinerja sistem sesuai dengan harapan.
+
+137
+00:12:35,740 --> 00:12:43,080
+Performance testing biasanya menggunakan instrumen berupa checklist yang disusun berdasarkan kebutuhan non-fungsional dari sistemnya.
+
+138
+00:12:44,440 --> 00:12:46,880
+Teknik keempat adalah documentation testing.
+
+139
+00:12:47,480 --> 00:12:51,360
+Ini dilakukan setelah dokumentasi sistem untuk pengguna selesai dibuat.
+
+140
+00:12:51,940 --> 00:12:55,760
+Tujuannya adalah menguji akurasi dari dokumentasi sistem tersebut.
+
+141
+00:12:55,760 --> 00:13:00,760
+Dan teknik sistem testing yang terakhir adalah usability testing
+
+142
+00:13:00,760 --> 00:13:07,640
+Tujuannya adalah menguji dan mengukur semudah apa sistem dapat digunakan dan juga dapat dipelajari oleh pengguna
+
+143
+00:13:07,640 --> 00:13:13,140
+Tahap pengujian sistem yang terakhir adalah acceptance testing
+
+144
+00:13:13,140 --> 00:13:17,120
+Anggaplah ini sebagai ujian terakhir yang harus dilewati oleh sistem
+
+145
+00:13:17,120 --> 00:13:21,340
+Dan menjadi penentu apakah sistem diterima oleh pengguna atau tidak
+
+146
+00:13:21,340 --> 00:13:27,540
+Acceptance testing dilakukan oleh user atau pengguna sistem yang didampingi oleh tim support
+
+147
+00:13:27,540 --> 00:13:36,880
+Tujuannya adalah untuk memastikan sistem yang sudah jadi memenuhi kebutuhan organisasi, dapat digunakan, dan dapat diterima oleh penggunanya
+
+148
+00:13:36,880 --> 00:13:41,900
+Acceptance Testing dilakukan dalam bentuk Alpha Testing dan juga Beta Testing
+
+149
+00:13:41,900 --> 00:13:45,400
+Biasanya ini sudah sepaket dilakukan secara berurutan
+
+150
+00:13:45,400 --> 00:13:52,020
+Alpha Testing dilakukan oleh pengguna untuk memastikan bahwa mereka dapat menerima sistemnya
+
+151
+00:13:52,020 --> 00:13:55,060
+Ini merupakan bentuk Acceptance Test yang paling umum
+
+152
+00:13:55,060 --> 00:14:00,120
+Dan saat melakukan alpha testing, data yang digunakan bukan data yang sebenarnya.
+
+153
+00:14:00,720 --> 00:14:04,240
+Data yang digunakan dibuat hanya untuk keperluan testing saja.
+
+154
+00:14:04,760 --> 00:14:06,720
+Ini dikenal dengan istilah dummy data.
+
+155
+00:14:07,840 --> 00:14:11,080
+Sedangkan beta testing merupakan lanjutan dari alpha testing.
+
+156
+00:14:11,720 --> 00:14:14,920
+Bedanya, di sini kita sudah menggunakan data yang sebenarnya.
+
+157
+00:14:15,800 --> 00:14:21,740
+Skop pengujiannya pun lebih luas, baik dari sisi jumlah yang menguji, ataupun dari sisi durasinya.
+
+158
+00:14:22,520 --> 00:14:27,240
+Sistem yang sudah dalam pengujian beta testing biasanya dikenal dengan sistem versi beta.
+
+159
+00:14:28,100 --> 00:14:33,200
+Sudah bisa dipakai untuk operasional sehari-hari, namun masih ada kemungkinan tidak stabil.
+
+160
+00:14:34,060 --> 00:14:39,220
+Tapi sistem ini sudah paling mendekati dengan sistem yang benar-benar dibutuhkan dan dianggap selesai.
+
+161
+00:14:40,740 --> 00:14:44,580
+Tujuan dari testing pada dasarnya adalah untuk menemukan error.
+
+162
+00:14:45,240 --> 00:14:49,900
+Oleh karena itu, error yang ditemukan saat testing merupakan suatu hal yang wajar.
+
+163
+00:14:50,540 --> 00:14:55,340
+Tentu setelahnya kita perbaiki dan diuji kembali hingga error tersebut sudah hilang.
+
+164
+00:14:56,060 --> 00:15:00,040
+Setiap tahap testing biasanya menemukan jumlah error yang berbeda-beda,
+
+165
+00:15:00,140 --> 00:15:03,540
+namun pola umumnya adalah seperti yang terlihat pada gambar.
+
+166
+00:15:05,400 --> 00:15:09,900
+Saat melakukan unit testing, bisa jadi error yang ditemukan jumlahnya cukup banyak,
+
+167
+00:15:09,900 --> 00:15:15,720
+dan semakin meningkat hingga mencapai puncaknya pada saat kita melakukan integration testing.
+
+168
+00:15:15,720 --> 00:15:24,440
+Jumlah error tersebut mulai melandai pada saat memasuki sistem testing dan cenderung menurun pada saat alpha testing dan juga beta testing
+
+169
+00:15:24,440 --> 00:15:32,120
+Jumlah error yang ditemukan pada saat beta testing biasanya jauh lebih sedikit dibandingkan dengan tahap pengujian-pengujian lainnya
+
+170
+00:15:32,120 --> 00:15:36,600
+Sekarang mari kita masuk pada pembahasan dokumentasi sistem
+
+171
+00:15:37,260 --> 00:15:44,300
+Sistem yang sudah selesai dibangun dan juga sudah lulus rangkaian pengujian, selanjutnya perlu dibuatkan dokumentasinya
+
+172
+00:15:44,300 --> 00:15:52,080
+Ada dua jenis utama dokumentasi, pertama adalah system documentation, dan kedua adalah user documentation.
+
+173
+00:15:52,760 --> 00:15:57,000
+Dalam pembahasan ini, yang dimaksud dokumentasi adalah user documentation.
+
+174
+00:15:57,720 --> 00:16:04,360
+User documentation ini dibuat untuk membantu pengguna agar dapat menggunakan sistem dengan sebagaimana mestinya.
+
+175
+00:16:05,040 --> 00:16:08,260
+Apabila pengguna kesulitan menjalankan suatu fungsi pada sistem,
+
+176
+00:16:08,260 --> 00:16:14,460
+maka dengan melihat dokumentasi pengguna, seharusnya masalah tersebut dapat ditemukan solusinya.
+
+177
+00:16:15,080 --> 00:16:21,520
+Sebaliknya, tanpa dokumentasi, masalah besar akan muncul jika pengguna kesulitan menggunakan sistem tersebut.
+
+178
+00:16:23,040 --> 00:16:26,380
+User documentation itu sendiri tersedia dalam tiga jenis.
+
+179
+00:16:26,900 --> 00:16:28,760
+Pertama adalah reference documents.
+
+180
+00:16:29,240 --> 00:16:34,960
+Ini merupakan dokumentasi yang menjelaskan secara spesifik fungsi-fungsi dari sistem yang tersedia.
+
+181
+00:16:34,960 --> 00:16:43,140
+Kedua adalah prosedur manual, yaitu dokumentasi yang menjelaskan bagaimana melakukan suatu proses bisnis di dalam sistem
+
+182
+00:16:43,140 --> 00:16:49,240
+Dokumentasi ini fokus pada bagaimana melakukan sesuatu dengan fungsi-fungsi yang tersedia
+
+183
+00:16:49,240 --> 00:16:54,420
+Dapat dikatakan ini adalah petunjuk utama yang paling sering dilihat oleh pengguna sistem
+
+184
+00:16:54,420 --> 00:17:03,080
+Dan bentuk yang ketiga adalah tutorial, yaitu dokumentasi yang menjelaskan panduan bagaimana cara menggunakan komponen sistem
+
+185
+00:17:03,080 --> 00:17:08,060
+Biasanya dalam bentuk langkah-langkah proses yang harus dilakukan oleh pengguna
+
+186
+00:17:08,060 --> 00:17:13,420
+Penyajian tutorial seringkali dalam bentuk visual yang dapat diikuti oleh pengguna
+
+187
+00:17:13,420 --> 00:17:16,860
+Bahkan sekarang sudah banyak tutorial yang berbentuk video
+
+188
+00:17:16,860 --> 00:17:20,640
+Salah satu ciri dari dokumentasi yang baik
+
+189
+00:17:20,640 --> 00:17:24,780
+Terlepas dari apapun bentuknya adalah tersusun dengan baik dan rapih
+
+190
+00:17:24,780 --> 00:17:28,480
+Atau dengan kata lain memiliki pengorganisasian yang baik
+
+191
+00:17:28,480 --> 00:17:33,740
+Pengorganisasian panduan pengguna dapat dilakukan berdasarkan topik
+
+192
+00:17:33,740 --> 00:17:38,100
+Ini yang biasanya dilakukan oleh perusahaan-perusahaan besar pengembang sistem
+
+193
+00:17:38,100 --> 00:17:44,800
+Kita bisa belajar dari bagaimana Microsoft menyediakan panduan pengguna untuk Windows User
+
+194
+00:17:44,800 --> 00:17:46,700
+Perhatikan gambar berikut
+
+195
+00:17:46,700 --> 00:17:54,080
+Yang menarik di sini adalah tersedianya sistem pencarian topik yang memahami bahasa natural manusia
+
+196
+00:17:54,080 --> 00:18:04,640
+Misalnya, ketika kita mencari cara bagaimana menjadwalkan backup pada Windows, maka sistem dokumentasinya akan menyediakan pilihan jawaban yang dianggap relevan.
+
+197
+00:18:05,460 --> 00:18:15,300
+Jika ternyata jawabannya kurang memuaskan, maka pengguna bisa memilih opsi pilihan bantuan tambahan, dan bahkan disediakan akses untuk pencarian solusi di internet.
+
+198
+00:18:16,640 --> 00:18:20,940
+Penyajian dokumentasi secara online bisa juga dilakukan dalam bentuk website.
+
+199
+00:18:21,600 --> 00:18:27,300
+Bahkan konten manajemen sistem yang ada sekarang ini bisa kita gunakan sebagai pusat bantuan pengguna.
+
+200
+00:18:28,060 --> 00:18:34,720
+Jika membuat pusat bantuan dalam bentuk aplikasi berbasis web, maka hal yang perlu diperhatikan adalah struktur navigasinya.
+
+201
+00:18:35,140 --> 00:18:35,960
+Perhatikan gambar.
+
+202
+00:18:37,100 --> 00:18:40,760
+Navigasi suatu panduan online biasanya tersaji dalam bentuk topik.
+
+203
+00:18:40,760 --> 00:18:48,500
+Bisa dalam struktur yang sudah umum, mulai dari pendahuluan, fitur-fitur basic, hingga topik-topik yang lebih advance.
+
+204
+00:18:49,440 --> 00:18:54,940
+Menggunakan indexing juga layak untuk dipertimbangkan agar pengguna lebih mudah menemukan yang mereka cari.
+
+205
+00:18:54,940 --> 00:19:04,000
+Dan tentu akan lebih baik jika tersedia menu pencarian bantuan yang bisa mencari panduan dalam bentuk teks, gambar, ataupun panduan multimedia.
+
+206
+00:19:05,120 --> 00:19:14,460
+Setiap konten dokumentasi yang tersajikan dalam bentuk halaman web juga perlu diberikan tautan ke halaman lain yang terkait atau yang menjelaskan istilah khusus.
+
+207
+00:19:14,460 --> 00:19:25,040
+Bila diperlukan, pengguna bisa saja membuka halaman panduan lain dengan informasi yang lebih rinci terkait suatu tugas yang sedang mereka lakukan di dalam sistem tersebut
+
+208
+00:19:25,040 --> 00:19:31,180
+Sebagai penutup, berikut ini adalah tips agar kita dapat menuliskan dokumentasi yang baik
+
+209
+00:19:31,180 --> 00:19:33,940
+Pertama adalah menggunakan kalimat aktif
+
+210
+00:19:33,940 --> 00:19:37,520
+Lalu gunakan juga istilah-istilah dengan konsisten
+
+211
+00:19:38,080 --> 00:19:43,060
+Sebaiknya kita juga menggunakan bahasa yang sederhana dan mudah untuk dipahami
+
+212
+00:19:43,060 --> 00:19:47,200
+Lalu gunakan juga kalimat yang memberi kesan bersahabat
+
+213
+00:19:47,200 --> 00:19:50,280
+Tidak menggurui tetapi terkesan ramah
+
+214
+00:19:50,280 --> 00:19:57,140
+Lalu jangan lupa juga untuk memberikan nomor ketika menjelaskan urutan atau prosedur tertentu
+
+215
+00:19:57,140 --> 00:20:01,580
+Dan tips terakhir adalah mengelompokkan dokumentasi berdasarkan topik
+
+216
+00:20:01,580 --> 00:20:05,160
+Baiklah itu tadi sebagai penutup materi kali ini
+
+217
+00:20:05,160 --> 00:20:10,040
+Berikut ini adalah daftar referensi yang digunakan dalam penyusunan materi video ini
+
+218
+00:20:10,040 --> 00:20:13,740
+Terima kasih karena Anda telah menyimak video materi ini hingga selesai.

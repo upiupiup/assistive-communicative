@@ -1,0 +1,191 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+IMK-01	IMK		1	0.530	4.910	4.380	Selamat datang di video materi untuk mata kuliah interaksi manusia dan komputer.	Selamat datang di video materi untuk mata kuliah interaksi manusia dan komputer.		
+IMK-01	IMK		2	5.430	11.130	5.700	Pada kesempatan kali ini, kita akan membahas topik interaksi manusia-komputer dan juga desain interaksi.	Pada kesempatan kali ini, kita akan membahas topik interaksi manusia-komputer dan juga desain interaksi.		
+IMK-01	IMK		3	11.630	12.310	0.680	Selamat menyimak.	Selamat menyimak.		
+IMK-01	IMK		4	14.770	16.830	2.060	Ada tiga topik pembahasan dalam materi ini.	Ada tiga topik pembahasan dalam materi ini.		
+IMK-01	IMK		5	17.230	20.310	3.080	Pertama adalah pengenalan interaksi manusia dan komputer.	Pertama adalah pengenalan interaksi manusia dan komputer.		
+IMK-01	IMK		6	21.030	25.550	4.520	Lalu pembahasan yang kedua, kita juga membahas desain interaksi atau interaction design.	Lalu pembahasan yang kedua, kita juga membahas desain interaksi atau interaction design.		
+IMK-01	IMK		7	26.290	30.270	3.980	Dan pembahasan yang terakhir adalah tentang usability dan juga user experience.	Dan pembahasan yang terakhir adalah tentang usability dan juga user experience.		
+IMK-01	IMK		8	30.270	32.250	1.980	Mari kita bahas satu persatu.	Mari kita bahas satu persatu.		
+IMK-01	IMK		9	33.470	37.290	3.820	Apa sebetulnya yang dimaksud dengan istilah interaksi manusia dan komputer?	Apa sebetulnya yang dimaksud dengan istilah interaksi manusia dan komputer?		
+IMK-01	IMK		10	37.990	40.390	2.400	Namanya sebetulnya sudah menjelaskan maknanya.	Namanya sebetulnya sudah menjelaskan maknanya.		
+IMK-01	IMK		11	40.970	45.290	4.320	Hanya saja dalam konteks program studi teknik informatika dan juga sistem informasi,	Hanya saja dalam konteks program studi teknik informatika dan juga sistem informasi,		
+IMK-01	IMK		12	45.850	53.790	7.940	interaksi manusia-komputer atau human-computer interaction adalah bidang ilmu yang mempelajari desain dan penggunaan komputer,	interaksi manusia-komputer atau human-computer interaction adalah bidang ilmu yang mempelajari desain dan penggunaan komputer,		
+IMK-01	IMK		13	54.250	57.690	3.440	yang fokusnya adalah pada antarmuka atau user interface.	yang fokusnya adalah pada antarmuka atau user interface.		
+IMK-01	IMK		14	57.690	64.570	6.880	Jika kita lihat sejarahnya, yang dianggap tahun kelahiran IMK ini adalah tahun 1980-an	Jika kita lihat sejarahnya, yang dianggap tahun kelahiran IMK ini adalah tahun 1980-an		
+IMK-01	IMK		15	64.570	68.070	3.500	Gambar di kiri ini adalah timeline sejarah IMK	Gambar di kiri ini adalah timeline sejarah IMK		
+IMK-01	IMK		16	68.070	73.410	5.340	Sebetulnya komputer sudah muncul sejak tahun 1940-an	Sebetulnya komputer sudah muncul sejak tahun 1940-an		
+IMK-01	IMK		17	73.410	77.490	4.080	Sedangkan tahun 1980-an, IMK baru lahir	Sedangkan tahun 1980-an, IMK baru lahir		
+IMK-01	IMK		18	77.490	81.290	3.800	Pertanyaannya, apa yang terjadi di antara tahun tersebut?	Pertanyaannya, apa yang terjadi di antara tahun tersebut?		
+IMK-01	IMK		19	81.570	87.450	5.880	Apakah pada tahun 1950-an misalnya, manusia tidak berinteraksi sama sekali dengan komputer?	Apakah pada tahun 1950-an misalnya, manusia tidak berinteraksi sama sekali dengan komputer?		
+IMK-01	IMK		20	87.690	97.570	9.880	Pada tahun 1940 hingga tahun 1980-an, komputer ini masih merupakan barang berharga yang keberadaannya dijaga dengan baik	Pada tahun 1940 hingga tahun 1980-an, komputer ini masih merupakan barang berharga yang keberadaannya dijaga dengan baik		
+IMK-01	IMK		21	97.570	101.910	4.340	Hanya organisasi atau bahkan negara tertentu saja yang memilikinya	Hanya organisasi atau bahkan negara tertentu saja yang memilikinya		
+IMK-01	IMK		22	101.910	104.910	3.000	Dan tidak sembarangan orang bisa menggunakannya	Dan tidak sembarangan orang bisa menggunakannya		
+IMK-01	IMK		23	104.910	111.090	6.180	Pada zaman itu, orang yang bisa melihat langsung komputer hanya orang penting atau ilmuwan saja	Pada zaman itu, orang yang bisa melihat langsung komputer hanya orang penting atau ilmuwan saja		
+IMK-01	IMK		24	111.090	117.090	6.000	Masyarakat umum dianggap baru mulai menggunakan komputer secara luas pada tahun 1980-an	Masyarakat umum dianggap baru mulai menggunakan komputer secara luas pada tahun 1980-an		
+IMK-01	IMK		25	117.090	123.230	6.140	Ada tiga event di tahun-tahun tersebut yang menandakan kelahiran HCI atau Human Computer Interaction.	Ada tiga event di tahun-tahun tersebut yang menandakan kelahiran HCI atau Human Computer Interaction.		
+IMK-01	IMK		26	123.750	135.410	11.660	Pertama adalah diselenggarakannya konferensi IMK yang pertama oleh The Special Interest Group on Computer Human Interaction atau SICCI pada tahun 1982.	Pertama adalah diselenggarakannya konferensi IMK yang pertama oleh The Special Interest Group on Computer Human Interaction atau SICCI pada tahun 1982.		
+IMK-01	IMK		27	136.710	143.550	6.840	SICCI ini merupakan kumpulan ilmuwan atau pakar yang memiliki minat di bidang penelitian interaksi manusia dan komputer.	SICCI ini merupakan kumpulan ilmuwan atau pakar yang memiliki minat di bidang penelitian interaksi manusia dan komputer.		
+IMK-01	IMK		28	143.550	148.270	4.720	Event yang kedua adalah terbitnya sebuah buku yang berjudul	Event yang kedua adalah terbitnya sebuah buku yang berjudul		
+IMK-01	IMK		29	148.270	152.490	4.220	The Psychology of Human-Computer Interaction pada tahun 1983	The Psychology of Human-Computer Interaction pada tahun 1983		
+IMK-01	IMK		30	152.490	155.490	3.000	yang ditulis oleh Card, Moran, dan Newell	yang ditulis oleh Card, Moran, dan Newell		
+IMK-01	IMK		31	155.490	160.290	4.800	Dan ditambah lagi, setahun berikutnya yaitu tahun 1984	Dan ditambah lagi, setahun berikutnya yaitu tahun 1984		
+IMK-01	IMK		32	160.290	163.190	2.900	Apple Macintosh pertama kali diluncurkan	Apple Macintosh pertama kali diluncurkan		
+IMK-01	IMK		33	163.190	168.270	5.080	Tiga event tersebut membuat pakar menyepakati bahwa HCI atau IMK	Tiga event tersebut membuat pakar menyepakati bahwa HCI atau IMK		
+IMK-01	IMK		34	168.270	170.670	2.400	lahir pada tahun 1980-an	lahir pada tahun 1980-an		
+IMK-01	IMK		35	170.670	176.490	5.820	IMK ini sangat banyak pengaruhnya untuk device atau perangkat komputer	IMK ini sangat banyak pengaruhnya untuk device atau perangkat komputer		
+IMK-01	IMK		36	176.490	181.250	4.760	yang memungkinkan manusia dapat dengan mudah menggunakannya atau berinteraksi dengannya.	yang memungkinkan manusia dapat dengan mudah menggunakannya atau berinteraksi dengannya.		
+IMK-01	IMK		37	182.010	183.270	1.260	Bahkan hingga sekarang.	Bahkan hingga sekarang.		
+IMK-01	IMK		38	184.030	188.870	4.840	Pada tahun 1962, Ivan Sutherland mengenalkan Skidpage untuk pertama kalinya.	Pada tahun 1962, Ivan Sutherland mengenalkan Skidpage untuk pertama kalinya.		
+IMK-01	IMK		39	189.650	194.310	4.660	Dia merasa interaksi dengan komputer yang hanya menggunakan teks melalui keyboard tidaklah cukup.	Dia merasa interaksi dengan komputer yang hanya menggunakan teks melalui keyboard tidaklah cukup.		
+IMK-01	IMK		40	195.230	198.910	3.680	Konsep yang serupa bahkan masih digunakan hingga 50 tahun berikutnya,	Konsep yang serupa bahkan masih digunakan hingga 50 tahun berikutnya,		
+IMK-01	IMK		41	198.910	202.870	3.960	ditunjukkan dengan adanya Apple Pencil pada tahun 2015 lalu.	ditunjukkan dengan adanya Apple Pencil pada tahun 2015 lalu.		
+IMK-01	IMK		42	204.230	208.710	4.480	Satu perangkat lain yang sampai sekarang digunakan untuk interaksi dengan komputer adalah mouse.	Satu perangkat lain yang sampai sekarang digunakan untuk interaksi dengan komputer adalah mouse.		
+IMK-01	IMK		43	209.430	214.970	5.540	Mouse ini pertama kali muncul tahun 1963, dan bentuknya kurang lebih seperti pada gambar.	Mouse ini pertama kali muncul tahun 1963, dan bentuknya kurang lebih seperti pada gambar.		
+IMK-01	IMK		44	215.670	217.730	2.060	Hingga hari ini, mouse masih digunakan,	Hingga hari ini, mouse masih digunakan,		
+IMK-01	IMK		45	218.230	222.990	4.760	walaupun bentuk dan teknologinya sudah jauh berkembang, namun konsepnya tetap sama.	walaupun bentuk dan teknologinya sudah jauh berkembang, namun konsepnya tetap sama.		
+IMK-01	IMK		46	224.590	228.190	3.600	Interaksi manusia dan komputer tentu berbicara tentang dua aspek,	Interaksi manusia dan komputer tentu berbicara tentang dua aspek,		
+IMK-01	IMK		47	228.190	231.450	3.260	yaitu manusianya dan komputer yang digunakan.	yaitu manusianya dan komputer yang digunakan.		
+IMK-01	IMK		48	232.010	234.870	2.860	Aspek manusia adalah faktor penting dalam bidang ilmu ini.	Aspek manusia adalah faktor penting dalam bidang ilmu ini.		
+IMK-01	IMK		49	235.470	240.530	5.060	Salah satu isi dari buku The Psychology of Human-Computer Interaction adalah model human processor	Salah satu isi dari buku The Psychology of Human-Computer Interaction adalah model human processor		
+IMK-01	IMK		50	240.530	244.690	4.160	yang mengilustrasikan bagaimana manusia memproses informasi.	yang mengilustrasikan bagaimana manusia memproses informasi.		
+IMK-01	IMK		51	245.530	247.810	2.280	Kita tidak membahasnya secara rinci untuk saat ini,	Kita tidak membahasnya secara rinci untuk saat ini,		
+IMK-01	IMK		52	248.230	250.510	2.280	tapi pada intinya, dalam merancang antarmuka,	tapi pada intinya, dalam merancang antarmuka,		
+IMK-01	IMK		53	250.950	254.850	3.900	kita perlu memahami manusia terlebih dahulu sebelum memahami komputer.	kita perlu memahami manusia terlebih dahulu sebelum memahami komputer.		
+IMK-01	IMK		54	254.850	264.150	9.300	Interaksi manusia dan komputer erat kaitannya dengan istilah lain yang bernama interaction design atau desain interaksi.	Interaksi manusia dan komputer erat kaitannya dengan istilah lain yang bernama interaction design atau desain interaksi.		
+IMK-01	IMK		55	264.850	269.630	4.780	Ada juga yang menyebutnya sebagai sistem interaksi, rancangan interaksi, dan sebagainya.	Ada juga yang menyebutnya sebagai sistem interaksi, rancangan interaksi, dan sebagainya.		
+IMK-01	IMK		56	270.030	272.010	1.980	Pada intinya kurang lebih sama secara konsep.	Pada intinya kurang lebih sama secara konsep.		
+IMK-01	IMK		57	272.670	276.810	4.140	Sharp, Rogers, dan Priest mendefinisikan interaction design secara eksplisit.	Sharp, Rogers, dan Preece mendefinisikan interaction design secara eksplisit.		
+IMK-01	IMK		58	277.050	285.350	8.300	Definisi tersebut jika kita sederhanakan adalah merancang produk interaktif yang membantu keseharian atau pekerjaan penggunanya.	Definisi tersebut jika kita sederhanakan adalah merancang produk interaktif yang membantu keseharian atau pekerjaan penggunanya.		
+IMK-01	IMK		59	286.230	293.050	6.820	Interaktif di sini artinya sebagai pengguna, manusia dapat memberikan suatu input dan komputer bisa meresponnya.	Interaktif di sini artinya sebagai pengguna, manusia dapat memberikan suatu input dan komputer bisa meresponnya.		
+IMK-01	IMK		60	293.910	296.350	2.440	Lantas, apa tujuan dari interaksi desain ini?	Lantas, apa tujuan dari interaksi desain ini?		
+IMK-01	IMK		61	297.150	300.330	3.180	Tujuan utamanya adalah menghasilkan produk yang bisa digunakan,	Tujuan utamanya adalah menghasilkan produk yang bisa digunakan,		
+IMK-01	IMK		62	300.890	305.650	4.760	dalam arti mudah dipelajari, efektif, dan memberikan pengalaman yang menyenangkan.	dalam arti mudah dipelajari, efektif, dan memberikan pengalaman yang menyenangkan.		
+IMK-01	IMK		63	306.130	309.250	3.120	Karena fokusnya adalah manusia sebagai pengguna,	Karena fokusnya adalah manusia sebagai pengguna,		
+IMK-01	IMK		64	309.690	313.830	4.140	maka desain interaksi perlu melibatkan pengguna produk di dalam proses pengembangannya.	maka desain interaksi perlu melibatkan pengguna produk di dalam proses pengembangannya.		
+IMK-01	IMK		65	313.830	319.660	5.830	Apa kaitannya desain interaksi dengan interaksi manusia dan komputer?	Apa kaitannya desain interaksi dengan interaksi manusia dan komputer?		
+IMK-01	IMK		66	320.420	327.400	6.980	Gambar hubungan antar disiplin ilmu pada desain interaksi yang ada di buku Sharp, Rogers, dan Priest bisa membantu untuk memahaminya	Gambar hubungan antar disiplin ilmu pada desain interaksi yang ada di buku Sharp, Rogers, dan Priest bisa membantu untuk memahaminya		
+IMK-01	IMK		67	327.400	330.580	3.180	Interaction design bersifat multidisiplin	Interaction design bersifat multidisiplin		
+IMK-01	IMK		68	330.580	334.160	3.580	Ada berbagai disiplin ilmu yang membentuk interaction design	Ada berbagai disiplin ilmu yang membentuk interaction design		
+IMK-01	IMK		69	334.160	349.680	15.520	Pada bagian disiplin ilmu di sebelah kiri, dapat kita lihat bahwa bidang-bidang ilmu yang membentuk desain interaksi adalah ergonomi, psikologi, cognitive science, informatics, engineering, termasuk software engineering, dan juga social science.	Pada bagian disiplin ilmu di sebelah kiri, dapat kita lihat bahwa bidang-bidang ilmu yang membentuk desain interaksi adalah ergonomi, psikologi, cognitive science, informatics, engineering, termasuk software engineering, dan juga social science.		
+IMK-01	IMK		70	350.640	359.940	9.300	Desain interaksi ini juga diterapkan pada berbagai industri, misalnya desain grafis, produk desain, seni, desain industri, dan juga industri perfilman.	Desain interaksi ini juga diterapkan pada berbagai industri, misalnya desain grafis, produk desain, seni, desain industri, dan juga industri perfilman.		
+IMK-01	IMK		71	359.940	370.660	10.720	Pada praktiknya, desain interaksi merupakan aktivitas antardisiplin ilmu yang salah satunya adalah human-computer interaction atau interaksi manusia dan komputer	Pada praktiknya, desain interaksi merupakan aktivitas antardisiplin ilmu yang salah satunya adalah human-computer interaction atau interaksi manusia dan komputer		
+IMK-01	IMK		72	370.660	375.320	4.660	Desain interaksi melibatkan banyak orang dari berbagai latar belakang	Desain interaksi melibatkan banyak orang dari berbagai latar belakang		
+IMK-01	IMK		73	375.320	380.280	4.960	Ini berdampak baik karena akan lebih banyak ide dan juga rancangan yang dapat dihasilkan	Ini berdampak baik karena akan lebih banyak ide dan juga rancangan yang dapat dihasilkan		
+IMK-01	IMK		74	380.280	383.380	3.100	Namun, tantangan dalam komunikasi sering terjadi	Namun, tantangan dalam komunikasi sering terjadi		
+IMK-01	IMK		75	383.380	389.620	6.240	Desain interaksi bisa digunakan untuk produk apa saja yang digunakan oleh manusia	Desain interaksi bisa digunakan untuk produk apa saja yang digunakan oleh manusia		
+IMK-01	IMK		76	389.620	395.780	6.160	Namun pada mata kuliah ini konteksnya adalah produk-produk aplikasi komputer atau sistem informasi	Namun pada mata kuliah ini konteksnya adalah produk-produk aplikasi komputer atau sistem informasi		
+IMK-01	IMK		77	395.780	401.100	5.320	Kita sudah memahami tujuan desain interaksi	Kita sudah memahami tujuan desain interaksi		
+IMK-01	IMK		78	401.100	405.380	4.280	Namun apakah desain interaksi ini sangat penting hingga kita perlu melakukannya?	Namun apakah desain interaksi ini sangat penting hingga kita perlu melakukannya?		
+IMK-01	IMK		79	406.460	409.040	2.580	Desain interaksi sangat penting untuk dua hal ini	Desain interaksi sangat penting untuk dua hal ini		
+IMK-01	IMK		80	409.040	414.020	4.980	Pertama adalah untuk menghasilkan produk interaktif yang sesuai dengan kebutuhan pengguna	Pertama adalah untuk menghasilkan produk interaktif yang sesuai dengan kebutuhan pengguna		
+IMK-01	IMK		81	414.020	417.280	3.260	Istilahnya adalah memiliki usability yang baik	Istilahnya adalah memiliki usability yang baik		
+IMK-01	IMK		82	417.280	421.760	4.480	Dan yang kedua adalah untuk memberikan pengalaman yang menyenangkan kepada pengguna	Dan yang kedua adalah untuk memberikan pengalaman yang menyenangkan kepada pengguna		
+IMK-01	IMK		83	421.760	424.160	2.400	ketika mereka menggunakan produk tersebut.	ketika mereka menggunakan produk tersebut.		
+IMK-01	IMK		84	424.600	427.780	3.180	Ini dikenal dengan istilah user experience atau UX.	Ini dikenal dengan istilah user experience atau UX.		
+IMK-01	IMK		85	428.820	430.400	1.580	Mengapa dua hal ini perlu diperhatikan?	Mengapa dua hal ini perlu diperhatikan?		
+IMK-01	IMK		86	430.880	433.880	3.000	Itu karena produk yang baik tidak sebatas berfungsi saja,	Itu karena produk yang baik tidak sebatas berfungsi saja,		
+IMK-01	IMK		87	434.380	437.100	2.720	tapi juga harus mudah dan nyaman untuk digunakan.	tapi juga harus mudah dan nyaman untuk digunakan.		
+IMK-01	IMK		88	438.460	441.400	2.940	Di sini perlu ditekankan bahwa keterlibatan pengguna	Di sini perlu ditekankan bahwa keterlibatan pengguna		
+IMK-01	IMK		89	441.400	443.620	2.220	sangat diperlukan dalam desain interaksi.	sangat diperlukan dalam desain interaksi.		
+IMK-01	IMK		90	446.460	448.700	2.240	Dalam merancang interaksi untuk sebuah produk,	Dalam merancang interaksi untuk sebuah produk,		
+IMK-01	IMK		91	449.280	452.400	3.120	mengenal siapa penggunanya adalah hal yang tidak boleh dilewatkan.	mengenal siapa penggunanya adalah hal yang tidak boleh dilewatkan.		
+IMK-01	IMK		92	452.400	456.040	3.640	Pengguna produk aplikasi memiliki berbagai karakteristik	Pengguna produk aplikasi memiliki berbagai karakteristik		
+IMK-01	IMK		93	456.040	459.120	3.080	Dalam konteks penggunaan aplikasi e-commerce misalnya	Dalam konteks penggunaan aplikasi e-commerce misalnya		
+IMK-01	IMK		94	459.120	461.020	1.900	Anggaplah ada tiga pengguna	Anggaplah ada tiga pengguna		
+IMK-01	IMK		95	461.020	464.000	2.980	Yaitu nenek Sumariah yang berusia 65 tahun	Yaitu nenek Sumariah yang berusia 65 tahun		
+IMK-01	IMK		96	464.000	466.520	2.520	Pak Edi yang berusia 35 tahun	Pak Edi yang berusia 35 tahun		
+IMK-01	IMK		97	466.520	468.720	2.200	Dan Bagus yang berusia 15 tahun	Dan Bagus yang berusia 15 tahun		
+IMK-01	IMK		98	468.720	474.080	5.360	Anggaplah nenek Sumariah menggunakan aplikasi e-commerce ini untuk membeli suplemen kesehatan	Anggaplah nenek Sumariah menggunakan aplikasi e-commerce ini untuk membeli suplemen kesehatan		
+IMK-01	IMK		99	474.080	476.340	2.260	Pak Edi ingin membeli jas baru	Pak Edi ingin membeli jas baru		
+IMK-01	IMK		100	476.340	478.820	2.480	Dan Bagus hendak memilih sebuah skateboard	Dan Bagus hendak memilih sebuah skateboard		
+IMK-01	IMK		101	478.820	486.680	7.860	Sebetulnya, dari usia dan apa yang ingin dibeli oleh masing-masing dari mereka, sudah memperlihatkan perbedaan karakteristik yang ada.	Sebetulnya, dari usia dan apa yang ingin dibeli oleh masing-masing dari mereka, sudah memperlihatkan perbedaan karakteristik yang ada.		
+IMK-01	IMK		102	487.260	494.040	6.780	Ada beberapa pertanyaan yang bisa menunjukkan perbedaan karakteristik tersebut, yaitu pertama, apakah kebutuhannya sama?	Ada beberapa pertanyaan yang bisa menunjukkan perbedaan karakteristik tersebut, yaitu pertama, apakah kebutuhannya sama?		
+IMK-01	IMK		103	494.680	497.460	2.780	Apakah kemampuan dalam mempelajari aplikasinya sama?	Apakah kemampuan dalam mempelajari aplikasinya sama?		
+IMK-01	IMK		104	498.000	502.020	4.020	Dan apakah pengaturan aplikasi yang diinginkan oleh masing-masing tersebut sama?	Dan apakah pengaturan aplikasi yang diinginkan oleh masing-masing tersebut sama?		
+IMK-01	IMK		105	502.020	512.880	10.860	Biasanya, di antara tiga pengguna dengan karakteristik seperti contoh ini, memiliki kebutuhan, kemampuan mempelajari aplikasi, dan pengaturan yang diinginkannya berbeda-beda	Biasanya, di antara tiga pengguna dengan karakteristik seperti contoh ini, memiliki kebutuhan, kemampuan mempelajari aplikasi, dan pengaturan yang diinginkannya berbeda-beda		
+IMK-01	IMK		106	512.880	518.740	5.860	Satu istilah lain yang juga erat kaitannya dengan desain interaksi adalah user experience	Satu istilah lain yang juga erat kaitannya dengan desain interaksi adalah user experience		
+IMK-01	IMK		107	518.740	521.180	2.440	Apa itu user experience atau UX?	Apa itu user experience atau UX?		
+IMK-01	IMK		108	521.300	529.140	7.840	User experience mencakup semua aspek interaksi antara pengguna dengan produk, layanan, dan organisasi yang menyediakannya	User experience mencakup semua aspek interaksi antara pengguna dengan produk, layanan, dan organisasi yang menyediakannya		
+IMK-01	IMK		109	529.880	532.180	2.300	Itu merupakan definisi dari Nielsen dan Norman.	Itu merupakan definisi dari Nielsen dan Norman.		
+IMK-01	IMK		110	533.220	537.760	4.540	UX ini berkaitan sekali dengan user interface atau UI, dan juga usability.	UX ini berkaitan sekali dengan user interface atau UI, dan juga usability.		
+IMK-01	IMK		111	538.540	543.340	4.800	Hati-hati karena ketiganya sering dianggap sama, namun padahal berbeda dan tiga-tiganya penting.	Hati-hati karena ketiganya sering dianggap sama, namun padahal berbeda dan tiga-tiganya penting.		
+IMK-01	IMK		112	543.840	548.980	5.140	Dari definisi UX tadi, kita bisa mengatakan bahwa konsep user experience sangat luas.	Dari definisi UX tadi, kita bisa mengatakan bahwa konsep user experience sangat luas.		
+IMK-01	IMK		113	549.320	553.780	4.460	Tidak sebatas permasalahan tentang user interface atau UI, dan usability saja.	Tidak sebatas permasalahan tentang user interface atau UI, dan usability saja.		
+IMK-01	IMK		114	553.780	559.200	5.420	Sebuah produk memiliki usability yang baik karena didukung oleh UI yang baik	Sebuah produk memiliki usability yang baik karena didukung oleh UI yang baik		
+IMK-01	IMK		115	559.200	561.680	2.480	Belum tentu memberikan UX yang baik pula	Belum tentu memberikan UX yang baik pula		
+IMK-01	IMK		116	561.680	565.820	4.140	Tapi keduanya sangat penting karena jika ingin menghasilkan UX yang baik	Tapi keduanya sangat penting karena jika ingin menghasilkan UX yang baik		
+IMK-01	IMK		117	565.820	570.820	5.000	Produk aplikasi kita perlu memiliki user interface dan usability yang baik juga	Produk aplikasi kita perlu memiliki user interface dan usability yang baik juga		
+IMK-01	IMK		118	570.820	575.520	4.700	Yang sulit dibedakan biasanya adalah antara UX dengan usability	Yang sulit dibedakan biasanya adalah antara UX dengan usability		
+IMK-01	IMK		119	575.520	579.040	3.520	Karena keduanya sebetulnya tidak terlihat secara eksplisit	Karena keduanya sebetulnya tidak terlihat secara eksplisit		
+IMK-01	IMK		120	579.040	581.120	2.080	Mari kita bahas perbedaannya	Mari kita bahas perbedaannya		
+IMK-01	IMK		121	581.120	587.480	6.360	Usability merupakan atribut kualitas dari antarmuka pengguna atau user interface	Usability merupakan atribut kualitas dari antarmuka pengguna atau user interface		
+IMK-01	IMK		122	587.480	596.180	8.700	Usability ini adalah tentang apakah suatu aplikasi mudah untuk dipelajari, efisien untuk digunakan, menyenangkan, dan sebagainya	Usability ini adalah tentang apakah suatu aplikasi mudah untuk dipelajari, efisien untuk digunakan, menyenangkan, dan sebagainya		
+IMK-01	IMK		123	596.180	602.280	6.100	Tujuan dari usability ini adalah produk atau aplikasi yang dikembangkan memenuhi beberapa hal berikut	Tujuan dari usability ini adalah produk atau aplikasi yang dikembangkan memenuhi beberapa hal berikut		
+IMK-01	IMK		124	602.280	609.660	7.380	Yaitu, pertama misalnya efektif untuk digunakan, lalu efisien, aman, dan juga memiliki utilitas yang baik	Yaitu, pertama misalnya efektif untuk digunakan, lalu efisien, aman, dan juga memiliki utilitas yang baik		
+IMK-01	IMK		125	609.660	614.960	5.300	Lalu juga mudah untuk dipelajari dan juga mudah untuk diingat cara menggunakannya	Lalu juga mudah untuk dipelajari dan juga mudah untuk diingat cara menggunakannya		
+IMK-01	IMK		126	614.960	618.900	3.940	Walaupun ada hal-hal baik lain yang menjadi tujuan dari usability	Walaupun ada hal-hal baik lain yang menjadi tujuan dari usability		
+IMK-01	IMK		127	618.900	621.880	2.980	Namun ke-6 hal ini sudah cukup untuk mewakili	Namun ke-6 hal ini sudah cukup untuk mewakili		
+IMK-01	IMK		128	621.880	625.440	3.560	Lalu bagaimana dengan user experience?	Lalu bagaimana dengan user experience?		
+IMK-01	IMK		129	626.100	631.060	4.960	UX ini sedikit lebih rumit dari usability karena faktor manusianya sangat besar	UX ini sedikit lebih rumit dari usability karena faktor manusianya sangat besar		
+IMK-01	IMK		130	631.060	636.000	4.940	User experience memiliki tujuan untuk memberikan aspek-aspek yang diinginkan	User experience memiliki tujuan untuk memberikan aspek-aspek yang diinginkan		
+IMK-01	IMK		131	636.000	638.600	2.600	Dan menghilangkan aspek-aspek yang dihindari	Dan menghilangkan aspek-aspek yang dihindari		
+IMK-01	IMK		132	638.600	643.660	5.060	Ini adalah daftar aspek-aspek yang diinginkan dan juga yang perlu untuk dihindari.	Ini adalah daftar aspek-aspek yang diinginkan dan juga yang perlu untuk dihindari.		
+IMK-01	IMK		133	644.960	649.920	4.960	Jika kita lihat, semua aspek ini berkaitan dengan manusia sebagai pengguna produk.	Jika kita lihat, semua aspek ini berkaitan dengan manusia sebagai pengguna produk.		
+IMK-01	IMK		134	650.580	660.340	9.760	Misalnya aspek yang diinginkan adalah kepuasan, merasa terbantu, menyenangkan, dapat dinikmati, memberikan tantangan, menghibur, dan lain sebagainya.	Misalnya aspek yang diinginkan adalah kepuasan, merasa terbantu, menyenangkan, dapat dinikmati, memberikan tantangan, menghibur, dan lain sebagainya.		
+IMK-01	IMK		135	661.000	666.220	5.220	Sedangkan contoh aspek yang ingin dihindari misalnya seperti bosan saat menggunakan produk kita,	Sedangkan contoh aspek yang ingin dihindari misalnya seperti bosan saat menggunakan produk kita,		
+IMK-01	IMK		136	666.220	671.720	5.500	tidak menyenangkan, jadi merasa bodoh karena tidak bisa menggunakan aplikasinya dengan baik,	tidak menyenangkan, jadi merasa bodoh karena tidak bisa menggunakan aplikasinya dengan baik,		
+IMK-01	IMK		137	672.260	675.540	3.280	membuat jengkel, membuat marah, dan lain sebagainya.	membuat jengkel, membuat marah, dan lain sebagainya.		
+IMK-01	IMK		138	681.350	685.090	3.740	Di dalam desain interaksi, ada prinsip-prinsip yang sebaiknya kita ikuti.	Di dalam desain interaksi, ada prinsip-prinsip yang sebaiknya kita ikuti.		
+IMK-01	IMK		139	685.710	688.410	2.700	Sekurang-kurangnya ada lima prinsip dalam desain interaksi.	Sekurang-kurangnya ada lima prinsip dalam desain interaksi.		
+IMK-01	IMK		140	689.070	690.390	1.320	Pertama adalah visibility.	Pertama adalah visibility.		
+IMK-01	IMK		141	691.070	693.130	2.060	Ini berkaitan dengan terlihat atau tidak.	Ini berkaitan dengan terlihat atau tidak.		
+IMK-01	IMK		142	693.770	695.550	1.780	Semakin jelas terlihat suatu fungsi,	Semakin jelas terlihat suatu fungsi,		
+IMK-01	IMK		143	695.970	699.610	3.640	semakin mudah pengguna mengetahui apa yang perlu mereka lakukan selanjutnya.	semakin mudah pengguna mengetahui apa yang perlu mereka lakukan selanjutnya.		
+IMK-01	IMK		144	699.610	701.950	2.340	Kedua adalah feedback	Kedua adalah feedback		
+IMK-01	IMK		145	701.950	708.710	6.760	Feedback yang dimaksud di sini terkait dengan pemberian informasi tentang hal apa yang telah atau berhasil dilakukan	Feedback yang dimaksud di sini terkait dengan pemberian informasi tentang hal apa yang telah atau berhasil dilakukan		
+IMK-01	IMK		146	708.710	711.070	2.360	Dan ketiga adalah constraint	Dan ketiga adalah constraint		
+IMK-01	IMK		147	711.070	715.030	3.960	Yaitu membatasi aktivitas yang dapat dilakukan pengguna	Yaitu membatasi aktivitas yang dapat dilakukan pengguna		
+IMK-01	IMK		148	715.030	718.470	3.440	Sesuai dengan situasi dan kondisi pada waktu tertentu	Sesuai dengan situasi dan kondisi pada waktu tertentu		
+IMK-01	IMK		149	718.470	720.870	2.400	Keempat adalah konsistensi	Keempat adalah konsistensi		
+IMK-01	IMK		150	720.870	725.190	4.320	Misalnya menggunakan interface yang sama untuk mengeksekusi fungsi yang sama	Misalnya menggunakan interface yang sama untuk mengeksekusi fungsi yang sama		
+IMK-01	IMK		151	725.190	729.390	4.200	Itu membuat produk lebih mudah dipahami dan digunakan	Itu membuat produk lebih mudah dipahami dan digunakan		
+IMK-01	IMK		152	729.390	737.170	7.780	Kelima adalah affordance, yaitu kemampuan suatu produk dalam memberikan kejelasan penggunaan produk tersebut	Kelima adalah affordance, yaitu kemampuan suatu produk dalam memberikan kejelasan penggunaan produk tersebut		
+IMK-01	IMK		153	737.170	741.270	4.100	Kita coba lihat contoh-contoh bagaimana prinsip-prinsip tersebut diterapkan	Kita coba lihat contoh-contoh bagaimana prinsip-prinsip tersebut diterapkan		
+IMK-01	IMK		154	741.270	745.000	3.730	Prinsip pertama adalah visibility	Prinsip pertama adalah visibility		
+IMK-01	IMK		155	745.000	753.180	8.180	Seperti yang sudah dijelaskan tadi, semakin jelas terlihat suatu fungsi, semakin mudah pengguna mengetahui apa yang perlu mereka lakukan selanjutnya	Seperti yang sudah dijelaskan tadi, semakin jelas terlihat suatu fungsi, semakin mudah pengguna mengetahui apa yang perlu mereka lakukan selanjutnya		
+IMK-01	IMK		156	753.180	754.880	1.700	Perhatikan gambar berikut	Perhatikan gambar berikut		
+IMK-01	IMK		157	755.200	759.380	4.180	Menurut Anda, gambar apakah yang terlihat ini? Apa fungsinya kira-kira?	Menurut Anda, gambar apakah yang terlihat ini? Apa fungsinya kira-kira?		
+IMK-01	IMK		158	759.380	766.980	7.600	Bagi kebanyakan orang, gambar ini akan terlihat seperti switch atau tombol untuk menyalakan lampu pada ruangan tertentu	Bagi kebanyakan orang, gambar ini akan terlihat seperti switch atau tombol untuk menyalakan lampu pada ruangan tertentu		
+IMK-01	IMK		159	766.980	772.480	5.500	Karena benda yang fungsinya seperti itu memiliki bentuk yang kurang lebih sama seperti gambar	Karena benda yang fungsinya seperti itu memiliki bentuk yang kurang lebih sama seperti gambar		
+IMK-01	IMK		160	772.480	777.100	4.620	Bagaimana jika bentuk tersebut digunakan untuk produk lain yang tidak umum	Bagaimana jika bentuk tersebut digunakan untuk produk lain yang tidak umum		
+IMK-01	IMK		161	777.100	780.920	3.820	Misalnya untuk colokan listrik seperti gambar di sebelah kanannya	Misalnya untuk colokan listrik seperti gambar di sebelah kanannya		
+IMK-01	IMK		162	781.520	785.560	4.040	Apakah membuat rancangan colokan listrik seperti gambar ini adalah hal yang baik?	Apakah membuat rancangan colokan listrik seperti gambar ini adalah hal yang baik?		
+IMK-01	IMK		163	785.560	794.900	9.340	Kebanyakan orang mungkin tidak melihat adanya colokan listrik jika bentuknya lebih mirip sebagai switch yang biasanya digunakan untuk menyalakan lampu.	Kebanyakan orang mungkin tidak melihat adanya colokan listrik jika bentuknya lebih mirip sebagai switch yang biasanya digunakan untuk menyalakan lampu.		
+IMK-01	IMK		164	795.580	803.820	8.240	Jadi ini merupakan contoh bagaimana dalam merancang produk akan lebih baik jika membuat pengguna mengetahui apa fungsinya hanya dengan melihat bentuknya.	Jadi ini merupakan contoh bagaimana dalam merancang produk akan lebih baik jika membuat pengguna mengetahui apa fungsinya hanya dengan melihat bentuknya.		
+IMK-01	IMK		165	806.430	808.010	1.580	Prinsip yang kedua adalah feedback.	Prinsip yang kedua adalah feedback.		
+IMK-01	IMK		166	808.250	811.570	3.320	Feedback berguna untuk memperjelas suatu event tertentu.	Feedback berguna untuk memperjelas suatu event tertentu.		
+IMK-01	IMK		167	811.570	820.190	8.620	Misalnya setelah melakukan sesuatu, ada informasi atau keterangan lain, seperti menjelaskan instruksi selanjutnya, dan lain sebagainya.	Misalnya setelah melakukan sesuatu, ada informasi atau keterangan lain, seperti menjelaskan instruksi selanjutnya, dan lain sebagainya.		
+IMK-01	IMK		168	821.370	828.730	7.360	Perhatikan gambar berikut. Ini adalah salah satu feedback yang diberikan oleh Tokopedia apabila kita berhasil melakukan transaksi.	Perhatikan gambar berikut. Ini adalah salah satu feedback yang diberikan oleh Tokopedia apabila kita berhasil melakukan transaksi.		
+IMK-01	IMK		169	829.490	835.390	5.900	Feedback ini sangat penting karena pengguna perlu mengetahui respon dari sistem ketika kita melakukan sesuatu.	Feedback ini sangat penting karena pengguna perlu mengetahui respon dari sistem ketika kita melakukan sesuatu.		
+IMK-01	IMK		170	836.190	843.370	7.180	Dari contoh ini, kita dapat mengetahui bahwa aktivitas yang dilakukan berhasil dan tersedia juga pilihan untuk melakukan aktivitas selanjutnya.	Dari contoh ini, kita dapat mengetahui bahwa aktivitas yang dilakukan berhasil dan tersedia juga pilihan untuk melakukan aktivitas selanjutnya.		
+IMK-01	IMK		171	845.840	847.720	1.880	Prinsip yang selanjutnya adalah constraints.	Prinsip yang selanjutnya adalah constraints.		
+IMK-01	IMK		172	848.320	855.360	7.040	Constraints di sini berarti membatasi aktivitas yang dapat dilakukan pengguna sesuai dengan situasi dan kondisi pada waktu tertentu.	Constraints di sini berarti membatasi aktivitas yang dapat dilakukan pengguna sesuai dengan situasi dan kondisi pada waktu tertentu.		
+IMK-01	IMK		173	856.840	858.960	2.120	Perhatikan contoh yang terlihat pada gambar.	Perhatikan contoh yang terlihat pada gambar.		
+IMK-01	IMK		174	859.700	861.540	1.840	Ini adalah aplikasi Google Slides.	Ini adalah aplikasi Google Slides.		
+IMK-01	IMK		175	861.540	869.720	8.180	Kita lihat ketika kita sedang memilih gambar di dalam slide dan mengakses menu format, maka ada beberapa fitur yang tidak bisa diakses.	Kita lihat ketika kita sedang memilih gambar di dalam slide dan mengakses menu format, maka ada beberapa fitur yang tidak bisa diakses.		
+IMK-01	IMK		176	870.240	874.840	4.600	Secara logis, kita memang tidak bisa membuat tabel saat kursornya sedang memilih gambar.	Secara logis, kita memang tidak bisa membuat tabel saat kursornya sedang memilih gambar.		
+IMK-01	IMK		177	875.460	878.420	2.960	Ini adalah contoh bagaimana prinsip constraint diterapkan.	Ini adalah contoh bagaimana prinsip constraint diterapkan.		
+IMK-01	IMK		178	879.840	881.840	2.000	Prinsip selanjutnya adalah konsistensi.	Prinsip selanjutnya adalah konsistensi.		
+IMK-01	IMK		179	882.520	888.520	6.000	Contoh penerapannya, misalnya penggunaan interface yang sama untuk mengeksekusi fungsi yang sama pula.	Contoh penerapannya, misalnya penggunaan interface yang sama untuk mengeksekusi fungsi yang sama pula.		
+IMK-01	IMK		180	888.520	893.520	5.000	Dengan melakukannya, produk kita akan lebih mudah dipahami dan mudah untuk digunakan	Dengan melakukannya, produk kita akan lebih mudah dipahami dan mudah untuk digunakan		
+IMK-01	IMK		181	893.520	898.680	5.160	Sama halnya ketika kita membuat aplikasi yang bisa dijalankan di berbagai perangkat	Sama halnya ketika kita membuat aplikasi yang bisa dijalankan di berbagai perangkat		
+IMK-01	IMK		182	898.680	904.900	6.220	Konsistensi terhadap konten, fungsi, layout, dan lain sebagainya juga perlu untuk dijaga	Konsistensi terhadap konten, fungsi, layout, dan lain sebagainya juga perlu untuk dijaga		
+IMK-01	IMK		183	904.900	908.420	3.520	Dan terakhir adalah affordance	Dan terakhir adalah affordance		
+IMK-01	IMK		184	908.420	914.100	5.680	Yang merujuk pada kemampuan suatu produk dalam memberikan kejelasan penggunaan produk tersebut	Yang merujuk pada kemampuan suatu produk dalam memberikan kejelasan penggunaan produk tersebut		
+IMK-01	IMK		185	914.100	919.480	5.380	Misalnya pada aplikasi Siri yang menerima perintah berupa suara dari penggunanya	Misalnya pada aplikasi Siri yang menerima perintah berupa suara dari penggunanya		
+IMK-01	IMK		186	919.480	928.020	8.540	Ada keterangan berupa label atau teks yang menjelaskan apa yang perlu dilakukan penggunanya untuk dapat menjalankan fungsi dari aplikasinya	Ada keterangan berupa label atau teks yang menjelaskan apa yang perlu dilakukan penggunanya untuk dapat menjalankan fungsi dari aplikasinya		
+IMK-01	IMK		187	928.020	932.940	4.920	Baiklah, lima prinsip dalam desain interaksi ini menjadi penutup pembahasan kita	Baiklah, lima prinsip dalam desain interaksi ini menjadi penutup pembahasan kita		
+IMK-01	IMK		188	932.940	937.020	4.080	Berikut adalah daftar referensi yang digunakan saat penyusunan materi ini	Berikut adalah daftar referensi yang digunakan saat penyusunan materi ini		
+IMK-01	IMK		189	937.160	940.440	3.280	Terima kasih karena Anda telah menyimak materi ini hingga selesai	Terima kasih karena Anda telah menyimak materi ini hingga selesai		
+IMK-01	IMK		190	940.440	970.420	29.980	Terima kasih.	Terima kasih.		

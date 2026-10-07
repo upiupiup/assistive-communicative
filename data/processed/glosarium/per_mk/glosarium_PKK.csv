@@ -1,0 +1,289 @@
+mata_kuliah,entri_id,bentuk_kanonik,bentuk_permukaan,sumber,tanggal_kunci
+PKK,PKK-001,abstraction,abstraction,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-001,abstraction,abstraksi,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-002,access point,access point,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-003,ACM,ACM,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-004,algorithm,algorithm,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-004,algorithm,algoritma,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-004,algorithm,algorithms,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-005,analytical thinking,analytical thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-006,analytics,analytics,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-006,analytics,analisis data,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-007,application software,application software,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-007,application software,perangkat lunak aplikasi,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-007,application software,program aplikasi,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-007,application software,aplikasi,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-008,argumen,argumen,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-009,artificial intelligence,artificial intelligence,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-009,artificial intelligence,AI,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-010,augmented reality,augmented reality,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-010,augmented reality,AR,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-011,backbone,backbone,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-012,bibliography,bibliography,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-012,bibliography,daftar pustaka,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-013,big data,big data,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-014,blockchain,blockchain,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-015,booting,booting,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-015,booting,boot,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-016,bootloader,bootloader,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-017,brainware,brainware,materi ajar (04 Brainware  (Profesi di bidang IT).pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-017,brainware,manusia pengguna teknologi,materi ajar (04 Brainware  (Profesi di bidang IT).pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-018,bus,bus,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-018,bus,bus data,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-019,business analyst,business analyst,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-020,citation,citation,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-020,citation,kutipan,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-020,citation,citations,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-021,client,client,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-021,client,klien,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-022,cloud computing,cloud computing,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-022,cloud computing,cloud,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-022,cloud computing,awan,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-023,cognitive technology,cognitive technology,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-023,cognitive technology,cognitive technologies,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-024,computational thinking,computational thinking,materi ajar (Computational Thinking-PKK.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-025,computer network,computer network,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-025,computer network,jaringan komputer,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-026,control unit,control unit,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-026,control unit,CU,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-026,control unit,unit kendali,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-027,core,core,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-028,CPU,CPU,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-028,CPU,prosesor,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-028,CPU,processor,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-029,cracking,cracking,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-030,critical thinking,critical thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-030,critical thinking,berpikir kritis,materi ajar (11 Critical Thinking  Analytical Thinking.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-030,critical thinking,pemikiran kritis,materi ajar (11 Critical Thinking  Analytical Thinking.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-031,cyber ethics,cyber ethics,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-032,cybercrime,cybercrime,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-032,cybercrime,kejahatan siber,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-032,cybercrime,kejahatan komputer,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-032,cybercrime,cyber crime,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-033,data analyst,data analyst,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-034,data scientist,data scientist,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-035,database,database,materi ajar (05 Database dan Pengembangan Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-035,database,basis data,materi ajar (05 Database dan Pengembangan Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-036,DBMS,DBMS,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-037,decomposition,decomposition,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-037,decomposition,dekomposisi,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-038,digital culture,digital culture,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-038,digital culture,budaya digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-039,digital ethics,digital ethics,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-039,digital ethics,etika digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-040,digital safety,digital safety,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-040,digital safety,keamanan digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-041,digital skills,digital skills,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-041,digital skills,digital skill,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-041,digital skills,kecakapan digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-042,distributed ledger,distributed ledger,materi ajar (Materi 02. Peran dan Profesi Keilmuan Komputer.pdf),2026-10-01
+PKK,PKK-042,distributed ledger,distributed ledger technology,materi ajar (Materi 02. Peran dan Profesi Keilmuan Komputer.pdf),2026-10-01
+PKK,PKK-042,distributed ledger,buku besar terdistribusi,materi ajar (Materi 02. Peran dan Profesi Keilmuan Komputer.pdf),2026-10-01
+PKK,PKK-043,e-learning,e-learning,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-044,etika,etika,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-044,etika,etika komputer,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-045,etika pribadi,etika pribadi,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-046,expansion slot,expansion slot,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-046,expansion slot,plug-in expansion card,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-046,expansion slot,expansion card,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-047,game developer,game developer,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-048,gateway,gateway,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-049,GIS,GIS,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-050,Google Docs,Google Docs,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-051,GSM,GSM,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-051,GSM,global system for mobile communication,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-052,hak cipta,hak cipta,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-052,hak cipta,copyright,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-053,hak paten,hak paten,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-053,hak paten,paten,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-053,hak paten,patent,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-054,HAKI,HAKI,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-054,HAKI,hak kekayaan intelektual,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-054,HAKI,hak milik intelektual,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-054,HAKI,intellectual property,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-055,hard disk,hard disk,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-055,hard disk,hard disks,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-056,hardware,hardware,materi ajar (03 Sistem Komputer Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-056,hardware,perangkat keras,materi ajar (03 Sistem Komputer Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-057,hukum de morgan,hukum de morgan,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-057,hukum de morgan,de morgan,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-057,hukum de morgan,hukum logika,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-058,human computer interaction,human computer interaction,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-059,informatika,informatika,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-060,input,input,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-061,intel,intel,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-061,intel,pentium,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-062,internet,internet,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-063,Internet of Things,Internet of Things,materi ajar (14-Trend Perkembangan IT.pdf),2026-10-01
+PKK,PKK-064,IT support,IT support,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-065,keilmuan komputer,keilmuan komputer,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-065,keilmuan komputer,ilmu komputer,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-065,keilmuan komputer,computer science,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-066,keyboard,keyboard,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-067,KKNI,KKNI,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-067,KKNI,indonesian qualification framework,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-068,kode etik,kode etik,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-068,kode etik,etika profesi,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-068,kode etik,code of ethics,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-068,kode etik,kode etik perguruan tinggi,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-068,kode etik,kode etik perusahaan,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-069,kompetensi,kompetensi,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,kompetensi dasar lulusan,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,kompetensi dasar lulusan TI,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,kompetensi lulusan,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,graduate competency,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-070,kompetensi dasar lulusan,profil lulusan,buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-071,komputer,komputer,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-071,komputer,computer,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-071,komputer,computers,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-072,konklusi,konklusi,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-072,konklusi,kesimpulan,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-073,kurikulum,kurikulum,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-073,kurikulum,curriculum,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-074,life long learning,life long learning,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-075,literasi 4.0,literasi 4.0,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-075,literasi 4.0,literasi baru,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-076,literasi data,literasi data,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-076,literasi data,data literacy,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-077,literasi digital,literasi digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-077,literasi digital,kurikulum literasi digital,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-078,literasi manusia,literasi manusia,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-078,literasi manusia,human literacy,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-079,literasi teknologi,literasi teknologi,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-079,literasi teknologi,technology literacy,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-080,LMS,LMS,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-081,logical thinking,logical thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-081,logical thinking,berpikir logis,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-082,logika fuzzy,logika fuzzy,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-083,logika informatika,logika informatika,materi ajar (Logika Informatika-PKK.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-083,logika informatika,logika,materi ajar (Logika Informatika-PKK.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-084,machine learning,machine learning,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-085,memory,memory,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-085,memory,memori,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-085,memory,memori utama,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-086,merek dagang,merek dagang,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-086,merek dagang,merk dagang,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-086,merek dagang,trademark,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-086,merek dagang,trade mark,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-087,Microsoft Excel,Microsoft Excel,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-087,Microsoft Excel,spreadsheet,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-088,model,model,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-088,model,pemodelan,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-089,monitor,monitor,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-090,moodle,moodle,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-091,moore's law,moore's law,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-091,moore's law,hukum moore,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-092,mouse,mouse,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-093,MS-DOS,MS-DOS,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-093,MS-DOS,DOS,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-094,netiquette,netiquette,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-095,network,network,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-095,network,jaringan,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-095,network,networking,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-096,network engineer,network engineer,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-097,operating system,operating system,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-097,operating system,operating systems,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-097,operating system,OS,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-097,operating system,sistem operasi,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-098,optical disc,optical disc,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-098,optical disc,DVD,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-099,output,output,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-099,output,keluaran,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-100,pattern,pattern,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-100,pattern,pola,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-100,pattern,patterns,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-101,pattern recognition,pattern recognition,materi ajar (Computational Thinking-PKK.pdf),2026-10-01
+PKK,PKK-102,pembajakan,pembajakan,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-102,pembajakan,piracy,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-102,pembajakan,software piracy,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-102,pembajakan,pembajakan perangkat lunak,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-103,penalaran,penalaran,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-104,pengembangan software,pengembangan software,materi ajar (05 Database dan Pengembangan Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-105,premis,premis,materi ajar (Logika Informatika-PKK.pdf),2026-10-01
+PKK,PKK-106,printer,printer,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-107,problem solving,problem solving,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-107,problem solving,pemecahan masalah,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-107,problem solving,memecahkan masalah,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-107,problem solving,penyelesaian masalah,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-108,profesi,profesi,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-108,profesi,professional,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-108,profesi,profesional,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-109,programmer,programmer,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-110,programming language,programming language,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-111,protocol,protocol,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-111,protocol,protokol,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-112,prototyping,prototyping,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-112,prototyping,prototype,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-112,prototyping,prototipe,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-113,quantum computing,quantum computing,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-113,quantum computing,komputasi kuantum,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-114,rahasia dagang,rahasia dagang,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-114,rahasia dagang,trade secret,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-115,RAM,RAM,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-115,RAM,DRAM,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-115,RAM,SRAM,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-116,read/write head,read/write head,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-116,read/write head,read write head,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-116,read/write head,read/write heads,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-117,rekayasa perangkat lunak,rekayasa perangkat lunak,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-117,rekayasa perangkat lunak,software engineering,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-117,rekayasa perangkat lunak,RPL,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-118,repository,repository,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-118,repository,e-repository,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-119,requirement,requirement,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-119,requirement,kebutuhan,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-120,revolusi industri 4.0,revolusi industri 4.0,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-121,rumpun keilmuan,rumpun keilmuan,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-121,rumpun keilmuan,rumpun keilmuan komputer,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-122,satelit,satelit,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-123,scanner,scanner,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-124,SDLC,SDLC,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-124,SDLC,software development life cycle,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-124,SDLC,siklus hidup pengembangan sistem,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-125,security,security,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-125,security,keamanan,"materi ajar (06 Jaringan Komputer, Internet, security.pdf); buku pedoman kurikulum 2024",2026-10-01
+PKK,PKK-126,sertifikasi,sertifikasi,materi ajar (Etika dalam keilmuan komputer.pdf),2026-10-01
+PKK,PKK-127,server,server,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-128,sistem informasi,sistem informasi,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-128,sistem informasi,information systems,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-129,sistem komputer,sistem komputer,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-130,software,software,materi ajar (03 Sistem Komputer Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-130,software,perangkat lunak,materi ajar (03 Sistem Komputer Software.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-131,software engineer,software engineer,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-132,spiral,spiral,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-132,spiral,model spiral,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-133,stakeholder,stakeholder,materi ajar (09 Computational Thinking.pdf),2026-10-01
+PKK,PKK-134,storage,storage,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-134,storage,penyimpanan,"materi ajar (12 Repository directory online, elearning tools, google service.pdf)",2026-10-01
+PKK,PKK-135,system analyst,system analyst,materi ajar (04 Brainware  (Profesi di bidang IT).pdf),2026-10-01
+PKK,PKK-136,systems thinking,systems thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-136,systems thinking,system thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-137,table of contents,table of contents,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-137,table of contents,daftar isi,"materi ajar (13 Kolaborasi online, netiquette, standar laporan dan presentasi.pdf)",2026-10-01
+PKK,PKK-138,teknik komputer,teknik komputer,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-138,teknik komputer,computer engineering,"materi ajar (01 Rumpun Keilmuan, kompetensi, literasi 4 2023.pdf)",2026-10-01
+PKK,PKK-139,teknologi informasi,teknologi informasi,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,information technology,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,TI,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,IT,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,TIK,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-139,teknologi informasi,information and communication technology,materi ajar (Etika dalam keilmuan komputer.pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-140,testing,testing,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-140,testing,pengujian,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-141,touchpad,touchpad,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-141,touchpad,trackpad,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-142,trackball,trackball,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-143,transistor,transistor,"materi ajar (02 Sistem komputer_hardware (motherboard, cpu, memory, disk, IO device).pdf)",2026-10-01
+PKK,PKK-144,tren,tren,materi ajar (04 Brainware  (Profesi di bidang IT).pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-144,tren,perkembangan teknologi,materi ajar (04 Brainware  (Profesi di bidang IT).pdf); buku pedoman kurikulum 2024,2026-10-01
+PKK,PKK-145,types of thinking,types of thinking,materi ajar (11 Critical Thinking  Analytical Thinking.pdf),2026-10-01
+PKK,PKK-146,virus,virus,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-146,virus,virus komputer,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-147,waterfall,waterfall,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-147,waterfall,model waterfall,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-147,waterfall,waterfall model,materi ajar (05 Database dan Pengembangan Software.pdf),2026-10-01
+PKK,PKK-148,Wi-Fi,Wi-Fi,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-149,windows,windows,materi ajar (03 Sistem Komputer Software.pdf),2026-10-01
+PKK,PKK-150,wireless,wireless,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-150,wireless,nirkabel,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01
+PKK,PKK-150,wireless,jaringan nirkabel,"materi ajar (06 Jaringan Komputer, Internet, security.pdf)",2026-10-01

@@ -1,0 +1,1512 @@
+1
+00:00:00,000 --> 00:00:01,740
+Assalamualaikum warahmatullahi wabarakatuh
+
+2
+00:00:01,740 --> 00:00:04,120
+Dengan saya Rahmat Dhani Prima Nanda
+
+3
+00:00:04,120 --> 00:00:06,560
+Pada pertemuan kali ini
+
+4
+00:00:06,560 --> 00:00:08,420
+Saya akan membahas tentang
+
+5
+00:00:08,420 --> 00:00:10,320
+Mata kuliah Aksitektur
+
+6
+00:00:10,320 --> 00:00:12,300
+Dan Organisasi Komputer atau AOK
+
+7
+00:00:12,300 --> 00:00:13,700
+Dengan topik
+
+8
+00:00:13,700 --> 00:00:15,840
+Konsep Dasar dan Evalusi Komputer
+
+9
+00:00:15,840 --> 00:00:17,220
+Oke
+
+10
+00:00:17,220 --> 00:00:19,580
+Eee untuk yang pertama
+
+11
+00:00:19,580 --> 00:00:21,940
+Pendahuluannya adalah bagaimana nanti
+
+12
+00:00:21,940 --> 00:00:23,460
+Kita bisa memahami
+
+13
+00:00:23,460 --> 00:00:26,200
+Struktur dan fungsi umum pada komputer
+
+14
+00:00:26,200 --> 00:00:27,940
+Kemudian menjabarkan
+
+15
+00:00:27,940 --> 00:00:29,740
+Perkembangan dan evolusi komputer
+
+16
+00:00:29,740 --> 00:00:31,680
+dari generasi ke generasi
+
+17
+00:00:31,680 --> 00:00:33,800
+mampu menjelaskan
+
+18
+00:00:33,800 --> 00:00:35,780
+gambaran umum evolusi arsitektur
+
+19
+00:00:35,780 --> 00:00:37,780
+x86 dan mampu
+
+20
+00:00:37,780 --> 00:00:39,180
+menjelaskan embedded system
+
+21
+00:00:39,180 --> 00:00:41,740
+nah nanti kita akan membahas
+
+22
+00:00:41,740 --> 00:00:42,780
+beberapa materi yang
+
+23
+00:00:42,780 --> 00:00:45,520
+akan kita gunakan nantinya
+
+24
+00:00:45,520 --> 00:00:47,660
+yaitu arsitektur
+
+25
+00:00:47,660 --> 00:00:48,960
+dan organisasi itu sendiri
+
+26
+00:00:48,960 --> 00:00:51,460
+struktur dan fungsi secara komputer
+
+27
+00:00:51,460 --> 00:00:53,820
+evolusi intel x86
+
+28
+00:00:53,820 --> 00:00:54,720
+embedded dan
+
+29
+00:00:54,720 --> 00:00:56,840
+ARM serta cloud computing
+
+30
+00:00:56,840 --> 00:00:59,440
+oke, nah pertama yang kita
+
+31
+00:00:59,440 --> 00:01:01,400
+bahas disini adalah arsitektur
+
+32
+00:01:01,400 --> 00:01:02,500
+dan organisasi
+
+33
+00:01:02,500 --> 00:01:05,500
+perlu kita ketahui terlebih dahulu
+
+34
+00:01:05,500 --> 00:01:07,100
+apa sih yang namanya arsitektur
+
+35
+00:01:07,100 --> 00:01:08,920
+jadi arsitektur itu
+
+36
+00:01:08,920 --> 00:01:10,660
+bagaimana kita
+
+37
+00:01:10,660 --> 00:01:13,200
+mendesain komputer kita
+
+38
+00:01:13,200 --> 00:01:15,480
+yang mana kita akan
+
+39
+00:01:15,480 --> 00:01:18,120
+melihat dari atribut-atribut
+
+40
+00:01:18,120 --> 00:01:19,500
+untuk
+
+41
+00:01:19,500 --> 00:01:21,580
+visible terhadap programmer
+
+42
+00:01:21,580 --> 00:01:23,760
+atau yang bisa dikelola oleh
+
+43
+00:01:23,760 --> 00:01:24,700
+programmer
+
+44
+00:01:24,700 --> 00:01:27,760
+yang nantinya dia akan memberikan
+
+45
+00:01:27,760 --> 00:01:29,160
+dampak langsung
+
+46
+00:01:29,160 --> 00:01:31,100
+pada sebuah eksekusi
+
+47
+00:01:31,100 --> 00:01:33,380
+jadi kita punya program
+
+48
+00:01:33,380 --> 00:01:34,860
+kemudian kita bisa eksekusi
+
+49
+00:01:34,860 --> 00:01:37,180
+baik itu secara logik, logis
+
+50
+00:01:37,180 --> 00:01:38,420
+ataupun nanti
+
+51
+00:01:38,420 --> 00:01:41,420
+berdasarkan instruksi
+
+52
+00:01:41,420 --> 00:01:43,000
+nah contohnya
+
+53
+00:01:43,000 --> 00:01:45,260
+disini ada set instruksi, kemudian jumlah
+
+54
+00:01:45,260 --> 00:01:47,060
+bit yang digunakan
+
+55
+00:01:47,060 --> 00:01:48,620
+untuk berbagi tipe data
+
+56
+00:01:48,620 --> 00:01:50,620
+entah itu angka ataupun karakter
+
+57
+00:01:50,620 --> 00:01:53,320
+I.O. dan contohnya
+
+58
+00:01:53,320 --> 00:01:54,780
+lagi adalah teknik pengelamatan
+
+59
+00:01:54,780 --> 00:01:57,260
+memori, contoh yang lain lagi
+
+60
+00:01:57,260 --> 00:01:57,800
+misalkan
+
+61
+00:01:57,800 --> 00:02:00,560
+Eee pada sebuah
+
+62
+00:02:00,560 --> 00:02:02,560
+Instruksi
+
+63
+00:02:02,560 --> 00:02:03,860
+Ada tidak
+
+64
+00:02:03,860 --> 00:02:07,020
+Di dalam program kita itu
+
+65
+00:02:07,020 --> 00:02:08,360
+Untuk perkalian
+
+66
+00:02:08,360 --> 00:02:09,820
+Nah itu arsitekturnya
+
+67
+00:02:09,820 --> 00:02:12,100
+Apakah di komputer kita itu
+
+68
+00:02:12,100 --> 00:02:13,440
+Ada instruksi perkalian
+
+69
+00:02:13,440 --> 00:02:16,400
+Nah kemudian dibahas lagi
+
+70
+00:02:16,400 --> 00:02:17,500
+Di organisasi
+
+71
+00:02:17,500 --> 00:02:20,100
+Bagaimana komputer itu bekerja
+
+72
+00:02:20,100 --> 00:02:22,540
+Atau misalkan kalau tadi perkalian
+
+73
+00:02:22,540 --> 00:02:24,660
+Bagaimana perkalian itu
+
+74
+00:02:24,660 --> 00:02:26,320
+Di instruksikan
+
+75
+00:02:26,320 --> 00:02:27,740
+Atau di implementasikan
+
+76
+00:02:27,740 --> 00:02:29,600
+Apakah secara hardware
+
+77
+00:02:29,600 --> 00:02:31,620
+Ataukah
+
+78
+00:02:31,620 --> 00:02:33,280
+Secara
+
+79
+00:02:33,280 --> 00:02:35,700
+Penambahan berulang-ulang
+
+80
+00:02:35,700 --> 00:02:37,120
+Misalkan
+
+81
+00:02:37,120 --> 00:02:39,620
+5 x 2
+
+82
+00:02:39,620 --> 00:02:44,200
+Itu kan sama dengan 5 tambah 5
+
+83
+00:02:44,200 --> 00:02:46,840
+Nah kita mau langsung seperti ini
+
+84
+00:02:46,840 --> 00:02:48,320
+Atau seperti ini
+
+85
+00:02:48,320 --> 00:02:51,380
+Nah itu adalah bagaimana komputer itu bekerja
+
+86
+00:02:51,380 --> 00:02:55,220
+Jadi unit-unit operasional dan interkoneksinya yang
+
+87
+00:02:55,220 --> 00:02:57,180
+mewujudkan spesifikasi
+
+88
+00:02:57,180 --> 00:02:58,340
+arsitektur
+
+89
+00:02:58,340 --> 00:03:01,140
+seperti tadi, rincian hardware pendukungnya
+
+90
+00:03:01,140 --> 00:03:03,100
+jadi misalkan kita mau
+
+91
+00:03:03,100 --> 00:03:04,280
+nambah hardware itu
+
+92
+00:03:04,280 --> 00:03:06,880
+eee apakah baru atau
+
+93
+00:03:06,880 --> 00:03:08,140
+secara berulang
+
+94
+00:03:08,140 --> 00:03:11,060
+seperti tadi perkalian, apakah kita
+
+95
+00:03:11,060 --> 00:03:12,820
+menggunakan perkalian secara langsung
+
+96
+00:03:12,820 --> 00:03:15,360
+ataukah dengan cara penambahan berulang
+
+97
+00:03:15,360 --> 00:03:16,320
+yaitu
+
+98
+00:03:16,320 --> 00:03:19,060
+organisasinya, bagaimana komputer itu
+
+99
+00:03:19,060 --> 00:03:20,160
+bekerja
+
+100
+00:03:20,160 --> 00:03:22,960
+kemudian dari sisi
+
+101
+00:03:22,960 --> 00:03:25,060
+eee yang lain, arsitektur dan
+
+102
+00:03:25,060 --> 00:03:27,360
+organisasi, misalkan kita punya
+
+103
+00:03:27,360 --> 00:03:29,140
+sebuah
+
+104
+00:03:29,140 --> 00:03:31,180
+eee keluarga Intel
+
+105
+00:03:31,180 --> 00:03:32,880
+ya, disini
+
+106
+00:03:32,880 --> 00:03:34,560
+misalkan ada Core i5
+
+107
+00:03:34,560 --> 00:03:36,700
+disini ada Core i7
+
+108
+00:03:36,700 --> 00:03:38,560
+nah, yang mana
+
+109
+00:03:38,560 --> 00:03:41,180
+misalkan disini kita menggunakan
+
+110
+00:03:41,180 --> 00:03:42,280
+Intel x86
+
+111
+00:03:42,280 --> 00:03:45,160
+berarti dia memiliki arsitektur yang
+
+112
+00:03:45,160 --> 00:03:47,100
+sama, seperti juga pada
+
+113
+00:03:47,100 --> 00:03:49,260
+arsitektur yang dahulu
+
+114
+00:03:49,260 --> 00:03:50,860
+kala, yaitu IBM System
+
+115
+00:03:50,860 --> 00:03:52,760
+Slash 370 ini
+
+116
+00:03:52,760 --> 00:03:53,860
+ya
+
+117
+00:03:53,860 --> 00:03:55,580
+ini sama
+
+118
+00:03:55,580 --> 00:03:57,300
+artinya arsitekturnya itu sama
+
+119
+00:03:57,300 --> 00:03:59,640
+dan kecenderungan bertahan
+
+120
+00:03:59,640 --> 00:04:01,460
+lama, namun untuk
+
+121
+00:04:01,460 --> 00:04:03,540
+organisasinya bisa saja
+
+122
+00:04:03,540 --> 00:04:05,500
+berbeda sesuai
+
+123
+00:04:05,500 --> 00:04:06,740
+perkembangan teknologi
+
+124
+00:04:06,740 --> 00:04:08,820
+jadi nanti yang akan di update
+
+125
+00:04:08,820 --> 00:04:10,980
+apakah nanti
+
+126
+00:04:10,980 --> 00:04:12,800
+perkaliannya itu pakai
+
+127
+00:04:12,800 --> 00:04:14,940
+model penambahan berulang atau
+
+128
+00:04:14,940 --> 00:04:16,660
+direct, apa
+
+129
+00:04:16,660 --> 00:04:18,480
+efeknya terhadap
+
+130
+00:04:18,480 --> 00:04:21,040
+eee kecepatan prosesor kita
+
+131
+00:04:21,040 --> 00:04:23,080
+nah itu tentunya akan
+
+132
+00:04:23,080 --> 00:04:24,920
+menyesuaikan perkembangan teknologi, makanya
+
+133
+00:04:24,920 --> 00:04:27,260
+disini yang berbeda bisa saja
+
+134
+00:04:27,260 --> 00:04:29,020
+organisasi, namun
+
+135
+00:04:29,020 --> 00:04:30,780
+arsitekturnya yang sama
+
+136
+00:04:30,780 --> 00:04:33,260
+karena sama-sama ada
+
+137
+00:04:33,260 --> 00:04:34,220
+perkalian misalkan
+
+138
+00:04:34,220 --> 00:04:36,700
+namun caranya yang berbeda
+
+139
+00:04:36,700 --> 00:04:39,140
+dia pakai, misalkan
+
+140
+00:04:39,140 --> 00:04:41,400
+dibatasi dari sisi perkaliannya
+
+141
+00:04:41,400 --> 00:04:43,300
+tidak boleh sampai berapa
+
+142
+00:04:43,300 --> 00:04:45,020
+kali, itu
+
+143
+00:04:45,020 --> 00:04:46,640
+salah satu contohnya
+
+144
+00:04:46,640 --> 00:04:50,420
+kemudian ada lagi istilah
+
+145
+00:04:50,420 --> 00:04:51,500
+struktur dan fungsi
+
+146
+00:04:51,500 --> 00:04:54,360
+bagaimana masing-masing
+
+147
+00:04:54,360 --> 00:04:56,900
+komponen itu bisa saling berhubungan
+
+148
+00:04:56,900 --> 00:04:58,660
+satu dengan yang lainnya
+
+149
+00:04:58,660 --> 00:05:00,480
+misalkan disini ada CPU
+
+150
+00:05:00,480 --> 00:05:02,560
+disini ada memori
+
+151
+00:05:02,560 --> 00:05:04,980
+disini ada IO
+
+152
+00:05:04,980 --> 00:05:06,600
+nah bagaimana
+
+153
+00:05:06,600 --> 00:05:07,920
+hubungannya
+
+154
+00:05:07,920 --> 00:05:10,460
+kemudian bagaimana
+
+155
+00:05:10,460 --> 00:05:11,940
+operasi dari
+
+156
+00:05:11,940 --> 00:05:14,180
+masing-masing komponen yang merupakan
+
+157
+00:05:14,180 --> 00:05:16,220
+bagian dari struktur
+
+158
+00:05:16,220 --> 00:05:18,380
+misalkan
+
+159
+00:05:18,380 --> 00:05:20,340
+si memori ini akan
+
+160
+00:05:20,340 --> 00:05:21,940
+memberikan
+
+161
+00:05:21,940 --> 00:05:23,820
+apa namanya
+
+162
+00:05:23,820 --> 00:05:26,000
+instruksinya kepada CPU untuk nantinya
+
+163
+00:05:26,000 --> 00:05:28,060
+diolah di dalam ALU
+
+164
+00:05:28,060 --> 00:05:30,020
+karena yang pertama
+
+165
+00:05:30,020 --> 00:05:33,560
+proses ataupun data
+
+166
+00:05:33,560 --> 00:05:36,120
+itu pertama tadi memori
+
+167
+00:05:36,120 --> 00:05:37,920
+kemudian di ALU, diproses
+
+168
+00:05:37,920 --> 00:05:40,280
+kemudian nanti baru fungsi
+
+169
+00:05:40,280 --> 00:05:42,240
+yang lainnya adalah, oh menampilkannya
+
+170
+00:05:42,240 --> 00:05:44,160
+ke I.O. misalkan setelah
+
+171
+00:05:44,160 --> 00:05:45,140
+saya menghitung ini
+
+172
+00:05:45,140 --> 00:05:47,860
+apakah ada masukan dari I.O.
+
+173
+00:05:47,940 --> 00:05:49,440
+ada keyboard misalkan masuk
+
+174
+00:05:49,440 --> 00:05:51,360
+untuk memberikan akses
+
+175
+00:05:51,360 --> 00:05:55,140
+atau nanti ketika ditampilkan kembali
+
+176
+00:05:55,140 --> 00:05:56,620
+melalui IO pula
+
+177
+00:05:56,620 --> 00:05:58,160
+misalkan ditampilkan ke monitor
+
+178
+00:05:58,160 --> 00:06:00,340
+nah itu salah satu
+
+179
+00:06:00,340 --> 00:06:01,760
+contoh fungsinya
+
+180
+00:06:01,760 --> 00:06:05,060
+secara umum
+
+181
+00:06:05,060 --> 00:06:06,020
+ada 4 fungsi
+
+182
+00:06:06,020 --> 00:06:08,480
+jadi ada processing atau pengolahan
+
+183
+00:06:08,480 --> 00:06:11,080
+ada data storage atau penyimpanan
+
+184
+00:06:11,080 --> 00:06:13,200
+ada data movement atau pemindahan
+
+185
+00:06:13,200 --> 00:06:14,780
+dan kontrol yang mana
+
+186
+00:06:14,780 --> 00:06:15,840
+akan
+
+187
+00:06:15,840 --> 00:06:18,180
+mengendalikan untuk
+
+188
+00:06:18,180 --> 00:06:19,180
+semua
+
+189
+00:06:19,180 --> 00:06:21,780
+Alur-alur tadi
+
+190
+00:06:21,780 --> 00:06:23,120
+Ya, tiga alur tadi
+
+191
+00:06:23,120 --> 00:06:25,400
+Pengolahan, penyimpanan, dan pemindahan
+
+192
+00:06:25,400 --> 00:06:28,600
+Yang pertama disini
+
+193
+00:06:28,600 --> 00:06:30,660
+Pemindahan data dari
+
+194
+00:06:30,660 --> 00:06:33,360
+Peripheral ataupun saluran komunikasi
+
+195
+00:06:33,360 --> 00:06:34,700
+Ke perangkat yang lainnya
+
+196
+00:06:34,700 --> 00:06:37,220
+Jadi, kontrol ini yang bertugas
+
+197
+00:06:37,220 --> 00:06:39,120
+Untuk menarikan bagaimana
+
+198
+00:06:39,120 --> 00:06:40,460
+Pemindahan data ini
+
+199
+00:06:40,460 --> 00:06:42,500
+Ya, dari
+
+200
+00:06:42,500 --> 00:06:44,480
+Saluran komunikasi atau
+
+201
+00:06:44,480 --> 00:06:47,380
+Peripheral ke perangkat lainnya
+
+202
+00:06:47,380 --> 00:06:48,800
+Nah, disini ada
+
+203
+00:06:48,800 --> 00:06:52,720
+I.O. jadi modelnya I.O. ini adalah ketika
+
+204
+00:06:52,720 --> 00:06:56,680
+misalkan data diterima atau dikirim ke perangkat atau
+
+205
+00:06:56,680 --> 00:07:00,660
+peripheral tadi yang terhubung dengan komputer atau langsung dengan
+
+206
+00:07:00,660 --> 00:07:04,620
+komputer jadi ini adalah proses I.O. misalkan
+
+207
+00:07:04,620 --> 00:07:08,820
+data ya disini data kemudian disini
+
+208
+00:07:08,820 --> 00:07:11,680
+I.O. ya data ini diterima
+
+209
+00:07:11,680 --> 00:07:15,020
+atau dikirim ke perangkat peripheral yang lainnya
+
+210
+00:07:15,020 --> 00:07:18,240
+kemudian ada juga komunikasi data
+
+211
+00:07:18,240 --> 00:07:20,300
+jadi misalkan ada
+
+212
+00:07:20,300 --> 00:07:21,140
+data
+
+213
+00:07:21,140 --> 00:07:24,280
+kita pindahkan ke
+
+214
+00:07:24,280 --> 00:07:27,100
+ke eee
+
+215
+00:07:27,100 --> 00:07:29,920
+dalam sebuah perangkat dengan
+
+216
+00:07:29,920 --> 00:07:31,900
+jarak jauh atau kita remote
+
+217
+00:07:31,900 --> 00:07:33,280
+misalkan
+
+218
+00:07:33,280 --> 00:07:34,800
+melalui jaringan
+
+219
+00:07:34,800 --> 00:07:36,060
+atau
+
+220
+00:07:36,060 --> 00:07:37,740
+apa namanya
+
+221
+00:07:37,740 --> 00:07:41,400
+di lokal area kita
+
+222
+00:07:41,400 --> 00:07:43,840
+nah itu adalah komunikasi datanya
+
+223
+00:07:43,840 --> 00:07:46,640
+itu istilah di pemindahan data
+
+224
+00:07:46,640 --> 00:07:48,120
+contohnya misalkan kita
+
+225
+00:07:48,120 --> 00:07:50,640
+pindahkan karakter dari keyboard ke monitor
+
+226
+00:07:50,640 --> 00:07:51,600
+jadi
+
+227
+00:07:51,600 --> 00:07:53,440
+itu yang direct ya
+
+228
+00:07:53,440 --> 00:07:56,580
+keyboard ke monitor
+
+229
+00:07:56,580 --> 00:07:58,420
+kita memberikan perintah
+
+230
+00:07:58,420 --> 00:07:59,840
+ataupun instruksi ke dalam
+
+231
+00:07:59,840 --> 00:08:04,020
+keyboard tersebut
+
+232
+00:08:04,020 --> 00:08:08,110
+nah kemudian yang selanjutnya adalah
+
+233
+00:08:08,110 --> 00:08:08,970
+penyimpanan data
+
+234
+00:08:08,970 --> 00:08:12,310
+komputer yang sedang memproses
+
+235
+00:08:12,310 --> 00:08:13,470
+data dengan cepat
+
+236
+00:08:13,470 --> 00:08:16,530
+yaitu ketika data masuk dan diproses
+
+237
+00:08:16,530 --> 00:08:18,250
+kemudian hasil datanya
+
+238
+00:08:18,250 --> 00:08:19,050
+keluar
+
+239
+00:08:19,050 --> 00:08:22,450
+jadi disini ada hubungan
+
+240
+00:08:22,450 --> 00:08:24,410
+bahwa data itu akan disimpan
+
+241
+00:08:24,410 --> 00:08:26,110
+apakah dia
+
+242
+00:08:26,110 --> 00:08:27,970
+segera diproses atau
+
+243
+00:08:27,970 --> 00:08:29,450
+hasilnya nanti
+
+244
+00:08:29,450 --> 00:08:31,730
+dikerjakan pada saat tertentu
+
+245
+00:08:31,730 --> 00:08:33,130
+jadi misalkan short term ya
+
+246
+00:08:33,130 --> 00:08:36,030
+menyimpan sementara setidaknya potongan data
+
+247
+00:08:36,030 --> 00:08:37,190
+yang sedang dikerjakan
+
+248
+00:08:37,190 --> 00:08:38,770
+tapi kalau long term
+
+249
+00:08:38,770 --> 00:08:41,570
+untuk pengambilan dan pembaruan selanjutnya
+
+250
+00:08:41,570 --> 00:08:44,850
+Jadi ini file data akan disimpan di komputer
+
+251
+00:08:44,850 --> 00:08:51,470
+Seperti misalkan kita mau nyimpan data eem data foto
+
+252
+00:08:51,470 --> 00:08:56,350
+Ataupun data berkas-berkas kita
+
+253
+00:08:56,350 --> 00:08:59,430
+Itu bisa saja masuk ke dalam long term
+
+254
+00:08:59,430 --> 00:09:04,250
+Karena dia disimpan di dalam komputer dalam waktu yang cukup lama
+
+255
+00:09:04,250 --> 00:09:08,250
+Namun ada juga menyimpan sementara
+
+256
+00:09:08,250 --> 00:09:11,170
+Misalkan berada di dalam memori sementara
+
+257
+00:09:11,170 --> 00:09:13,010
+yang nantinya digunakan untuk
+
+258
+00:09:13,010 --> 00:09:15,270
+ke instruksi yang selanjutnya
+
+259
+00:09:15,270 --> 00:09:17,650
+misalkan disini contohnya adalah
+
+260
+00:09:17,650 --> 00:09:18,710
+kita simpan dari
+
+261
+00:09:18,710 --> 00:09:21,630
+internet file-file tertentu
+
+262
+00:09:21,630 --> 00:09:22,990
+atau kita melakukan download
+
+263
+00:09:22,990 --> 00:09:25,650
+ya atau kita melakukan
+
+264
+00:09:25,650 --> 00:09:28,130
+eee apa namanya proses apa
+
+265
+00:09:28,130 --> 00:09:31,330
+penyalinan data
+
+266
+00:09:31,330 --> 00:09:32,570
+dari
+
+267
+00:09:32,570 --> 00:09:35,390
+sumber entah itu internet ataupun
+
+268
+00:09:35,390 --> 00:09:37,370
+ke storage kita
+
+269
+00:09:37,370 --> 00:09:41,260
+kemudian selanjutnya adalah
+
+270
+00:09:41,260 --> 00:09:44,180
+pengolahan data dari atau ke penyimpanan
+
+271
+00:09:44,180 --> 00:09:45,740
+jadi data ini dapat
+
+272
+00:09:45,740 --> 00:09:48,040
+mengambil dalam berbagai bentuk
+
+273
+00:09:48,040 --> 00:09:49,860
+dan persyaratan pengolahan
+
+274
+00:09:49,860 --> 00:09:51,380
+yang cukup luas, artinya disini
+
+275
+00:09:51,380 --> 00:09:53,800
+data itu diubah menjadi
+
+276
+00:09:53,800 --> 00:09:55,600
+bentuk informasi yang lebih berguna
+
+277
+00:09:55,600 --> 00:09:57,740
+jadi ada proses input
+
+278
+00:09:57,740 --> 00:09:59,000
+kemudian
+
+279
+00:09:59,000 --> 00:10:01,180
+ada proses itu sendiri
+
+280
+00:10:01,180 --> 00:10:02,260
+ada
+
+281
+00:10:02,260 --> 00:10:05,360
+eee storage-nya atau simpan
+
+282
+00:10:05,360 --> 00:10:07,440
+baru setelah itu output
+
+283
+00:10:07,440 --> 00:10:09,920
+nah disini contohnya
+
+284
+00:10:09,920 --> 00:10:12,300
+adalah menjalankan proses aritematika
+
+285
+00:10:12,300 --> 00:10:13,980
+dan logika pada data
+
+286
+00:10:13,980 --> 00:10:15,760
+yang disimpan, jadi
+
+287
+00:10:15,760 --> 00:10:17,620
+kita misalkan punya
+
+288
+00:10:17,620 --> 00:10:19,740
+eee apa namanya
+
+289
+00:10:19,740 --> 00:10:22,140
+sebuah nilai atau angka
+
+290
+00:10:22,140 --> 00:10:24,060
+ya, bilangan tertentu
+
+291
+00:10:24,060 --> 00:10:25,460
+kemudian kita
+
+292
+00:10:25,460 --> 00:10:27,300
+lakukan
+
+293
+00:10:27,300 --> 00:10:28,980
+misalkan perkalian
+
+294
+00:10:28,980 --> 00:10:31,840
+ataupun penjumlahan, ataupun
+
+295
+00:10:31,840 --> 00:10:33,920
+yang lainnya, nah nanti
+
+296
+00:10:33,920 --> 00:10:36,020
+data ini akan disimpan sementara
+
+297
+00:10:36,020 --> 00:10:37,640
+di dalam memori
+
+298
+00:10:37,640 --> 00:10:42,010
+data sementara
+
+299
+00:10:42,010 --> 00:10:45,130
+Kemudian baru ditampilkan ke dalam output
+
+300
+00:10:45,130 --> 00:10:49,610
+Nah itu jadi ada input, ada proses perkaliannya
+
+301
+00:10:49,610 --> 00:10:53,450
+Kemudian data itu disimpan sementara untuk nantinya diolah
+
+302
+00:10:53,450 --> 00:10:56,110
+Dan disimpan ke dalam memori sementara
+
+303
+00:10:56,110 --> 00:10:58,610
+Baru ditampilkan ke dalam sebuah output
+
+304
+00:10:58,610 --> 00:11:05,050
+Nah itu salah satu cara untuk proses aritematika dan logika
+
+305
+00:11:05,050 --> 00:11:11,410
+Yang mana aritematika dan logika ini nanti akan kita bahas di aritematika komputer
+
+306
+00:11:11,410 --> 00:11:13,230
+yang membahas juga
+
+307
+00:11:13,230 --> 00:11:14,150
+terkait dengan ALU
+
+308
+00:11:14,150 --> 00:11:18,060
+serta untuk keseluruhan tadi
+
+309
+00:11:18,060 --> 00:11:20,580
+keseluruhan tadi itu melibatkan
+
+310
+00:11:20,580 --> 00:11:22,220
+kontrol
+
+311
+00:11:22,220 --> 00:11:27,040
+ya melibatkan kontrol di pengolahan data
+
+312
+00:11:27,040 --> 00:11:29,160
+dari penyimpanan ke I.O
+
+313
+00:11:29,160 --> 00:11:30,700
+jadi pengolahan data atau
+
+314
+00:11:30,700 --> 00:11:33,020
+perpindahan antara tempat penyimpanan
+
+315
+00:11:33,020 --> 00:11:35,040
+dan lingkungan luar atas eksternal
+
+316
+00:11:35,040 --> 00:11:35,900
+contohnya misalkan
+
+317
+00:11:35,900 --> 00:11:37,700
+kita mau nge-print
+
+318
+00:11:37,700 --> 00:11:40,360
+berarti kan kita nyetak dokumen
+
+319
+00:11:40,360 --> 00:11:42,400
+dari berkas yang ada di storage
+
+320
+00:11:42,400 --> 00:11:44,960
+jadi kita ada berkas
+
+321
+00:11:44,960 --> 00:11:46,340
+di storage
+
+322
+00:11:46,340 --> 00:11:49,220
+kemudian
+
+323
+00:11:49,220 --> 00:11:50,780
+eee kita
+
+324
+00:11:50,780 --> 00:11:53,460
+olah ke dalam I.O.
+
+325
+00:11:53,840 --> 00:11:54,960
+untuk dicetak
+
+326
+00:11:54,960 --> 00:11:56,540
+dicetak
+
+327
+00:11:56,540 --> 00:12:00,100
+ya dan keluar hasilnya
+
+328
+00:12:00,100 --> 00:12:03,600
+untuk keseluruhan tiga fungsi tadi
+
+329
+00:12:03,600 --> 00:12:04,740
+semuanya akan di
+
+330
+00:12:04,740 --> 00:12:07,980
+eee kendalikan oleh yang namanya kontrol
+
+331
+00:12:07,980 --> 00:12:09,300
+dalam I.O. ini yaitu
+
+332
+00:12:09,300 --> 00:12:10,400
+Control Unit
+
+333
+00:12:10,400 --> 00:12:12,700
+jadi yang semuanya nanti
+
+334
+00:12:12,700 --> 00:12:15,040
+akan mengelola sumber daya komputer
+
+335
+00:12:15,040 --> 00:12:17,200
+dan mengatur kinerja bagian
+
+336
+00:12:17,200 --> 00:12:18,860
+tiga fungsi-fungsi tadi
+
+337
+00:12:18,860 --> 00:12:23,600
+kemudian untuk struktur komputer
+
+338
+00:12:23,600 --> 00:12:25,680
+disini, kalau di single processor
+
+339
+00:12:25,680 --> 00:12:27,620
+atau prosesor yang masih
+
+340
+00:12:27,620 --> 00:12:31,340
+satu saja, satu prosesor
+
+341
+00:12:31,340 --> 00:12:33,620
+ada empat komponen struktur utama
+
+342
+00:12:33,620 --> 00:12:34,880
+yaitu CPU
+
+343
+00:12:34,880 --> 00:12:37,380
+CPU ini yang
+
+344
+00:12:37,380 --> 00:12:39,120
+mengatur operasi komputer dan
+
+345
+00:12:39,120 --> 00:12:41,120
+menjalankan fungsi pengelolaan data
+
+346
+00:12:41,120 --> 00:12:43,380
+jadi, brainnya komputer itu
+
+347
+00:12:43,380 --> 00:12:44,200
+di CPU
+
+348
+00:12:44,200 --> 00:12:46,820
+jadi semuanya disini
+
+349
+00:12:46,820 --> 00:12:49,100
+kemudian main memory
+
+350
+00:12:49,100 --> 00:12:51,640
+disini digunakan untuk menyimpan data
+
+351
+00:12:51,640 --> 00:12:53,580
+baik itu yang tadi
+
+352
+00:12:53,580 --> 00:12:55,300
+sifatnya short term ataupun long term
+
+353
+00:12:55,300 --> 00:12:57,240
+kemudian I.O
+
+354
+00:12:57,240 --> 00:12:58,980
+ini yang nantinya akan memindahkan
+
+355
+00:12:58,980 --> 00:13:01,540
+data antara komputer
+
+356
+00:13:01,540 --> 00:13:04,080
+dengan lingkungan eksternal
+
+357
+00:13:04,080 --> 00:13:05,020
+seperti tadi
+
+358
+00:13:05,020 --> 00:13:06,500
+keyboard, monitor
+
+359
+00:13:06,500 --> 00:13:09,880
+kemudian System interconnection
+
+360
+00:13:09,880 --> 00:13:11,920
+yang mana dia menggunakan bus
+
+361
+00:13:11,920 --> 00:13:13,840
+jadi mekanisme
+
+362
+00:13:13,840 --> 00:13:16,440
+untuk komunikasi antara CPU
+
+363
+00:13:16,440 --> 00:13:18,300
+antara main memory
+
+364
+00:13:18,300 --> 00:13:20,280
+dan juga
+
+365
+00:13:20,280 --> 00:13:21,220
+I.O
+
+366
+00:13:21,220 --> 00:13:24,040
+kemudian contohnya
+
+367
+00:13:24,040 --> 00:13:25,720
+disini tadi adalah sistem bus
+
+368
+00:13:25,720 --> 00:13:28,220
+nah nanti CPU ini dibagi lagi
+
+369
+00:13:28,220 --> 00:13:29,980
+ada register
+
+370
+00:13:29,980 --> 00:13:32,240
+ada ALU, ada internal bus
+
+371
+00:13:32,240 --> 00:13:34,180
+dan CU
+
+372
+00:13:34,180 --> 00:13:35,580
+atau control unitnya
+
+373
+00:13:35,580 --> 00:13:37,740
+control unitnya juga seperti itu
+
+374
+00:13:37,740 --> 00:13:38,640
+dipecah lagi
+
+375
+00:13:38,640 --> 00:13:45,820
+oke untuk yang selanjutnya
+
+376
+00:13:45,820 --> 00:13:47,440
+akan saya berikan di
+
+377
+00:13:47,440 --> 00:13:49,960
+Part yang kedua
+
+378
+00:13:49,960 --> 00:13:50,940
+Terima kasih
+

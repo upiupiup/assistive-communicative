@@ -1,0 +1,828 @@
+1
+00:00:00,210 --> 00:00:04,270
+Selamat datang di video materi untuk mata kuliah interaksi manusia dan komputer.
+
+2
+00:00:04,790 --> 00:00:09,150
+Pada kesempatan kali ini, kita akan membahas aspek kognitif di dalam desain interaksi.
+
+3
+00:00:09,610 --> 00:00:10,310
+Selamat menyimak.
+
+4
+00:00:11,290 --> 00:00:14,670
+Ada tiga topik utama yang akan kita bahas dalam video materi kali ini.
+
+5
+00:00:15,130 --> 00:00:17,350
+Pertama adalah mengenal kognisi manusia.
+
+6
+00:00:17,910 --> 00:00:20,990
+Lalu kedua, kita juga membahas jenis-jenis proses kognisi.
+
+7
+00:00:21,510 --> 00:00:26,190
+Dan pembahasan yang terakhir adalah bagaimana penerapan kognitif di dalam desain interaksi.
+
+8
+00:00:26,890 --> 00:00:28,210
+Mari kita bahas satu per satu.
+
+9
+00:00:28,210 --> 00:00:38,020
+Karena tema besar pembahasannya adalah kognisi, maka tentu kita perlu memahami terlebih dahulu apa yang dimaksud dengan kognisi di sini
+
+10
+00:00:38,020 --> 00:00:44,640
+Jika kita lihat definisi kognisi dari Kamus Besar Bahasa Indonesia, kognisi memiliki tiga makna
+
+11
+00:00:44,760 --> 00:00:54,580
+Pertama, kognisi didefinisikan sebagai kegiatan atau proses memperoleh pengetahuan atau usaha untuk mengenali sesuatu melalui pengalaman sendiri
+
+12
+00:00:54,580 --> 00:01:00,460
+Lalu definisi yang kedua adalah proses pengenalan dan penafsiran lingkungan oleh seseorang
+
+13
+00:01:00,460 --> 00:01:04,180
+Dan definisi yang ketiga adalah hasil pemerolehan pengetahuan
+
+14
+00:01:04,180 --> 00:01:12,860
+Dari tiga definisi tersebut, kata kunci yang bisa kita garis bawahi tentang kognisi adalah proses dan mendapatkan pengetahuan
+
+15
+00:01:12,860 --> 00:01:16,560
+Definisi yang digunakan dalam kelas ini tidak jauh berbeda
+
+16
+00:01:16,560 --> 00:01:24,380
+Yaitu sebuah proses mental atau psikologis yang terjadi ketika seseorang memahami atau mempelajari sesuatu
+
+17
+00:01:24,380 --> 00:01:30,240
+Yang dimaksud dengan proses mental di sini adalah proses yang berada di dalam pikiran manusia
+
+18
+00:01:30,240 --> 00:01:33,520
+Artinya tidak terlihat secara fisik, namun ada
+
+19
+00:01:33,520 --> 00:01:37,820
+Yang berkaitan dengan proses mental di sini adalah mental model
+
+20
+00:01:37,820 --> 00:01:41,780
+Yang merupakan konsep penting di dalam interaksi manusia dan komputer
+
+21
+00:01:41,780 --> 00:01:46,140
+Istilah kognisi lebih populer di bidang ilmu psikologi
+
+22
+00:01:46,140 --> 00:01:50,260
+Lalu apa pentingnya mengetahui teori tentang kognisi bagi desain interaksi?
+
+23
+00:01:50,260 --> 00:01:59,420
+Kita tahu bahwa tujuan dari desain interaksi salah satunya adalah menghasilkan aplikasi yang mudah untuk dipelajari dan mudah untuk digunakan
+
+24
+00:01:59,420 --> 00:02:07,580
+Mengetahui bagaimana pengguna belajar yang dalam hal ini adalah manusia tentu memudahkan kita untuk mencapai tujuan tersebut
+
+25
+00:02:07,580 --> 00:02:11,800
+Dan disitulah peran dari aspek kognitif untuk desain interaksi
+
+26
+00:02:11,800 --> 00:02:17,300
+Proses kognisi dapat terjadi dalam berbagai bentuk
+
+27
+00:02:17,300 --> 00:02:22,180
+Ada lima jenis utama proses kognisi yang kaitannya sangat erat dengan desain interaksi
+
+28
+00:02:22,180 --> 00:02:25,840
+Jenis-jenis proses kognisi tersebut antara lain adalah
+
+29
+00:02:25,840 --> 00:02:31,140
+Atensi, persepsi, memori, literasi, dan metakognisi
+
+30
+00:02:31,140 --> 00:02:34,180
+Atensi merupakan fokus perhatian
+
+31
+00:02:34,180 --> 00:02:38,300
+Sedangkan persepsi adalah pemahaman seseorang akan suatu informasi
+
+32
+00:02:38,300 --> 00:02:43,060
+Memori berkaitan dengan kemampuan mengingat dan menyimpan pengetahuan
+
+33
+00:02:43,060 --> 00:02:47,440
+Literasi mencakup membaca, berbicara, dan juga mendengar
+
+34
+00:02:47,440 --> 00:02:53,300
+Dan metakognisi merujuk pada pemahaman seseorang terhadap cara berpikir dirinya sendiri
+
+35
+00:02:53,300 --> 00:02:57,140
+Kita akan membahas setiap proses kognisi ini satu persatu
+
+36
+00:02:57,140 --> 00:03:01,160
+Berikut dengan bagaimana contoh penerapannya di dalam desain interaksi
+
+37
+00:03:01,160 --> 00:03:05,950
+Proses kognisi yang pertama adalah atensi
+
+38
+00:03:05,950 --> 00:03:10,390
+Atensi adalah memilih informasi sebagai pusat konsentrasi
+
+39
+00:03:10,390 --> 00:03:18,590
+Atensi pengguna perlu untuk diperhatikan terutama apabila kita mengharapkan sesuatu untuk dilakukan oleh pengguna aplikasi kita
+
+40
+00:03:18,590 --> 00:03:21,850
+Ada dua faktor utama yang mempengaruhi atensi
+
+41
+00:03:21,850 --> 00:03:28,190
+Pertama adalah bentuk informasi dan yang kedua adalah tujuan yang ingin dicapai oleh pengguna tersebut
+
+42
+00:03:28,190 --> 00:03:32,690
+Jika seseorang sudah mengetahui dengan jelas apa yang ingin dicapainya
+
+43
+00:03:32,690 --> 00:03:39,970
+Maka ia cenderung akan lebih cepat dalam menelusuri dan memilih informasi yang relevan untuk mencapai tujuannya itu
+
+44
+00:03:39,970 --> 00:03:46,070
+Misalkan kita baru saja tiba di bandara dan ingin bergegas menuju terminal keberangkatan
+
+45
+00:03:46,070 --> 00:03:50,930
+Biasanya kita akan lebih cepat untuk menelusuri informasi di dalam bandara tersebut
+
+46
+00:03:50,930 --> 00:03:55,630
+Dan memilih mana yang relevan untuk menunjukkan jalan ke terminal keberangkatan
+
+47
+00:03:55,630 --> 00:04:00,210
+Misalnya informasi tersebut tersedia dalam bentuk papan petunjuk jalan
+
+48
+00:04:00,210 --> 00:04:05,670
+Sekarang, coba bandingkan jika orang tersebut tiba 2 jam lebih awal di bandara
+
+49
+00:04:05,670 --> 00:04:08,870
+Dan tidak tahu ingin melakukan apa selama menunggu
+
+50
+00:04:09,490 --> 00:04:12,770
+Mungkin saja dia memperhatikan setiap informasi yang dilihatnya,
+
+51
+00:04:13,230 --> 00:04:16,910
+seperti toko suvenir, tempat makan, atau papan pengumuman.
+
+52
+00:04:17,430 --> 00:04:22,510
+Namun yang pasti, akan lebih lama untuk mendapatkan fokus yang menjadi pusat perhatiannya.
+
+53
+00:04:23,730 --> 00:04:27,230
+Setiap orang memiliki kemampuan untuk dapat fokus yang berbeda-beda.
+
+54
+00:04:27,790 --> 00:04:31,370
+Sebagian harus benar-benar fokus dan tidak terganggu oleh sekitarnya.
+
+55
+00:04:31,370 --> 00:04:38,030
+Namun sebagian lagi bisa jadi adalah multitasker yang biasa mengerjakan beberapa aktivitas sekaligus.
+
+56
+00:04:38,870 --> 00:04:48,290
+Terkait multitasker, kita perlu pahami bahwa multitasker tingkat berat sangat mudah untuk terdistraksi dan sulit untuk menyeleksi informasi.
+
+57
+00:04:48,970 --> 00:05:00,250
+Sebagai desainer, kita perlu merancang antarmuka yang meminimalisir terjadinya distraksi ketika pengguna belum tuntas menyelesaikan suatu proses tertentu yang dilakukan di dalam aplikasi kita.
+
+58
+00:05:01,530 --> 00:05:06,890
+Mari kita lihat contoh penerapan atensi dalam desain interaksi agar lebih jelas memahaminya.
+
+59
+00:05:06,890 --> 00:05:14,630
+Dari informasi yang terlihat ini, coba cari siapa saja mahasiswa teknik informatika angkatan 2011
+
+60
+00:05:14,630 --> 00:05:18,450
+Kira-kira apakah Anda bisa menemukannya dengan cepat
+
+61
+00:05:18,450 --> 00:05:27,540
+Sekarang, coba bandingkan jika penyajian informasinya adalah seperti yang terlihat berikut
+
+62
+00:05:27,540 --> 00:05:33,320
+Tugasnya masih sama yaitu mencari mahasiswa teknik informatika angkatan 2011
+
+63
+00:05:33,940 --> 00:05:41,530
+Jika dibandingkan dengan yang sebelumnya, apakah mencari informasi tersebut sekarang lebih mudah dari sebelumnya?
+
+64
+00:05:42,110 --> 00:05:53,510
+Bagi kebanyakan orang, bentuk penyajian informasi ini lebih memudahkan, karena teorinya, pengelompokan informasi sesuai relevansi akan mempercepat proses atensi pengguna.
+
+65
+00:05:54,610 --> 00:05:59,470
+Mari kita lihat contoh lain bagaimana atensi bisa menentukan rancangan yang dibuat.
+
+66
+00:06:00,170 --> 00:06:04,650
+Dari ke-6 banner yang terlihat ini, yang mana yang paling nyaman untuk dibaca?
+
+67
+00:06:06,230 --> 00:06:11,170
+Semua tulisannya tentu bisa dibaca, namun apakah semuanya nyaman untuk dibaca?
+
+68
+00:06:12,110 --> 00:06:18,310
+Biasanya yang paling nyaman dibaca adalah yang Anda lihat pertama kali atau yang paling menarik perhatian.
+
+69
+00:06:19,110 --> 00:06:26,370
+Dalam konteks aplikasi, penyajian informasi penting perlu dibuat agar nyaman dibaca dan juga bisa menarik perhatian.
+
+70
+00:06:27,290 --> 00:06:37,870
+Dari keenam ini, mungkin yang nyaman dibaca ada dua, yaitu yang menggunakan background merah marun dengan tulisan putih atau yang belatar belakang putih dan tulisannya berwarna hitam.
+
+71
+00:06:37,870 --> 00:06:41,410
+Manakah yang lebih menarik di antara keduanya?
+
+72
+00:06:42,190 --> 00:06:46,230
+Sepertinya yang menggunakan latar belakang merah marun dengan tulisan berwarna putih
+
+73
+00:06:46,230 --> 00:06:50,670
+Dari contoh ini, dapat dikatakan bahwa keterbacaan yang tepat
+
+74
+00:06:50,670 --> 00:06:55,030
+akan mempermudah pemahaman pengguna terhadap maksud dan fungsi aplikasi
+
+75
+00:06:55,030 --> 00:07:00,090
+Semakin cepat pengguna menyeleksi informasi, semakin cepat pengguna mencapai tujuannya
+
+76
+00:07:00,090 --> 00:07:06,090
+Kita lanjutkan pada jenis proses kognisi yang kedua yaitu persepsi
+
+77
+00:07:06,090 --> 00:07:13,410
+Persepsi dapat diartikan sebagai memaknai atau memberikan pemahaman terhadap suatu informasi
+
+78
+00:07:13,410 --> 00:07:19,670
+Persepsi akan sangat tergantung dari pengetahuan yang dimiliki dan juga cara berpikir seseorang
+
+79
+00:07:19,670 --> 00:07:25,290
+Satu informasi yang sama bisa saja dipersepsikan berbeda oleh setiap orang
+
+80
+00:07:25,290 --> 00:07:29,590
+Terlebih lagi jika informasinya bersifat bias dan multitafsir
+
+81
+00:07:30,830 --> 00:07:35,810
+Persepsi ini berkaitan dengan apakah sebuah informasi penting atau tidak menurut pengguna
+
+82
+00:07:35,810 --> 00:07:38,250
+Itu diputuskan oleh mereka sendiri.
+
+83
+00:07:39,150 --> 00:07:46,230
+Tentu pengguna perlu memahami informasi yang diterima untuk memutuskan apakah informasi tersebut dibutuhkan atau tidak.
+
+84
+00:07:47,050 --> 00:07:54,930
+Dari sudut pandang sistem desainer, penting untuk memahami apa yang pengguna pahami dan menerapkannya ke dalam desain yang kita rancang.
+
+85
+00:07:55,770 --> 00:08:02,970
+Kita perlu perhatikan benar penyajian informasi, baik dalam bentuk gambar ataupun tulisan, jelas dan mudah untuk dipahami.
+
+86
+00:08:03,610 --> 00:08:08,290
+Dengan demikian, persepsi orang yang menerimanya cenderung tidak jauh berbeda satu sama lain.
+
+87
+00:08:10,610 --> 00:08:13,450
+Bagaimana contoh penerapan persepsi di dalam desain interaksi?
+
+88
+00:08:14,510 --> 00:08:16,730
+Kita ambil contoh saja pada website e-commerce.
+
+89
+00:08:17,890 --> 00:08:24,630
+Website e-commerce menggunakan gambar keranjang untuk menggambarkan wadah atau tempat mengumpulkan produk-produk yang akan dibeli.
+
+90
+00:08:25,090 --> 00:08:33,230
+Bagi sebagian orang, gambar keranjang belanja sudah familiar, dan dengan melihatnya, pengguna sudah memiliki gambaran apa fungsinya.
+
+91
+00:08:33,230 --> 00:08:41,990
+Di dunia nyata, keranjang memang umum digunakan di supermarket untuk menyimpan barang-barang yang akan dibeli untuk kemudian dibawa ke kasir
+
+92
+00:08:41,990 --> 00:08:54,330
+Mempersepsikan gambar keranjang belanja sebagai tempat untuk melihat barang yang sudah dipilih tentu lebih mudah dibandingkan misalnya gambar yang digunakan adalah buku ataupun malahan tong sampah
+
+93
+00:08:54,610 --> 00:08:59,320
+Proses kognisi yang selanjutnya adalah memori
+
+94
+00:08:59,320 --> 00:09:06,160
+Memori kuat kaitannya dengan proses mengingat kembali berbagai jenis pengetahuan yang sudah dimiliki oleh seseorang
+
+95
+00:09:06,160 --> 00:09:09,080
+Agar dapat digunakan untuk melakukan sesuatu tentunya
+
+96
+00:09:09,080 --> 00:09:15,000
+Misalnya untuk mengurus perpanjangan surat izin mengumudi yang dilakukannya setiap 5 tahun sekali
+
+97
+00:09:15,000 --> 00:09:18,780
+Seseorang perlu mengingat-ingat bagaimana prosedurnya
+
+98
+00:09:19,040 --> 00:09:27,440
+Jika dalam konteks aplikasi, misalnya ketika kita berupaya mengingat kembali cara melaporkan SPT pajak tahunan melalui aplikasinya
+
+99
+00:09:27,440 --> 00:09:31,620
+Ada tiga hal yang perlu kita perhatikan terkait memori
+
+100
+00:09:31,620 --> 00:09:35,620
+Pertama, pengguna tidak dapat mengingat semua informasi
+
+101
+00:09:35,620 --> 00:09:41,300
+Ini perlu kita pahami, kapasitas otak manusia dalam menyimpan informasi memang cukup terbatas
+
+102
+00:09:41,300 --> 00:09:46,760
+Yang kedua, perlu konteks untuk memudahkan pengguna mengenali atau mengingat sesuatu
+
+103
+00:09:46,760 --> 00:09:50,940
+Misalnya, jika Anda kebetulan melihat seseorang di dalam kereta
+
+104
+00:09:50,940 --> 00:09:54,320
+Bisa jadi Anda tidak langsung mengenali orang tersebut
+
+105
+00:09:54,900 --> 00:09:58,540
+namun jika beberapa saat kemudian Anda melihat kembali orang yang sama
+
+106
+00:09:58,540 --> 00:10:01,540
+dan ternyata adalah rekan kerja satu kantor,
+
+107
+00:10:02,200 --> 00:10:05,280
+maka kemungkinan besar Anda bisa mengenali dan menyadarinya.
+
+108
+00:10:06,040 --> 00:10:10,040
+Tempat antara kereta dan kantor di sini merupakan dua konteks yang berbeda.
+
+109
+00:10:11,540 --> 00:10:14,560
+Lalu poin penting ketiga terkait memori adalah
+
+110
+00:10:14,560 --> 00:10:20,060
+lebih mudah untuk mengenali atau recognize dibandingkan dengan mengingat atau recall.
+
+111
+00:10:20,680 --> 00:10:28,960
+Anda mungkin tidak mengingat nama semua orang yang telah bertemu dengan Anda, namun jika melihat wajahnya, Anda mungkin saja merasa mengenalinya.
+
+112
+00:10:30,360 --> 00:10:33,520
+Bagaimana contoh penerapan aspek memori dalam desain interaksi?
+
+113
+00:10:33,980 --> 00:10:41,300
+Dari tiga hal yang perlu diperhatikan terkait memori tadi, kita tahu bahwa pengguna punya keterbatasan dalam mengingat semua informasi.
+
+114
+00:10:41,960 --> 00:10:47,320
+Satu contoh fitur aplikasi yang menjawab permasalahan tersebut adalah fitur pencarian di sistem operasi.
+
+115
+00:10:48,320 --> 00:10:53,980
+Fitur ini memudahkan pengguna untuk menemukan file, folder, atau aplikasi yang diperlukan.
+
+116
+00:10:55,260 --> 00:11:02,840
+Pengguna sering tidak hafal di mana menyimpan file yang diperlukan, terutama apabila file yang dibutuhkan tersebut sudah lama tidak digunakan.
+
+117
+00:11:04,260 --> 00:11:08,400
+Fitur pencarian mengurangi beban pengguna yang kesulitan untuk mengingat tersebut.
+
+118
+00:11:08,960 --> 00:11:16,620
+Gambar yang terlihat di sebelah kanan ini adalah tampilan fitur pencarian bernama Spotlight yang dimiliki oleh sistem operasi macOS.
+
+119
+00:11:17,320 --> 00:11:23,140
+Seperti yang terlihat pada gambar, Spotlight sangat membantu pengguna untuk menemukan apa yang mereka butuhkan,
+
+120
+00:11:23,580 --> 00:11:27,300
+tidak hanya file, namun juga folder atau bahkan aplikasi,
+
+121
+00:11:27,760 --> 00:11:31,680
+yang menurut sistem relevan untuk ditampilkan sebagai hasil pencarian.
+
+122
+00:11:34,790 --> 00:11:39,810
+Tentu, contoh penerapan aspek memori dalam desain interaksi tidak sebatas fitur pencarian saja.
+
+123
+00:11:40,470 --> 00:11:44,030
+Satu contoh lain dapat kita lihat pada web browser yang populer saat ini.
+
+124
+00:11:44,590 --> 00:11:49,490
+Kebanyakan web browser, misalnya Google Chrome, menyediakan fitur penelusuran atau history.
+
+125
+00:11:50,450 --> 00:11:55,830
+Fitur ini membantu pengguna untuk merecognize halaman website apa yang mereka buka di masa lalu.
+
+126
+00:11:56,470 --> 00:12:00,210
+Jadi daripada pengguna harus mengingat-ingat kemarin membuka situs apa,
+
+127
+00:12:00,750 --> 00:12:06,130
+mereka hanya perlu mengakses menu history untuk melihat riwayat website yang mereka kunjungi.
+
+128
+00:12:06,670 --> 00:12:15,210
+Dua contoh yang sudah diberikan ini mudah-mudahan membantu Anda untuk memahami bagaimana aspek memori menentukan desain interaksi yang dibuat.
+
+129
+00:12:18,440 --> 00:12:22,000
+Proses kognisi yang selanjutnya adalah literasi atau kebahasaan.
+
+130
+00:12:22,220 --> 00:12:28,580
+Literasi ini tidak hanya mencakup tulisan, namun juga mencakup berbicara, mendengar, dan membaca.
+
+131
+00:12:29,360 --> 00:12:33,800
+Anda mungkin sudah pernah mengikuti ujian bahasa tertentu seperti bahasa Inggris misalnya.
+
+132
+00:12:33,800 --> 00:12:40,660
+Di dalam tes tersebut, biasanya ada tiga aspek literasi yang dinilai, yaitu speaking, listening, dan juga reading.
+
+133
+00:12:41,460 --> 00:12:45,180
+Kurang lebih sama maknanya dengan literasi sebagai proses kognisi di sini.
+
+134
+00:12:45,180 --> 00:12:54,200
+Inti dari bahasa adalah komunikasi yang dapat dipahami dan juga dianggap pantas atau sesuai dengan orang yang diajak berkomunikasi
+
+135
+00:12:54,200 --> 00:13:01,200
+Dalam aplikasi yang penyajian informasinya didominasi oleh teks, penerapan aspek literasi ini sangatlah penting
+
+136
+00:13:01,200 --> 00:13:07,080
+Misalnya, kita perlu menyesuaikan gaya bahasa atau gaya penulisan dengan karakteristik pengguna
+
+137
+00:13:07,400 --> 00:13:14,620
+Menulis konten untuk anak-anak remaja berusia 10 hingga 15 tahun tentu berbeda dengan konten untuk orang lansia
+
+138
+00:13:14,620 --> 00:13:20,660
+atau menulis konten untuk anak sekolah menengah tentu berbeda dengan untuk para profesional.
+
+139
+00:13:21,980 --> 00:13:30,500
+Sebegitu pentingnya aspek literasi di dalam penyajian konten hingga saat ini ada salah satu profesi yang muncul yaitu content writer untuk UX
+
+140
+00:13:30,500 --> 00:13:38,280
+di mana tujuannya tidak hanya sekedar menulis konten tetapi juga menyesuaikan gaya bahasa dengan target penggunanya.
+
+141
+00:13:39,700 --> 00:13:43,380
+Mari kita lihat kembali fitur keranjang kosong pada e-commerce yang tadi.
+
+142
+00:13:44,340 --> 00:13:47,000
+Perhatikan kalimat yang ditandai border berwarna merah.
+
+143
+00:13:47,900 --> 00:13:49,420
+Perhatikan penulisan kalimatnya.
+
+144
+00:13:50,480 --> 00:13:55,980
+Menurut Anda, siapa kira-kira customer atau pengguna yang ditargetkan oleh aplikasi e-commerce ini?
+
+145
+00:13:56,520 --> 00:14:02,140
+Dari gaya bahasanya, sepertinya target utama penggunanya adalah generasi milenial
+
+146
+00:14:02,140 --> 00:14:06,400
+atau yang rentang usianya antara belasan hingga 30 tahunan.
+
+147
+00:14:06,400 --> 00:14:15,220
+Pada intinya, pemilihan kata, bahasa, dan kalimat pada suatu aplikasi perlu disesuaikan dengan siapa target penggunanya
+
+148
+00:14:15,220 --> 00:14:18,900
+Proses kognisi yang terakhir adalah metakognisi
+
+149
+00:14:18,900 --> 00:14:24,340
+Istilah ini mungkin terdengar sangat asing di bidang ilmu komputer atau sistem informasi
+
+150
+00:14:24,340 --> 00:14:31,000
+Orang-orang yang memiliki latar belakang di bidang psikologi dan pendidikan mungkin lebih terbiasa dengan istilah ini
+
+151
+00:14:31,000 --> 00:14:38,120
+Metakognisi ini merupakan pemahaman seseorang tentang sistem pemrosesan informasi pada dirinya sendiri
+
+152
+00:14:38,120 --> 00:14:42,640
+Ada yang menyebutnya juga sebagai berpikir tentang cara berpikir
+
+153
+00:14:42,640 --> 00:14:48,780
+Sulit untuk dibayangkan karena memang tidak terlihat, namun peran metakognisi ini sangat penting
+
+154
+00:14:48,780 --> 00:14:56,160
+Metakognisi penting untuk penyelesaian masalah, perencanaan, pertimbangan, dan pengambilan keputusan
+
+155
+00:14:56,160 --> 00:15:04,640
+Metakognisi ini juga erat kaitannya dengan kepercayaan diri seseorang untuk merasa bisa menggunakan suatu aplikasi tertentu
+
+156
+00:15:04,640 --> 00:15:16,700
+Dan karena berkaitan dengan pengambilan keputusan, memperhatikan aspek metakognisi dalam desain interaksi akan membantu kita mengarahkan pengguna untuk mengambil keputusan yang sebetulnya kita harapkan
+
+157
+00:15:16,700 --> 00:15:22,540
+Mari kita lihat contoh bagaimana metakognisi diterapkan pada desain interaksi
+
+158
+00:15:23,460 --> 00:15:27,120
+Kita lihat lagi fitur keranjang kosong pada aplikasi e-commerce sebelumnya.
+
+159
+00:15:28,440 --> 00:15:34,180
+Sebetulnya, dari potongan aplikasi ini, kita bisa lihat bagaimana aspek metakognisi diperhatikan.
+
+160
+00:15:35,040 --> 00:15:36,120
+Kita lihat headlinenya.
+
+161
+00:15:36,820 --> 00:15:40,860
+Pengembang aplikasi menarasikan keranjang kosong seolah-olah sebagai masalah.
+
+162
+00:15:40,860 --> 00:15:45,440
+Dan berharap pengunjung mau menyelesaikan masalah keranjang yang kosong ini.
+
+163
+00:15:46,220 --> 00:15:48,220
+Lalu perhatikan kalimat selanjutnya.
+
+164
+00:15:48,820 --> 00:15:52,060
+Daripada dianggurin, mending isi dengan barang-barang impianmu.
+
+165
+00:15:52,060 --> 00:15:53,160
+Yuk, cek sekarang.
+
+166
+00:15:53,940 --> 00:16:00,500
+Kalimat ini pada dasarnya adalah untuk mengarahkan atau mengusulkan solusi dari permasalahan keranjang kosong tadi.
+
+167
+00:16:01,480 --> 00:16:03,740
+Ada kepentingan dari pemilik aplikasi di sini,
+
+168
+00:16:04,280 --> 00:16:10,320
+yaitu jika pengguna belum memilih satupun produk untuk dibeli yang ditunjukkan dengan keranjang kosongnya ini,
+
+169
+00:16:10,780 --> 00:16:14,720
+maka mereka harus dirayu untuk mengisi keranjang kosong tersebut.
+
+170
+00:16:15,920 --> 00:16:20,280
+Dan tidak berhenti sampai di sana saja, kita lihat di bawahnya ada tombol hijau.
+
+171
+00:16:20,940 --> 00:16:23,320
+Tombol ini disebut dengan istilah call-to-action,
+
+172
+00:16:23,820 --> 00:16:28,400
+di mana biasanya ini adalah goals dari aplikasi untuk case keranjang kosong.
+
+173
+00:16:29,240 --> 00:16:34,400
+Jika keranjang masih kosong, maka pengguna harus dibawa melihat-lihat produk yang ada.
+
+174
+00:16:35,740 --> 00:16:39,780
+Tombol ini berfungsi untuk memfasilitasi jika keputusan yang diambil pengguna
+
+175
+00:16:39,780 --> 00:16:42,900
+memang sesuai dengan harapan dari pemilik aplikasinya.
+
+176
+00:16:45,540 --> 00:16:50,580
+Agar lebih memahami apa bedanya dengan aplikasi lain yang kurang menekankan aspek metakognisi,
+
+177
+00:16:50,580 --> 00:16:54,380
+Mari kita bandingkan keranjang kosong dari dua aplikasi berikut
+
+178
+00:16:54,380 --> 00:16:59,150
+Coba kita bandingkan dua gambar yang terlihat
+
+179
+00:16:59,150 --> 00:17:02,290
+Dalam konteks penyajian keranjang belanja kosong
+
+180
+00:17:02,290 --> 00:17:07,110
+Mana yang kira-kira menerapkan prinsip metakognisi lebih baik di antara keduanya
+
+181
+00:17:07,110 --> 00:17:11,150
+Anda mungkin sudah bisa menebaknya dengan tepat
+
+182
+00:17:11,150 --> 00:17:13,450
+Memang dalam konteks keranjang kosong
+
+183
+00:17:13,450 --> 00:17:17,730
+Aplikasi yang di sebelah kanan lebih baik dari aplikasi yang ada di sebelah kiri
+
+184
+00:17:17,730 --> 00:17:21,530
+Sebelumnya sudah dibahas bagaimana aspek metakognisi
+
+185
+00:17:21,530 --> 00:17:24,450
+diterapkan pada aplikasi yang berada di sebelah kanan.
+
+186
+00:17:25,010 --> 00:17:27,550
+Sekarang kita bahas aplikasi yang di sebelah kiri saja.
+
+187
+00:17:28,410 --> 00:17:31,290
+Perhatikan bahwa terdapat informasi yang redundant atau double
+
+188
+00:17:31,290 --> 00:17:32,830
+yang disediakan di sini.
+
+189
+00:17:33,690 --> 00:17:36,990
+Di bagian atas ada informasi total barangnya adalah 0
+
+190
+00:17:36,990 --> 00:17:39,210
+dan gambar keranjangnya juga kosong.
+
+191
+00:17:39,810 --> 00:17:43,590
+Lalu, teks bertuliskan belum ada barang yang ditambahkan.
+
+192
+00:17:44,430 --> 00:17:47,630
+Ini sebetulnya hanya mengulang informasi yang sama.
+
+193
+00:17:48,410 --> 00:17:50,010
+Jika total barangnya adalah 0,
+
+194
+00:17:50,390 --> 00:17:52,010
+ya tanpa perlu diperjelas lagi,
+
+195
+00:17:52,150 --> 00:17:56,470
+pengunjung juga tahu bahwa mereka belum menambahkan satu barang pun untuk dipilih.
+
+196
+00:17:57,730 --> 00:18:00,710
+Kesalahan selanjutnya adalah tombol call to action di bawahnya
+
+197
+00:18:00,710 --> 00:18:03,090
+yang bertuliskan lihat keranjang.
+
+198
+00:18:03,790 --> 00:18:06,790
+Pertanyaannya, jika sudah tahu keranjangnya kosong,
+
+199
+00:18:07,150 --> 00:18:09,650
+apakah pengunjung masih perlu lagi untuk melihatnya?
+
+200
+00:18:10,910 --> 00:18:13,110
+Apa yang mau dilihat dari keranjang kosong?
+
+201
+00:18:13,690 --> 00:18:15,450
+Lalu jika seandainya dilihat pun,
+
+202
+00:18:16,010 --> 00:18:18,290
+apa yang diharapkan oleh pemilik aplikasinya?
+
+203
+00:18:19,090 --> 00:18:24,990
+Dari perbandingan dua aplikasi ini, kita bisa lihat bahwa aspek metakognisi bisa berdampak signifikan
+
+204
+00:18:24,990 --> 00:18:28,330
+jika diperhatikan dan diimplementasikan dengan tepat.
+
+205
+00:18:30,430 --> 00:18:34,150
+Penyajian materi ini dibuat berdasarkan dua referensi utama berikut.
+
+206
+00:18:35,270 --> 00:18:38,170
+Dan itu sekaligus menutup pembahasan kita dalam video ini.
+
+207
+00:18:38,690 --> 00:18:41,190
+Terima kasih karena Anda telah menyimaknya hingga selesai.
+

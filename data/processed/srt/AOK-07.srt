@@ -1,0 +1,1163 @@
+1
+00:00:01,780 --> 00:00:11,400
+Oke, bertemu lagi dengan saya, Hanas, di Mata Kuliah Arsitektur dan Organisasi Komputer
+
+2
+00:00:11,400 --> 00:00:17,860
+Pada topik 7 ini terkait input-output bagian ke 1
+
+3
+00:00:17,860 --> 00:00:32,320
+Oke, pada materi ini akan disampaikan terkait penjabaran antarmuka dari perangkat input-output
+
+4
+00:00:32,320 --> 00:00:40,020
+Dan perangkat peripheral lain yang ada maupun akan terhubung pada suatu komputer
+
+5
+00:00:40,020 --> 00:00:47,920
+Nah pada bab ini akan dijelaskan terkait pengertian sistem I.O
+
+6
+00:00:47,920 --> 00:00:55,000
+Kemudian fungsi modul I.O hingga struktur modul I.O
+
+7
+00:00:55,000 --> 00:01:15,480
+Oke, nah input-output, perangkat I.O. ini adalah salah satu elemen penting pada sebuah sistem komputer selain CPU dan sejumlah modul memori.
+
+8
+00:01:17,080 --> 00:01:25,280
+Nah, modul I.O. ini bukan hanya merupakan konektor mekanis yang sederhana untuk menghubungkan suatu perangkat dengan bas sistem.
+
+9
+00:01:25,280 --> 00:01:30,720
+Nah tetapi modul IO ini berisi sesuatu yang cerdas
+
+10
+00:01:30,720 --> 00:01:32,920
+Yang berisi logika
+
+11
+00:01:32,920 --> 00:01:38,420
+Untuk melakukan fungsi komunikasi antara peripheral dengan bus
+
+12
+00:01:38,420 --> 00:01:44,080
+Nah unit input output ini adalah bagian dari sistem mikroprosesor
+
+13
+00:01:44,080 --> 00:01:48,880
+Yang digunakan mikroprosesor untuk perhubungan dengan dunia luar
+
+14
+00:01:48,880 --> 00:02:04,340
+Oke, modul IO ya ini tidak hanya untuk keluar masuknya data kepada dari CPU, prosesor, memori ke perangkat masukan keluaran
+
+15
+00:02:04,340 --> 00:02:15,600
+Tetapi bagaimana perangkat input output itu juga bisa berkomunikasi dengan baik oleh CPU
+
+16
+00:02:15,600 --> 00:02:21,620
+Nah, misalkan unit input ini unit masukannya
+
+17
+00:02:21,620 --> 00:02:23,820
+Contohnya sederhana, keyboard, mouse
+
+18
+00:02:23,820 --> 00:02:26,740
+Misalkan kemudian unit output
+
+19
+00:02:26,740 --> 00:02:29,860
+Biasanya untuk menampilkan atau menyajikan data
+
+20
+00:02:29,860 --> 00:02:35,560
+Nah, ada lagi unit yang dia berfungsi sebagai input dan output
+
+21
+00:02:35,560 --> 00:02:38,380
+Misalkan touchscreen, layar sentuh
+
+22
+00:02:38,380 --> 00:02:40,180
+Nah, dia kan dual fungsi
+
+23
+00:02:40,180 --> 00:02:45,460
+Bisa jadi touchscreen, bisa jadi input, bisa jadi output
+
+24
+00:02:45,460 --> 00:02:47,440
+Oke
+
+25
+00:02:47,440 --> 00:02:50,620
+Nah secara tidak langsung seperti ini
+
+26
+00:02:50,620 --> 00:02:52,100
+Ya jadi IO module
+
+27
+00:02:52,100 --> 00:02:54,100
+Ya ini misalkan
+
+28
+00:02:54,100 --> 00:02:56,360
+Bayangkan saja sebuah port USB
+
+29
+00:02:56,360 --> 00:02:57,380
+Pada komputer Anda
+
+30
+00:02:57,380 --> 00:03:00,320
+Oke dia akan berhubung
+
+31
+00:03:00,320 --> 00:03:02,000
+Dengan sistem bus
+
+32
+00:03:02,000 --> 00:03:04,420
+Sistem bus yang berisi antara
+
+33
+00:03:04,420 --> 00:03:06,180
+Attrace data
+
+34
+00:03:06,180 --> 00:03:07,160
+Dan control
+
+35
+00:03:07,160 --> 00:03:09,980
+Yang dipergunakan untuk berkomunikasi
+
+36
+00:03:09,980 --> 00:03:12,080
+Dengan CPU atau memory
+
+37
+00:03:12,080 --> 00:03:13,980
+Secara langsung
+
+38
+00:03:13,980 --> 00:03:16,480
+Nah, namun
+
+39
+00:03:16,480 --> 00:03:25,140
+I.O. ini tidak boleh langsung berkomunikasi dengan CPU atau memori
+
+40
+00:03:25,140 --> 00:03:29,560
+Namun harus melewati I.O. modul
+
+41
+00:03:29,560 --> 00:03:30,520
+Nah, kenapa?
+
+42
+00:03:31,660 --> 00:03:36,580
+Karena bervariasinya metode operasi piranti peripheral
+
+43
+00:03:36,580 --> 00:03:41,560
+Misalkan sederhana saja, keyboard sama mouse
+
+44
+00:03:41,560 --> 00:03:46,780
+Nah kan proses yang ada di keyboard sama mouse itu kan beda-beda
+
+45
+00:03:46,780 --> 00:03:49,560
+Mulai jumlah tombolnya
+
+46
+00:03:49,560 --> 00:03:53,560
+Kemudian operasi yang bisa dijalankan
+
+47
+00:03:53,560 --> 00:03:59,160
+Apalagi bentuk komunikasinya
+
+48
+00:03:59,160 --> 00:04:02,560
+Ya proses komunikasinya juga beda
+
+49
+00:04:03,080 --> 00:04:11,120
+Nah sehingga tidak praktis apabila sistem komputer ini menangani berbagai macam operasi piranti peripheral tersebut
+
+50
+00:04:11,560 --> 00:04:14,420
+keyboard saja macamnya
+
+51
+00:04:14,420 --> 00:04:15,740
+tidak hanya satu, banyak
+
+52
+00:04:15,740 --> 00:04:18,160
+kan tidak mungkin, misalkan ada 100
+
+53
+00:04:18,160 --> 00:04:20,460
+merek keyboard gitu, sebuah CPU
+
+54
+00:04:20,460 --> 00:04:22,260
+harus menyesuaikan diri, tidak
+
+55
+00:04:22,260 --> 00:04:24,320
+yang harus
+
+56
+00:04:24,320 --> 00:04:26,440
+menyesuaikan diri adalah perangkat
+
+57
+00:04:26,440 --> 00:04:28,740
+peripheral itu terhadap CPU nya
+
+58
+00:04:28,740 --> 00:04:30,880
+nah kemudian
+
+59
+00:04:30,880 --> 00:04:32,380
+format data dan
+
+60
+00:04:32,380 --> 00:04:34,380
+panjang data pada perangkat itu
+
+61
+00:04:34,380 --> 00:04:36,200
+juga beda
+
+62
+00:04:36,200 --> 00:04:37,480
+oke, misalkan mouse
+
+63
+00:04:37,480 --> 00:04:40,000
+komunikasinya karena tombolnya
+
+64
+00:04:40,000 --> 00:04:41,400
+mungkin cuma 3
+
+65
+00:04:41,400 --> 00:04:43,100
+Sampai 10 gak banyak ya
+
+66
+00:04:43,100 --> 00:04:45,680
+Ya mungkin panjang datanya bisa
+
+67
+00:04:45,680 --> 00:04:47,320
+Hanya 4 bit saja
+
+68
+00:04:47,320 --> 00:04:49,520
+Nah bayangkan kalau keyboard
+
+69
+00:04:49,520 --> 00:04:51,360
+Dengan puluhan tombol
+
+70
+00:04:51,360 --> 00:04:53,080
+Nah bisa jadi panjang datanya
+
+71
+00:04:53,080 --> 00:04:55,960
+16 bit
+
+72
+00:04:55,960 --> 00:04:57,120
+Misalkan
+
+73
+00:04:57,120 --> 00:04:57,800
+Ya kan boleh
+
+74
+00:04:57,800 --> 00:05:00,880
+Nah sehingga perlu sebuah modul untuk
+
+75
+00:05:00,880 --> 00:05:03,660
+Mentranslasikan
+
+76
+00:05:03,660 --> 00:05:05,080
+Istilahnya
+
+77
+00:05:05,080 --> 00:05:06,100
+Mentranslasikan
+
+78
+00:05:06,100 --> 00:05:08,620
+Bagaimana sebuah port USB
+
+79
+00:05:08,620 --> 00:05:10,360
+Atau modul I.O
+
+80
+00:05:10,360 --> 00:05:12,760
+itu bisa
+
+81
+00:05:12,760 --> 00:05:14,940
+mengakomodir sesuatu yang ada
+
+82
+00:05:14,940 --> 00:05:15,800
+di dunia luar
+
+83
+00:05:15,800 --> 00:05:18,820
+dan bisa diolah oleh CPU
+
+84
+00:05:18,820 --> 00:05:21,080
+nah kalau semuanya
+
+85
+00:05:21,080 --> 00:05:22,180
+yang olah CPU ya
+
+86
+00:05:22,180 --> 00:05:25,380
+banyak yang dilakukan
+
+87
+00:05:25,380 --> 00:05:26,980
+oleh CPU
+
+88
+00:05:26,980 --> 00:05:28,800
+nah makanya dia harus
+
+89
+00:05:28,800 --> 00:05:30,700
+ada modul sendiri biar CPU
+
+90
+00:05:30,700 --> 00:05:32,920
+fokus untuk sebagai unit
+
+91
+00:05:32,920 --> 00:05:34,500
+pemroses saja
+
+92
+00:05:34,500 --> 00:05:36,860
+oke
+
+93
+00:05:36,860 --> 00:05:38,940
+ini tadi ya
+
+94
+00:05:38,940 --> 00:05:41,520
+yang Anda bayangkan
+
+95
+00:05:41,520 --> 00:05:43,580
+misalkan dia sebagai
+
+96
+00:05:43,580 --> 00:05:44,320
+port USB
+
+97
+00:05:44,320 --> 00:05:47,820
+oke, nah sebelum
+
+98
+00:05:47,820 --> 00:05:49,480
+masuk ke
+
+99
+00:05:49,480 --> 00:05:53,140
+bagian-bagian dari
+
+100
+00:05:53,140 --> 00:05:54,540
+modul I.O
+
+101
+00:05:54,540 --> 00:05:58,100
+mayor fungsi
+
+102
+00:05:58,100 --> 00:06:00,060
+fungsi mayor dari sebuah perangkat
+
+103
+00:06:00,060 --> 00:06:00,960
+I.O
+
+104
+00:06:00,960 --> 00:06:03,860
+jadi fungsi mayor
+
+105
+00:06:03,860 --> 00:06:06,080
+yang minimal harus dimiliki
+
+106
+00:06:06,080 --> 00:06:07,060
+oleh perangkat I.O
+
+107
+00:06:07,060 --> 00:06:10,360
+Yang pertama adalah kontrol dan timing
+
+108
+00:06:10,360 --> 00:06:15,720
+Jadi modul I.O. ini harus ada kontrol dan timing
+
+109
+00:06:15,720 --> 00:06:19,100
+Kontrol dan timing ini untuk apa?
+
+110
+00:06:19,280 --> 00:06:22,400
+Pewaktuan kapan CPU itu bisa menerima data
+
+111
+00:06:22,400 --> 00:06:26,920
+Kapan dia bisa dipanggil untuk diolah sama CPU-nya
+
+112
+00:06:26,920 --> 00:06:31,020
+Kemudian prosesor communication
+
+113
+00:06:31,020 --> 00:06:35,060
+Misalkan ada komen decoding untuk mengartikan
+
+114
+00:06:35,060 --> 00:06:37,240
+Ya kalau klik kiri itu artinya apa sih
+
+115
+00:06:37,240 --> 00:06:40,660
+Yang bisa dibaca oleh CPU itu
+
+116
+00:06:40,660 --> 00:06:41,700
+Dia bentuknya apa
+
+117
+00:06:41,700 --> 00:06:44,360
+Ya misalkan ada 3 tombol
+
+118
+00:06:44,360 --> 00:06:46,940
+Misalkan yang tombol pertama
+
+119
+00:06:46,940 --> 00:06:48,100
+Kodenya 00
+
+120
+00:06:48,100 --> 00:06:49,640
+Tombol kedua 01
+
+121
+00:06:49,640 --> 00:06:52,300
+Tombol ketiga 10 ya boleh
+
+122
+00:06:52,300 --> 00:06:53,800
+Misalkan seperti itu
+
+123
+00:06:53,800 --> 00:06:56,740
+Kemudian status reporting
+
+124
+00:06:56,740 --> 00:06:59,160
+Ini ready atau enggak
+
+125
+00:06:59,160 --> 00:07:00,660
+Misalkan ada sebuah
+
+126
+00:07:00,660 --> 00:07:03,160
+Mouse saya masukkan ke komputer
+
+127
+00:07:03,160 --> 00:07:05,540
+Nah MOS itu ready dipakai
+
+128
+00:07:05,540 --> 00:07:07,240
+Atau jangan-jangan masih
+
+129
+00:07:07,240 --> 00:07:11,760
+Belum dikenali oleh prosesor datanya
+
+130
+00:07:11,760 --> 00:07:13,760
+Oke kemudian
+
+131
+00:07:13,760 --> 00:07:14,800
+Device information
+
+132
+00:07:14,800 --> 00:07:16,940
+Ini ada komen status information
+
+133
+00:07:16,940 --> 00:07:19,280
+Dan data dari perangkat yang butuh
+
+134
+00:07:19,280 --> 00:07:20,020
+Itu sendiri
+
+135
+00:07:20,020 --> 00:07:23,860
+Nah yang ketiga data buffering
+
+136
+00:07:23,860 --> 00:07:25,460
+Oke kalau MOS
+
+137
+00:07:25,460 --> 00:07:27,060
+Mungkin simple, nah kalau keyboard
+
+138
+00:07:27,060 --> 00:07:28,040
+Berarti harus
+
+139
+00:07:28,040 --> 00:07:30,480
+Atau misalkan perangkat lain
+
+140
+00:07:30,480 --> 00:07:31,400
+Misalkan kamera
+
+141
+00:07:31,400 --> 00:07:36,020
+Nah, kamera kan data yang dihasilkan kan lebih kompleks
+
+142
+00:07:36,020 --> 00:07:39,160
+Nah, bagaimana dia bisa ditranslasikan
+
+143
+00:07:39,160 --> 00:07:42,080
+Biar bisa diolah sama CPU
+
+144
+00:07:42,080 --> 00:07:45,060
+Oke, yang terakhir
+
+145
+00:07:45,060 --> 00:07:46,500
+Error detection
+
+146
+00:07:46,500 --> 00:07:49,100
+Oke, deteksi error
+
+147
+00:07:49,100 --> 00:07:52,980
+Jadi, misalkan perangkat yang error CPU-nya baik-baik aja
+
+148
+00:07:52,980 --> 00:07:55,760
+Jangan sampai nyalakan CPU-nya nggak bisa kerja
+
+149
+00:07:55,760 --> 00:08:00,900
+Berarti IOModule harus bisa memberitahu ke prosesor
+
+150
+00:08:00,900 --> 00:08:03,240
+Misalkan, oh perangkat I.O. itu sudah rusak
+
+151
+00:08:03,240 --> 00:08:06,100
+Tidak bisa dipakai, dia tidak mau mengirim data
+
+152
+00:08:06,100 --> 00:08:11,960
+Oke, itu adalah fungsi mayor dari I.O. modul
+
+153
+00:08:11,960 --> 00:08:18,430
+Nah, struktur dari I.O. modul
+
+154
+00:08:18,430 --> 00:08:21,890
+Port USB pada, misalkan contohnya
+
+155
+00:08:21,890 --> 00:08:24,830
+Salah satu contoh, port USB pada komputer Anda
+
+156
+00:08:24,830 --> 00:08:27,750
+Yaitu harus memiliki bagian-bagian ini
+
+157
+00:08:27,750 --> 00:08:31,010
+Yang pertama ini data register
+
+158
+00:08:31,010 --> 00:08:33,130
+Kedua status control
+
+159
+00:08:33,130 --> 00:08:35,070
+yang ketiga IO logic
+
+160
+00:08:35,070 --> 00:08:37,550
+nah masing-masing
+
+161
+00:08:37,550 --> 00:08:39,330
+fungsinya data register
+
+162
+00:08:39,330 --> 00:08:40,850
+dan status control register
+
+163
+00:08:40,850 --> 00:08:43,650
+ini untuk mengirimkan
+
+164
+00:08:43,650 --> 00:08:45,310
+data atau memberikan informasi
+
+165
+00:08:45,310 --> 00:08:47,350
+data pada data lines di sistem
+
+166
+00:08:47,350 --> 00:08:48,330
+bus
+
+167
+00:08:48,330 --> 00:08:51,010
+nah kemudian
+
+168
+00:08:51,010 --> 00:08:52,990
+address lines dan control lines
+
+169
+00:08:52,990 --> 00:08:55,270
+ini dioperasikan oleh IO
+
+170
+00:08:55,270 --> 00:08:56,190
+logic
+
+171
+00:08:56,190 --> 00:08:59,030
+ini semacam alu
+
+172
+00:08:59,030 --> 00:09:00,890
+arithmetic and logic unit
+
+173
+00:09:00,890 --> 00:09:03,070
+jadi unit logika
+
+174
+00:09:03,070 --> 00:09:07,750
+Untuk memberikan instruksi pada modul IEO
+
+175
+00:09:07,750 --> 00:09:10,710
+Nah kemudian dari IEO modul baru
+
+176
+00:09:10,710 --> 00:09:13,950
+Ini yang berhubungan dengan external logic
+
+177
+00:09:13,950 --> 00:09:15,290
+Perangkat luar
+
+178
+00:09:15,290 --> 00:09:20,310
+Nah perangkat luar ini dia juga punya masing-masing sendiri
+
+179
+00:09:20,310 --> 00:09:22,590
+Data, status, sama kontrol
+
+180
+00:09:22,590 --> 00:09:29,450
+Nah sedangkan di dalamnya IEO logic ini
+
+181
+00:09:29,450 --> 00:09:30,010
+apa
+
+182
+00:09:30,010 --> 00:09:33,670
+nah, blok diagramnya
+
+183
+00:09:33,670 --> 00:09:35,430
+seperti ini, jadi disini ada
+
+184
+00:09:35,430 --> 00:09:37,450
+kontrol logik, ada buffer dan
+
+185
+00:09:37,450 --> 00:09:38,990
+transducer
+
+186
+00:09:38,990 --> 00:09:41,710
+nah, kontrol logik ini berfungsi
+
+187
+00:09:41,710 --> 00:09:43,710
+untuk mengenerate kontrol
+
+188
+00:09:43,710 --> 00:09:45,910
+dari menerima
+
+189
+00:09:45,910 --> 00:09:47,690
+kontrol
+
+190
+00:09:47,690 --> 00:09:48,970
+dari CPU
+
+191
+00:09:48,970 --> 00:09:51,190
+kemudian dan mengirimkan
+
+192
+00:09:51,190 --> 00:09:53,950
+ke IOModule
+
+193
+00:09:53,950 --> 00:09:57,610
+nah, kontrol
+
+194
+00:09:57,610 --> 00:09:59,410
+kontrol logik, bagaimana sih
+
+195
+00:09:59,410 --> 00:10:00,330
+Cara kerjanya
+
+196
+00:10:00,330 --> 00:10:01,770
+Oke
+
+197
+00:10:01,770 --> 00:10:04,390
+Kontrol logik ini dia sebagai
+
+198
+00:10:04,390 --> 00:10:05,810
+Kontrol dan timing
+
+199
+00:10:05,810 --> 00:10:09,630
+Dia adalah salah satu hal penting
+
+200
+00:10:09,630 --> 00:10:11,310
+Untuk sinkronisasi
+
+201
+00:10:11,310 --> 00:10:13,910
+Kinerja masing-masing komponen penyusun komputer
+
+202
+00:10:13,910 --> 00:10:16,430
+Nah yang pertama
+
+203
+00:10:16,430 --> 00:10:19,090
+Fungsi kontrol and timing
+
+204
+00:10:19,090 --> 00:10:20,630
+Dia sebagai
+
+205
+00:10:20,630 --> 00:10:23,230
+Yang meminta dan memeriksa
+
+206
+00:10:23,230 --> 00:10:24,770
+Status perangkat
+
+207
+00:10:24,770 --> 00:10:27,070
+Dari CPU ke modul I.O
+
+208
+00:10:27,070 --> 00:10:30,430
+CPU memberikan request
+
+209
+00:10:30,430 --> 00:10:30,850
+Oh ada
+
+210
+00:10:30,850 --> 00:10:34,110
+Misalkan periksa ada modul
+
+211
+00:10:34,110 --> 00:10:36,310
+Ada I.O. yang nancep gak
+
+212
+00:10:36,310 --> 00:10:38,450
+Atau misalkan ada
+
+213
+00:10:38,450 --> 00:10:40,490
+I.O. yang nancep dia bisa kerja gak
+
+214
+00:10:40,490 --> 00:10:41,850
+Nah itu sih
+
+215
+00:10:41,850 --> 00:10:44,070
+Ini control and timing
+
+216
+00:10:44,070 --> 00:10:45,590
+Sewaktu-waktu
+
+217
+00:10:45,590 --> 00:10:48,430
+Akan dilakukan pengecekan oleh CPU
+
+218
+00:10:48,430 --> 00:10:50,230
+Oke
+
+219
+00:10:50,230 --> 00:10:52,490
+Kemudian modul I.O.
+
+220
+00:10:52,490 --> 00:10:53,550
+Memberi jawaban
+
+221
+00:10:53,550 --> 00:10:56,750
+Bisa perangkatnya bisa dipakai
+
+222
+00:10:56,750 --> 00:10:58,450
+Atau misalkan portnya sedang kosong
+
+223
+00:10:58,450 --> 00:11:00,170
+Oke
+
+224
+00:11:00,170 --> 00:11:05,110
+Nah kemudian ngasih informasi apabila perangkat eksternal telah siap untuk transfer data
+
+225
+00:11:05,110 --> 00:11:08,290
+Ya jadi peripheralnya siap untuk transfer data
+
+226
+00:11:08,290 --> 00:11:13,390
+Maka CPU akan mengirimkan perintah ke modul I.O
+
+227
+00:11:13,390 --> 00:11:15,030
+Oke
+
+228
+00:11:15,030 --> 00:11:20,130
+Kemudian modul I.O akan menerima paket data dengan panjang tertentu dari peripheral
+
+229
+00:11:20,130 --> 00:11:24,210
+Oke misalkan panjangnya 16 bit tadi dari keyboard ya
+
+230
+00:11:24,210 --> 00:11:30,610
+Sementara CPU-nya misalkan bisa mengolah cuma 8 bit
+
+231
+00:11:30,610 --> 00:11:33,570
+Ya diantrikan, gantian yang masuk ke CPU
+
+232
+00:11:33,570 --> 00:11:37,610
+Ini adalah proses sinkronisasi
+
+233
+00:11:37,610 --> 00:11:42,770
+Sehingga semua data itu bisa diterima oleh CPU
+
+234
+00:11:42,770 --> 00:11:48,210
+Nah yang kedua, ini adalah transducer
+
+235
+00:11:48,210 --> 00:11:53,330
+Data to and from environment
+
+236
+00:11:53,330 --> 00:11:56,090
+Ke atau dari environment
+
+237
+00:11:56,090 --> 00:12:01,930
+Nah, transfer data ini tidak akan lepas dari penggunaan sistem bus
+
+238
+00:12:01,930 --> 00:12:07,170
+Ya, maka interaksi CPU dan modul I.O. akan melibatkan kontrol dan pewaktuan
+
+239
+00:12:07,170 --> 00:12:10,030
+Ya, ini istilahnya bus arbitration
+
+240
+00:12:10,030 --> 00:12:15,690
+Nah, transducer yang dilakukan pertama kali adalah command decoding
+
+241
+00:12:15,690 --> 00:12:19,970
+Ya, ini modul I.O. menerima perintah dari CPU
+
+242
+00:12:19,970 --> 00:12:24,210
+Untuk dikirimkan sebagai sinyalnya bus control
+
+243
+00:12:24,210 --> 00:12:30,590
+Ya misalkan CPU itu ngirim ke CD-ROM misalkan
+
+244
+00:12:30,590 --> 00:12:32,570
+Komputernya ada CD-ROMnya
+
+245
+00:12:32,570 --> 00:12:36,850
+Oke, kamu bisa melakukan operasi baca data
+
+246
+00:12:36,850 --> 00:12:40,050
+Tulis data atau memformat data
+
+247
+00:12:40,050 --> 00:12:44,510
+Nah pertukarannya itu melalui data bus
+
+248
+00:12:44,510 --> 00:12:48,770
+Kemudian status reporting yaitu melaporkan kondisi
+
+249
+00:12:48,770 --> 00:12:55,070
+Jadi perangkat I.O. itu juga harus melaporkan kondisi melewati modul I.O.
+
+250
+00:12:56,270 --> 00:13:06,710
+Jadi modul I.O. meriksa, oh kamu baik-baik saja, MOS-nya baik-baik saja, MOS-nya rusak, kemudian itu diinformasikan ke CPU, yaitu status reporting.
+
+251
+00:13:08,050 --> 00:13:11,630
+Nah, kemudian yang terakhir ini adalah address recognition.
+
+252
+00:13:11,630 --> 00:13:18,790
+Bahwa peralatan atau komponen person komputer dapat dihubungi atau dipanggil
+
+253
+00:13:18,790 --> 00:13:21,290
+Maka harus memiliki alamat yang unik
+
+254
+00:13:21,290 --> 00:13:28,930
+Biasanya kita kenal sama port ya
+
+255
+00:13:28,930 --> 00:13:31,690
+Port USB ke satu, port USB ke dua
+
+256
+00:13:31,690 --> 00:13:34,290
+Nah ini sebagai address recognition
+
+257
+00:13:34,290 --> 00:13:37,690
+Atau rekognisi alamat
+
+258
+00:13:37,690 --> 00:13:40,910
+Oh dia ada di alamat ke satu
+
+259
+00:13:40,910 --> 00:13:42,050
+Ada di alamat kedua
+
+260
+00:13:42,050 --> 00:13:43,410
+Tahunya dari mana ya
+
+261
+00:13:43,410 --> 00:13:46,350
+Dari address recognition ini
+
+262
+00:13:46,350 --> 00:13:48,210
+Sehingga setiap modul I.O. harus
+
+263
+00:13:48,210 --> 00:13:49,570
+Tahu
+
+264
+00:13:49,570 --> 00:13:53,050
+Siapa yang lagi nancep di dalamnya
+
+265
+00:13:53,050 --> 00:13:55,810
+Oke
+
+266
+00:13:55,810 --> 00:13:58,730
+Nah yang terakhir ini adalah
+
+267
+00:13:58,730 --> 00:14:00,490
+Buffer itu sendiri
+
+268
+00:14:00,490 --> 00:14:04,130
+Nah buffer ini tujuannya adalah
+
+269
+00:14:04,130 --> 00:14:05,650
+Mendapatkan penyesuaian data
+
+270
+00:14:05,650 --> 00:14:11,190
+So, berhubungan dengan perbedaan laju transfer data dari perangkat
+
+271
+00:14:11,190 --> 00:14:14,150
+Dengan kecepatan pengolahan CPU ya
+
+272
+00:14:14,150 --> 00:14:18,150
+Yang mentranslasikan dan ngontrol waktu
+
+273
+00:14:18,150 --> 00:14:21,710
+Oke, misalkan CPU-nya bisa mengolah 8 bit
+
+274
+00:14:21,710 --> 00:14:24,810
+Tapi keyboardnya ternyata datanya 16 ya
+
+275
+00:14:24,810 --> 00:14:26,390
+Dibagi 8, 8
+
+276
+00:14:26,390 --> 00:14:31,730
+Yang mentranslasikan 8 sama 8 yang tadi adalah si buffer
+
+277
+00:14:31,730 --> 00:14:38,860
+Fungsi terakhir adalah deteksi kesalahan
+
+278
+00:14:38,860 --> 00:14:41,720
+Apabila pada perangkat peripheral terdapat masalah
+
+279
+00:14:41,720 --> 00:14:44,920
+Yang tidak dapat dieksekusi
+
+280
+00:14:44,920 --> 00:14:49,580
+Modul I.O. harus melaporkan kesalahan data tersebut
+
+281
+00:14:49,580 --> 00:14:55,740
+Pada bab ini telah kita bahas
+
+282
+00:14:55,740 --> 00:14:59,200
+Mulai generik model
+
+283
+00:14:59,200 --> 00:15:02,240
+Generik model of an I.O. modul
+
+284
+00:15:02,240 --> 00:15:06,460
+Jadi model umum I.O. yang bisa diterima oleh CPU
+
+285
+00:15:06,460 --> 00:15:08,560
+Dan hubungannya dengan sistem bus
+
+286
+00:15:08,560 --> 00:15:11,140
+Kemudian perangkat I.O. eksternal
+
+287
+00:15:11,140 --> 00:15:14,120
+Dan struktur modul I.O.
+
+288
+00:15:14,120 --> 00:15:21,600
+Oke, sekian bab input-output bagian ke-1
+
+289
+00:15:21,600 --> 00:15:25,240
+Terima kasih atas perhatiannya
+
+290
+00:15:25,240 --> 00:15:26,060
+Saya akhiri
+
+291
+00:15:26,060 --> 00:15:28,940
+Wassalamualaikum warahmatullahi wabarakatuh

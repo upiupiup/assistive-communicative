@@ -1,0 +1,2599 @@
+1
+00:00:02,540 --> 00:00:05,960
+Oke, Assalamualaikum warahmatullahi wabarakatuh
+
+2
+00:00:05,960 --> 00:00:10,660
+bertemu lagi dengan saya pada mata kuliah
+
+3
+00:00:10,660 --> 00:00:14,400
+Arsitektur dan Organisasi Komputer
+
+4
+00:00:14,400 --> 00:00:18,920
+pada topik 2, bagian 1
+
+5
+00:00:18,920 --> 00:00:25,220
+yakni Performance Issues and Top Level View of Computer Function
+
+6
+00:00:25,220 --> 00:00:31,750
+Oke, pada bab ini
+
+7
+00:00:31,750 --> 00:00:38,190
+Pada video ini ada beberapa tujuan
+
+8
+00:00:38,190 --> 00:00:44,110
+yakni mahasiswa mampu menjabarkan arsitektur dan organisasi
+
+9
+00:00:44,110 --> 00:00:49,750
+dari prosesor atau CPU pada suatu komputer
+
+10
+00:00:49,750 --> 00:00:54,750
+Nah, di mana mahasiswa mampu menjelaskan hubungannya
+
+11
+00:00:55,350 --> 00:01:00,670
+antara arsitektur dan organisasi pada suatu komputer
+
+12
+00:01:00,670 --> 00:01:02,230
+dengan performansinya
+
+13
+00:01:02,230 --> 00:01:04,790
+oke, nah pada bagian
+
+14
+00:01:04,790 --> 00:01:06,970
+satu ini akan dijelaskan
+
+15
+00:01:06,970 --> 00:01:09,030
+terkait komputer
+
+16
+00:01:09,030 --> 00:01:09,850
+komponen
+
+17
+00:01:09,850 --> 00:01:13,150
+kedua adalah
+
+18
+00:01:13,150 --> 00:01:15,010
+basic instruction cycle
+
+19
+00:01:15,010 --> 00:01:16,890
+dan yang ketiga
+
+20
+00:01:16,890 --> 00:01:18,930
+I.O. function pada
+
+21
+00:01:18,930 --> 00:01:20,590
+arsitektur
+
+22
+00:01:20,590 --> 00:01:22,870
+pada suatu komputer
+
+23
+00:01:22,870 --> 00:01:24,250
+oke
+
+24
+00:01:24,250 --> 00:01:27,280
+oke
+
+25
+00:01:27,280 --> 00:01:29,120
+ya
+
+26
+00:01:29,120 --> 00:01:31,220
+oke
+
+27
+00:01:31,220 --> 00:01:34,120
+kita masuk pada top level view of
+
+28
+00:01:34,120 --> 00:01:35,440
+komputer function and
+
+29
+00:01:35,440 --> 00:01:37,840
+interconnection
+
+30
+00:01:37,840 --> 00:01:39,140
+nah
+
+31
+00:01:39,140 --> 00:01:43,420
+pada strukturnya
+
+32
+00:01:43,420 --> 00:01:45,780
+komputer ini dibangun oleh
+
+33
+00:01:45,780 --> 00:01:47,440
+dua macam perangkat
+
+34
+00:01:47,440 --> 00:01:49,560
+yakni perangkat lunak
+
+35
+00:01:49,560 --> 00:01:51,520
+software dan perangkat
+
+36
+00:01:51,520 --> 00:01:52,920
+keras hardware
+
+37
+00:01:52,920 --> 00:01:56,020
+hardware komputer tersebut
+
+38
+00:01:56,020 --> 00:01:57,580
+memiliki beberapa komponen
+
+39
+00:01:57,580 --> 00:01:59,780
+yang memiliki fungsi dan
+
+40
+00:01:59,780 --> 00:02:00,760
+spesifikasi
+
+41
+00:02:00,760 --> 00:02:12,740
+tersendiri. Jadi penyusun CPU itu memiliki beberapa komponen yang saling terhubung dan tidak bisa
+
+42
+00:02:12,740 --> 00:02:21,260
+bekerja sendiri-sendiri. Masing-masing memiliki fungsi dan spesifikasi. Nah komponen utama pada
+
+43
+00:02:21,260 --> 00:02:24,000
+sebuah komputer
+
+44
+00:02:24,000 --> 00:02:28,640
+yakni IOModule, CPU itu sendiri
+
+45
+00:02:28,640 --> 00:02:33,260
+dan memori. Komponen-komponen
+
+46
+00:02:33,260 --> 00:02:37,220
+tersebut juga saling berinteraksi yang dihubungkan
+
+47
+00:02:37,220 --> 00:02:40,740
+oleh sebuah sistem yang namanya sistem
+
+48
+00:02:40,740 --> 00:02:45,280
+bus. Yakni fungsi dari sistem bus
+
+49
+00:02:45,280 --> 00:02:48,380
+itu sendiri untuk menjembatani
+
+50
+00:02:48,380 --> 00:02:56,040
+Menjembatani atau berkomunikasi antara IOModule, CPU, dan memori
+
+51
+00:02:56,040 --> 00:02:59,900
+Serta komponen lain yang tersambung
+
+52
+00:02:59,900 --> 00:03:04,220
+Sehingga antara komponen dapat berinteraksi satu sama lain
+
+53
+00:03:04,220 --> 00:03:07,540
+Sesuai dengan instruksi yang ada
+
+54
+00:03:07,540 --> 00:03:18,820
+Oke, nah CPU, Memory, dan IOModule itu telah dirumuskan oleh seseorang
+
+55
+00:03:18,820 --> 00:03:23,300
+Ya, ini namanya orangnya adalah Von Neumann
+
+56
+00:03:23,300 --> 00:03:31,780
+Oke, Von Neumann ini membuat sebuah desain
+
+57
+00:03:31,780 --> 00:03:35,980
+Pada komponen utama komputer
+
+58
+00:03:35,980 --> 00:03:40,500
+Terdiri dari tiga perangkat ini komponen utamanya
+
+59
+00:03:40,500 --> 00:03:47,020
+Nah fungsi komponen pada CPU ini ketiga ini
+
+60
+00:03:47,020 --> 00:03:50,060
+Berfungsi sebagai pusat proses
+
+61
+00:03:50,060 --> 00:03:58,740
+Jadi di seluruh arsitektur komputer yang ada
+
+62
+00:03:58,740 --> 00:04:03,220
+Entah itu Intel, entah itu ARM, atau yang lain
+
+63
+00:04:03,220 --> 00:04:08,420
+Mesti ada tiga komponen ini
+
+64
+00:04:08,420 --> 00:04:11,620
+Nah, dalam sebuah CPU
+
+65
+00:04:11,620 --> 00:04:15,400
+Ini selalu terdapat yang namanya
+
+66
+00:04:15,400 --> 00:04:19,960
+Yang pertama adalah control unit
+
+67
+00:04:19,960 --> 00:04:23,580
+Ini dia berfungsi untuk memberikan arahan
+
+68
+00:04:23,580 --> 00:04:26,280
+Kendali atau control
+
+69
+00:04:26,280 --> 00:04:31,820
+Oke, jika ada suatu data yang masuk, kemudian data itu diolah
+
+70
+00:04:31,820 --> 00:04:36,460
+Atau data itu diantrikan, atau data tersebut ditolak
+
+71
+00:04:36,460 --> 00:04:41,560
+Oke, yakni yang mengolah adalah kontrol unit
+
+72
+00:04:41,560 --> 00:04:46,100
+Nah, kemudian yang kedua adalah alu
+
+73
+00:04:46,100 --> 00:04:54,020
+Alu ini berfungsi untuk melakukan operasi hitungan aritematika dan logika
+
+74
+00:04:54,020 --> 00:05:00,840
+Oke, jadi seluruh proses komputasi pada sebuah sistem komputer
+
+75
+00:05:00,840 --> 00:05:04,380
+Oke, itu dihitung
+
+76
+00:05:04,380 --> 00:05:08,600
+Jadi yang melakukan aritematika dan logika
+
+77
+00:05:08,600 --> 00:05:12,600
+Itu seluruhnya ada pada komponen alun
+
+78
+00:05:12,600 --> 00:05:18,240
+Atau kepanjangannya adalah arithmetic and logic unit
+
+79
+00:05:18,240 --> 00:05:22,800
+Oke, kemudian IOModule
+
+80
+00:05:22,800 --> 00:05:36,000
+I.O. ini perangkat I.O. ini berfungsi untuk memasukkan data dan instruksi ke dalam sistem untuk menunjukkan hasil dari pengolahan data.
+
+81
+00:05:36,660 --> 00:05:49,080
+Jadi data yang masuk sebelum diolah oleh kontrol unit, sebelum itu diterima, ditolak, ataupun diantrikan misalkan.
+
+82
+00:05:49,080 --> 00:05:56,760
+Oke, nah yang membantu proses keluar masuknya itu adalah si modul I.O.
+
+83
+00:05:56,760 --> 00:06:12,960
+Oke, kemudian terdapat memori, yakni tempat penyimpanan data sementara, kode ataupun hasil yang saat itu dibutuhkan atau dilakukan.
+
+84
+00:06:12,960 --> 00:06:20,140
+Misalkan ada suatu eksekusi
+
+85
+00:06:20,140 --> 00:06:23,300
+Satu tambah satu tambah satu
+
+86
+00:06:23,300 --> 00:06:25,520
+Berarti ada tiga langkah
+
+87
+00:06:25,520 --> 00:06:27,940
+Nah yang dioperasikan sama alun ini
+
+88
+00:06:27,940 --> 00:06:29,500
+Tidak langsung semuanya
+
+89
+00:06:29,500 --> 00:06:31,140
+Satu tambah satu tambah satu
+
+90
+00:06:31,140 --> 00:06:32,060
+Tidak
+
+91
+00:06:32,060 --> 00:06:34,960
+Tetapi satu tambah satu awal
+
+92
+00:06:34,960 --> 00:06:37,600
+Ini dieksekusi oleh si alun
+
+93
+00:06:37,600 --> 00:06:39,780
+Baru
+
+94
+00:06:39,780 --> 00:06:42,700
+Nah yang satu ini terakhir dimana?
+
+95
+00:06:42,700 --> 00:06:44,040
+Dia disimpan di memori
+
+96
+00:06:44,040 --> 00:06:46,140
+Dulu
+
+97
+00:06:46,140 --> 00:06:47,740
+Kemudian keluar
+
+98
+00:06:47,740 --> 00:06:49,480
+Hasilnya awal, 1 tambah 1
+
+99
+00:06:49,480 --> 00:06:50,460
+Ini misalkan 2
+
+100
+00:06:50,460 --> 00:06:53,940
+Kemudian dari memori
+
+101
+00:06:53,940 --> 00:06:55,780
+Ini dipanggil ke alu
+
+102
+00:06:55,780 --> 00:06:57,360
+Untuk dieksekusi
+
+103
+00:06:57,360 --> 00:06:58,580
+Jadi
+
+104
+00:06:58,580 --> 00:07:01,600
+Sesuai
+
+105
+00:07:01,600 --> 00:07:03,740
+Kebutuhan memori ini
+
+106
+00:07:04,520 --> 00:07:05,300
+Nah
+
+107
+00:07:05,300 --> 00:07:08,160
+Sifat dari
+
+108
+00:07:08,160 --> 00:07:09,880
+Perangkat ini
+
+109
+00:07:09,880 --> 00:07:11,880
+Ini adalah hardwired
+
+110
+00:07:11,880 --> 00:07:12,700
+Program
+
+111
+00:07:12,700 --> 00:07:15,600
+Atau
+
+112
+00:07:15,600 --> 00:07:16,940
+Intinya
+
+113
+00:07:16,940 --> 00:07:19,360
+Pada sebuah komputer
+
+114
+00:07:19,360 --> 00:07:22,660
+Komponen-komponennya
+
+115
+00:07:22,660 --> 00:07:24,820
+Sudah disambungkan
+
+116
+00:07:24,820 --> 00:07:26,620
+Secara patent
+
+117
+00:07:26,620 --> 00:07:28,880
+Nah namun dapat dilakukan
+
+118
+00:07:28,880 --> 00:07:31,080
+Konfigurasi atau diprogram
+
+119
+00:07:31,080 --> 00:07:33,100
+Lebih lanjut
+
+120
+00:07:33,100 --> 00:07:35,680
+Oke
+
+121
+00:07:35,680 --> 00:07:37,700
+Kemudian
+
+122
+00:07:37,700 --> 00:07:39,200
+Nah
+
+123
+00:07:39,200 --> 00:07:42,360
+Pendekatan programming
+
+124
+00:07:42,360 --> 00:07:44,500
+Pada hardware dan software
+
+125
+00:07:44,500 --> 00:07:45,500
+Ini ada
+
+126
+00:07:45,500 --> 00:07:48,360
+Dua pendekatan
+
+127
+00:07:48,360 --> 00:07:50,540
+Yang pertama programming
+
+128
+00:07:50,540 --> 00:07:52,480
+Pada hardware
+
+129
+00:07:52,480 --> 00:07:56,480
+Yang kedua adalah
+
+130
+00:07:56,480 --> 00:07:58,940
+Programming pada software
+
+131
+00:07:58,940 --> 00:08:00,220
+Oke
+
+132
+00:08:00,220 --> 00:08:02,520
+Nah programming
+
+133
+00:08:02,520 --> 00:08:04,860
+Di hardware
+
+134
+00:08:04,860 --> 00:08:06,940
+Oke yang bisa dilakukan
+
+135
+00:08:06,940 --> 00:08:08,500
+Seperti gambar ini
+
+136
+00:08:08,500 --> 00:08:10,500
+Dia ada di posisi
+
+137
+00:08:10,500 --> 00:08:11,480
+Kota ini
+
+138
+00:08:11,480 --> 00:08:16,040
+Ya, ini sequence of arithmetic and logic function
+
+139
+00:08:16,040 --> 00:08:22,620
+Ya, jadi ketika kita melakukan programming pada sebuah CPU
+
+140
+00:08:22,620 --> 00:08:25,700
+Ya, jadi CPU itu bisa ngapain sih?
+
+141
+00:08:26,440 --> 00:08:29,240
+Dia mau disuruh bekerja yang seperti apa?
+
+142
+00:08:30,080 --> 00:08:36,060
+Oke, ya, yang bisa dikodingkan adalah di dalamnya ALU
+
+143
+00:08:36,060 --> 00:08:38,500
+Arithmetic and Logic Function
+
+144
+00:08:38,500 --> 00:08:40,300
+Oke
+
+145
+00:08:40,300 --> 00:08:45,210
+Nah, data dan hasil
+
+146
+00:08:45,210 --> 00:08:47,550
+Ini sesuai dengan yang dikodekan
+
+147
+00:08:47,550 --> 00:08:48,890
+Dalam alu
+
+148
+00:08:48,890 --> 00:08:51,610
+Ini kalau programming di hardware
+
+149
+00:08:51,610 --> 00:08:53,670
+Nah, kemudian
+
+150
+00:08:53,670 --> 00:08:55,690
+Yang kedua, programming di software
+
+151
+00:08:55,690 --> 00:08:57,110
+Oke
+
+152
+00:08:57,110 --> 00:08:59,270
+Di sini ada
+
+153
+00:08:59,270 --> 00:09:01,370
+Block instruction interpreter
+
+154
+00:09:01,370 --> 00:09:03,350
+Ya, atau
+
+155
+00:09:03,350 --> 00:09:06,830
+Interpretasi
+
+156
+00:09:06,830 --> 00:09:08,890
+Dari instruksi
+
+157
+00:09:08,890 --> 00:09:14,090
+Oke, instruksi pada software ini
+
+158
+00:09:14,090 --> 00:09:18,730
+Dia menggunakan instruksi bahasa mesin
+
+159
+00:09:18,730 --> 00:09:23,370
+Jadi bukan seperti yang kita tahu
+
+160
+00:09:23,370 --> 00:09:26,550
+Kalau ada yang bilang level language itu C++
+
+161
+00:09:26,550 --> 00:09:33,590
+Oke, sebenarnya di bawahnya C++ atau C
+
+162
+00:09:33,590 --> 00:09:36,550
+Ini ada instruction interpreter
+
+163
+00:09:36,550 --> 00:09:38,530
+Ini dalam bentuk bahasa assembly
+
+164
+00:09:38,530 --> 00:09:40,630
+Atau bahasa mesin
+
+165
+00:09:40,630 --> 00:09:42,110
+Ya, bentuknya
+
+166
+00:09:42,110 --> 00:09:44,070
+Heksadesimal
+
+167
+00:09:44,070 --> 00:09:46,590
+Oke, jika ada
+
+168
+00:09:46,590 --> 00:09:48,070
+Instruction codes yang
+
+169
+00:09:48,070 --> 00:09:50,670
+Memanggil instruction interpreter
+
+170
+00:09:50,670 --> 00:09:51,110
+Yang tadi
+
+171
+00:09:51,110 --> 00:09:54,630
+Instruksi bahasa mesin
+
+172
+00:09:54,630 --> 00:09:56,790
+Ini tadi akan memberikan kontrol
+
+173
+00:09:56,790 --> 00:09:58,530
+Sinyal kepada
+
+174
+00:09:58,530 --> 00:10:00,670
+Aritmetic
+
+175
+00:10:00,670 --> 00:10:02,350
+And logic function
+
+176
+00:10:02,350 --> 00:10:04,630
+Jadi data yang masuk dan data
+
+177
+00:10:04,630 --> 00:10:05,670
+Yang keluar
+
+178
+00:10:05,670 --> 00:10:09,090
+Ini meskipun lewat alu
+
+179
+00:10:09,090 --> 00:10:09,810
+Namun
+
+180
+00:10:09,810 --> 00:10:13,230
+Programmingnya itu dilakukan di bahasa
+
+181
+00:10:13,230 --> 00:10:14,610
+Mesin ini
+
+182
+00:10:14,610 --> 00:10:17,230
+Atau instruction interpreter ini tadi
+
+183
+00:10:17,230 --> 00:10:20,990
+Kemudian
+
+184
+00:10:20,990 --> 00:10:23,230
+Dari sisi
+
+185
+00:10:23,230 --> 00:10:24,590
+Memori
+
+186
+00:10:24,590 --> 00:10:30,890
+Memori pada CPU ini
+
+187
+00:10:30,890 --> 00:10:32,370
+Dibagi menjadi
+
+188
+00:10:32,370 --> 00:10:33,490
+Empat blok
+
+189
+00:10:33,490 --> 00:10:43,250
+Di mana dua blok atas ini memori pada CPU itu sendiri
+
+190
+00:10:43,250 --> 00:10:47,390
+Yang apa istilahnya
+
+191
+00:10:47,390 --> 00:10:49,970
+Dia melekat pada CPU itu
+
+192
+00:10:49,970 --> 00:10:55,310
+Nah kemudian yang bawah ini dia melekat pada I.O
+
+193
+00:10:55,310 --> 00:11:00,430
+Yang pertama disini memori address register
+
+194
+00:11:00,430 --> 00:11:03,650
+Pada CPU ada MAR
+
+195
+00:11:03,650 --> 00:11:07,950
+Yakni berfungsi menentukan alamat dalam memori
+
+196
+00:11:07,950 --> 00:11:14,450
+Untuk membaca atau menulis tahap yang akan dilakukan selanjutnya
+
+197
+00:11:14,450 --> 00:11:17,430
+Oke, jadi ketika Anda menyalakan komputer
+
+198
+00:11:17,430 --> 00:11:22,530
+Itu kan mesti ada tahapan-tahapan proses
+
+199
+00:11:22,530 --> 00:11:26,390
+Nah, tahapan-tahapan proses tersebut
+
+200
+00:11:26,390 --> 00:11:34,010
+Ya, ini yang menentukan instruksinya
+
+201
+00:11:34,010 --> 00:11:38,470
+Itu kan si alu, dia kalkulasinya ngapain
+
+202
+00:11:38,470 --> 00:11:42,470
+Nah, ketika pada antrian untuk eksekusi
+
+203
+00:11:42,470 --> 00:11:47,410
+Nah, dia tersimpan dalam memory address register ini
+
+204
+00:11:47,410 --> 00:11:56,130
+Nah, namun kadang data yang diolah oleh alu
+
+205
+00:11:56,130 --> 00:12:00,490
+Data yang dikirimkan oleh program luar
+
+206
+00:12:00,490 --> 00:12:07,230
+Itu bentuknya tidak standar
+
+207
+00:12:07,230 --> 00:12:11,670
+Nah, seperti yang kita tahu
+
+208
+00:12:11,670 --> 00:12:13,710
+Pengolahan pada CPU
+
+209
+00:12:13,710 --> 00:12:17,550
+Lalu itu kan mengolah bilangan binar
+
+210
+00:12:17,550 --> 00:12:22,710
+Nah, berarti misalkan ada data yang masuk
+
+211
+00:12:22,710 --> 00:12:24,330
+Bentuknya teks
+
+212
+00:12:24,330 --> 00:12:29,310
+Berarti teks itu kan harus dikonversikan dalam bentuk binar
+
+213
+00:12:29,310 --> 00:12:32,450
+Nah, yang mengkonversikan siapa?
+
+214
+00:12:32,810 --> 00:12:36,370
+Ya, si MPR, Memory Buffer Register
+
+215
+00:12:36,370 --> 00:12:42,570
+MPR ini dia mentranslasikan data yang masuk
+
+216
+00:12:42,570 --> 00:12:46,870
+Agar bisa disimpan dan diolah oleh alu
+
+217
+00:12:46,870 --> 00:12:52,290
+Oke, nah kemudian disini ada I.O. Address Register
+
+218
+00:12:52,290 --> 00:12:53,510
+Yang blok bawah
+
+219
+00:12:53,510 --> 00:12:58,110
+Oke, yakni menentukan perangkat I.O. tertentu
+
+220
+00:12:58,110 --> 00:13:02,490
+Oke, misalkan data yang masuk ke satu tadi itu punyanya siapa
+
+221
+00:13:02,490 --> 00:13:04,990
+Data yang kedua ini punyanya siapa
+
+222
+00:13:04,990 --> 00:13:08,690
+Oke, nah punyanya siapa ini tadi
+
+223
+00:13:08,690 --> 00:13:12,830
+Ini yang mencatat adalah I.O. address register
+
+224
+00:13:12,830 --> 00:13:19,230
+Oke, dan yang mentranslasikan data dari perangkat itu tadi
+
+225
+00:13:19,230 --> 00:13:21,230
+perangkat lain itu tadi adalah
+
+226
+00:13:21,230 --> 00:13:23,630
+I.O. Buffer Register
+
+227
+00:13:23,630 --> 00:13:26,390
+oke
+
+228
+00:13:26,390 --> 00:13:28,390
+nah
+
+229
+00:13:28,390 --> 00:13:31,750
+berikut block diagram
+
+230
+00:13:31,750 --> 00:13:32,790
+ya dari
+
+231
+00:13:32,790 --> 00:13:35,690
+komputer
+
+232
+00:13:35,690 --> 00:13:37,250
+secara keseluruhan
+
+233
+00:13:37,250 --> 00:13:39,170
+oke dari
+
+234
+00:13:39,170 --> 00:13:41,470
+sebuah organisasi
+
+235
+00:13:41,470 --> 00:13:43,190
+dasar komputer
+
+236
+00:13:43,190 --> 00:13:45,650
+oke yang pertama
+
+237
+00:13:45,650 --> 00:13:47,850
+disini ada CPU
+
+238
+00:13:47,850 --> 00:13:49,190
+ya
+
+239
+00:13:49,190 --> 00:13:51,170
+prosesor itu sendiri
+
+240
+00:13:51,170 --> 00:13:52,750
+nah
+
+241
+00:13:52,750 --> 00:13:55,170
+komponen pertama
+
+242
+00:13:55,170 --> 00:13:56,590
+disini adalah PC
+
+243
+00:13:56,590 --> 00:13:58,890
+atau program counter
+
+244
+00:13:58,890 --> 00:14:00,430
+oke
+
+245
+00:14:00,430 --> 00:14:02,870
+kemudian disini ada instruction
+
+246
+00:14:02,870 --> 00:14:04,430
+register
+
+247
+00:14:04,430 --> 00:14:07,210
+kemudian disini ada
+
+248
+00:14:07,210 --> 00:14:08,250
+memory address
+
+249
+00:14:08,250 --> 00:14:11,290
+register, memory buffer
+
+250
+00:14:11,290 --> 00:14:13,410
+register, dan I.O
+
+251
+00:14:13,410 --> 00:14:15,490
+address dan buffer
+
+252
+00:14:15,490 --> 00:14:16,630
+register
+
+253
+00:14:16,630 --> 00:14:18,650
+oke
+
+254
+00:14:18,650 --> 00:14:21,310
+Kemudian disini ada execution unit
+
+255
+00:14:21,310 --> 00:14:24,190
+Nah, execution unit inilah
+
+256
+00:14:24,190 --> 00:14:27,770
+Alu yang dimaksud
+
+257
+00:14:27,770 --> 00:14:30,450
+Jadi arithmetic and logic unit
+
+258
+00:14:30,450 --> 00:14:33,670
+Dia adalah execution unit
+
+259
+00:14:33,670 --> 00:14:37,150
+Kemudian ada IO
+
+260
+00:14:37,150 --> 00:14:39,730
+Modul, perangkat IO
+
+261
+00:14:39,730 --> 00:14:41,950
+Misalkan keyboard
+
+262
+00:14:41,950 --> 00:14:45,730
+Sebuah keyboard mesti memiliki buffer
+
+263
+00:14:45,730 --> 00:14:46,810
+Sendiri
+
+264
+00:14:46,810 --> 00:14:51,950
+Kemudian disini main memory
+
+265
+00:14:51,950 --> 00:14:58,190
+Memori utama komputer yang berisi instruksi dan data
+
+266
+00:14:58,190 --> 00:15:03,290
+Nah masing-masing komponen ini
+
+267
+00:15:03,290 --> 00:15:10,270
+Ketiga komponen ini dia dihubungkan dengan oleh yang namanya sistem bus
+
+268
+00:15:10,270 --> 00:15:16,970
+Jadi hubungan ketiganya ini dihubungkan oleh yang namanya sistem bus
+
+269
+00:15:16,970 --> 00:15:26,680
+Nah ketika sebuah komputer dinyalakan atau beroperasi
+
+270
+00:15:27,240 --> 00:15:36,120
+Mereka selalu memiliki siklus instruksi
+
+271
+00:15:36,120 --> 00:15:39,360
+Nah, siklus dasar instruksi
+
+272
+00:15:39,360 --> 00:15:43,920
+Yakni ketika start, program baru dijalankan
+
+273
+00:15:43,920 --> 00:15:47,020
+Kemudian fetch next instruction
+
+274
+00:15:47,020 --> 00:15:50,640
+Dia ngambil fetch ya, fetching data, ngambil data
+
+275
+00:15:50,640 --> 00:15:55,200
+Instruksi apa yang mau dijalankan
+
+276
+00:15:55,200 --> 00:15:59,420
+Oke, baru melangkah ke execute
+
+277
+00:15:59,420 --> 00:16:02,260
+Eksekusi instruksi
+
+278
+00:16:02,260 --> 00:16:06,940
+Oke, nah jika masih ada instruksi yang dijalankan
+
+279
+00:16:06,940 --> 00:16:09,580
+Ya dia akan kembali ke fetch
+
+280
+00:16:09,580 --> 00:16:14,860
+Oke, jika tidak ada yang dijalankan atau dieksekusi
+
+281
+00:16:14,860 --> 00:16:17,280
+Oke, dia akan menuju ke halt
+
+282
+00:16:17,280 --> 00:16:19,500
+Ya, atau selesai
+
+283
+00:16:19,500 --> 00:16:25,300
+Oke, nah secara utuh
+
+284
+00:16:25,300 --> 00:16:27,540
+Ya, secara utuh
+
+285
+00:16:27,540 --> 00:16:30,120
+Siklus instruksi seperti ini
+
+286
+00:16:30,120 --> 00:16:34,280
+Ya, dia berawal dari instruction fetch
+
+287
+00:16:34,280 --> 00:16:36,060
+Jadi ngambil instruksi
+
+288
+00:16:36,060 --> 00:16:38,920
+Kemudian
+
+289
+00:16:38,920 --> 00:16:47,500
+Instruction fetch ini dia membaca instruksi
+
+290
+00:16:47,500 --> 00:16:49,440
+Dari memori
+
+291
+00:16:49,440 --> 00:16:50,920
+Kedalam prosesor
+
+292
+00:16:50,920 --> 00:16:53,500
+Kemudian instruction operation
+
+293
+00:16:53,500 --> 00:16:54,280
+Decoding
+
+294
+00:16:54,280 --> 00:16:56,420
+Ya ini si
+
+295
+00:16:56,420 --> 00:16:59,260
+CPU
+
+296
+00:16:59,260 --> 00:17:01,600
+Ini menganalisis instruksi untuk menentukan
+
+297
+00:17:01,600 --> 00:17:03,460
+Jenis operasi yang akan
+
+298
+00:17:03,460 --> 00:17:04,300
+Dilakukan
+
+299
+00:17:04,300 --> 00:17:06,740
+Misalkan 1 tambah 1
+
+300
+00:17:06,740 --> 00:17:08,340
+Berarti operasinya apa?
+
+301
+00:17:08,980 --> 00:17:09,840
+Ya penjumlahan
+
+302
+00:17:09,840 --> 00:17:15,500
+Berarti harus nyari mikro program
+
+303
+00:17:15,500 --> 00:17:21,120
+Ya atau bahasa mesin yang dipakai untuk melakukan kalkulasi penjumlahan
+
+304
+00:17:21,120 --> 00:17:23,420
+Oke ini ngambil dulu instruksinya
+
+305
+00:17:23,420 --> 00:17:27,480
+Nah yang melakukan ya instruction operation decoding ini
+
+306
+00:17:27,480 --> 00:17:32,740
+Oke kemudian operan address calculation
+
+307
+00:17:32,740 --> 00:17:38,680
+Jika operasi melibatkan referensi
+
+308
+00:17:38,680 --> 00:17:40,000
+Di dalam memori
+
+309
+00:17:40,000 --> 00:17:41,520
+Atau tersedia lewat
+
+310
+00:17:41,520 --> 00:17:42,760
+I.O.
+
+311
+00:17:42,960 --> 00:17:45,360
+Nah kemudian ditentukan alamat operannya
+
+312
+00:17:45,360 --> 00:17:48,760
+Jadi misalkan melibatkan I.O.
+
+313
+00:17:48,860 --> 00:17:50,900
+Ya dia misalkan disimpan di
+
+314
+00:17:50,900 --> 00:17:54,000
+Memori dulu
+
+315
+00:17:54,000 --> 00:17:55,880
+Atau langsung di
+
+316
+00:17:55,880 --> 00:17:57,440
+Eksekusi
+
+317
+00:17:57,440 --> 00:17:59,120
+Misalkan tadi
+
+318
+00:17:59,120 --> 00:18:02,400
+1 tambah 1 tambah 1
+
+319
+00:18:02,400 --> 00:18:04,100
+Tambahnya kan ada dua
+
+320
+00:18:04,100 --> 00:18:05,580
+Berarti membutuhkan memory
+
+321
+00:18:05,580 --> 00:18:07,400
+Yang tambah yang kedua
+
+322
+00:18:07,400 --> 00:18:09,440
+Disimpan dulu
+
+323
+00:18:09,440 --> 00:18:11,420
+Tambah yang awal ini tadi
+
+324
+00:18:11,420 --> 00:18:12,940
+Dia dieksekusi dulu
+
+325
+00:18:12,940 --> 00:18:19,000
+Kemudian operan fetch
+
+326
+00:18:19,000 --> 00:18:21,780
+Mengambil operan dari memory
+
+327
+00:18:21,780 --> 00:18:23,980
+Atau membaca operan dari IO
+
+328
+00:18:23,980 --> 00:18:28,020
+Operannya diambil dan dibaca
+
+329
+00:18:28,020 --> 00:18:30,980
+Baru disini dilakukan operation
+
+330
+00:18:30,980 --> 00:18:36,520
+Ya, penambahan, penjumlahan, perkalian, atau yang lain
+
+331
+00:18:36,520 --> 00:18:42,060
+Oke, kemudian ada operan address calculation
+
+332
+00:18:42,060 --> 00:18:50,220
+Ya, ini alamatnya operan tadi diambil
+
+333
+00:18:50,220 --> 00:18:52,940
+Ya, kemudian dieksekusi, dioperasikan
+
+334
+00:18:52,940 --> 00:18:56,840
+Oke, nah kemudian ini dia looping disini
+
+335
+00:18:56,840 --> 00:18:59,640
+Misalkan tadi ya, 1 tambah 1 tambah 1
+
+336
+00:18:59,640 --> 00:19:02,140
+operasinya kan disini, nah ini dihitung
+
+337
+00:19:02,140 --> 00:19:04,240
+eksekusinya sudah selesai
+
+338
+00:19:04,240 --> 00:19:04,860
+apa belum sih?
+
+339
+00:19:05,660 --> 00:19:07,640
+ya kalau belum selesai
+
+340
+00:19:07,640 --> 00:19:09,840
+ya ini balik sini lagi
+
+341
+00:19:09,840 --> 00:19:10,680
+dihitung lagi
+
+342
+00:19:10,680 --> 00:19:13,920
+kalau sudah selesai operan store ini
+
+343
+00:19:13,920 --> 00:19:15,680
+ini dia kembali ke
+
+344
+00:19:15,680 --> 00:19:16,720
+sini
+
+345
+00:19:16,720 --> 00:19:19,700
+jika dia mengembalikan data
+
+346
+00:19:19,700 --> 00:19:21,920
+dia kembali ke operan
+
+347
+00:19:21,920 --> 00:19:22,940
+address calculation
+
+348
+00:19:22,940 --> 00:19:25,760
+hasil 1 tambah
+
+349
+00:19:25,760 --> 00:19:27,940
+1 awal tadi disimpan di memori
+
+350
+00:19:27,940 --> 00:19:31,440
+Kemudian hasilnya yang 2
+
+351
+00:19:31,440 --> 00:19:33,000
+1-1 awal 2
+
+352
+00:19:33,000 --> 00:19:34,580
+Nah ini dimasukkan sini
+
+353
+00:19:34,580 --> 00:19:38,380
+Baru dia ngambil plus 1 yang selanjutnya
+
+354
+00:19:38,380 --> 00:19:39,680
+Oke
+
+355
+00:19:39,680 --> 00:19:40,960
+Nah ini
+
+356
+00:19:40,960 --> 00:19:43,840
+Berulangnya disini
+
+357
+00:19:43,840 --> 00:19:46,190
+Oke
+
+358
+00:19:46,190 --> 00:19:49,610
+Kemudian jika tidak ada atau selesai
+
+359
+00:19:49,610 --> 00:19:53,470
+Ini dikembalikan ke instruction address calculation
+
+360
+00:19:53,470 --> 00:19:59,710
+Oke, menentukan alamat instruksi berikutnya yang akan dieksekusi
+
+361
+00:19:59,710 --> 00:20:02,190
+Ada enggak? Atau selesai?
+
+362
+00:20:04,590 --> 00:20:11,870
+Oke, kemudian pada sebuah komputer
+
+363
+00:20:11,870 --> 00:20:15,790
+Ini ada yang namanya interrupt
+
+364
+00:20:15,790 --> 00:20:18,110
+Atau instruksi
+
+365
+00:20:18,110 --> 00:20:23,710
+Oke, misalkan ketika saya ngitung ya
+
+366
+00:20:23,710 --> 00:20:27,750
+Satu plus satu plus satu
+
+367
+00:20:27,750 --> 00:20:32,950
+Tapi ternyata ada sesuatu yang urgent
+
+368
+00:20:32,950 --> 00:20:36,190
+Ada sesuatu yang harus dihitung dulu
+
+369
+00:20:36,190 --> 00:20:38,890
+Ada sesuatu yang harus diolah dulu
+
+370
+00:20:38,890 --> 00:20:44,590
+Nah, otomatis kan berarti kalkulasi yang sebelumnya harus diinterap
+
+371
+00:20:44,590 --> 00:20:46,490
+Atau diintrupsi
+
+372
+00:20:46,490 --> 00:20:48,490
+Atau diganggu
+
+373
+00:20:48,490 --> 00:20:49,110
+Oke
+
+374
+00:20:49,110 --> 00:20:51,750
+Hitungan yang sebelumnya stop dulu
+
+375
+00:20:51,750 --> 00:20:56,090
+Ini ada sesuatu yang harus diolah
+
+376
+00:20:56,090 --> 00:20:57,170
+Oke
+
+377
+00:20:57,170 --> 00:20:59,010
+Yang lama tahan dulu ya
+
+378
+00:20:59,010 --> 00:21:01,930
+Ini yang baru mau dieksekusi
+
+379
+00:21:01,930 --> 00:21:03,550
+Nah
+
+380
+00:21:03,550 --> 00:21:10,090
+Hal ini tidak serta-merta bisa dilakukan
+
+381
+00:21:10,090 --> 00:21:18,190
+Nah, interrupt ini bisa dilakukan oleh empat faktor ini
+
+382
+00:21:18,190 --> 00:21:22,610
+Yang pertama ini adalah faktor program
+
+383
+00:21:22,610 --> 00:21:32,750
+Faktor program interrupt ini digenerate dari berbagai kondisi yang muncul
+
+384
+00:21:32,750 --> 00:21:38,850
+Misalkan dari instruksi eksekusi itu sendiri
+
+385
+00:21:38,850 --> 00:21:41,330
+Dari alu, misalkan alu mengharuskan
+
+386
+00:21:41,330 --> 00:21:44,110
+Itu di-intrub
+
+387
+00:21:44,110 --> 00:21:45,210
+Di-interrupt
+
+388
+00:21:45,210 --> 00:21:48,830
+Kemudian yang kedua
+
+389
+00:21:48,830 --> 00:21:50,450
+Aritmetic overflow
+
+390
+00:21:50,450 --> 00:21:52,890
+Jadi ngitungnya kebanyakan
+
+391
+00:21:52,890 --> 00:21:55,530
+Kemudian division by
+
+392
+00:21:55,530 --> 00:21:56,630
+Zero
+
+393
+00:21:56,630 --> 00:21:58,110
+Dibagi 0
+
+394
+00:21:58,110 --> 00:22:00,690
+Sesuatu yang dibagi 0 kan gak bisa tak terhingga
+
+395
+00:22:00,690 --> 00:22:03,510
+Atau error
+
+396
+00:22:03,510 --> 00:22:05,330
+Itu juga termasuk
+
+397
+00:22:05,330 --> 00:22:07,070
+Interrupt dari program
+
+398
+00:22:07,070 --> 00:22:13,090
+Nah, atau percobaan eksekusi dari illegal machine instruction
+
+399
+00:22:13,090 --> 00:22:21,190
+Percobaan eksekusi dari bahasa mesin yang illegal atau yang tidak diperbolehkan
+
+400
+00:22:21,190 --> 00:22:31,190
+Oke, atau sebuah referensi dari allowed memory space
+
+401
+00:22:31,190 --> 00:22:34,530
+Memory space yang diperbolehkan
+
+402
+00:22:34,530 --> 00:22:41,550
+Jadi misalkan ada tambahan data dari memori lain yang ilegal
+
+403
+00:22:41,550 --> 00:22:46,690
+Yang kedua adalah timer
+
+404
+00:22:46,690 --> 00:22:50,850
+Timer ini dibuat
+
+405
+00:22:50,850 --> 00:22:55,810
+Timer within the processor
+
+406
+00:22:55,810 --> 00:22:59,530
+Jadi di dalamnya processor itu ada timernya
+
+407
+00:22:59,530 --> 00:23:09,750
+Hal ini memperbolehkan OS untuk melakukan hal lain
+
+408
+00:23:09,750 --> 00:23:18,210
+Jadi intinya gini, timer misalkan ada sebuah data yang diolah terlalu lama
+
+409
+00:23:18,210 --> 00:23:22,610
+Atau bahkan tidak bisa diolah
+
+410
+00:23:22,610 --> 00:23:25,890
+Setiap data yang masuk ke dalam
+
+411
+00:23:25,890 --> 00:23:27,090
+Prosesor itu mesti
+
+412
+00:23:27,090 --> 00:23:29,290
+Atau ke dalam CPU
+
+413
+00:23:29,290 --> 00:23:30,710
+Itu mesti dikasih waktu
+
+414
+00:23:30,710 --> 00:23:33,610
+Nah jika
+
+415
+00:23:33,610 --> 00:23:34,810
+Program tersebut
+
+416
+00:23:34,810 --> 00:23:37,450
+Dieksekusi melebihi waktu yang
+
+417
+00:23:37,450 --> 00:23:38,550
+Diberikan oleh
+
+418
+00:23:38,550 --> 00:23:42,330
+CPU
+
+419
+00:23:42,330 --> 00:23:45,310
+Maka program itu akan
+
+420
+00:23:45,310 --> 00:23:46,230
+Di stop
+
+421
+00:23:46,230 --> 00:23:48,410
+Kamu terlalu lama stop
+
+422
+00:23:48,410 --> 00:23:49,610
+Gantian yang lain dulu
+
+423
+00:23:49,610 --> 00:23:51,170
+Kalau tidak ada
+
+424
+00:23:51,170 --> 00:23:54,070
+operasi lain
+
+425
+00:23:54,070 --> 00:23:54,910
+kalau saya sudah
+
+426
+00:23:54,910 --> 00:23:57,770
+tidak ada yang saya kerjakan, kamu akan
+
+427
+00:23:57,770 --> 00:23:59,450
+saya panggil lagi.
+
+428
+00:24:00,650 --> 00:24:01,450
+Oke, ini timer.
+
+429
+00:24:02,770 --> 00:24:04,030
+Oke, kemudian
+
+430
+00:24:04,030 --> 00:24:05,370
+yang ketiga adalah
+
+431
+00:24:05,370 --> 00:24:07,350
+interrupt by IO.
+
+432
+00:24:09,960 --> 00:24:11,420
+Oke, IO ini
+
+433
+00:24:11,420 --> 00:24:14,060
+memberikan sinyal operasi
+
+434
+00:24:14,060 --> 00:24:16,020
+untuk request service
+
+435
+00:24:16,020 --> 00:24:16,620
+atau
+
+436
+00:24:16,620 --> 00:24:19,240
+mengeksekusi
+
+437
+00:24:19,240 --> 00:24:21,220
+kondisi error.
+
+438
+00:24:21,220 --> 00:24:23,360
+Jadi misalkan gini
+
+439
+00:24:23,360 --> 00:24:26,420
+Ketika Anda menjalankan sesuatu
+
+440
+00:24:26,420 --> 00:24:31,820
+Kemudian Anda tidak menginginkan hal itu
+
+441
+00:24:31,820 --> 00:24:34,120
+Biasanya kan Anda tekan keyboard ya
+
+442
+00:24:34,120 --> 00:24:36,480
+Misalkan, oh ditekan escape gitu
+
+443
+00:24:36,480 --> 00:24:42,540
+Ya atau ditekan Alt F4 ketika tengah-tengah menjalankan program
+
+444
+00:24:42,540 --> 00:24:47,580
+Nah itu adalah sebuah interrupt yang berasal dari IO
+
+445
+00:24:47,580 --> 00:24:54,390
+Jadi misalkan Anda tengah-tengah menjalankan program atau sesuatu
+
+446
+00:24:54,390 --> 00:24:58,750
+Kemudian sesuatu itu kan diolah oleh CPU
+
+447
+00:24:58,750 --> 00:25:02,010
+Kemudian Anda tekan Escape atau Alt F4
+
+448
+00:25:02,010 --> 00:25:06,810
+Kemudian program itu akan menutup atau selesai dijalankan
+
+449
+00:25:06,810 --> 00:25:11,810
+Nah ini adalah salah satu bentuk dari interrupt
+
+450
+00:25:11,810 --> 00:25:14,810
+Yang dilakukan oleh I.O
+
+451
+00:25:14,810 --> 00:25:22,530
+Kemudian yang keempat adalah hardware failure
+
+452
+00:25:22,530 --> 00:25:28,890
+Atau kegagalan hardware dalam mengoperasikan data Anda
+
+453
+00:25:28,890 --> 00:25:38,970
+Kemudian ini instruction cyclernya
+
+454
+00:25:38,970 --> 00:25:41,210
+Jadi ketika disini ada user program
+
+455
+00:25:41,210 --> 00:25:44,490
+Atau kita sedang menjalankan data
+
+456
+00:25:44,490 --> 00:25:49,290
+Oke, kemudian jalan di tengah-tengah
+
+457
+00:25:49,290 --> 00:25:51,410
+Kemudian ada interrupt
+
+458
+00:25:51,410 --> 00:25:52,970
+Interrupt terjadi di sini
+
+459
+00:25:52,970 --> 00:26:00,010
+Oke, maka user program yang awal ini akan ditampung di interrupt handler
+
+460
+00:26:00,010 --> 00:26:04,870
+Oke, nah jika selesai
+
+461
+00:26:04,870 --> 00:26:08,750
+Di tengah-tengah sini CPU-nya mengerjakan yang lain
+
+462
+00:26:08,750 --> 00:26:14,250
+Nah, jika yang lain yang dikerjakan di tengah-tengah sini sudah selesai
+
+463
+00:26:14,250 --> 00:26:17,970
+Oke, maka user program yang lama
+
+464
+00:26:17,970 --> 00:26:22,650
+Yang belum selesai ini tadi akan dilanjutkan eksekusinya
+
+465
+00:26:22,650 --> 00:26:24,750
+Nah, dia jalannya begini terus
+
+466
+00:26:24,750 --> 00:26:26,550
+Ya, siklusnya
+
+467
+00:26:26,550 --> 00:26:31,700
+Oke, nah sehingga di
+
+468
+00:26:31,700 --> 00:26:38,830
+Interrupt, di instruction cycle
+
+469
+00:26:38,830 --> 00:26:45,090
+Ya, ditambahkan skema interrupt
+
+470
+00:26:45,090 --> 00:26:47,930
+Oke, kalau tadi fetch execution
+
+471
+00:26:47,930 --> 00:26:49,310
+Fetch execution
+
+472
+00:26:49,310 --> 00:26:52,110
+Start fetch execution
+
+473
+00:26:52,110 --> 00:26:54,310
+Nah, namun sekarang
+
+474
+00:26:54,310 --> 00:26:55,930
+Ini ditambahkan
+
+475
+00:26:55,930 --> 00:26:58,510
+Interrupt, proses checking interrupt
+
+476
+00:26:58,510 --> 00:27:02,270
+Oke, kalau interruptnya di disable
+
+477
+00:27:02,270 --> 00:27:04,010
+Dia caranya fetch execute
+
+478
+00:27:04,010 --> 00:27:06,290
+Balik ke depan lagi
+
+479
+00:27:06,290 --> 00:27:07,410
+Fetch execute
+
+480
+00:27:07,410 --> 00:27:10,370
+Nah, namun jika interruptnya
+
+481
+00:27:10,370 --> 00:27:12,050
+Di enable, ini ngecek dia
+
+482
+00:27:12,050 --> 00:27:13,670
+Ada interrupt gak?
+
+483
+00:27:13,670 --> 00:27:15,070
+Ada gangguan gak
+
+484
+00:27:15,070 --> 00:27:17,890
+Oke, kalau gak ada gangguan
+
+485
+00:27:17,890 --> 00:27:19,530
+Ya dia kembali fetch
+
+486
+00:27:19,530 --> 00:27:22,070
+Nah, kalau ada gangguan
+
+487
+00:27:22,070 --> 00:27:23,770
+Ya dia akan hold
+
+488
+00:27:23,770 --> 00:27:25,010
+Menahan diri disini
+
+489
+00:27:25,010 --> 00:27:27,850
+Dia gak akan fetch lagi
+
+490
+00:27:27,850 --> 00:27:31,330
+Oke, kalau eksekusinya selesai
+
+491
+00:27:31,330 --> 00:27:36,500
+Dia halt atau selesai
+
+492
+00:27:36,500 --> 00:27:37,000
+Oke
+
+493
+00:27:37,000 --> 00:27:39,940
+Nah, kalau di
+
+494
+00:27:39,940 --> 00:27:42,580
+State diagram
+
+495
+00:27:42,580 --> 00:27:45,980
+Di state diagram
+
+496
+00:27:45,980 --> 00:27:47,860
+Interrupt ini prosesnya ada disini
+
+497
+00:27:47,860 --> 00:27:52,160
+Setelah operan
+
+498
+00:27:52,160 --> 00:27:52,980
+Setur jadi
+
+499
+00:27:52,980 --> 00:27:55,140
+Misalkan tadi ya
+
+500
+00:27:55,140 --> 00:27:58,180
+Satu tambah satu tambah satu
+
+501
+00:27:58,180 --> 00:27:59,520
+Misalkan
+
+502
+00:27:59,520 --> 00:28:01,920
+Oke ketika satu
+
+503
+00:28:01,920 --> 00:28:03,680
+Tambah satu yang awal ini tadi
+
+504
+00:28:03,680 --> 00:28:04,620
+Yang ini kan belum
+
+505
+00:28:04,620 --> 00:28:07,940
+Oke ketika yang pertama ini
+
+506
+00:28:07,940 --> 00:28:10,420
+Selesai di operasikan
+
+507
+00:28:10,420 --> 00:28:11,860
+Keluar muncul angka dua
+
+508
+00:28:11,860 --> 00:28:13,720
+Ini ngecek programnya
+
+509
+00:28:13,720 --> 00:28:14,580
+Ada interrupt gak
+
+510
+00:28:14,580 --> 00:28:16,900
+Kalau ada interrupt
+
+511
+00:28:16,900 --> 00:28:19,600
+Hasilnya 1 tambah 1 awal ini
+
+512
+00:28:19,600 --> 00:28:20,760
+Dia disimpan di memori
+
+513
+00:28:20,760 --> 00:28:23,060
+Dan CCPU mengolah
+
+514
+00:28:23,060 --> 00:28:25,280
+Program lain yang
+
+515
+00:28:25,280 --> 00:28:26,320
+Di interap tadi
+
+516
+00:28:26,320 --> 00:28:29,140
+Program lain masuk
+
+517
+00:28:29,140 --> 00:28:31,620
+Kemudian setelah program lain ini tadi selesai
+
+518
+00:28:31,620 --> 00:28:34,400
+2 ini tadi dipanggil lagi
+
+519
+00:28:34,400 --> 00:28:35,140
+Kesini
+
+520
+00:28:35,140 --> 00:28:37,300
+Nah tetapi
+
+521
+00:28:37,300 --> 00:28:38,540
+Jika tidak ada interap
+
+522
+00:28:38,540 --> 00:28:40,420
+Dia akan langsung dikalkulasikan
+
+523
+00:28:40,420 --> 00:28:41,020
+Oke 2
+
+524
+00:28:41,020 --> 00:28:43,640
+Masuk kesini
+
+525
+00:28:43,640 --> 00:28:45,940
+Tambah 1
+
+526
+00:28:45,940 --> 00:28:47,280
+Oke, hasilnya 3
+
+527
+00:28:47,280 --> 00:28:50,760
+Masuk lagi, interrupt check
+
+528
+00:28:50,760 --> 00:28:53,560
+Kalau ada interrupt, ya di interrupt
+
+529
+00:28:53,560 --> 00:28:56,400
+Kalau tidak ada, ya dia akan ke
+
+530
+00:28:56,400 --> 00:28:58,780
+Kembali ke sini
+
+531
+00:28:58,780 --> 00:29:00,460
+Instruction, address, calculation
+
+532
+00:29:00,460 --> 00:29:01,560
+Oke, sudah selesai
+
+533
+00:29:01,560 --> 00:29:03,820
+3 ini hasilnya
+
+534
+00:29:03,820 --> 00:29:08,810
+Oke, kemudian
+
+535
+00:29:08,810 --> 00:29:11,010
+Nah, kalau multiper interrupt
+
+536
+00:29:11,010 --> 00:29:12,110
+Bentuknya seperti ini
+
+537
+00:29:12,110 --> 00:29:16,430
+Ketika user menjalankan program
+
+538
+00:29:16,430 --> 00:29:18,290
+Misalkan kemudian ada interrupt
+
+539
+00:29:18,290 --> 00:29:20,230
+Oke program yang awal di hold
+
+540
+00:29:20,230 --> 00:29:22,690
+Nah kemudian
+
+541
+00:29:22,690 --> 00:29:24,410
+Mau jalanin
+
+542
+00:29:24,410 --> 00:29:25,430
+Ada interrupt lagi
+
+543
+00:29:25,430 --> 00:29:27,450
+Oke
+
+544
+00:29:27,450 --> 00:29:30,290
+Baru yang lain dijalankan
+
+545
+00:29:31,030 --> 00:29:32,470
+Nah interrupt pada
+
+546
+00:29:32,470 --> 00:29:33,250
+Suatu
+
+547
+00:29:33,250 --> 00:29:36,070
+Komputer ini
+
+548
+00:29:36,070 --> 00:29:38,070
+Boleh lebih dari
+
+549
+00:29:38,070 --> 00:29:39,770
+Satu
+
+550
+00:29:39,770 --> 00:29:40,930
+Atau
+
+551
+00:29:40,930 --> 00:29:43,590
+Setiap berjalannya
+
+552
+00:29:43,590 --> 00:29:46,090
+Komputer CPU
+
+553
+00:29:46,090 --> 00:29:46,810
+Setiap step
+
+554
+00:29:46,810 --> 00:29:49,310
+Atau disini direpresentasikan dengan
+
+555
+00:29:49,310 --> 00:29:50,890
+Garis putus-putus ini
+
+556
+00:29:50,890 --> 00:29:53,670
+Setiap garis putus-putus ini
+
+557
+00:29:53,670 --> 00:29:54,330
+Boleh
+
+558
+00:29:54,330 --> 00:29:57,450
+Si komputer atau si CPU
+
+559
+00:29:57,450 --> 00:29:59,110
+Memperbolehkan adanya
+
+560
+00:29:59,110 --> 00:30:00,190
+Interact
+
+561
+00:30:00,190 --> 00:30:03,170
+Nah satu garis ini
+
+562
+00:30:03,170 --> 00:30:04,410
+Dia merepresentasikan
+
+563
+00:30:04,410 --> 00:30:06,110
+Fetch execution
+
+564
+00:30:06,110 --> 00:30:09,250
+Start fetch execution
+
+565
+00:30:09,250 --> 00:30:12,590
+Memperbolehkan
+
+566
+00:30:12,590 --> 00:30:14,530
+Satu siklus instruksi
+
+567
+00:30:14,530 --> 00:30:18,150
+Oke, hingga halt yang disini selesai
+
+568
+00:30:18,150 --> 00:30:23,610
+Oke, nah setelah interrupt
+
+569
+00:30:23,610 --> 00:30:31,950
+Disini ada yang namanya struktur interkoneksi
+
+570
+00:30:31,950 --> 00:30:37,250
+Nah, komputer ini terdiri dari sebuah set komponen
+
+571
+00:30:37,250 --> 00:30:39,990
+Atau modul-modul dari tiga tipe dasar
+
+572
+00:30:39,990 --> 00:30:45,830
+Oke, modul dari prosesor, memori, I.O. yang saling berkomunikasi
+
+573
+00:30:45,830 --> 00:30:50,630
+Nah, proses komunikasi mereka
+
+574
+00:30:50,630 --> 00:30:54,670
+Tadi kan yang melakukan adalah si sistem bus
+
+575
+00:30:54,670 --> 00:31:00,750
+Nah, pada sistem bus ini dia memiliki struktur interkoneksi
+
+576
+00:31:00,750 --> 00:31:03,030
+Atau pertukaran data
+
+577
+00:31:03,030 --> 00:31:14,610
+Sehingga komputer ini adalah jaringan dari sebuah jaringan komunikasi
+
+578
+00:31:14,610 --> 00:31:16,130
+Setiap modul
+
+579
+00:31:16,130 --> 00:31:18,970
+Sehingga harus ada jalan untuk menghubungkan
+
+580
+00:31:18,970 --> 00:31:20,150
+Modul-modul tersebut
+
+581
+00:31:20,150 --> 00:31:23,070
+Misalkan modul memori, modul CPU
+
+582
+00:31:23,070 --> 00:31:24,050
+Modul I.O
+
+583
+00:31:24,050 --> 00:31:27,330
+Nah, desain struktur ini
+
+584
+00:31:27,330 --> 00:31:29,050
+Akan tergantung dari pertukaran
+
+585
+00:31:29,050 --> 00:31:31,410
+Data yang dilakukan antar modul
+
+586
+00:31:31,410 --> 00:31:32,830
+Jadi
+
+587
+00:31:32,830 --> 00:31:34,370
+Desain komunikasinya
+
+588
+00:31:34,370 --> 00:31:37,090
+Itu bisa dilakukan secara
+
+589
+00:31:37,090 --> 00:31:38,110
+Dinamis
+
+590
+00:31:38,110 --> 00:31:41,300
+Nah
+
+591
+00:31:41,300 --> 00:31:45,240
+Karena proses dinamis ini
+
+592
+00:31:45,240 --> 00:31:45,580
+Tadi
+
+593
+00:31:45,580 --> 00:31:48,100
+Sebuah komputer
+
+594
+00:31:48,100 --> 00:31:50,620
+Atau sebuah komputer yang
+
+595
+00:31:50,620 --> 00:31:52,780
+Untuk antara CPU
+
+596
+00:31:52,780 --> 00:31:54,520
+Memori dan
+
+597
+00:31:54,520 --> 00:31:55,880
+I.O
+
+598
+00:31:55,880 --> 00:31:58,600
+Ini harus memiliki
+
+599
+00:31:58,600 --> 00:32:00,640
+Struktur transfer interkoneksi
+
+600
+00:32:00,640 --> 00:32:02,740
+Oke, yang pertama
+
+601
+00:32:02,740 --> 00:32:04,480
+Memori ke prosesor
+
+602
+00:32:04,480 --> 00:32:06,720
+Jadi hubungannya antara CPU
+
+603
+00:32:06,720 --> 00:32:10,680
+Antara prosesor dengan memori
+
+604
+00:32:10,680 --> 00:32:14,520
+Jadi prosesor membaca instruksi
+
+605
+00:32:14,520 --> 00:32:17,440
+Atau data dari memori
+
+606
+00:32:17,440 --> 00:32:19,060
+Nah yang kedua
+
+607
+00:32:19,060 --> 00:32:20,040
+Prosesor itu
+
+608
+00:32:20,040 --> 00:32:22,000
+Memori
+
+609
+00:32:22,000 --> 00:32:24,320
+Yaitu prosesor menulis
+
+610
+00:32:24,320 --> 00:32:26,980
+Data ke unit
+
+611
+00:32:26,980 --> 00:32:27,900
+Memori
+
+612
+00:32:27,900 --> 00:32:31,180
+Kemudian I.O. itu
+
+613
+00:32:31,180 --> 00:32:33,360
+Prosesor dari perangkat input output
+
+614
+00:32:33,360 --> 00:32:33,840
+Ke
+
+615
+00:32:33,840 --> 00:32:35,640
+Prosesor
+
+616
+00:32:35,640 --> 00:32:38,460
+Kemudian dari prosesor ke
+
+617
+00:32:38,460 --> 00:32:39,820
+Input output
+
+618
+00:32:39,820 --> 00:32:42,600
+Nah yang terakhir
+
+619
+00:32:42,600 --> 00:32:46,280
+Hubungannya antara input-output dan memori itu sendiri
+
+620
+00:32:46,280 --> 00:32:53,240
+Jadi input-output itu bisa menulis atau mengambil data dari memori
+
+621
+00:32:53,240 --> 00:33:05,740
+Pada bagian 1 ini tadi
+
+622
+00:33:05,740 --> 00:33:11,320
+Sudah kita bahas terkait komputer komponen
+
+623
+00:33:11,320 --> 00:33:15,660
+Mulai dari CPU, memori, IOModule
+
+624
+00:33:15,660 --> 00:33:18,000
+Kemudian
+
+625
+00:33:18,000 --> 00:33:22,620
+Ada basic instruction cycle
+
+626
+00:33:22,620 --> 00:33:24,860
+Mulai start, fast, execution
+
+627
+00:33:24,860 --> 00:33:27,220
+Kemudian ada
+
+628
+00:33:27,220 --> 00:33:29,860
+Ditambahkan interrupt
+
+629
+00:33:29,860 --> 00:33:33,520
+Kemudian
+
+630
+00:33:33,520 --> 00:33:36,440
+Interconnection ini tadi
+
+631
+00:33:36,440 --> 00:33:38,060
+Mulai ada memory to processor
+
+632
+00:33:38,060 --> 00:33:38,940
+Dan sebaliknya
+
+633
+00:33:38,940 --> 00:33:40,780
+I.O. to processor
+
+634
+00:33:40,780 --> 00:33:42,240
+Dan sebaliknya
+
+635
+00:33:42,240 --> 00:33:43,020
+Kemudian
+
+636
+00:33:43,020 --> 00:33:45,600
+I.O. dari
+
+637
+00:33:45,600 --> 00:33:47,020
+Dan ke
+
+638
+00:33:47,020 --> 00:33:48,520
+Memori
+
+639
+00:33:48,520 --> 00:33:50,810
+Oke
+
+640
+00:33:50,810 --> 00:33:53,310
+Baik
+
+641
+00:33:53,310 --> 00:33:55,990
+Sekian
+
+642
+00:33:55,990 --> 00:33:58,610
+Bab ini
+
+643
+00:33:58,610 --> 00:34:00,610
+Jadi top level view komputer
+
+644
+00:34:00,610 --> 00:34:02,170
+Bagian pertama ini tadi
+
+645
+00:34:02,170 --> 00:34:05,670
+Terima kasih
+
+646
+00:34:05,670 --> 00:34:07,870
+Atas perhatiannya
+
+647
+00:34:07,870 --> 00:34:09,630
+Selamat
+
+648
+00:34:09,630 --> 00:34:11,170
+Belajar
+
+649
+00:34:11,170 --> 00:34:13,950
+Wassalamualaikum warahmatullahi
+
+650
+00:34:13,950 --> 00:34:43,930
+Terima kasih.

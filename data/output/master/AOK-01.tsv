@@ -1,0 +1,379 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+AOK-01	AOK		1	0.000	1.740	1.740	Assalamualaikum warahmatullahi wabarakatuh	Assalamualaikum warahmatullahi wabarakatuh		
+AOK-01	AOK		2	1.740	4.120	2.380	Dengan saya Rahmat Dhani Prima Nanda	Dengan saya Rahmat Dhani Prima Nanda		
+AOK-01	AOK		3	4.120	6.560	2.440	Pada pertemuan kali ini	Pada pertemuan kali ini		
+AOK-01	AOK		4	6.560	8.420	1.860	Saya akan membahas tentang	Saya akan membahas tentang		
+AOK-01	AOK		5	8.420	10.320	1.900	Matakli Aksitektur	Mata kuliah Aksitektur		
+AOK-01	AOK		6	10.320	12.300	1.980	Dan Organisasi Komputer atau AUK	Dan Organisasi Komputer atau AOK		
+AOK-01	AOK		7	12.300	13.700	1.400	Dengan topik	Dengan topik		
+AOK-01	AOK		8	13.700	15.840	2.140	Konsep Dasar dan Evalusi Komputer	Konsep Dasar dan Evalusi Komputer		
+AOK-01	AOK		9	15.840	17.220	1.380	Oke	Oke		
+AOK-01	AOK		10	17.220	19.580	2.360	Untuk yang pertama	Eee untuk yang pertama		
+AOK-01	AOK		11	19.580	21.940	2.360	Pendahuluannya adalah bagaimana nanti	Pendahuluannya adalah bagaimana nanti		
+AOK-01	AOK		12	21.940	23.460	1.520	Kita bisa memahami	Kita bisa memahami		
+AOK-01	AOK		13	23.460	26.200	2.740	Struktur dan fungsi umum pada komputer	Struktur dan fungsi umum pada komputer		
+AOK-01	AOK		14	26.200	27.940	1.740	Kemudian menjabarkan	Kemudian menjabarkan		
+AOK-01	AOK		15	27.940	29.740	1.800	Perkembangan dan evolusi komputer	Perkembangan dan evolusi komputer		
+AOK-01	AOK		16	29.740	31.680	1.940	dari generasi ke generasi	dari generasi ke generasi		
+AOK-01	AOK		17	31.680	33.800	2.120	mampu menjelaskan	mampu menjelaskan		
+AOK-01	AOK		18	33.800	35.780	1.980	gambaran umum evolusi arsitektur	gambaran umum evolusi arsitektur		
+AOK-01	AOK		19	35.780	37.780	2.000	x86 dan mampu	x86 dan mampu		
+AOK-01	AOK		20	37.780	39.180	1.400	menjelaskan embedded system	menjelaskan embedded system		
+AOK-01	AOK		21	39.180	41.740	2.560	nah nanti kita akan membahas	nah nanti kita akan membahas		
+AOK-01	AOK		22	41.740	42.780	1.040	beberapa materi yang	beberapa materi yang		
+AOK-01	AOK		23	42.780	45.520	2.740	akan kita gunakan nantinya	akan kita gunakan nantinya		
+AOK-01	AOK		24	45.520	47.660	2.140	yaitu arsitektur	yaitu arsitektur		
+AOK-01	AOK		25	47.660	48.960	1.300	dan organisasi itu sendiri	dan organisasi itu sendiri		
+AOK-01	AOK		26	48.960	51.460	2.500	struktur dan fungsi secara komputer	struktur dan fungsi secara komputer		
+AOK-01	AOK		27	51.460	53.820	2.360	evolusi intel x86	evolusi intel x86		
+AOK-01	AOK		28	53.820	54.720	0.900	embedded dan	embedded dan		
+AOK-01	AOK		29	54.720	56.840	2.120	ALM serta cloud computing	ARM serta cloud computing		
+AOK-01	AOK		30	56.840	59.440	2.600	oke, nah pertama yang kita	oke, nah pertama yang kita		
+AOK-01	AOK		31	59.440	61.400	1.960	bahas disini adalah arsitektur	bahas disini adalah arsitektur		
+AOK-01	AOK		32	61.400	62.500	1.100	dan organisasi	dan organisasi		
+AOK-01	AOK		33	62.500	65.500	3.000	perlu kita ketahui terlebih dahulu	perlu kita ketahui terlebih dahulu		
+AOK-01	AOK		34	65.500	67.100	1.600	apa sih yang namanya arsitektur	apa sih yang namanya arsitektur		
+AOK-01	AOK		35	67.100	68.920	1.820	jadi arsitektur itu	jadi arsitektur itu		
+AOK-01	AOK		36	68.920	70.660	1.740	bagaimana kita	bagaimana kita		
+AOK-01	AOK		37	70.660	73.200	2.540	mendesain komputer kita	mendesain komputer kita		
+AOK-01	AOK		38	73.200	75.480	2.280	yang mana kita akan	yang mana kita akan		
+AOK-01	AOK		39	75.480	78.120	2.640	melihat dari atribut-atribut	melihat dari atribut-atribut		
+AOK-01	AOK		40	78.120	79.500	1.380	untuk	untuk		
+AOK-01	AOK		41	79.500	81.580	2.080	visible terhadap programmer	visible terhadap programmer		
+AOK-01	AOK		42	81.580	83.760	2.180	atau yang bisa dikelola oleh	atau yang bisa dikelola oleh		
+AOK-01	AOK		43	83.760	84.700	0.940	programmer	programmer		
+AOK-01	AOK		44	84.700	87.760	3.060	yang nantinya dia akan memberikan	yang nantinya dia akan memberikan		
+AOK-01	AOK		45	87.760	89.160	1.400	dampak langsung	dampak langsung		
+AOK-01	AOK		46	89.160	91.100	1.940	pada sebuah eksekusi	pada sebuah eksekusi		
+AOK-01	AOK		47	91.100	93.380	2.280	jadi kita punya program	jadi kita punya program		
+AOK-01	AOK		48	93.380	94.860	1.480	kemudian kita bisa eksekusi	kemudian kita bisa eksekusi		
+AOK-01	AOK		49	94.860	97.180	2.320	baik itu secara logik, logis	baik itu secara logik, logis		
+AOK-01	AOK		50	97.180	98.420	1.240	ataupun nanti	ataupun nanti		
+AOK-01	AOK		51	98.420	101.420	3.000	berdasarkan instruksi	berdasarkan instruksi		
+AOK-01	AOK		52	101.420	103.000	1.580	nah contohnya	nah contohnya		
+AOK-01	AOK		53	103.000	105.260	2.260	disini ada set instruksi, kemudian jumlah	disini ada set instruksi, kemudian jumlah		
+AOK-01	AOK		54	105.260	107.060	1.800	bit yang digunakan	bit yang digunakan		
+AOK-01	AOK		55	107.060	108.620	1.560	untuk berbagi tipe data	untuk berbagi tipe data		
+AOK-01	AOK		56	108.620	110.620	2.000	entah itu angka ataupun karakter	entah itu angka ataupun karakter		
+AOK-01	AOK		57	110.620	113.320	2.700	I.O. dan contohnya	I.O. dan contohnya		
+AOK-01	AOK		58	113.320	114.780	1.460	lagi adalah teknik pengelamatan	lagi adalah teknik pengelamatan		
+AOK-01	AOK		59	114.780	117.260	2.480	memori, contoh yang lain lagi	memori, contoh yang lain lagi		
+AOK-01	AOK		60	117.260	117.800	0.540	misalkan	misalkan		
+AOK-01	AOK		61	117.800	120.560	2.760	Pada sebuah	Eee pada sebuah		
+AOK-01	AOK		62	120.560	122.560	2.000	Instruksi	Instruksi		
+AOK-01	AOK		63	122.560	123.860	1.300	Ada tidak	Ada tidak		
+AOK-01	AOK		64	123.860	127.020	3.160	Di dalam program kita itu	Di dalam program kita itu		
+AOK-01	AOK		65	127.020	128.360	1.340	Untuk perkalian	Untuk perkalian		
+AOK-01	AOK		66	128.360	129.820	1.460	Nah itu arsitekturnya	Nah itu arsitekturnya		
+AOK-01	AOK		67	129.820	132.100	2.280	Apakah di komputer kita itu	Apakah di komputer kita itu		
+AOK-01	AOK		68	132.100	133.440	1.340	Ada instruksi perkalian	Ada instruksi perkalian		
+AOK-01	AOK		69	133.440	136.400	2.960	Nah kemudian dibahas lagi	Nah kemudian dibahas lagi		
+AOK-01	AOK		70	136.400	137.500	1.100	Di organisasi	Di organisasi		
+AOK-01	AOK		71	137.500	140.100	2.600	Bagaimana komputer itu bekerja	Bagaimana komputer itu bekerja		
+AOK-01	AOK		72	140.100	142.540	2.440	Atau misalkan kalau tadi perkalian	Atau misalkan kalau tadi perkalian		
+AOK-01	AOK		73	142.540	144.660	2.120	Bagaimana perkalian itu	Bagaimana perkalian itu		
+AOK-01	AOK		74	144.660	146.320	1.660	Di instruksikan	Di instruksikan		
+AOK-01	AOK		75	146.320	147.740	1.420	Atau di implementasikan	Atau di implementasikan		
+AOK-01	AOK		76	147.740	149.600	1.860	Apakah secara hardware	Apakah secara hardware		
+AOK-01	AOK		77	149.600	151.620	2.020	Ataukah	Ataukah		
+AOK-01	AOK		78	151.620	153.280	1.660	Secara	Secara		
+AOK-01	AOK		79	153.280	155.700	2.420	Penambahan berulang-ulang	Penambahan berulang-ulang		
+AOK-01	AOK		80	155.700	157.120	1.420	Misalkan	Misalkan		
+AOK-01	AOK		81	157.120	159.620	2.500	5 x 2	5 x 2		
+AOK-01	AOK		82	159.620	164.200	4.580	Itu kan sama dengan 5 tambah 5	Itu kan sama dengan 5 tambah 5		
+AOK-01	AOK		83	164.200	166.840	2.640	Nah kita mau langsung seperti ini	Nah kita mau langsung seperti ini		
+AOK-01	AOK		84	166.840	168.320	1.480	Atau seperti ini	Atau seperti ini		
+AOK-01	AOK		85	168.320	171.380	3.060	Nah itu adalah bagaimana komputer itu bekerja	Nah itu adalah bagaimana komputer itu bekerja		
+AOK-01	AOK		86	171.380	175.220	3.840	Jadi unit-unit operasional dan interkoneksinya yang	Jadi unit-unit operasional dan interkoneksinya yang		
+AOK-01	AOK		87	175.220	177.180	1.960	mewujudkan spesifikasi	mewujudkan spesifikasi		
+AOK-01	AOK		88	177.180	178.340	1.160	arsitektur	arsitektur		
+AOK-01	AOK		89	178.340	181.140	2.800	seperti tadi, rincian hardware pendukungnya	seperti tadi, rincian hardware pendukungnya		
+AOK-01	AOK		90	181.140	183.100	1.960	jadi misalkan kita mau	jadi misalkan kita mau		
+AOK-01	AOK		91	183.100	184.280	1.180	nambah hardware itu	nambah hardware itu		
+AOK-01	AOK		92	184.280	186.880	2.600	apakah baru atau	eee apakah baru atau		
+AOK-01	AOK		93	186.880	188.140	1.260	secara berulang	secara berulang		
+AOK-01	AOK		94	188.140	191.060	2.920	seperti tadi perkalian, apakah kita	seperti tadi perkalian, apakah kita		
+AOK-01	AOK		95	191.060	192.820	1.760	menggunakan perkalian secara langsung	menggunakan perkalian secara langsung		
+AOK-01	AOK		96	192.820	195.360	2.540	ataukah dengan cara penambahan berulang	ataukah dengan cara penambahan berulang		
+AOK-01	AOK		97	195.360	196.320	0.960	yaitu	yaitu		
+AOK-01	AOK		98	196.320	199.060	2.740	organisasinya, bagaimana komputer itu	organisasinya, bagaimana komputer itu		
+AOK-01	AOK		99	199.060	200.160	1.100	bekerja	bekerja		
+AOK-01	AOK		100	200.160	202.960	2.800	kemudian dari sisi	kemudian dari sisi		
+AOK-01	AOK		101	202.960	205.060	2.100	yang lain, arsitektur dan	eee yang lain, arsitektur dan		
+AOK-01	AOK		102	205.060	207.360	2.300	organisasi, misalkan kita punya	organisasi, misalkan kita punya		
+AOK-01	AOK		103	207.360	209.140	1.780	sebuah	sebuah		
+AOK-01	AOK		104	209.140	211.180	2.040	keluarga Intel	eee keluarga Intel		
+AOK-01	AOK		105	211.180	212.880	1.700	ya, disini	ya, disini		
+AOK-01	AOK		106	212.880	214.560	1.680	misalkan ada Core i5	misalkan ada Core i5		
+AOK-01	AOK		107	214.560	216.700	2.140	disini ada Core i7	disini ada Core i7		
+AOK-01	AOK		108	216.700	218.560	1.860	nah, yang mana	nah, yang mana		
+AOK-01	AOK		109	218.560	221.180	2.620	misalkan disini kita menggunakan	misalkan disini kita menggunakan		
+AOK-01	AOK		110	221.180	222.280	1.100	Intel x86	Intel x86		
+AOK-01	AOK		111	222.280	225.160	2.880	berarti dia memiliki arsitektur yang	berarti dia memiliki arsitektur yang		
+AOK-01	AOK		112	225.160	227.100	1.940	sama, seperti juga pada	sama, seperti juga pada		
+AOK-01	AOK		113	227.100	229.260	2.160	arsitektur yang dahulu	arsitektur yang dahulu		
+AOK-01	AOK		114	229.260	230.860	1.600	kala, yaitu IBM System	kala, yaitu IBM System		
+AOK-01	AOK		115	230.860	232.760	1.900	Slice 370 ini	Slash 370 ini		
+AOK-01	AOK		116	232.760	233.860	1.100	ya	ya		
+AOK-01	AOK		117	233.860	235.580	1.720	ini sama	ini sama		
+AOK-01	AOK		118	235.580	237.300	1.720	artinya arsitekturnya itu sama	artinya arsitekturnya itu sama		
+AOK-01	AOK		119	237.300	239.640	2.340	dan kecenderungan bertahan	dan kecenderungan bertahan		
+AOK-01	AOK		120	239.640	241.460	1.820	lama, namun untuk	lama, namun untuk		
+AOK-01	AOK		121	241.460	243.540	2.080	organisasinya bisa saja	organisasinya bisa saja		
+AOK-01	AOK		122	243.540	245.500	1.960	berbeda sesuai	berbeda sesuai		
+AOK-01	AOK		123	245.500	246.740	1.240	perkembangan teknologi	perkembangan teknologi		
+AOK-01	AOK		124	246.740	248.820	2.080	jadi nanti yang akan di update	jadi nanti yang akan di update		
+AOK-01	AOK		125	248.820	250.980	2.160	apakah nanti	apakah nanti		
+AOK-01	AOK		126	250.980	252.800	1.820	perkaliannya itu pakai	perkaliannya itu pakai		
+AOK-01	AOK		127	252.800	254.940	2.140	model penambahan berulang atau	model penambahan berulang atau		
+AOK-01	AOK		128	254.940	256.660	1.720	direct, apa	direct, apa		
+AOK-01	AOK		129	256.660	258.480	1.820	efeknya terhadap	efeknya terhadap		
+AOK-01	AOK		130	258.480	261.040	2.560	kecepatan prosesor kita	eee kecepatan prosesor kita		
+AOK-01	AOK		131	261.040	263.080	2.040	nah itu tentunya akan	nah itu tentunya akan		
+AOK-01	AOK		132	263.080	264.920	1.840	menyesuaikan perkembangan teknologi, makanya	menyesuaikan perkembangan teknologi, makanya		
+AOK-01	AOK		133	264.920	267.260	2.340	disini yang berbeda bisa saja	disini yang berbeda bisa saja		
+AOK-01	AOK		134	267.260	269.020	1.760	organisasi, namun	organisasi, namun		
+AOK-01	AOK		135	269.020	270.780	1.760	arsitekturnya yang sama	arsitekturnya yang sama		
+AOK-01	AOK		136	270.780	273.260	2.480	karena sama-sama ada	karena sama-sama ada		
+AOK-01	AOK		137	273.260	274.220	0.960	perkalian misalkan	perkalian misalkan		
+AOK-01	AOK		138	274.220	276.700	2.480	namun caranya yang berbeda	namun caranya yang berbeda		
+AOK-01	AOK		139	276.700	279.140	2.440	dia pakai, misalkan	dia pakai, misalkan		
+AOK-01	AOK		140	279.140	281.400	2.260	dibatasi dari sisi perkaliannya	dibatasi dari sisi perkaliannya		
+AOK-01	AOK		141	281.400	283.300	1.900	tidak boleh sampai berapa	tidak boleh sampai berapa		
+AOK-01	AOK		142	283.300	285.020	1.720	kali, itu	kali, itu		
+AOK-01	AOK		143	285.020	286.640	1.620	salah satu contohnya	salah satu contohnya		
+AOK-01	AOK		144	286.640	290.420	3.780	kemudian ada lagi istilah	kemudian ada lagi istilah		
+AOK-01	AOK		145	290.420	291.500	1.080	struktur dan fungsi	struktur dan fungsi		
+AOK-01	AOK		146	291.500	294.360	2.860	bagaimana masing-masing	bagaimana masing-masing		
+AOK-01	AOK		147	294.360	296.900	2.540	komponen itu bisa saling berhubungan	komponen itu bisa saling berhubungan		
+AOK-01	AOK		148	296.900	298.660	1.760	satu dengan yang lainnya	satu dengan yang lainnya		
+AOK-01	AOK		149	298.660	300.480	1.820	misalkan disini ada CPU	misalkan disini ada CPU		
+AOK-01	AOK		150	300.480	302.560	2.080	disini ada memori	disini ada memori		
+AOK-01	AOK		151	302.560	304.980	2.420	disini ada IO	disini ada IO		
+AOK-01	AOK		152	304.980	306.600	1.620	nah bagaimana	nah bagaimana		
+AOK-01	AOK		153	306.600	307.920	1.320	hubungannya	hubungannya		
+AOK-01	AOK		154	307.920	310.460	2.540	kemudian bagaimana	kemudian bagaimana		
+AOK-01	AOK		155	310.460	311.940	1.480	operasi dari	operasi dari		
+AOK-01	AOK		156	311.940	314.180	2.240	masing-masing komponen yang merupakan	masing-masing komponen yang merupakan		
+AOK-01	AOK		157	314.180	316.220	2.040	bagian dari struktur	bagian dari struktur		
+AOK-01	AOK		158	316.220	318.380	2.160	misalkan	misalkan		
+AOK-01	AOK		159	318.380	320.340	1.960	si memori ini akan	si memori ini akan		
+AOK-01	AOK		160	320.340	321.940	1.600	memberikan	memberikan		
+AOK-01	AOK		161	321.940	323.820	1.880	apa namanya	apa namanya		
+AOK-01	AOK		162	323.820	326.000	2.180	instruksinya kepada CPU untuk nantinya	instruksinya kepada CPU untuk nantinya		
+AOK-01	AOK		163	326.000	328.060	2.060	diolah di dalam ALU	diolah di dalam ALU		
+AOK-01	AOK		164	328.060	330.020	1.960	karena yang pertama	karena yang pertama		
+AOK-01	AOK		165	330.020	333.560	3.540	proses ataupun data	proses ataupun data		
+AOK-01	AOK		166	333.560	336.120	2.560	itu pertama tadi memori	itu pertama tadi memori		
+AOK-01	AOK		167	336.120	337.920	1.800	kemudian di ALU, diproses	kemudian di ALU, diproses		
+AOK-01	AOK		168	337.920	340.280	2.360	kemudian nanti baru fungsi	kemudian nanti baru fungsi		
+AOK-01	AOK		169	340.280	342.240	1.960	yang lainnya adalah, oh menampilkannya	yang lainnya adalah, oh menampilkannya		
+AOK-01	AOK		170	342.240	344.160	1.920	ke I.O. misalkan setelah	ke I.O. misalkan setelah		
+AOK-01	AOK		171	344.160	345.140	0.980	saya menghitung ini	saya menghitung ini		
+AOK-01	AOK		172	345.140	347.860	2.720	apakah ada masukan dari I.O.	apakah ada masukan dari I.O.		
+AOK-01	AOK		173	347.940	349.440	1.500	ada keyboard misalkan masuk	ada keyboard misalkan masuk		
+AOK-01	AOK		174	349.440	351.360	1.920	untuk memberikan akses	untuk memberikan akses		
+AOK-01	AOK		175	351.360	355.140	3.780	atau nanti ketika ditampilkan kembali	atau nanti ketika ditampilkan kembali		
+AOK-01	AOK		176	355.140	356.620	1.480	melalui IO pula	melalui IO pula		
+AOK-01	AOK		177	356.620	358.160	1.540	misalkan ditampilkan ke monitor	misalkan ditampilkan ke monitor		
+AOK-01	AOK		178	358.160	360.340	2.180	nah itu salah satu	nah itu salah satu		
+AOK-01	AOK		179	360.340	361.760	1.420	contoh fungsinya	contoh fungsinya		
+AOK-01	AOK		180	361.760	365.060	3.300	secara umum	secara umum		
+AOK-01	AOK		181	365.060	366.020	0.960	ada 4 fungsi	ada 4 fungsi		
+AOK-01	AOK		182	366.020	368.480	2.460	jadi ada processing atau pengolahan	jadi ada processing atau pengolahan		
+AOK-01	AOK		183	368.480	371.080	2.600	ada data storage atau penyimpanan	ada data storage atau penyimpanan		
+AOK-01	AOK		184	371.080	373.200	2.120	ada data mugun atau pemindahan	ada data movement atau pemindahan		
+AOK-01	AOK		185	373.200	374.780	1.580	dan kontrol yang mana	dan kontrol yang mana		
+AOK-01	AOK		186	374.780	375.840	1.060	akan	akan		
+AOK-01	AOK		187	375.840	378.180	2.340	mengendalikan untuk	mengendalikan untuk		
+AOK-01	AOK		188	378.180	379.180	1.000	semua	semua		
+AOK-01	AOK		189	379.180	381.780	2.600	Alur-alur tadi	Alur-alur tadi		
+AOK-01	AOK		190	381.780	383.120	1.340	Ya, tiga alur tadi	Ya, tiga alur tadi		
+AOK-01	AOK		191	383.120	385.400	2.280	Pengolahan, penyimpanan, dan pemindahan	Pengolahan, penyimpanan, dan pemindahan		
+AOK-01	AOK		192	385.400	388.600	3.200	Yang pertama disini	Yang pertama disini		
+AOK-01	AOK		193	388.600	390.660	2.060	Pemindahan data dari	Pemindahan data dari		
+AOK-01	AOK		194	390.660	393.360	2.700	Peripheral ataupun saluran komunikasi	Peripheral ataupun saluran komunikasi		
+AOK-01	AOK		195	393.360	394.700	1.340	Ke perangkat yang lainnya	Ke perangkat yang lainnya		
+AOK-01	AOK		196	394.700	397.220	2.520	Jadi, kontrol ini yang bertugas	Jadi, kontrol ini yang bertugas		
+AOK-01	AOK		197	397.220	399.120	1.900	Untuk menarikan bagaimana	Untuk menarikan bagaimana		
+AOK-01	AOK		198	399.120	400.460	1.340	Pemindahan data ini	Pemindahan data ini		
+AOK-01	AOK		199	400.460	402.500	2.040	Ya, dari	Ya, dari		
+AOK-01	AOK		200	402.500	404.480	1.980	Saluran komunikasi atau	Saluran komunikasi atau		
+AOK-01	AOK		201	404.480	407.380	2.900	Peripheral ke perangkat lainnya	Peripheral ke perangkat lainnya		
+AOK-01	AOK		202	407.380	408.800	1.420	Nah, disini ada	Nah, disini ada		
+AOK-01	AOK		203	408.800	412.720	3.920	I.O. jadi modelnya I.O. ini adalah ketika	I.O. jadi modelnya I.O. ini adalah ketika		
+AOK-01	AOK		204	412.720	416.680	3.960	misalkan data diterima atau dikirim ke perangkat atau	misalkan data diterima atau dikirim ke perangkat atau		
+AOK-01	AOK		205	416.680	420.660	3.980	peripheral tadi yang terhubung dengan komputer atau langsung dengan	peripheral tadi yang terhubung dengan komputer atau langsung dengan		
+AOK-01	AOK		206	420.660	424.620	3.960	komputer jadi ini adalah proses I.O. misalkan	komputer jadi ini adalah proses I.O. misalkan		
+AOK-01	AOK		207	424.620	428.820	4.200	data ya disini data kemudian disini	data ya disini data kemudian disini		
+AOK-01	AOK		208	428.820	431.680	2.860	I.O. ya data ini diterima	I.O. ya data ini diterima		
+AOK-01	AOK		209	431.680	435.020	3.340	atau dikirim ke perangkat peripheral yang lainnya	atau dikirim ke perangkat peripheral yang lainnya		
+AOK-01	AOK		210	435.020	438.240	3.220	kemudian ada juga komunikasi data	kemudian ada juga komunikasi data		
+AOK-01	AOK		211	438.240	440.300	2.060	jadi misalkan ada	jadi misalkan ada		
+AOK-01	AOK		212	440.300	441.140	0.840	data	data		
+AOK-01	AOK		213	441.140	444.280	3.140	kita pindahkan ke	kita pindahkan ke		
+AOK-01	AOK		214	444.280	447.100	2.820	ke	ke eee		
+AOK-01	AOK		215	447.100	449.920	2.820	dalam sebuah perangkat dengan	dalam sebuah perangkat dengan		
+AOK-01	AOK		216	449.920	451.900	1.980	jarak jauh atau kita remote	jarak jauh atau kita remote		
+AOK-01	AOK		217	451.900	453.280	1.380	misalkan	misalkan		
+AOK-01	AOK		218	453.280	454.800	1.520	melalui jaringan	melalui jaringan		
+AOK-01	AOK		219	454.800	456.060	1.260	atau	atau		
+AOK-01	AOK		220	456.060	457.740	1.680	apa namanya	apa namanya		
+AOK-01	AOK		221	457.740	461.400	3.660	di lokal area kita	di lokal area kita		
+AOK-01	AOK		222	461.400	463.840	2.440	nah itu adalah komunikasi datanya	nah itu adalah komunikasi datanya		
+AOK-01	AOK		223	463.840	466.640	2.800	itu istilah di pemindahan data	itu istilah di pemindahan data		
+AOK-01	AOK		224	466.640	468.120	1.480	contohnya misalkan kita	contohnya misalkan kita		
+AOK-01	AOK		225	468.120	470.640	2.520	pindahkan karakter dari keyboard ke monitor	pindahkan karakter dari keyboard ke monitor		
+AOK-01	AOK		226	470.640	471.600	0.960	jadi	jadi		
+AOK-01	AOK		227	471.600	473.440	1.840	itu yang direct ya	itu yang direct ya		
+AOK-01	AOK		228	473.440	476.580	3.140	keyboard ke monitor	keyboard ke monitor		
+AOK-01	AOK		229	476.580	478.420	1.840	kita memberikan perintah	kita memberikan perintah		
+AOK-01	AOK		230	478.420	479.840	1.420	ataupun instruksi ke dalam	ataupun instruksi ke dalam		
+AOK-01	AOK		231	479.840	484.020	4.180	keyboard tersebut	keyboard tersebut		
+AOK-01	AOK		232	484.020	488.110	4.090	nah kemudian yang selanjutnya adalah	nah kemudian yang selanjutnya adalah		
+AOK-01	AOK		233	488.110	488.970	0.860	penyimpanan data	penyimpanan data		
+AOK-01	AOK		234	488.970	492.310	3.340	komputer yang sedang memproses	komputer yang sedang memproses		
+AOK-01	AOK		235	492.310	493.470	1.160	data dengan cepat	data dengan cepat		
+AOK-01	AOK		236	493.470	496.530	3.060	yaitu ketika data masuk dan diproses	yaitu ketika data masuk dan diproses		
+AOK-01	AOK		237	496.530	498.250	1.720	kemudian hasil datanya	kemudian hasil datanya		
+AOK-01	AOK		238	498.250	499.050	0.800	keluar	keluar		
+AOK-01	AOK		239	499.050	502.450	3.400	jadi disini ada hubungan	jadi disini ada hubungan		
+AOK-01	AOK		240	502.450	504.410	1.960	bahwa data itu akan disimpan	bahwa data itu akan disimpan		
+AOK-01	AOK		241	504.410	506.110	1.700	apakah dia	apakah dia		
+AOK-01	AOK		242	506.110	507.970	1.860	segera diproses atau	segera diproses atau		
+AOK-01	AOK		243	507.970	509.450	1.480	hasilnya nanti	hasilnya nanti		
+AOK-01	AOK		244	509.450	511.730	2.280	dikerjakan pada saat tertentu	dikerjakan pada saat tertentu		
+AOK-01	AOK		245	511.730	513.130	1.400	jadi misalkan short term	jadi misalkan short term ya		
+AOK-01	AOK		246	513.130	516.030	2.900	menyimpan sementara setidaknya potongan data	menyimpan sementara setidaknya potongan data		
+AOK-01	AOK		247	516.030	517.190	1.160	yang sedang dikerjakan	yang sedang dikerjakan		
+AOK-01	AOK		248	517.190	518.770	1.580	tapi kalau long term	tapi kalau long term		
+AOK-01	AOK		249	518.770	521.570	2.800	untuk pengambilan dan pembaruan selanjutnya	untuk pengambilan dan pembaruan selanjutnya		
+AOK-01	AOK		250	521.570	524.850	3.280	Jadi ini file data akan disimpan di komputer	Jadi ini file data akan disimpan di komputer		
+AOK-01	AOK		251	524.850	531.470	6.620	Seperti misalkan kita mau nyimpan data foto	Seperti misalkan kita mau nyimpan data eem data foto		
+AOK-01	AOK		252	531.470	536.350	4.880	Ataupun data berkas-berkas kita	Ataupun data berkas-berkas kita		
+AOK-01	AOK		253	536.350	539.430	3.080	Itu bisa saja masuk ke dalam long term	Itu bisa saja masuk ke dalam long term		
+AOK-01	AOK		254	539.430	544.250	4.820	Karena dia disimpan di dalam komputer dalam waktu yang cukup lama	Karena dia disimpan di dalam komputer dalam waktu yang cukup lama		
+AOK-01	AOK		255	544.250	548.250	4.000	Namun ada juga menyimpan sementara	Namun ada juga menyimpan sementara		
+AOK-01	AOK		256	548.250	551.170	2.920	Misalkan berada di dalam memori sementara	Misalkan berada di dalam memori sementara		
+AOK-01	AOK		257	551.170	553.010	1.840	yang nantinya digunakan untuk	yang nantinya digunakan untuk		
+AOK-01	AOK		258	553.010	555.270	2.260	ke instruksi yang selanjutnya	ke instruksi yang selanjutnya		
+AOK-01	AOK		259	555.270	557.650	2.380	misalkan disini contohnya adalah	misalkan disini contohnya adalah		
+AOK-01	AOK		260	557.650	558.710	1.060	kita simpan dari	kita simpan dari		
+AOK-01	AOK		261	558.710	561.630	2.920	internet file-file tertentu	internet file-file tertentu		
+AOK-01	AOK		262	561.630	562.990	1.360	atau kita melakukan download	atau kita melakukan download		
+AOK-01	AOK		263	562.990	565.650	2.660	atau kita melakukan	ya atau kita melakukan		
+AOK-01	AOK		264	565.650	568.130	2.480	proses	eee apa namanya proses apa		
+AOK-01	AOK		265	568.130	571.330	3.200	penyalinan data	penyalinan data		
+AOK-01	AOK		266	571.330	572.570	1.240	dari	dari		
+AOK-01	AOK		267	572.570	575.390	2.820	sumber entah itu internet ataupun	sumber entah itu internet ataupun		
+AOK-01	AOK		268	575.390	577.370	1.980	ke storage kita	ke storage kita		
+AOK-01	AOK		269	577.370	581.260	3.890	kemudian selanjutnya adalah	kemudian selanjutnya adalah		
+AOK-01	AOK		270	581.260	584.180	2.920	pengolahan data dari atau ke penyimpanan	pengolahan data dari atau ke penyimpanan		
+AOK-01	AOK		271	584.180	585.740	1.560	jadi data ini dapat	jadi data ini dapat		
+AOK-01	AOK		272	585.740	588.040	2.300	mengambil dalam berbagai bentuk	mengambil dalam berbagai bentuk		
+AOK-01	AOK		273	588.040	589.860	1.820	dan persyaratan pengolahan	dan persyaratan pengolahan		
+AOK-01	AOK		274	589.860	591.380	1.520	yang cukup luas, artinya disini	yang cukup luas, artinya disini		
+AOK-01	AOK		275	591.380	593.800	2.420	data itu diubah menjadi	data itu diubah menjadi		
+AOK-01	AOK		276	593.800	595.600	1.800	bentuk informasi yang lebih berguna	bentuk informasi yang lebih berguna		
+AOK-01	AOK		277	595.600	597.740	2.140	jadi ada proses input	jadi ada proses input		
+AOK-01	AOK		278	597.740	599.000	1.260	kemudian	kemudian		
+AOK-01	AOK		279	599.000	601.180	2.180	ada proses itu sendiri	ada proses itu sendiri		
+AOK-01	AOK		280	601.180	602.260	1.080	ada	ada		
+AOK-01	AOK		281	602.260	605.360	3.100	storage-nya atau simpan	eee storage-nya atau simpan		
+AOK-01	AOK		282	605.360	607.440	2.080	baru saya itu output	baru setelah itu output		
+AOK-01	AOK		283	607.440	609.920	2.480	nah disini contohnya	nah disini contohnya		
+AOK-01	AOK		284	609.920	612.300	2.380	adalah menjalankan proses aritematika	adalah menjalankan proses aritematika		
+AOK-01	AOK		285	612.300	613.980	1.680	dan logika pada data	dan logika pada data		
+AOK-01	AOK		286	613.980	615.760	1.780	yang disimpan, jadi	yang disimpan, jadi		
+AOK-01	AOK		287	615.760	617.620	1.860	kita misalkan punya	kita misalkan punya		
+AOK-01	AOK		288	617.620	619.740	2.120	apa namanya	eee apa namanya		
+AOK-01	AOK		289	619.740	622.140	2.400	sebuah nilai atau angka	sebuah nilai atau angka		
+AOK-01	AOK		290	622.140	624.060	1.920	ya, bilangan tertentu	ya, bilangan tertentu		
+AOK-01	AOK		291	624.060	625.460	1.400	kemudian kita	kemudian kita		
+AOK-01	AOK		292	625.460	627.300	1.840	lakukan	lakukan		
+AOK-01	AOK		293	627.300	628.980	1.680	misalkan perkalian	misalkan perkalian		
+AOK-01	AOK		294	628.980	631.840	2.860	ataupun penjumlahan, ataupun	ataupun penjumlahan, ataupun		
+AOK-01	AOK		295	631.840	633.920	2.080	yang lainnya, nah nanti	yang lainnya, nah nanti		
+AOK-01	AOK		296	633.920	636.020	2.100	data ini akan disimpan sementara	data ini akan disimpan sementara		
+AOK-01	AOK		297	636.020	637.640	1.620	di dalam memori	di dalam memori		
+AOK-01	AOK		298	637.640	642.010	4.370	data sementara	data sementara		
+AOK-01	AOK		299	642.010	645.130	3.120	Kemudian baru ditampilkan ke dalam output	Kemudian baru ditampilkan ke dalam output		
+AOK-01	AOK		300	645.130	649.610	4.480	Nah itu jadi ada input, ada proses perkaliannya	Nah itu jadi ada input, ada proses perkaliannya		
+AOK-01	AOK		301	649.610	653.450	3.840	Kemudian data itu disimpan sementara untuk nantinya diolah	Kemudian data itu disimpan sementara untuk nantinya diolah		
+AOK-01	AOK		302	653.450	656.110	2.660	Dan disimpan ke dalam memori sementara	Dan disimpan ke dalam memori sementara		
+AOK-01	AOK		303	656.110	658.610	2.500	Baru ditampilkan ke dalam sebuah output	Baru ditampilkan ke dalam sebuah output		
+AOK-01	AOK		304	658.610	665.050	6.440	Nah itu salah satu cara untuk proses aritematika dan logika	Nah itu salah satu cara untuk proses aritematika dan logika		
+AOK-01	AOK		305	665.050	671.410	6.360	Yang mana aritematika dan logika ini nanti akan kita bahas di aritematika komputer	Yang mana aritematika dan logika ini nanti akan kita bahas di aritematika komputer		
+AOK-01	AOK		306	671.410	673.230	1.820	yang membahas juga	yang membahas juga		
+AOK-01	AOK		307	673.230	674.150	0.920	terkait dengan alu	terkait dengan ALU		
+AOK-01	AOK		308	674.150	678.060	3.910	serta untuk keseluruhan tadi	serta untuk keseluruhan tadi		
+AOK-01	AOK		309	678.060	680.580	2.520	keseluruhan tadi itu melibatkan	keseluruhan tadi itu melibatkan		
+AOK-01	AOK		310	680.580	682.220	1.640	kontrol	kontrol		
+AOK-01	AOK		311	682.220	687.040	4.820	melibatkan kontrol di pengolahan data	ya melibatkan kontrol di pengolahan data		
+AOK-01	AOK		312	687.040	689.160	2.120	dari penyimpanan ke I.O	dari penyimpanan ke I.O		
+AOK-01	AOK		313	689.160	690.700	1.540	jadi pengolahan data atau	jadi pengolahan data atau		
+AOK-01	AOK		314	690.700	693.020	2.320	perpindahan antara tempat penyimpanan	perpindahan antara tempat penyimpanan		
+AOK-01	AOK		315	693.020	695.040	2.020	dan lingkungan luar atas eksternal	dan lingkungan luar atas eksternal		
+AOK-01	AOK		316	695.040	695.900	0.860	contohnya misalkan	contohnya misalkan		
+AOK-01	AOK		317	695.900	697.700	1.800	kita mau nge-print	kita mau nge-print		
+AOK-01	AOK		318	697.700	700.360	2.660	berarti kan kita nyetak dokumen	berarti kan kita nyetak dokumen		
+AOK-01	AOK		319	700.360	702.400	2.040	dari berkas yang ada di storage	dari berkas yang ada di storage		
+AOK-01	AOK		320	702.400	704.960	2.560	jadi kita ada berkas	jadi kita ada berkas		
+AOK-01	AOK		321	704.960	706.340	1.380	di storage	di storage		
+AOK-01	AOK		322	706.340	709.220	2.880	kemudian	kemudian		
+AOK-01	AOK		323	709.220	710.780	1.560	kita	eee kita		
+AOK-01	AOK		324	710.780	713.460	2.680	olah ke dalam I.O.	olah ke dalam I.O.		
+AOK-01	AOK		325	713.840	714.960	1.120	untuk dicetak	untuk dicetak		
+AOK-01	AOK		326	714.960	716.540	1.580	dicetak	dicetak		
+AOK-01	AOK		327	716.540	720.100	3.560	dan keluar hasilnya	ya dan keluar hasilnya		
+AOK-01	AOK		328	720.100	723.600	3.500	untuk keseluruhan tiga fungsi tadi	untuk keseluruhan tiga fungsi tadi		
+AOK-01	AOK		329	723.600	724.740	1.140	semuanya akan di	semuanya akan di		
+AOK-01	AOK		330	724.740	727.980	3.240	kendalikan oleh yang namanya kontrol	eee kendalikan oleh yang namanya kontrol		
+AOK-01	AOK		331	727.980	729.300	1.320	dalam I.O. ini yaitu	dalam I.O. ini yaitu		
+AOK-01	AOK		332	729.300	730.400	1.100	kontrol unit	Control Unit		
+AOK-01	AOK		333	730.400	732.700	2.300	jadi yang semuanya nanti	jadi yang semuanya nanti		
+AOK-01	AOK		334	732.700	735.040	2.340	akan mengelola sumber daya komputer	akan mengelola sumber daya komputer		
+AOK-01	AOK		335	735.040	737.200	2.160	dan mengatur kinerja bagian	dan mengatur kinerja bagian		
+AOK-01	AOK		336	737.200	738.860	1.660	tiga fungsi-fungsi tadi	tiga fungsi-fungsi tadi		
+AOK-01	AOK		337	738.860	743.600	4.740	kemudian untuk struktur komputer	kemudian untuk struktur komputer		
+AOK-01	AOK		338	743.600	745.680	2.080	disini, kalau di single processor	disini, kalau di single processor		
+AOK-01	AOK		339	745.680	747.620	1.940	atau prosesor yang masih	atau prosesor yang masih		
+AOK-01	AOK		340	747.620	751.340	3.720	satu saja, satu prosesor	satu saja, satu prosesor		
+AOK-01	AOK		341	751.340	753.620	2.280	ada empat komponen struktur utama	ada empat komponen struktur utama		
+AOK-01	AOK		342	753.620	754.880	1.260	yaitu CPU	yaitu CPU		
+AOK-01	AOK		343	754.880	757.380	2.500	CPU ini yang	CPU ini yang		
+AOK-01	AOK		344	757.380	759.120	1.740	mengatur operasi komputer dan	mengatur operasi komputer dan		
+AOK-01	AOK		345	759.120	761.120	2.000	menjalankan fungsi pengelolaan data	menjalankan fungsi pengelolaan data		
+AOK-01	AOK		346	761.120	763.380	2.260	jadi, brainnya komputer itu	jadi, brainnya komputer itu		
+AOK-01	AOK		347	763.380	764.200	0.820	di CPU	di CPU		
+AOK-01	AOK		348	764.200	766.820	2.620	jadi semuanya disini	jadi semuanya disini		
+AOK-01	AOK		349	766.820	769.100	2.280	kemudian main memory	kemudian main memory		
+AOK-01	AOK		350	769.100	771.640	2.540	disini digunakan untuk menyimpan data	disini digunakan untuk menyimpan data		
+AOK-01	AOK		351	771.640	773.580	1.940	baik itu yang tadi	baik itu yang tadi		
+AOK-01	AOK		352	773.580	775.300	1.720	sifatnya short term ataupun long term	sifatnya short term ataupun long term		
+AOK-01	AOK		353	775.300	777.240	1.940	kemudian I.O	kemudian I.O		
+AOK-01	AOK		354	777.240	778.980	1.740	ini yang nantinya akan memindahkan	ini yang nantinya akan memindahkan		
+AOK-01	AOK		355	778.980	781.540	2.560	data antara komputer	data antara komputer		
+AOK-01	AOK		356	781.540	784.080	2.540	dengan lingkungan eksternal	dengan lingkungan eksternal		
+AOK-01	AOK		357	784.080	785.020	0.940	seperti tadi	seperti tadi		
+AOK-01	AOK		358	785.020	786.500	1.480	keyboard, monitor	keyboard, monitor		
+AOK-01	AOK		359	786.500	789.880	3.380	kemudian sistem interconnection	kemudian System interconnection		
+AOK-01	AOK		360	789.880	791.920	2.040	yang mana dia menggunakan bus	yang mana dia menggunakan bus		
+AOK-01	AOK		361	791.920	793.840	1.920	jadi mekanisme	jadi mekanisme		
+AOK-01	AOK		362	793.840	796.440	2.600	untuk komunikasi antara CPU	untuk komunikasi antara CPU		
+AOK-01	AOK		363	796.440	798.300	1.860	antara main memory	antara main memory		
+AOK-01	AOK		364	798.300	800.280	1.980	dan juga	dan juga		
+AOK-01	AOK		365	800.280	801.220	0.940	I.O	I.O		
+AOK-01	AOK		366	801.220	804.040	2.820	kemudian contohnya	kemudian contohnya		
+AOK-01	AOK		367	804.040	805.720	1.680	disini tadi adalah sistem bus	disini tadi adalah sistem bus		
+AOK-01	AOK		368	805.720	808.220	2.500	nah nanti CPU ini dibagi lagi	nah nanti CPU ini dibagi lagi		
+AOK-01	AOK		369	808.220	809.980	1.760	ada register	ada register		
+AOK-01	AOK		370	809.980	812.240	2.260	ada ALU, ada internal bus	ada ALU, ada internal bus		
+AOK-01	AOK		371	812.240	814.180	1.940	dan CU	dan CU		
+AOK-01	AOK		372	814.180	815.580	1.400	atau control unitnya	atau control unitnya		
+AOK-01	AOK		373	815.580	817.740	2.160	control unitnya juga seperti itu	control unitnya juga seperti itu		
+AOK-01	AOK		374	817.740	818.640	0.900	dipecah lagi	dipecah lagi		
+AOK-01	AOK		375	818.640	825.820	7.180	untuk yang selanjutnya	oke untuk yang selanjutnya		
+AOK-01	AOK		376	825.820	827.440	1.620	akan saya berikan di	akan saya berikan di		
+AOK-01	AOK		377	827.440	829.960	2.520	Part yang kedua	Part yang kedua		
+AOK-01	AOK		378	829.960	830.940	0.980	Terima kasih	Terima kasih		

@@ -1,0 +1,315 @@
+﻿file_id	mata_kuliah	penutur	seg_id	start	end	dur	teks_asr	teks_acuan	flag	catatan
+AOK-08	AOK		1	4.850	7.190	2.340	Baik, Assalamualaikum warahmatullahi wabarakatuh.	Baik, Assalamualaikum warahmatullahi wabarakatuh.		
+AOK-08	AOK		2	7.470	13.210	5.740	Kita lanjutkan sesi kedua dari topik operating system.	Kita lanjutkan sesi kedua dari topik operating system.		
+AOK-08	AOK		3	13.490	18.930	5.440	Bahasanya, dalam operating system,	Bahasanya, dalam operating system,		
+AOK-08	AOK		4	20.250	28.330	8.080	jadi dari beberapa subproses yang ada,	terdiri dari beberapa subproses yang ada,		
+AOK-08	AOK		5	28.330	48.150	19.820	Dan di dalam pembahasan, di dalam proses kendalinya, di dalam monitoring kerja dari operating system nanti selalu dilakukan monitor oleh operating system terhadap proses-proses yang terjadi.	Dan di dalam pembahasan, di dalam proses eee kendalinya, di dalam monitoring kerja dari operating system nanti selalu dilakukan monitor oleh operating system terhadap proses-proses yang terjadi.		
+AOK-08	AOK		6	48.150	74.890	26.740	Jadi, melanjutkan pada sesi pertama yang materi di sesi 1, bahwasannya di dalam proses kendali batch processing pada sistem thread pada operating system ini terdiri dari beberapa proses scheduling.	Jadi, melanjutkan pada sesi pertama yang materi di sesi 1, bahwasannya di dalam proses kendali batch processing pada sistem thread pada operating system ini terdiri dari beberapa proses scheduling.		
+AOK-08	AOK		7	74.890	77.230	2.340	di proses scheduling seperti ini	di proses scheduling seperti ini		
+AOK-08	AOK		8	77.230	78.630	1.400	jadi misalnya ini pada saat	jadi misalnya ini pada saat		
+AOK-08	AOK		9	78.630	81.050	2.420	sekarang operating system	sekarang operating system		
+AOK-08	AOK		10	81.050	83.030	1.980	dalam hal ini komputasi	dalam hal ini komputasi		
+AOK-08	AOK		11	83.030	85.450	2.420	proses di CPU ini sedang menjalankan	proses di CPU ini sedang menjalankan		
+AOK-08	AOK		12	85.450	86.910	1.460	aplikasi ARC	aplikasi A		
+AOK-08	AOK		13	86.910	89.650	2.740	nah pada waktu berikutnya	nah pada waktu berikutnya		
+AOK-08	AOK		14	89.650	90.630	0.980	step berikutnya	step berikutnya		
+AOK-08	AOK		15	90.630	92.210	1.580	time berikutnya	time berikutnya		
+AOK-08	AOK		16	92.210	95.550	3.340	menjalankan operating itu sendiri	menjalankan operating itu sendiri		
+AOK-08	AOK		17	95.550	96.850	1.300	operating system itu sendiri	operating system itu sendiri		
+AOK-08	AOK		18	96.850	99.130	2.280	kemudian pada state berikutnya	kemudian pada state berikutnya		
+AOK-08	AOK		19	99.130	101.030	1.900	ini menjalankan	ini menjalankan		
+AOK-08	AOK		20	101.030	102.110	1.080	aplikasi B	aplikasi B		
+AOK-08	AOK		21	102.110	104.270	2.160	kemudian nanti akan berulang lagi ke	kemudian nanti akan berulang lagi ke		
+AOK-08	AOK		22	104.270	106.350	2.080	A, operating system	A, operating system		
+AOK-08	AOK		23	106.350	107.550	1.200	B, dan seterusnya	B, dan seterusnya		
+AOK-08	AOK		24	107.550	109.550	2.000	jadi pada kasus	jadi pada kasus		
+AOK-08	AOK		25	109.550	112.550	3.000	task manager	eee task manager		
+AOK-08	AOK		26	112.550	114.430	1.880	yang ada di komputer kita	yang ada di komputer kita		
+AOK-08	AOK		27	114.430	115.550	1.120	dalam operating system	dalam operating system		
+AOK-08	AOK		28	115.550	117.650	2.100	dalam hal ini operating system	dalam hal ini operating system		
+AOK-08	AOK		29	117.650	119.850	2.200	Windows, ini akan	Windows, ini akan		
+AOK-08	AOK		30	119.850	121.530	1.680	menjalankan proses	menjalankan proses		
+AOK-08	AOK		31	121.530	123.950	2.420	scheduling dari	scheduling dari		
+AOK-08	AOK		32	123.950	125.950	2.000	aplikasi-aplikasi yang	aplikasi-aplikasi yang		
+AOK-08	AOK		33	125.950	128.230	2.280	sekarang aktif dan termasuk juga	sekarang aktif dan termasuk juga		
+AOK-08	AOK		34	128.230	129.870	1.640	otomatis juga modul-modul	otomatis juga modul-modul		
+AOK-08	AOK		35	129.870	132.350	2.480	yang ada di dalam operating system	yang ada di dalam operating system		
+AOK-08	AOK		36	132.350	134.110	1.760	bahwasannya	bahwasannya		
+AOK-08	AOK		37	134.110	136.370	2.260	proses	proses		
+AOK-08	AOK		38	136.370	138.690	2.320	time sharing semacam ini	time sharing semacam ini		
+AOK-08	AOK		39	138.690	140.770	2.080	jadi pembagian kerja	jadi pembagian kerja		
+AOK-08	AOK		40	140.770	143.050	2.280	semacam ini dikenal dengan round robin	semacam ini dikenal dengan round robin		
+AOK-08	AOK		41	143.050	145.650	2.600	kalau di dalam istilah operating system	kalau di dalam istilah operating system		
+AOK-08	AOK		42	145.650	147.190	1.540	jadi round robin itu adalah merupakan	jadi round robin itu adalah merupakan		
+AOK-08	AOK		43	147.190	148.930	1.740	time yang berputar	time yang berputar		
+AOK-08	AOK		44	148.930	151.630	2.700	secara pergantian dalam waktu yang cepat	secara pergantian dalam waktu yang cepat		
+AOK-08	AOK		45	151.630	152.530	0.900	ingat bahwasannya	ingat bahwasannya		
+AOK-08	AOK		46	152.530	155.110	2.580	prosesor kita itu dengan speed	prosesor kita itu dengan speed		
+AOK-08	AOK		47	155.110	156.890	1.780	katalah 2 GHz	katalah 2 GHz		
+AOK-08	AOK		48	156.890	159.150	2.260	artinya 2 milliard cycle	artinya 2 milliard cycle		
+AOK-08	AOK		49	159.150	160.790	1.640	2 milliard cycle nanti	2 milliard cycle nanti		
+AOK-08	AOK		50	160.790	162.470	1.680	secara terus menerus	secara terus menerus		
+AOK-08	AOK		51	162.470	164.870	2.400	nanti akan pergantian	nanti akan pergantian		
+AOK-08	AOK		52	164.870	167.170	2.300	dari job satu ke job yang lain	dari job satu ke job yang lain		
+AOK-08	AOK		53	167.170	169.310	2.140	dari aplikasi satu ke aplikasi yang lain	dari aplikasi satu ke aplikasi yang lain		
+AOK-08	AOK		54	169.310	170.010	0.700	secara berurutan	secara berurutan		
+AOK-08	AOK		55	170.010	172.470	2.460	pada task manager yang tadi sudah saya tunjukkan	pada task manager yang tadi sudah saya tunjukkan		
+AOK-08	AOK		56	172.470	175.090	2.620	misalkan ada 90 atau 100	misalkan ada 90 atau 100		
+AOK-08	AOK		57	175.090	177.310	2.220	aplikasi termasuk modul-modul	aplikasi termasuk modul-modul		
+AOK-08	AOK		58	177.310	178.810	1.500	yang aktif dalam operating system itu secara	yang aktif dalam operating system itu secara		
+AOK-08	AOK		59	178.810	180.810	2.000	pergantian akan	pergantian akan		
+AOK-08	AOK		60	180.810	182.750	1.940	dijalankan oleh operating system	dijalankan oleh operating system		
+AOK-08	AOK		61	182.750	184.210	1.460	dengan kendali dari	dengan kendali dari		
+AOK-08	AOK		62	184.210	186.630	2.420	operating system tentu saja	operating system tentu saja		
+AOK-08	AOK		63	186.630	188.210	1.580	dari	dari		
+AOK-08	AOK		64	188.210	189.690	1.480	mekanisme	mekanisme		
+AOK-08	AOK		65	189.690	192.810	3.120	antriannya, proses	antriannya, proses		
+AOK-08	AOK		66	192.810	194.010	1.200	schedulingnya	schedulingnya		
+AOK-08	AOK		67	194.010	196.590	2.580	operator system nanti akan memiliki	operator system nanti akan memiliki		
+AOK-08	AOK		68	196.590	197.870	1.280	service call, nanti akan	service call, nanti akan		
+AOK-08	AOK		69	197.870	200.390	2.520	berdasarkan sistem	berdasarkan sistem		
+AOK-08	AOK		70	200.390	202.290	1.900	interrupt yang ada di dalam	interrupt yang ada di dalam		
+AOK-08	AOK		71	202.290	204.710	2.420	komputer, nanti akan bisa secara	komputer, nanti akan bisa secara		
+AOK-08	AOK		72	204.710	206.730	2.020	bergantian untuk bagaimana proses	bergantian untuk bagaimana proses		
+AOK-08	AOK		73	206.730	208.470	1.740	antrian menjalankan	antrian menjalankan		
+AOK-08	AOK		74	208.470	210.650	2.180	mekanisme multitaskingnya	mekanisme multitaskingnya		
+AOK-08	AOK		75	210.650	212.470	1.820	nah ini adalah	nah ini adalah		
+AOK-08	AOK		76	212.470	214.810	2.340	mekanisme multitasking	mekanisme multitasking		
+AOK-08	AOK		77	214.810	216.550	1.740	jadi melalui suatu	jadi melalui suatu		
+AOK-08	AOK		78	216.550	218.610	2.060	antrian, proses, jadi asumsinya	antrian, proses, jadi asumsinya		
+AOK-08	AOK		79	218.610	220.890	2.280	disini dengan satu prosesor, satu core	disini dengan satu prosesor, satu core		
+AOK-08	AOK		80	220.890	224.950	4.060	dengan teknologi komputer	dengan teknologi komputer		
+AOK-08	AOK		81	224.950	227.050	2.100	yang sekarang, prosesor ini memiliki	yang sekarang, prosesor ini memiliki		
+AOK-08	AOK		82	227.050	228.950	1.900	memiliki multi core	memiliki multi core		
+AOK-08	AOK		83	228.950	230.210	1.260	misalkan ada dua core	misalkan ada dua core		
+AOK-08	AOK		84	230.210	232.810	2.600	dan dalam masing-masing core ada dua thread	dan dalam masing-masing core ada dua thread		
+AOK-08	AOK		85	232.810	234.310	1.500	sehingga totalnya empat thread, artinya	sehingga totalnya empat thread, artinya		
+AOK-08	AOK		86	234.310	237.190	2.880	beban kerja yang sekarang ini	beban kerja yang sekarang ini		
+AOK-08	AOK		87	237.190	239.030	1.840	dijalankan oleh prosesor dalam hal ini	dijalankan oleh prosesor dalam hal ini		
+AOK-08	AOK		88	239.030	240.790	1.760	misalkan kita punya empat thread	misalkan kita punya empat thread		
+AOK-08	AOK		89	240.790	242.710	1.920	maka proses komputasinya ini	maka proses komputasinya ini		
+AOK-08	AOK		90	242.710	245.030	2.320	berjalan paralel, ada empat thread	berjalan paralel, ada empat thread		
+AOK-08	AOK		91	245.030	246.950	1.920	proses, thread proses yang menjalankan	proses, thread proses yang menjalankan		
+AOK-08	AOK		92	246.950	252.950	6.000	dijalankan antrian-antrian ataupun run, secara run-robin tadinya,	dijalankan antrian-antrian ataupun run, secara run-robin tadinya,		
+AOK-08	AOK		93	252.950	260.950	8.000	bergantian secara terus-menerus untuk menjalankan antara satu aplikasi dengan aplikasi yang lain,	bergantian secara terus-menerus untuk menjalankan antara satu aplikasi dengan aplikasi yang lain,		
+AOK-08	AOK		94	260.950	267.950	7.000	seolah-olah komputer kita ini sedang menjalankan sekian puluh aplikasi yang jalan bersama-sama.	seolah-olah komputer kita ini sedang menjalankan sekian puluh aplikasi yang jalan bersama-sama.		
+AOK-08	AOK		95	267.950	272.950	5.000	Jadi pada saat kita browsing, kita bisa melakukan presentasi,	Jadi pada saat kita browsing, kita bisa melakukan presentasi,		
+AOK-08	AOK		96	272.950	274.730	1.780	kita bisa sedang melakukan	kita bisa sedang melakukan		
+AOK-08	AOK		97	274.730	276.390	1.660	proses rekod dalam hal ini	proses record dalam hal ini		
+AOK-08	AOK		98	276.390	278.650	2.260	dalam waktu yang	dalam waktu yang		
+AOK-08	AOK		99	278.650	281.350	2.700	serempak, dalam waktu yang	serempak, dalam waktu yang		
+AOK-08	AOK		100	281.350	283.270	1.920	kontinu	kontinu		
+AOK-08	AOK		101	283.270	284.690	1.420	terus menerus, ini	terus menerus, ini		
+AOK-08	AOK		102	284.690	286.930	2.240	secara bergantian semua aplikasi itu bisa	secara bergantian semua aplikasi itu bisa		
+AOK-08	AOK		103	286.930	288.930	2.000	berjalan bersama-sama	berjalan bersama-sama		
+AOK-08	AOK		104	288.930	290.530	1.600	nah ini adalah mekanisme antrian	nah ini adalah mekanisme antrian		
+AOK-08	AOK		105	290.530	293.070	2.540	dalam operating system yang	dalam operating system yang		
+AOK-08	AOK		106	293.070	293.870	0.800	dalam hal ini	dalam hal ini		
+AOK-08	AOK		107	293.870	296.130	2.260	membutuhkan	membutuhkan		
+AOK-08	AOK		108	296.130	298.930	2.800	proses antrian, berbagai antrian	proses antrian, berbagai antrian		
+AOK-08	AOK		109	298.930	301.110	2.180	yang di long term	yang di long term		
+AOK-08	AOK		110	301.110	310.830	9.720	Jadi untuk yang antrian-antrian yang lambat sebenarnya bisa langsung dimasukkan ke swap apabila sistem komputer kita itu memiliki keterbatasan memori.	Jadi untuk yang antrian-antrian yang lambat sebenarnya bisa langsung dimasukkan ke swap apabila sistem komputer kita itu memiliki keterbatasan memori.		
+AOK-08	AOK		111	311.690	318.430	6.740	Manajemen memori dalam sistem operating kita, jadi ada yang menggunakan manajemen equal size partition atau yang unequal.	Manajemen memori dalam sistem operating kita, jadi ada yang menggunakan manajemen equal size partition atau yang unequal.		
+AOK-08	AOK		112	318.590	323.710	5.120	Jadi unequal pada umumnya yang pendekatannya yang sekarang dilakukan pada operating system sekarang adalah dengan unequal.	Jadi unequal pada umumnya yang pendekatannya yang sekarang dilakukan pada operating system sekarang adalah dengan unequal.		
+AOK-08	AOK		113	323.710	330.750	7.040	Tergantung kepada berapa besarnya kebutuhan suatu aplikasi ataupun data	Tergantung kepada berapa besarnya kebutuhan suatu aplikasi ataupun data		
+AOK-08	AOK		114	330.750	335.810	5.060	Sehingga nanti masing-masing ini bisa berbeda-beda	Sehingga nanti masing-masing ini bisa berbeda-beda		
+AOK-08	AOK		115	335.810	340.050	4.240	Ini adalah contoh kasusnya, ini komputer pada kondisi kosong	Ini adalah contoh kasusnya, ini komputer pada kondisi kosong		
+AOK-08	AOK		116	340.050	346.290	6.240	Ini aplikasi satu jalan, aplikasi satu masuk, kemudian aplikasi kedua masuk, aplikasi ketiga masuk	Ini aplikasi satu jalan, aplikasi satu masuk, kemudian aplikasi kedua masuk, aplikasi ketiga masuk		
+AOK-08	AOK		117	346.290	351.750	5.460	Jadi langsung ditambahkan pada segmen-segmen memori tersebut	Jadi langsung ditambahkan pada segmen-segmen memori tersebut		
+AOK-08	AOK		118	351.750	354.450	2.700	kemudian disini aplikasi kedua	kemudian disini aplikasi kedua		
+AOK-08	AOK		119	354.450	356.190	1.740	keluar, kemudian	keluar, kemudian		
+AOK-08	AOK		120	356.190	357.530	1.340	masuk aplikasi keempat	masuk aplikasi keempat		
+AOK-08	AOK		121	357.530	360.430	2.900	aplikasi keempat masuk, dijalankan	aplikasi keempat masuk, dijalankan		
+AOK-08	AOK		122	360.430	361.970	1.540	kemudian aplikasi	kemudian aplikasi		
+AOK-08	AOK		123	361.970	364.010	2.040	satu keluar, aplikasi dua	satu keluar, aplikasi dua		
+AOK-08	AOK		124	364.010	365.830	1.820	mungkin jalan lagi, nah	mungkin jalan lagi, nah		
+AOK-08	AOK		125	365.830	368.010	2.180	nanti akan diatur	nanti akan diatur		
+AOK-08	AOK		126	368.010	370.010	2.000	mekanisme manajemen di memori	mekanisme manajemen di memori		
+AOK-08	AOK		127	370.010	372.010	2.000	proses mekanisme	proses mekanisme		
+AOK-08	AOK		128	372.010	374.250	2.240	manajemennya, sehingga nanti di dalam	manajemennya, sehingga nanti di dalam		
+AOK-08	AOK		129	374.250	377.410	3.160	manajemen	manajemen		
+AOK-08	AOK		130	377.410	379.710	2.300	akses untuk	akses untuk		
+AOK-08	AOK		131	379.710	381.670	1.960	misalkan terbatas memori, nanti	misalkan terbatas memori, nanti		
+AOK-08	AOK		132	381.670	383.870	2.200	akan dibuat mekanisme virtual	akan dibuat mekanisme virtual		
+AOK-08	AOK		133	383.870	385.410	1.540	memory, jadi pada	memory, jadi pada		
+AOK-08	AOK		134	385.410	387.350	1.940	virtual memory nanti sebenarnya	virtual memory nanti sebenarnya		
+AOK-08	AOK		135	387.350	389.810	2.460	mengalokasikan main	mengalokasikan main		
+AOK-08	AOK		136	389.810	391.730	1.920	memory kita itu kepada device	memory kita itu kepada device		
+AOK-08	AOK		137	391.730	393.630	1.900	secondary, misalkan di	secondary, misalkan di		
+AOK-08	AOK		138	393.630	395.670	2.040	hard disk, nah keterbatasan	hard disk, nah keterbatasan		
+AOK-08	AOK		139	395.670	398.050	2.380	keterbatasan memory	keterbatasan memory		
+AOK-08	AOK		140	398.050	399.210	1.160	ini sebenarnya nanti akan	ini sebenarnya nanti akan		
+AOK-08	AOK		141	399.210	401.350	2.140	mengakibatkan	mengakibatkan		
+AOK-08	AOK		142	401.350	403.450	2.100	performance	performance		
+AOK-08	AOK		143	403.450	405.830	2.380	karena virtual	karena virtual		
+AOK-08	AOK		144	405.830	407.810	1.980	memory ini menggunakan	memory ini menggunakan		
+AOK-08	AOK		145	407.810	409.870	2.060	secondary memory yang ada di hard disk	secondary memory yang ada di hard disk		
+AOK-08	AOK		146	409.870	414.070	4.200	di mana kecepatan hard disk dibandingkan dengan kecepatan main memory sangat jauh	di mana kecepatan hard disk dibandingkan dengan kecepatan main memory sangat jauh		
+AOK-08	AOK		147	414.070	420.050	5.980	mengibatkan mungkin akan terjadi keterlampatan-keterlampatan	mengibatkan mungkin akan terjadi keterlambatan-keterlambatan		
+AOK-08	AOK		148	420.050	423.890	3.840	oleh karena itu sebaiknya apabila sistem komputer kita itu	oleh karena itu sebaiknya apabila sistem komputer kita itu		
+AOK-08	AOK		149	423.890	429.090	5.200	memorinya terbatas ya jangan sampai kita membuka aplikasi yang terlalu banyak	memorinya terbatas ya jangan sampai kita membuka aplikasi yang terlalu banyak		
+AOK-08	AOK		150	429.090	435.510	6.420	jadi ketika kita sedang menjalankan suatu aplikasi	jadi ketika kita sedang menjalankan suatu aplikasi		
+AOK-08	AOK		151	435.510	457.810	22.300	maka sebaiknya aplikasi kita itu akan aktif ataupun diaktifkan untuk menjalankan aplikasi-aplikasi tersebut sesuai dengan beberapa kebutuhan aplikasi dan disesuaikan dengan ketersediaan memori.	maka sebaiknya aplikasi kita itu akan aktif ataupun diaktifkan untuk menjalankan aplikasi-aplikasi tersebut sesuai dengan beberapa kebutuhan aplikasi dan disesuaikan dengan ketersediaan memori.		
+AOK-08	AOK		152	457.810	459.410	1.600	jadi kalau memori kita	jadi kalau memori kita		
+AOK-08	AOK		153	459.410	461.630	2.220	di main memori kita sangat	di main memori kita sangat		
+AOK-08	AOK		154	461.630	464.110	2.480	longgar, jadi dengan kapasitas	longgar, jadi dengan kapasitas		
+AOK-08	AOK		155	464.110	465.550	1.440	yang 6GB ataupun	yang 6GB ataupun		
+AOK-08	AOK		156	465.550	467.270	1.720	16GB, saya kira itu	16GB, saya kira itu		
+AOK-08	AOK		157	467.270	469.550	2.280	kita bisa menjalankan aplikasi yang lebih	kita bisa menjalankan aplikasi yang lebih		
+AOK-08	AOK		158	469.550	471.670	2.120	leluasa, tapi kalau	leluasa, tapi kalau		
+AOK-08	AOK		159	471.670	473.510	1.840	misalkan memori kita terbatas	misalkan memori kita terbatas		
+AOK-08	AOK		160	473.510	475.690	2.180	terpaksa nanti operating system	terpaksa nanti operating system		
+AOK-08	AOK		161	475.690	477.830	2.140	akan define memori virtual	akan define memori virtual		
+AOK-08	AOK		162	477.830	479.550	1.720	yang mengikibatkan nanti	yang mengakibatkan nanti		
+AOK-08	AOK		163	479.550	480.830	1.280	performa komputer kita itu akan	performa komputer kita itu akan		
+AOK-08	AOK		164	480.830	482.150	1.320	melambat	melambat		
+AOK-08	AOK		165	482.150	485.230	3.080	ini adalah mekanisme virtual	ini adalah mekanisme virtual		
+AOK-08	AOK		166	485.230	487.230	2.000	memori dan	memori dan		
+AOK-08	AOK		167	487.230	489.630	2.400	aksesnya dan demikian pula	aksesnya dan demikian pula		
+AOK-08	AOK		168	489.630	491.750	2.120	dalam pengalokasian	dalam pengalokasian		
+AOK-08	AOK		169	491.750	493.270	1.520	memiliki nanti akan menggunakan	memiliki nanti akan menggunakan		
+AOK-08	AOK		170	493.270	494.890	1.620	segmentasi-segmentasi	segmentasi-segmentasi		
+AOK-08	AOK		171	494.890	497.690	2.800	sehingga antara instruksi dan data nanti bisa	sehingga antara instruksi dan data nanti bisa		
+AOK-08	AOK		172	497.690	499.610	1.920	teralokasi	teralokasi		
+AOK-08	AOK		173	499.610	501.450	1.840	pada tempat yang	pada tempat yang		
+AOK-08	AOK		174	501.450	503.110	1.660	benar	benar		
+AOK-08	AOK		175	503.110	505.290	2.180	contoh manajemen	contoh manajemen		
+AOK-08	AOK		176	505.290	507.690	2.400	manajemen	manajemen		
+AOK-08	AOK		177	507.690	508.590	0.900	memori di	memori di		
+AOK-08	AOK		178	508.590	511.150	2.560	Intel 8.6	Intel 8.6		
+AOK-08	AOK		179	511.150	513.430	2.280	disana ada segmentasi	disana ada segmentasi		
+AOK-08	AOK		180	513.430	515.070	1.640	ada register segment yang nantinya	ada register segment yang nantinya		
+AOK-08	AOK		181	515.070	517.770	2.700	berinteraksi dengan operating system	berinteraksi dengan operating system		
+AOK-08	AOK		182	517.770	519.390	1.620	nanti bagaimana mengalokasikan	nanti bagaimana mengalokasikan		
+AOK-08	AOK		183	519.390	521.510	2.120	memori-memori itu dalam	memori-memori itu dalam		
+AOK-08	AOK		184	521.510	523.050	1.540	proses	proses		
+AOK-08	AOK		185	523.050	525.950	2.900	penyimpanan	penyimpanan		
+AOK-08	AOK		186	525.950	527.750	1.800	datanya, jadi melalui	datanya, jadi melalui		
+AOK-08	AOK		187	527.750	529.850	2.100	mekanisme segmentasi dengan	mekanisme segmentasi dengan		
+AOK-08	AOK		188	529.850	533.410	3.560	penggunaan virtual	penggunaan virtual		
+AOK-08	AOK		189	533.410	535.990	2.580	ataupun dengan alokasi	ataupun dengan alokasi		
+AOK-08	AOK		190	535.990	537.430	1.440	pada umumnya sekarang ini menggunakan	pada umumnya sekarang ini menggunakan		
+AOK-08	AOK		191	537.430	540.150	2.720	virtual yang otomatis	virtual yang otomatis		
+AOK-08	AOK		192	540.150	542.430	2.280	di sistem operasi	di sistem operasi		
+AOK-08	AOK		193	542.430	543.350	0.920	operating system yang	operating system yang		
+AOK-08	AOK		194	543.350	545.530	2.180	baru, sehingga	baru, sehingga		
+AOK-08	AOK		195	545.530	547.570	2.040	prinsipnya bahwasannya	prinsipnya bahwasannya		
+AOK-08	AOK		196	547.570	549.950	2.380	segmen-segmen dalam memori	segmen-segmen dalam memori		
+AOK-08	AOK		197	549.950	551.990	2.040	ataupun dalam virtual nanti harus	ataupun dalam virtual nanti harus		
+AOK-08	AOK		198	551.990	553.910	1.920	tetap dijaga sehingga operasinya	tetap dijaga sehingga operasinya		
+AOK-08	AOK		199	553.910	556.390	2.480	bisa berjalan	bisa berjalan		
+AOK-08	AOK		200	556.390	558.410	2.020	ini adalah mekanisme segmentasi	ini adalah mekanisme segmentasi		
+AOK-08	AOK		201	558.410	560.190	1.780	dalam	dalam		
+AOK-08	AOK		202	560.190	563.930	3.740	memori kita	memori kita		
+AOK-08	AOK		203	563.930	564.790	0.860	dari manajemen	dari manajemen		
+AOK-08	AOK		204	564.790	567.670	2.880	memori dari Intel	memori dari Intel		
+AOK-08	AOK		205	567.670	569.810	2.140	tentu saja nanti berbeda	tentu saja nanti berbeda		
+AOK-08	AOK		206	569.810	572.130	2.320	tentu saja mekanisme manajemen	tentu saja mekanisme manajemen		
+AOK-08	AOK		207	572.130	575.530	3.400	memorinya antara satu prosesor dengan prosesor yang lain	memorinya antara satu prosesor dengan prosesor yang lain		
+AOK-08	AOK		208	575.530	578.670	3.140	dan operating system nanti akan menyesuaikan	dan operating system nanti akan menyesuaikan		
+AOK-08	AOK		209	578.670	581.250	2.580	oleh karena itu platform operating system ini	oleh karena itu platform operating system ini		
+AOK-08	AOK		210	581.250	584.390	3.140	antara satu prosesor dengan prosesor yang lain	antara satu prosesor dengan prosesor yang lain		
+AOK-08	AOK		211	584.390	586.930	2.540	itu bisa berbeda-beda	itu bisa berbeda-beda		
+AOK-08	AOK		212	586.930	590.210	3.280	jadi misalnya operating system	jadi misalnya operating system		
+AOK-08	AOK		213	590.210	593.270	3.060	android, tadi android itu ada android	android, tadi android itu ada android		
+AOK-08	AOK		214	593.270	596.150	2.880	padamnya menggunakan ARM	padamnya menggunakan ARM		
+AOK-08	AOK		215	596.150	599.250	3.100	dan ARM ini ada banyak-banyak vendor yang telah	dan ARM ini ada banyak-banyak vendor yang telah		
+AOK-08	AOK		216	599.250	600.530	1.280	branding ulang	branding ulang		
+AOK-08	AOK		217	600.530	603.410	2.880	prosesor masing-masing, jadi seperti	prosesor masing-masing, jadi seperti		
+AOK-08	AOK		218	603.410	605.110	1.700	prosesor dari	prosesor dari		
+AOK-08	AOK		219	605.110	606.710	1.600	Samsung	Samsung		
+AOK-08	AOK		220	606.710	609.470	2.760	kemudian Mediatek	kemudian Mediatek		
+AOK-08	AOK		221	609.470	610.430	0.960	ataupun dari	ataupun dari		
+AOK-08	AOK		222	610.430	615.570	5.140	beberapa pabrikan	beberapa pabrikan		
+AOK-08	AOK		223	615.570	617.270	1.700	seperti Intel itu memiliki	seperti Intel itu memiliki		
+AOK-08	AOK		224	617.270	619.410	2.140	spesifikasi prosesor dan nanti	spesifikasi prosesor dan nanti		
+AOK-08	AOK		225	619.410	621.090	1.680	meskipun sama-sama Android	meskipun sama-sama Android		
+AOK-08	AOK		226	621.090	623.550	2.460	barangkali nanti ada beberapa	barangkali nanti ada beberapa		
+AOK-08	AOK		227	623.550	625.230	1.680	perbedaan	perbedaan		
+AOK-08	AOK		228	625.230	627.950	2.720	apalagi antara operating system	apalagi antara operating system		
+AOK-08	AOK		229	627.950	629.890	1.940	dari sistem operasi	dari sistem operasi		
+AOK-08	AOK		230	629.890	631.430	1.540	misalkan kita punya Windows ini	misalkan kita punya Windows ini		
+AOK-08	AOK		231	631.430	634.110	2.680	padahal jalan di Intel ataupun AMD	padahal jalan di Intel ataupun AMD		
+AOK-08	AOK		232	634.110	635.610	1.500	nah mekanisme	nah mekanisme		
+AOK-08	AOK		233	635.610	637.730	2.120	manajemen memori	manajemen memori		
+AOK-08	AOK		234	637.730	639.990	2.260	disesuaikan dengan bagaimana	disesuaikan dengan bagaimana		
+AOK-08	AOK		235	639.990	642.130	2.140	alokasi manajemen segmentasi	alokasi manajemen segmentasi		
+AOK-08	AOK		236	642.130	644.350	2.220	yang ada di prosesor Intel	yang ada di prosesor Intel		
+AOK-08	AOK		237	644.350	646.130	1.780	dan	dan		
+AOK-08	AOK		238	646.130	647.150	1.020	mungkin juga compatible	mungkin juga compatible		
+AOK-08	AOK		239	647.150	649.350	2.200	tapi mungkin ke depan	tapi mungkin ke depan		
+AOK-08	AOK		240	649.350	651.930	2.580	Windows juga akan	Windows juga akan		
+AOK-08	AOK		241	651.930	653.350	1.420	bisa masuk	bisa masuk		
+AOK-08	AOK		242	653.350	656.070	2.720	menggunakan operating system	menggunakan operating system		
+AOK-08	AOK		243	656.070	658.150	2.080	platform dari ARM	platform dari ARM		
+AOK-08	AOK		244	658.150	660.150	2.000	mungkin sekarang masih terbatas	mungkin sekarang masih terbatas		
+AOK-08	AOK		245	660.150	661.890	1.740	tapi mungkin ke depan	tapi mungkin ke depan		
+AOK-08	AOK		246	661.890	663.910	2.020	prosesor ARM ini kayaknya	prosesor ARM ini kayaknya		
+AOK-08	AOK		247	663.910	665.850	1.940	juga memiliki segmen yang	juga memiliki segmen yang		
+AOK-08	AOK		248	665.850	667.890	2.040	cukup menarik	cukup menarik		
+AOK-08	AOK		249	667.890	669.290	1.400	karena efisiensi	karena efisiensi		
+AOK-08	AOK		250	669.290	669.890	0.600	jadi padahal	jadi padahal		
+AOK-08	AOK		251	669.890	673.710	3.820	keunggulan dari prosesor ARM ini	keunggulan dari prosesor ARM ini		
+AOK-08	AOK		252	673.710	674.590	0.880	terletak pada	terletak pada		
+AOK-08	AOK		253	674.590	677.890	3.300	low power consumption	low power consumption		
+AOK-08	AOK		254	677.890	679.310	1.420	sehingga hemat	sehingga hemat		
+AOK-08	AOK		255	679.310	680.930	1.620	baterai, padahal untuk	baterai, padahal untuk		
+AOK-08	AOK		256	680.930	683.490	2.560	mobile-mobile, perangkat-perangkat mobile	mobile-mobile, perangkat-perangkat mobile		
+AOK-08	AOK		257	683.490	684.910	1.420	ini dengan ARM, tetapi	ini dengan ARM, tetapi		
+AOK-08	AOK		258	684.910	686.930	2.020	Intel memiliki keunggulan	Intel memiliki keunggulan		
+AOK-08	AOK		259	686.930	688.370	1.440	dalam sisi performance	dalam sisi performance		
+AOK-08	AOK		260	688.370	690.610	2.240	dari sisi performance dan efisiensi	dari sisi performance dan efisiensi		
+AOK-08	AOK		261	690.610	691.670	1.060	jadi	jadi		
+AOK-08	AOK		262	691.670	694.130	2.460	management memory di	management memory di		
+AOK-08	AOK		263	694.130	695.550	1.420	Intel pada umumnya lebih	Intel pada umumnya lebih		
+AOK-08	AOK		264	695.550	697.530	1.980	kompak gitu ya	kompak gitu ya		
+AOK-08	AOK		265	697.530	697.930	0.400	lebih	lebih		
+AOK-08	AOK		266	697.930	704.190	6.260	efisien gitu ya	efisien gitu ya		
+AOK-08	AOK		267	704.190	705.890	1.700	sehingga alokasinya	sehingga alokasinya		
+AOK-08	AOK		268	705.890	708.030	2.140	sama-sama kita punya RAM	sama-sama kita punya RAM		
+AOK-08	AOK		269	708.030	709.470	1.440	dengan 8GB di	dengan 8GB di		
+AOK-08	AOK		270	709.470	712.490	3.020	handphone kita yang berbesar	handphone kita yang berbesar		
+AOK-08	AOK		271	712.490	714.190	1.700	yang pada umumnya dibandingkan	yang pada umumnya dibandingkan		
+AOK-08	AOK		272	714.190	716.270	2.080	dengan lawan mereka	dengan lawan mereka		
+AOK-08	AOK		273	716.270	718.050	1.780	di laptop ataupun PC	di laptop ataupun PC		
+AOK-08	AOK		274	718.050	718.610	0.560	itu	itu		
+AOK-08	AOK		275	718.610	722.410	3.800	bisa lebih banyak menampung	bisa lebih banyak menampung		
+AOK-08	AOK		276	722.410	723.730	1.320	aplikasi waktun data	aplikasi waktun data		
+AOK-08	AOK		277	723.730	725.970	2.240	ataupun manajemen	ataupun manajemen		
+AOK-08	AOK		278	725.970	727.830	1.860	aplikasinya	aplikasinya		
+AOK-08	AOK		279	727.830	730.250	2.420	jadi tampaknya memang	jadi tampaknya memang		
+AOK-08	AOK		280	730.250	732.130	1.880	ada beberapa	ada beberapa		
+AOK-08	AOK		281	732.130	733.670	1.540	keunggulan memang di	keunggulan memang di		
+AOK-08	AOK		282	733.670	736.470	2.800	proses-proses yang berbasiskan	proses-proses yang berbasiskan		
+AOK-08	AOK		283	736.470	737.230	0.760	Intel ini	Intel ini		
+AOK-08	AOK		284	737.230	738.450	1.220	ini adalah	ini adalah		
+AOK-08	AOK		285	738.450	740.870	2.420	mekanisme addressing	mekanisme addressing		
+AOK-08	AOK		286	740.870	742.190	1.320	dari mid memory ke	dari mid memory ke		
+AOK-08	AOK		287	742.190	745.470	3.280	ke prosesor	ke prosesor		
+AOK-08	AOK		288	745.470	747.190	1.720	untuk yang RM	untuk yang ARM		
+AOK-08	AOK		289	747.190	748.570	1.380	dengan manajemen	dengan manajemen		
+AOK-08	AOK		290	748.570	751.510	2.940	memory unit yang nantinya bagaimana	memory unit yang nantinya bagaimana		
+AOK-08	AOK		291	751.510	752.510	1.000	mengalokasikan	mengalokasikan		
+AOK-08	AOK		292	752.510	754.810	2.300	case	cache		
+AOK-08	AOK		293	754.810	756.430	1.620	manajemen case	manajemen cache		
+AOK-08	AOK		294	756.430	759.750	3.320	dan proses dengan ke main memory	dan proses dengan ke main memory		
+AOK-08	AOK		295	759.750	761.210	1.460	jadi pada penunjuknya	jadi pada penunjuknya		
+AOK-08	AOK		296	761.210	763.870	2.660	masing-masing prosesor itu memiliki	masing-masing prosesor itu memiliki		
+AOK-08	AOK		297	763.870	765.650	1.780	proses manajemen waktu	proses manajemen waktu		
+AOK-08	AOK		298	765.650	766.150	0.500	yang	yang		
+AOK-08	AOK		299	766.150	769.350	3.200	berbeda-beda dan memiliki	berbeda-beda dan memiliki		
+AOK-08	AOK		300	769.350	771.530	2.180	keunggulan yang berbeda untuk	keunggulan yang berbeda untuk		
+AOK-08	AOK		301	771.530	773.750	2.220	proses aksesnya	proses aksesnya		
+AOK-08	AOK		302	773.750	775.210	1.460	oke	oke		
+AOK-08	AOK		303	775.210	777.710	2.500	demikian untuk sesi kedua	demikian untuk sesi kedua		
+AOK-08	AOK		304	777.710	780.290	2.580	materi operating system	materi operating system		
+AOK-08	AOK		305	780.290	783.790	3.500	kita ketemu	kita ketemu		
+AOK-08	AOK		306	783.790	785.710	1.920	pada materi	pada materi		
+AOK-08	AOK		307	785.710	788.250	2.540	selanjutnya	selanjutnya		
+AOK-08	AOK		308	788.250	789.890	1.640	selamat	selamat		
+AOK-08	AOK		309	789.890	794.460	4.570	untuk bisa meneruskan	untuk bisa meneruskan		
+AOK-08	AOK		310	794.460	796.200	1.740	pada materi	pada materi		
+AOK-08	AOK		311	797.040	798.620	1.580	berikutnya kita sambung	berikutnya kita sambung		
+AOK-08	AOK		312	798.620	799.520	0.900	ke depan	ke depan		
+AOK-08	AOK		313	799.520	801.880	2.360	demikian, assalamualaikum warahmatullahi	demikian, assalamualaikum warahmatullahi		
+AOK-08	AOK		314	801.880	803.460	1.580	wabarakatuh	wabarakatuh		

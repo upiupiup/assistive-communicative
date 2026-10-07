@@ -15,4 +15,10 @@ venv/
 Thumbs.db
 .DS_Store
 
-data/
+data/raw/
+data/processed/audio/
+
+*.zip
+*.pdf
+*.mp4
+data/sessions/
