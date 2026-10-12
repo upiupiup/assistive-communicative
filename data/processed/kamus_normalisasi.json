@@ -1,7 +1,7 @@
 {
   "versi": 1,
-  "status": "draf",
-  "tanggal_kunci": null,
+  "status": "terkunci",
+  "tanggal_kunci": "2026-10-13",
   "disusun_dari": "transkrip acuan himpunan latih dan validasi, ditambah contoh pada subbab 3.6.3",
   "catatan": "Ubah status menjadi 'terkunci' dan isi tanggal_kunci setelah ditinjau. Sesudah terkunci, isi kamus tidak boleh diubah selama pengukuran.",
   "ejaan_lisan": {

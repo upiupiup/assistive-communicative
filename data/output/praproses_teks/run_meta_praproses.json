@@ -1,5 +1,5 @@
 {
-  "tanggal": "2026-10-12T22:57:28",
+  "tanggal": "2026-10-12T23:08:51",
   "tahap": "pembagian data, praproses teks, segmen latih",
   "python": "3.12.4",
   "platform": "Windows-11-10.0.26200-SP0",
@@ -47,8 +47,8 @@
     ]
   },
   "kamus": {
-    "status": "draf",
-    "tanggal_kunci": null
+    "status": "terkunci",
+    "tanggal_kunci": "2026-10-13"
   },
   "segmen_latih": {
     "maks_durasi": 30.0,
