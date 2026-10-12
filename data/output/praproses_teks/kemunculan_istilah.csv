@@ -1,0 +1,503 @@
+﻿mata_kuliah,split,entri_id,bentuk_kanonik,kemunculan
+AOK,latih,AOK-004,ALU,24
+AOK,latih,AOK-006,ARM,8
+AOK,latih,AOK-007,arsitektur komputer,9
+AOK,latih,AOK-010,binary,1
+AOK,latih,AOK-011,bit,18
+AOK,latih,AOK-012,boolean function,2
+AOK,latih,AOK-014,buffer,9
+AOK,latih,AOK-015,bus,21
+AOK,latih,AOK-016,byte,3
+AOK,latih,AOK-017,cache,7
+AOK,latih,AOK-020,chip,1
+AOK,latih,AOK-026,computer arithmetic,7
+AOK,latih,AOK-027,control unit,7
+AOK,latih,AOK-028,core,4
+AOK,latih,AOK-030,CPU,44
+AOK,latih,AOK-031,data bus,4
+AOK,latih,AOK-035,device controller,3
+AOK,latih,AOK-038,disk,22
+AOK,latih,AOK-041,DRAM,2
+AOK,latih,AOK-042,EEPROM,10
+AOK,latih,AOK-045,error correction,7
+AOK,latih,AOK-047,external memory,1
+AOK,latih,AOK-048,fetch,17
+AOK,latih,AOK-050,flash memory,13
+AOK,latih,AOK-051,flip-flop,4
+AOK,latih,AOK-054,I/O,27
+AOK,latih,AOK-055,I/O module,8
+AOK,latih,AOK-060,instruction,44
+AOK,latih,AOK-061,instruction cycle,9
+AOK,latih,AOK-067,interconnection,5
+AOK,latih,AOK-069,internal memory,4
+AOK,latih,AOK-070,interrupt,32
+AOK,latih,AOK-071,interrupt handler,1
+AOK,latih,AOK-075,machine instruction,1
+AOK,latih,AOK-076,main memory,10
+AOK,latih,AOK-078,MAR,3
+AOK,latih,AOK-079,MBR,3
+AOK,latih,AOK-080,memori,116
+AOK,latih,AOK-081,memory cell,7
+AOK,latih,AOK-082,memory management,4
+AOK,latih,AOK-099,operand,10
+AOK,latih,AOK-100,operating system,31
+AOK,latih,AOK-101,organisasi komputer,17
+AOK,latih,AOK-109,program counter,4
+AOK,latih,AOK-111,prosesor,40
+AOK,latih,AOK-112,RAID,1
+AOK,latih,AOK-113,RAM,34
+AOK,latih,AOK-115,register,53
+AOK,latih,AOK-120,ROM,14
+AOK,latih,AOK-121,scheduling,3
+AOK,latih,AOK-124,segmentation,6
+AOK,latih,AOK-134,SSD,4
+AOK,latih,AOK-139,thread,6
+AOK,latih,AOK-141,track,30
+AOK,latih,AOK-143,transistor,4
+AOK,latih,AOK-146,virtual memory,4
+AOK,latih,AOK-147,volatile,1
+AOK,uji,AOK-001,access time,1
+AOK,uji,AOK-004,ALU,1
+AOK,uji,AOK-007,arsitektur komputer,1
+AOK,uji,AOK-011,bit,5
+AOK,uji,AOK-014,buffer,10
+AOK,uji,AOK-015,bus,10
+AOK,uji,AOK-016,byte,1
+AOK,uji,AOK-017,cache,49
+AOK,uji,AOK-022,clock,1
+AOK,uji,AOK-026,computer arithmetic,1
+AOK,uji,AOK-028,core,4
+AOK,uji,AOK-030,CPU,44
+AOK,uji,AOK-031,data bus,2
+AOK,uji,AOK-032,data transfer,4
+AOK,uji,AOK-038,disk,7
+AOK,uji,AOK-047,external memory,1
+AOK,uji,AOK-054,I/O,28
+AOK,uji,AOK-055,I/O module,23
+AOK,uji,AOK-060,instruction,12
+AOK,uji,AOK-068,interface,1
+AOK,uji,AOK-069,internal memory,4
+AOK,uji,AOK-076,main memory,22
+AOK,uji,AOK-080,memori,66
+AOK,uji,AOK-081,memory cell,1
+AOK,uji,AOK-085,microprocessor,2
+AOK,uji,AOK-101,organisasi komputer,2
+AOK,uji,AOK-106,peripheral,7
+AOK,uji,AOK-111,prosesor,9
+AOK,uji,AOK-113,RAM,10
+AOK,uji,AOK-114,random access,2
+AOK,uji,AOK-115,register,8
+AOK,uji,AOK-120,ROM,9
+AOK,uji,AOK-125,semiconductor memory,2
+AOK,uji,AOK-138,tag,1
+AOK,uji,AOK-142,transfer rate,2
+AOK,uji,AOK-147,volatile,7
+AOK,uji,AOK-148,word,2
+AOK,uji,AOK-149,write back,2
+AOK,validasi,AOK-004,ALU,4
+AOK,validasi,AOK-006,ARM,1
+AOK,validasi,AOK-007,arsitektur komputer,9
+AOK,validasi,AOK-011,bit,1
+AOK,validasi,AOK-015,bus,3
+AOK,validasi,AOK-023,cloud computing,1
+AOK,validasi,AOK-027,control unit,2
+AOK,validasi,AOK-028,core,2
+AOK,validasi,AOK-030,CPU,7
+AOK,validasi,AOK-044,embedded system,1
+AOK,validasi,AOK-054,I/O,14
+AOK,validasi,AOK-060,instruction,5
+AOK,validasi,AOK-064,instruction set,1
+AOK,validasi,AOK-067,interconnection,1
+AOK,validasi,AOK-076,main memory,2
+AOK,validasi,AOK-080,memori,7
+AOK,validasi,AOK-101,organisasi komputer,6
+AOK,validasi,AOK-106,peripheral,4
+AOK,validasi,AOK-111,prosesor,4
+AOK,validasi,AOK-115,register,1
+AOK,validasi,AOK-150,x86,3
+APS,latih,APS-004,acceptance testing,4
+APS,latih,APS-008,adaptability,1
+APS,latih,APS-013,analisis,28
+APS,latih,APS-016,atribut,5
+APS,latih,APS-019,black-box testing,2
+APS,latih,APS-039,diagram,5
+APS,latih,APS-063,integration testing,7
+APS,latih,APS-065,interface,4
+APS,latih,APS-068,kebutuhan,26
+APS,latih,APS-069,kelas,24
+APS,latih,APS-070,kohesi,2
+APS,latih,APS-071,komponen,11
+APS,latih,APS-072,kopling,9
+APS,latih,APS-079,method,9
+APS,latih,APS-080,model,3
+APS,latih,APS-085,object oriented,6
+APS,latih,APS-086,object oriented analysis,1
+APS,latih,APS-092,operasi,1
+APS,latih,APS-096,pemodelan,1
+APS,latih,APS-097,pengembangan perangkat lunak,1
+APS,latih,APS-098,pengujian,15
+APS,latih,APS-099,perancangan,63
+APS,latih,APS-100,perancangan arsitektural,2
+APS,latih,APS-104,perangkat lunak,10
+APS,latih,APS-112,pseudocode,8
+APS,latih,APS-119,sequence diagram,1
+APS,latih,APS-121,sistem,141
+APS,latih,APS-122,sistem informasi,10
+APS,latih,APS-133,system testing,15
+APS,latih,APS-134,test case,2
+APS,latih,APS-136,UML,2
+APS,latih,APS-138,understandability,1
+APS,latih,APS-139,unit testing,6
+APS,latih,APS-140,usability,1
+APS,latih,APS-141,use case,3
+APS,latih,APS-143,use case scenario,1
+APS,latih,APS-145,user interface,2
+APS,latih,APS-149,white-box testing,3
+APS,uji,APS-002,abstraksi,1
+APS,uji,APS-005,activity diagram,3
+APS,uji,APS-006,actor,3
+APS,uji,APS-013,analisis,29
+APS,uji,APS-015,association,2
+APS,uji,APS-023,class diagram,4
+APS,uji,APS-027,component diagram,1
+APS,uji,APS-030,constraint,1
+APS,uji,APS-035,data flow diagram,4
+APS,uji,APS-039,diagram,21
+APS,uji,APS-054,generalization,2
+APS,uji,APS-065,interface,1
+APS,uji,APS-068,kebutuhan,2
+APS,uji,APS-069,kelas,7
+APS,uji,APS-071,komponen,1
+APS,uji,APS-075,lifeline,1
+APS,uji,APS-079,method,6
+APS,uji,APS-085,object oriented,9
+APS,uji,APS-086,object oriented analysis,13
+APS,uji,APS-088,objek,21
+APS,uji,APS-095,packaging,2
+APS,uji,APS-096,pemodelan,1
+APS,uji,APS-099,perancangan,21
+APS,uji,APS-104,perangkat lunak,3
+APS,uji,APS-119,sequence diagram,6
+APS,uji,APS-121,sistem,47
+APS,uji,APS-122,sistem informasi,1
+APS,uji,APS-130,sub-sistem,1
+APS,uji,APS-136,UML,12
+APS,uji,APS-141,use case,4
+APS,uji,APS-142,use case diagram,8
+APS,validasi,APS-002,abstraksi,6
+APS,validasi,APS-005,activity diagram,2
+APS,validasi,APS-013,analisis,3
+APS,validasi,APS-016,atribut,7
+APS,validasi,APS-017,behavioral,3
+APS,validasi,APS-023,class diagram,1
+APS,validasi,APS-037,database,2
+APS,validasi,APS-038,design pattern,1
+APS,validasi,APS-039,diagram,3
+APS,validasi,APS-045,entity relationship diagram,1
+APS,validasi,APS-065,interface,17
+APS,validasi,APS-068,kebutuhan,16
+APS,validasi,APS-069,kelas,8
+APS,validasi,APS-071,komponen,12
+APS,validasi,APS-080,model,29
+APS,validasi,APS-085,object oriented,1
+APS,validasi,APS-097,pengembangan perangkat lunak,1
+APS,validasi,APS-099,perancangan,76
+APS,validasi,APS-100,perancangan arsitektural,9
+APS,validasi,APS-102,perancangan interface,1
+APS,validasi,APS-104,perangkat lunak,27
+APS,validasi,APS-119,sequence diagram,1
+APS,validasi,APS-121,sistem,10
+APS,validasi,APS-125,spesifikasi kebutuhan,3
+APS,validasi,APS-130,sub-sistem,1
+APS,validasi,APS-140,usability,2
+APS,validasi,APS-141,use case,2
+APS,validasi,APS-143,use case scenario,2
+IMK,latih,IMK-003,affordance,6
+IMK,latih,IMK-006,button,2
+IMK,latih,IMK-007,cognitive,2
+IMK,latih,IMK-009,colour,2
+IMK,latih,IMK-012,computer,20
+IMK,latih,IMK-013,consistency,5
+IMK,latih,IMK-014,constraint,4
+IMK,latih,IMK-017,design,42
+IMK,latih,IMK-019,design process,14
+IMK,latih,IMK-025,display,4
+IMK,latih,IMK-026,documentation,1
+IMK,latih,IMK-031,efficiency,1
+IMK,latih,IMK-034,ergonomics,1
+IMK,latih,IMK-037,evaluation,74
+IMK,latih,IMK-038,execution/evaluation loop,1
+IMK,latih,IMK-039,feedback,9
+IMK,latih,IMK-044,goal,34
+IMK,latih,IMK-047,guideline,1
+IMK,latih,IMK-054,heuristic evaluation,1
+IMK,latih,IMK-055,human,17
+IMK,latih,IMK-058,human-computer interaction,25
+IMK,latih,IMK-064,interaction,44
+IMK,latih,IMK-065,interaction design,41
+IMK,latih,IMK-069,interface,14
+IMK,latih,IMK-072,keyboard,3
+IMK,latih,IMK-073,layout,1
+IMK,latih,IMK-078,mental model,19
+IMK,latih,IMK-079,menu,1
+IMK,latih,IMK-080,metaphor,8
+IMK,latih,IMK-081,mode,1
+IMK,latih,IMK-082,mouse,5
+IMK,latih,IMK-091,paradigm,9
+IMK,latih,IMK-096,principle,11
+IMK,latih,IMK-098,prototype,5
+IMK,latih,IMK-100,questionnaire,7
+IMK,latih,IMK-104,recognition,2
+IMK,latih,IMK-105,requirements,44
+IMK,latih,IMK-108,satisfaction,1
+IMK,latih,IMK-109,scanner,2
+IMK,latih,IMK-110,scenario,2
+IMK,latih,IMK-121,standard,2
+IMK,latih,IMK-123,System Usability Scale,3
+IMK,latih,IMK-124,task,8
+IMK,latih,IMK-134,usability,13
+IMK,latih,IMK-137,usability testing,13
+IMK,latih,IMK-138,user,178
+IMK,latih,IMK-139,user experience,12
+IMK,latih,IMK-140,user interface,10
+IMK,latih,IMK-143,vision,4
+IMK,latih,IMK-144,visual impairment,1
+IMK,latih,IMK-149,World Wide Web,1
+IMK,uji,IMK-006,button,4
+IMK,uji,IMK-007,cognitive,3
+IMK,uji,IMK-012,computer,1
+IMK,uji,IMK-017,design,1
+IMK,uji,IMK-025,display,1
+IMK,uji,IMK-035,error,1
+IMK,uji,IMK-044,goal,4
+IMK,uji,IMK-046,grouping,1
+IMK,uji,IMK-055,human,4
+IMK,uji,IMK-058,human-computer interaction,2
+IMK,uji,IMK-065,interaction design,14
+IMK,uji,IMK-069,interface,1
+IMK,uji,IMK-077,memory,10
+IMK,uji,IMK-078,mental model,1
+IMK,uji,IMK-079,menu,1
+IMK,uji,IMK-096,principle,1
+IMK,uji,IMK-103,recall,3
+IMK,uji,IMK-104,recognition,1
+IMK,uji,IMK-138,user,28
+IMK,uji,IMK-149,World Wide Web,2
+JARNIR,latih,JARNIR-009,antena,2
+JARNIR,latih,JARNIR-040,FHSS,1
+JARNIR,latih,JARNIR-043,frekuensi,6
+JARNIR,latih,JARNIR-051,gelombang radio,4
+JARNIR,latih,JARNIR-054,guard interval,1
+JARNIR,latih,JARNIR-057,IEEE 802.11,5
+JARNIR,latih,JARNIR-065,interferensi,1
+JARNIR,latih,JARNIR-068,jaringan nirkabel,39
+JARNIR,latih,JARNIR-069,jaringan seluler,1
+JARNIR,latih,JARNIR-072,kanal,2
+JARNIR,latih,JARNIR-075,local area network,11
+JARNIR,latih,JARNIR-081,MAC,1
+JARNIR,latih,JARNIR-084,media transmisi,1
+JARNIR,latih,JARNIR-087,mobilitas,1
+JARNIR,latih,JARNIR-098,nirkabel,46
+JARNIR,latih,JARNIR-108,peer-to-peer,1
+JARNIR,latih,JARNIR-115,protokol,9
+JARNIR,latih,JARNIR-130,sinyal,17
+JARNIR,latih,JARNIR-138,transmisi,2
+JARNIR,latih,JARNIR-144,Wi-Fi,5
+JARNIR,latih,JARNIR-145,wide area network,5
+JARNIR,uji,JARNIR-009,antena,1
+JARNIR,uji,JARNIR-016,bluetooth,7
+JARNIR,uji,JARNIR-072,kanal,1
+JARNIR,uji,JARNIR-075,local area network,40
+JARNIR,uji,JARNIR-084,media transmisi,1
+JARNIR,uji,JARNIR-098,nirkabel,6
+JARNIR,uji,JARNIR-099,node,1
+JARNIR,uji,JARNIR-109,personal area network,20
+JARNIR,uji,JARNIR-130,sinyal,2
+JARNIR,uji,JARNIR-144,Wi-Fi,7
+JARNIR,uji,JARNIR-145,wide area network,13
+JARNIR,validasi,JARNIR-049,gateway,4
+JARNIR,validasi,JARNIR-054,guard interval,1
+JARNIR,validasi,JARNIR-066,Internet of Things,15
+JARNIR,validasi,JARNIR-072,kanal,1
+JARNIR,validasi,JARNIR-076,LoRa,1
+JARNIR,validasi,JARNIR-092,MQTT,2
+JARNIR,validasi,JARNIR-098,nirkabel,1
+JARNIR,validasi,JARNIR-099,node,2
+JARNIR,validasi,JARNIR-115,protokol,2
+JARNIR,validasi,JARNIR-137,topologi bintang,1
+JARNIR,validasi,JARNIR-139,transmitter address,1
+JARNIR,validasi,JARNIR-144,Wi-Fi,1
+JARNIR,validasi,JARNIR-148,wireless sensor network,12
+PKK,latih,PKK-007,application software,16
+PKK,latih,PKK-009,artificial intelligence,1
+PKK,latih,PKK-017,brainware,16
+PKK,latih,PKK-026,control unit,2
+PKK,latih,PKK-028,CPU,18
+PKK,latih,PKK-056,hardware,25
+PKK,latih,PKK-060,input,19
+PKK,latih,PKK-061,intel,1
+PKK,latih,PKK-065,keilmuan komputer,3
+PKK,latih,PKK-066,keyboard,4
+PKK,latih,PKK-071,komputer,95
+PKK,latih,PKK-085,memory,11
+PKK,latih,PKK-087,Microsoft Excel,3
+PKK,latih,PKK-089,monitor,7
+PKK,latih,PKK-092,mouse,7
+PKK,latih,PKK-095,network,3
+PKK,latih,PKK-097,operating system,12
+PKK,latih,PKK-098,optical disc,2
+PKK,latih,PKK-099,output,17
+PKK,latih,PKK-106,printer,4
+PKK,latih,PKK-107,problem solving,1
+PKK,latih,PKK-109,programmer,5
+PKK,latih,PKK-115,RAM,4
+PKK,latih,PKK-119,requirement,1
+PKK,latih,PKK-123,scanner,2
+PKK,latih,PKK-126,sertifikasi,1
+PKK,latih,PKK-127,server,1
+PKK,latih,PKK-129,sistem komputer,16
+PKK,latih,PKK-130,software,32
+PKK,latih,PKK-134,storage,12
+PKK,latih,PKK-135,system analyst,4
+PKK,latih,PKK-143,transistor,5
+PKK,latih,PKK-144,tren,1
+PKK,latih,PKK-146,virus,1
+PKK,latih,PKK-149,windows,15
+PKK,latih,PKK-150,wireless,3
+PKK,uji,PKK-001,abstraction,1
+PKK,uji,PKK-004,algorithm,6
+PKK,uji,PKK-007,application software,5
+PKK,uji,PKK-017,brainware,2
+PKK,uji,PKK-028,CPU,2
+PKK,uji,PKK-030,critical thinking,1
+PKK,uji,PKK-037,decomposition,2
+PKK,uji,PKK-039,digital ethics,2
+PKK,uji,PKK-044,etika,1
+PKK,uji,PKK-052,hak cipta,1
+PKK,uji,PKK-056,hardware,4
+PKK,uji,PKK-059,informatika,9
+PKK,uji,PKK-060,input,3
+PKK,uji,PKK-062,internet,8
+PKK,uji,PKK-066,keyboard,2
+PKK,uji,PKK-071,komputer,11
+PKK,uji,PKK-081,logical thinking,1
+PKK,uji,PKK-089,monitor,1
+PKK,uji,PKK-092,mouse,1
+PKK,uji,PKK-097,operating system,2
+PKK,uji,PKK-099,output,4
+PKK,uji,PKK-100,pattern,3
+PKK,uji,PKK-107,problem solving,5
+PKK,uji,PKK-115,RAM,1
+PKK,uji,PKK-119,requirement,1
+PKK,uji,PKK-123,scanner,1
+PKK,uji,PKK-125,security,1
+PKK,uji,PKK-130,software,12
+PKK,uji,PKK-149,windows,1
+RPL,latih,RPL-001,abstraction,4
+RPL,latih,RPL-003,agile,26
+RPL,latih,RPL-010,bug,2
+RPL,latih,RPL-012,class diagram,10
+RPL,latih,RPL-015,completeness,4
+RPL,latih,RPL-018,composition,1
+RPL,latih,RPL-021,constraint,3
+RPL,latih,RPL-022,customer,5
+RPL,latih,RPL-029,delivery,1
+RPL,latih,RPL-030,deployment,2
+RPL,latih,RPL-031,developer,10
+RPL,latih,RPL-038,extreme programming,25
+RPL,latih,RPL-040,feature,9
+RPL,latih,RPL-045,functional requirement,4
+RPL,latih,RPL-049,implementation,4
+RPL,latih,RPL-051,integration testing,1
+RPL,latih,RPL-059,model,91
+RPL,latih,RPL-060,modeling,15
+RPL,latih,RPL-062,notation,4
+RPL,latih,RPL-065,perangkat lunak,151
+RPL,latih,RPL-069,phase,4
+RPL,latih,RPL-071,problem,27
+RPL,latih,RPL-072,problem domain,1
+RPL,latih,RPL-073,product backlog,1
+RPL,latih,RPL-080,programming,5
+RPL,latih,RPL-083,prototyping,1
+RPL,latih,RPL-087,rekayasa perangkat lunak,20
+RPL,latih,RPL-089,requirement,61
+RPL,latih,RPL-092,requirements analysis,2
+RPL,latih,RPL-095,requirements engineering,1
+RPL,latih,RPL-097,requirements specification,1
+RPL,latih,RPL-102,scenario,20
+RPL,latih,RPL-105,scrum,21
+RPL,latih,RPL-106,scrum master,2
+RPL,latih,RPL-109,security,1
+RPL,latih,RPL-113,software component,2
+RPL,latih,RPL-114,software design,21
+RPL,latih,RPL-115,software development,9
+RPL,latih,RPL-119,software process,4
+RPL,latih,RPL-122,software project,6
+RPL,latih,RPL-127,sprint,12
+RPL,latih,RPL-128,SRS,2
+RPL,latih,RPL-129,stakeholder,7
+RPL,latih,RPL-130,system requirements,4
+RPL,latih,RPL-131,test case,6
+RPL,latih,RPL-132,testing,71
+RPL,latih,RPL-136,unit testing,3
+RPL,latih,RPL-138,user,23
+RPL,latih,RPL-139,user interface,1
+RPL,latih,RPL-141,user requirements,1
+RPL,latih,RPL-142,user story,11
+RPL,latih,RPL-145,validation,8
+RPL,latih,RPL-146,verification,9
+RPL,uji,RPL-022,customer,4
+RPL,uji,RPL-031,developer,4
+RPL,uji,RPL-040,feature,7
+RPL,uji,RPL-049,implementation,1
+RPL,uji,RPL-059,model,54
+RPL,uji,RPL-060,modeling,8
+RPL,uji,RPL-061,natural language,1
+RPL,uji,RPL-062,notation,4
+RPL,uji,RPL-065,perangkat lunak,26
+RPL,uji,RPL-071,problem,4
+RPL,uji,RPL-083,prototyping,9
+RPL,uji,RPL-087,rekayasa perangkat lunak,3
+RPL,uji,RPL-089,requirement,30
+RPL,uji,RPL-092,requirements analysis,2
+RPL,uji,RPL-102,scenario,14
+RPL,uji,RPL-114,software design,16
+RPL,uji,RPL-115,software development,1
+RPL,uji,RPL-122,software project,1
+RPL,uji,RPL-129,stakeholder,3
+RPL,uji,RPL-132,testing,3
+RPL,uji,RPL-137,usability,9
+RPL,uji,RPL-138,user,48
+RPL,uji,RPL-139,user interface,15
+RPL,uji,RPL-140,user interface design,1
+RPL,uji,RPL-141,user requirements,1
+RPL,uji,RPL-146,verification,1
+RPL,validasi,RPL-003,agile,3
+RPL,validasi,RPL-019,configuration management,1
+RPL,validasi,RPL-022,customer,6
+RPL,validasi,RPL-030,deployment,7
+RPL,validasi,RPL-031,developer,4
+RPL,validasi,RPL-040,feature,3
+RPL,validasi,RPL-049,implementation,3
+RPL,validasi,RPL-056,kualitas perangkat lunak,1
+RPL,validasi,RPL-059,model,50
+RPL,validasi,RPL-060,modeling,8
+RPL,validasi,RPL-065,perangkat lunak,47
+RPL,validasi,RPL-069,phase,7
+RPL,validasi,RPL-071,problem,9
+RPL,validasi,RPL-083,prototyping,18
+RPL,validasi,RPL-087,rekayasa perangkat lunak,9
+RPL,validasi,RPL-088,release,1
+RPL,validasi,RPL-089,requirement,19
+RPL,validasi,RPL-090,requirement gathering,3
+RPL,validasi,RPL-101,risk management,1
+RPL,validasi,RPL-102,scenario,1
+RPL,validasi,RPL-114,software design,1
+RPL,validasi,RPL-115,software development,4
+RPL,validasi,RPL-119,software process,1
+RPL,validasi,RPL-122,software project,2
+RPL,validasi,RPL-126,spiral,6
+RPL,validasi,RPL-129,stakeholder,7
+RPL,validasi,RPL-132,testing,1
+RPL,validasi,RPL-138,user,14
+RPL,validasi,RPL-148,waterfall,9

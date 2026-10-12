@@ -1,0 +1,36 @@
+{
+  "versi": 1,
+  "status": "draf",
+  "tanggal_kunci": null,
+  "disusun_dari": "transkrip acuan himpunan latih dan validasi, ditambah contoh pada subbab 3.6.3",
+  "catatan": "Ubah status menjadi 'terkunci' dan isi tanggal_kunci setelah ditinjau. Sesudah terkunci, isi kamus tidak boleh diubah selama pengukuran.",
+  "ejaan_lisan": {
+    "gak": "enggak",
+    "ga": "enggak",
+    "engga": "enggak",
+    "ngga": "enggak",
+    "nggak": "enggak"
+  },
+  "singkatan": {
+    "yg": "yang",
+    "dgn": "dengan",
+    "tdk": "tidak",
+    "utk": "untuk",
+    "dll": "dan lain lain",
+    "dsb": "dan sebagainya",
+    "dst": "dan seterusnya",
+    "tsb": "tersebut"
+  },
+  "jeda_terisi": [
+    "e",
+    "ee",
+    "eee",
+    "eeee",
+    "eem",
+    "em",
+    "emm",
+    "hm",
+    "hmm",
+    "mm"
+  ]
+}

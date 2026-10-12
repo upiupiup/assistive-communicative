@@ -1,0 +1,63 @@
+{
+  "tanggal": "2026-10-12T22:57:28",
+  "tahap": "pembagian data, praproses teks, segmen latih",
+  "python": "3.12.4",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "split": {
+    "uji": [
+      "AOK-04",
+      "AOK-07",
+      "APS-03",
+      "APS-05",
+      "IMK-02",
+      "JARNIR-03",
+      "PKK-02",
+      "RPL-07",
+      "RPL-10"
+    ],
+    "validasi": [
+      "AOK-01",
+      "APS-02",
+      "JARNIR-05",
+      "RPL-02"
+    ],
+    "latih": [
+      "AOK-02",
+      "AOK-03",
+      "AOK-05",
+      "AOK-06",
+      "AOK-08",
+      "APS-01",
+      "APS-04",
+      "APS-06",
+      "IMK-01",
+      "IMK-03",
+      "IMK-04",
+      "IMK-05",
+      "PKK-01",
+      "PKK-03",
+      "PKK-05",
+      "RPL-03",
+      "RPL-04",
+      "RPL-06",
+      "RPL-09",
+      "RPL-11",
+      "JARNIR-01",
+      "JARNIR-04"
+    ]
+  },
+  "kamus": {
+    "status": "draf",
+    "tanggal_kunci": null
+  },
+  "segmen_latih": {
+    "maks_durasi": 30.0,
+    "maks_celah": 1.0
+  },
+  "versi_pustaka": {
+    "transformers": "4.45.2",
+    "pandas": "3.0.3",
+    "numpy": "2.0.2",
+    "soundfile": "0.13.1"
+  }
+}

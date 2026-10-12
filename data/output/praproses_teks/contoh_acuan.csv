@@ -1,0 +1,23 @@
+﻿file_id,seg_id,aturan,teks_acuan,teks_normal
+APS-06,63,angka bertanda baca,"Sebaiknya, luangkan waktu lebih sekitar 10% ketika membuat penjadwalan.",sebaiknya luangkan waktu lebih sekitar 10 persen ketika membuat penjadwalan
+IMK-05,38,angka bertanda baca,Apakah ingin 100% dicapai atau 80% atau 70%?,apakah ingin 100 persen dicapai atau 80 persen atau 70 persen
+AOK-02,394,ejaan lisan,Sesuatu yang dibagi 0 kan gak bisa tak terhingga,sesuatu yang dibagi 0 kan enggak bisa tak terhingga
+AOK-02,482,ejaan lisan,Ada interrupt gak?,ada interrupt enggak
+AOK-02,44,garis miring,"yakni I/O Module, CPU itu sendiri",yakni io module cpu itu sendiri
+AOK-02,50,garis miring,"Menjembatani atau berkomunikasi antara I/O Module, CPU, dan memori",menjembatani atau berkomunikasi antara io module cpu dan memori
+AOK-07,211,"garis miring, ejaan lisan",Ada I/O yang nancep gak,ada io yang nancep enggak
+AOK-07,213,"garis miring, ejaan lisan",I/O yang nancep dia bisa kerja gak,io yang nancep dia bisa kerja enggak
+AOK-01,10,jeda terisi,Eee untuk yang pertama,untuk yang pertama
+AOK-01,61,jeda terisi,Eee pada sebuah,pada sebuah
+AOK-01,143,kata bilangan,salah satu contohnya,salah 1 contohnya
+AOK-01,148,kata bilangan,satu dengan yang lainnya,1 dengan yang lainnya
+AOK-02,189,"kata bilangan, jeda terisi",Di mana dua blok atas ini eee memori pada CPU itu sendiri,di mana 2 blok atas ini memori pada cpu itu sendiri
+PKK-05,87,"kata bilangan, jeda terisi",tahu ada di satu perusahaan besar seperti e,tahu ada di 1 perusahaan besar seperti
+AOK-01,39,tanda hubung,melihat dari atribut-atribut,melihat dari atribut atribut
+AOK-01,79,tanda hubung,Penambahan berulang-ulang,penambahan berulang ulang
+AOK-04,352,"tanda hubung, angka bertanda baca","memiliki multi-core, maka penggunaan cache ini menggunakan multi-level. Jadi cache level 1,",memiliki multi core maka penggunaan cache ini menggunakan multi level jadi cache level 1
+AOK-07,148,"tanda hubung, ejaan lisan",Jangan sampai nyalakan CPU-nya nggak bisa kerja,jangan sampai nyalakan cpu nya enggak bisa kerja
+AOK-01,281,"tanda hubung, jeda terisi",eee storage-nya atau simpan,storage nya atau simpan
+AOK-06,364,"tanda hubung, jeda terisi",Karena setiap zona memiliki nilai eee sektor yang berbeda-beda,karena setiap zona memiliki nilai sektor yang berbeda beda
+AOK-01,336,"tanda hubung, kata bilangan",tiga fungsi-fungsi tadi,3 fungsi fungsi tadi
+AOK-02,571,"tanda hubung, kata bilangan",Atau modul-modul dari tiga tipe dasar,atau modul modul dari 3 tipe dasar
