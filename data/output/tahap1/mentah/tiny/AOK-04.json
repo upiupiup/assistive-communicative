@@ -1,0 +1,1279 @@
+{
+ "file_id": "AOK-04",
+ "konfigurasi": "tiny",
+ "model": "tiny",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "info": {
+  "duration": 1171.9886875,
+  "duration_after_vad": 1149.088,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 4.62,
+   "end": 9.52,
+   "text": " судah-sseberi, sama słu di k 라�奶an buryng",
+   "temperature": 1.0,
+   "avg_logprob": -4.4845,
+   "compression_ratio": 1.081,
+   "no_speech_prob": 0.5815
+  },
+  {
+   "id": 2,
+   "start": 9.52,
+   "end": 11.62,
+   "text": " se省 dergati Saraya",
+   "temperature": 1.0,
+   "avg_logprob": -4.4845,
+   "compression_ratio": 1.081,
+   "no_speech_prob": 0.5815
+  },
+  {
+   "id": 3,
+   "start": 11.92,
+   "end": 15.32,
+   "text": " menangkan berikuti",
+   "temperature": 1.0,
+   "avg_logprob": -4.4845,
+   "compression_ratio": 1.081,
+   "no_speech_prob": 0.5815
+  },
+  {
+   "id": 4,
+   "start": 15.32,
+   "end": 16.0,
+   "text": " disini ala",
+   "temperature": 1.0,
+   "avg_logprob": -4.4845,
+   "compression_ratio": 1.081,
+   "no_speech_prob": 0.5815
+  },
+  {
+   "id": 5,
+   "start": 16.0,
+   "end": 17.62,
+   "text": " idoka",
+   "temperature": 1.0,
+   "avg_logprob": -4.4845,
+   "compression_ratio": 1.081,
+   "no_speech_prob": 0.5815
+  },
+  {
+   "id": 6,
+   "start": 18.06,
+   "end": 21.32,
+   "text": " bermurikis",
+   "temperature": 1.0,
+   "avg_logprob": -4.4845,
+   "compression_ratio": 1.081,
+   "no_speech_prob": 0.5815
+  },
+  {
+   "id": 7,
+   "start": 21.32,
+   "end": 23.76,
+   "text": " dan lalu",
+   "temperature": 1.0,
+   "avg_logprob": -4.4845,
+   "compression_ratio": 1.081,
+   "no_speech_prob": 0.5815
+  },
+  {
+   "id": 8,
+   "start": 24.14,
+   "end": 26.94,
+   "text": " ingat kerbas",
+   "temperature": 1.0,
+   "avg_logprob": -4.4845,
+   "compression_ratio": 1.081,
+   "no_speech_prob": 0.5815
+  },
+  {
+   "id": 9,
+   "start": 27.0,
+   "end": 31.0,
+   "text": " osb.",
+   "temperature": 1.0,
+   "avg_logprob": -4.4845,
+   "compression_ratio": 1.081,
+   "no_speech_prob": 0.5815
+  },
+  {
+   "id": 10,
+   "start": 31.0,
+   "end": 43.0,
+   "text": " Kemuriknya, saya mencari pakean dari organesasi memurik yang terlalu sistem pemutur gita,",
+   "temperature": 0.0,
+   "avg_logprob": -0.8027,
+   "compression_ratio": 1.49,
+   "no_speech_prob": 0.9546
+  },
+  {
+   "id": 11,
+   "start": 43.0,
+   "end": 51.0,
+   "text": " di mana memuriknya saya mencari pakean dalam sistem processor,",
+   "temperature": 0.0,
+   "avg_logprob": -0.8027,
+   "compression_ratio": 1.49,
+   "no_speech_prob": 0.9546
+  },
+  {
+   "id": 12,
+   "start": 51.0,
+   "end": 57.2,
+   "text": " setelah terditu dalam jepsi CPU, setelah herarki memurikasi ini menjadi menjadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.7332,
+   "compression_ratio": 1.721,
+   "no_speech_prob": 0.9409
+  },
+  {
+   "id": 13,
+   "start": 57.2,
+   "end": 63.2,
+   "text": " pakean yang sangat penting di dalam sistem komputer kita.",
+   "temperature": 0.0,
+   "avg_logprob": -0.7332,
+   "compression_ratio": 1.721,
+   "no_speech_prob": 0.9409
+  },
+  {
+   "id": 14,
+   "start": 63.2,
+   "end": 69.96,
+   "text": " Setelah menggidah terhadap pembasan pada memurikis,",
+   "temperature": 0.0,
+   "avg_logprob": -0.7332,
+   "compression_ratio": 1.721,
+   "no_speech_prob": 0.9409
+  },
+  {
+   "id": 15,
+   "start": 69.96,
+   "end": 75.9,
+   "text": " mungkin kita perlu pahas terkait dengan sistem karakteristik sistem",
+   "temperature": 0.0,
+   "avg_logprob": -0.7332,
+   "compression_ratio": 1.721,
+   "no_speech_prob": 0.9409
+  },
+  {
+   "id": 16,
+   "start": 75.9,
+   "end": 80.0,
+   "text": " memurik di atat dalam sistem komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.7332,
+   "compression_ratio": 1.721,
+   "no_speech_prob": 0.9409
+  },
+  {
+   "id": 17,
+   "start": 80.0,
+   "end": 90.0,
+   "text": " Raktor di sistem komputer, sejarah lokasi, nanti harapnya masukkan lokasi memuritu serai internalah atau ekstermal",
+   "temperature": 0.0,
+   "avg_logprob": -0.8309,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.8364
+  },
+  {
+   "id": 18,
+   "start": 90.0,
+   "end": 97.0,
+   "text": " Memurai internalah seringkari disambahkan dengan menmemori atau memurutama atau primeri memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.8309,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.8364
+  },
+  {
+   "id": 19,
+   "start": 97.0,
+   "end": 105.0,
+   "text": " Prozessor membutuhkan memurai local atau internalah memurai itu lepuntuh eksterm",
+   "temperature": 0.0,
+   "avg_logprob": -0.8309,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.8364
+  },
+  {
+   "id": 20,
+   "start": 105.0,
+   "end": 112.24,
+   "text": " Rekestera terlalu berbakan salah satu, Chinese memory yang memiliki tiga tambahir tinggi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9067,
+   "compression_ratio": 1.486,
+   "no_speech_prob": 0.481
+  },
+  {
+   "id": 21,
+   "start": 112.24,
+   "end": 119.56,
+   "text": " Buren di bawahnya, Rekestera adalah memory case yang akan kita bahas pada sesi kali ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9067,
+   "compression_ratio": 1.486,
+   "no_speech_prob": 0.481
+  },
+  {
+   "id": 22,
+   "start": 119.56,
+   "end": 125.4,
+   "text": " Bencehati pakean dari internal memory.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9067,
+   "compression_ratio": 1.486,
+   "no_speech_prob": 0.481
+  },
+  {
+   "id": 23,
+   "start": 125.4,
+   "end": 132.1,
+   "text": " Sebagai kita sebut ke wasanya yang yang termemurinya termasuk",
+   "temperature": 1.0,
+   "avg_logprob": -1.0076,
+   "compression_ratio": 1.648,
+   "no_speech_prob": 0.4136
+  },
+  {
+   "id": 24,
+   "start": 132.1,
+   "end": 139.4,
+   "text": " registrar malupun kes memuriyu di samping memuriyu, atau dalam sistem komodir kita.",
+   "temperature": 1.0,
+   "avg_logprob": -1.0076,
+   "compression_ratio": 1.648,
+   "no_speech_prob": 0.4136
+  },
+  {
+   "id": 25,
+   "start": 139.4,
+   "end": 145.72,
+   "text": " Kita dalam ke lokasi perdasur yang lokasi ini,",
+   "temperature": 1.0,
+   "avg_logprob": -1.0076,
+   "compression_ratio": 1.648,
+   "no_speech_prob": 0.4136
+  },
+  {
+   "id": 26,
+   "start": 145.72,
+   "end": 151.22,
+   "text": " yang dicuga ada ekstralal memuriyu, itu merupakan perangkat memuriyu,",
+   "temperature": 1.0,
+   "avg_logprob": -1.0076,
+   "compression_ratio": 1.648,
+   "no_speech_prob": 0.4136
+  },
+  {
+   "id": 27,
+   "start": 151.22,
+   "end": 161.22,
+   "text": " untuk di war komputer yang biasanya menjadi pakean dari sistem IO,",
+   "temperature": 0.0,
+   "avg_logprob": -0.7692,
+   "compression_ratio": 1.439,
+   "no_speech_prob": 0.8018
+  },
+  {
+   "id": 28,
+   "start": 161.22,
+   "end": 164.22,
+   "text": " yang seperti RTCT TFT.",
+   "temperature": 0.0,
+   "avg_logprob": -0.7692,
+   "compression_ratio": 1.439,
+   "no_speech_prob": 0.8018
+  },
+  {
+   "id": 29,
+   "start": 164.22,
+   "end": 170.22,
+   "text": " Perasaran-papasitas memurinan di biasanya di nyatakan dalam pait.",
+   "temperature": 0.0,
+   "avg_logprob": -0.7692,
+   "compression_ratio": 1.439,
+   "no_speech_prob": 0.8018
+  },
+  {
+   "id": 30,
+   "start": 170.22,
+   "end": 177.22,
+   "text": " Jadi kilupai, mika pait, kika pait, sampai dengan mungkin terapait.",
+   "temperature": 0.0,
+   "avg_logprob": -0.7692,
+   "compression_ratio": 1.439,
+   "no_speech_prob": 0.8018
+  },
+  {
+   "id": 31,
+   "start": 177.22,
+   "end": 186.22,
+   "text": " menurut perseiring putasarkan jenit transfer memurin antih ada memurin ternaju di mana transfernya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.8454,
+   "compression_ratio": 1.566,
+   "no_speech_prob": 0.8936
+  },
+  {
+   "id": 32,
+   "start": 186.22,
+   "end": 203.22,
+   "text": " nanti sesuatu dengan jumlah saburan listrik atau koneksi yang mecetibakin dari mode 2 memurin untuk input atau 5 tulis memurin.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8454,
+   "compression_ratio": 1.566,
+   "no_speech_prob": 0.8936
+  },
+  {
+   "id": 33,
+   "start": 203.22,
+   "end": 217.22,
+   "text": " Pahasanya ditalan memurin, memurin kita untuk access memurin sistem memurin telangkup tergetata,",
+   "temperature": 0.0,
+   "avg_logprob": -0.9875,
+   "compression_ratio": 1.509,
+   "no_speech_prob": 0.8472
+  },
+  {
+   "id": 34,
+   "start": 217.22,
+   "end": 223.22,
+   "text": " terperpapachin disi, itu sepencela access terkakses untuk memapun aso siat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9875,
+   "compression_ratio": 1.509,
+   "no_speech_prob": 0.8472
+  },
+  {
+   "id": 35,
+   "start": 223.22,
+   "end": 227.22,
+   "text": " beri yang sequan-siada sesuatu yang telah berupakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.8003,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.6406
+  },
+  {
+   "id": 36,
+   "start": 227.22,
+   "end": 231.22,
+   "text": " paksas pembajan paca tulis memurian",
+   "temperature": 0.0,
+   "avg_logprob": -0.8003,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.6406
+  },
+  {
+   "id": 37,
+   "start": 231.22,
+   "end": 235.22,
+   "text": " secara sequensial secara perrutan",
+   "temperature": 0.0,
+   "avg_logprob": -0.8003,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.6406
+  },
+  {
+   "id": 38,
+   "start": 235.22,
+   "end": 240.22,
+   "text": " udian tergaksas, pembajan pembajan",
+   "temperature": 0.0,
+   "avg_logprob": -0.8003,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.6406
+  },
+  {
+   "id": 39,
+   "start": 240.22,
+   "end": 242.22,
+   "text": " pembajan pemburian itu secara langsung",
+   "temperature": 0.0,
+   "avg_logprob": -0.8003,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.6406
+  },
+  {
+   "id": 40,
+   "start": 242.22,
+   "end": 244.22,
+   "text": " nidik biasanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.8003,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.6406
+  },
+  {
+   "id": 41,
+   "start": 244.22,
+   "end": 247.22,
+   "text": " apada media",
+   "temperature": 0.0,
+   "avg_logprob": -0.8003,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.6406
+  },
+  {
+   "id": 42,
+   "start": 247.22,
+   "end": 251.3,
+   "text": " artist",
+   "temperature": 0.0,
+   "avg_logprob": -0.8003,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.6406
+  },
+  {
+   "id": 43,
+   "start": 251.3,
+   "end": 254.3,
+   "text": " atau media penyipan, secara pembajan",
+   "temperature": 0.0,
+   "avg_logprob": -0.8003,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.6406
+  },
+  {
+   "id": 44,
+   "start": 254.3,
+   "end": 261.3,
+   "text": " atau ini pada media penyipan tep media tep yang sekarang gue sudah tidak ada.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8683,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.5962
+  },
+  {
+   "id": 45,
+   "start": 261.3,
+   "end": 266.3,
+   "text": " Teragasas masyata, yang terdapat itu artis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8683,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.5962
+  },
+  {
+   "id": 46,
+   "start": 266.3,
+   "end": 279.3,
+   "text": " Artinya, accessed itu langsung di lakukan pada pelokasi, pada permukaan cakram atau permukaan disebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8683,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.5962
+  },
+  {
+   "id": 47,
+   "start": 279.3,
+   "end": 286.3,
+   "text": " setelah berdua ke ekses ini yang merupakan mekanisme access pada ram, maupun ram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8622,
+   "compression_ratio": 1.594,
+   "no_speech_prob": 0.813
+  },
+  {
+   "id": 48,
+   "start": 286.3,
+   "end": 294.3,
+   "text": " Di langsung nanti pada atres, lo kasih dari ram atau perom yang menjalti pakean utama,",
+   "temperature": 0.0,
+   "avg_logprob": -0.8622,
+   "compression_ratio": 1.594,
+   "no_speech_prob": 0.813
+  },
+  {
+   "id": 49,
+   "start": 294.3,
+   "end": 299.3,
+   "text": " di dalam sistem komputer kita, atau bin-memori.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8622,
+   "compression_ratio": 1.594,
+   "no_speech_prob": 0.813
+  },
+  {
+   "id": 50,
+   "start": 299.3,
+   "end": 305.3,
+   "text": " Udah yang terakhir ini adalah associatif, masyasi yang terhadap mekanisme access,",
+   "temperature": 0.0,
+   "avg_logprob": -0.8622,
+   "compression_ratio": 1.594,
+   "no_speech_prob": 0.813
+  },
+  {
+   "id": 51,
+   "start": 305.3,
+   "end": 312.3,
+   "text": " 5 tulis yang terkait dengan kesh memuri.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8161,
+   "compression_ratio": 1.538,
+   "no_speech_prob": 0.8657
+  },
+  {
+   "id": 52,
+   "start": 312.3,
+   "end": 325.1,
+   "text": " Pada serang gapasitas memuri itu, nanti akan di karakal ekstik kindratchanya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.8161,
+   "compression_ratio": 1.538,
+   "no_speech_prob": 0.8657
+  },
+  {
+   "id": 53,
+   "start": 325.1,
+   "end": 331.1,
+   "text": " di kapasitas negara kristik keilir secara supaya memuri, nanti akan detrukan oleh",
+   "temperature": 0.0,
+   "avg_logprob": -0.8161,
+   "compression_ratio": 1.538,
+   "no_speech_prob": 0.8657
+  },
+  {
+   "id": 54,
+   "start": 331.1,
+   "end": 340.1,
+   "text": " waklases atau latensi, itu waktu yang depuruhkan untuk 5 tulis, kemudian memurui cycle time,",
+   "temperature": 0.0,
+   "avg_logprob": -0.8581,
+   "compression_ratio": 1.482,
+   "no_speech_prob": 0.8125
+  },
+  {
+   "id": 55,
+   "start": 340.1,
+   "end": 347.1,
+   "text": " akhirnya repau waktu yang diperlukan di dalam cyclus access,",
+   "temperature": 0.0,
+   "avg_logprob": -0.8581,
+   "compression_ratio": 1.482,
+   "no_speech_prob": 0.8125
+  },
+  {
+   "id": 56,
+   "start": 347.1,
+   "end": 352.1,
+   "text": " kebacan atau pun penulisan memurui. Dan yang ketika,",
+   "temperature": 0.0,
+   "avg_logprob": -0.8581,
+   "compression_ratio": 1.482,
+   "no_speech_prob": 0.8125
+  },
+  {
+   "id": 57,
+   "start": 383.42,
+   "end": 392.42,
+   "text": " ini yang ada nanti pada memori ramuh drone, atau terentermasi juga cash memori, atau terentermasi,",
+   "temperature": 0.0,
+   "avg_logprob": -0.9925,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.8579
+  },
+  {
+   "id": 58,
+   "start": 392.42,
+   "end": 396.42,
+   "text": " sinis memori yang saya miraduktor.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9925,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.8579
+  },
+  {
+   "id": 59,
+   "start": 396.42,
+   "end": 402.42,
+   "text": " Jadi dengan perumpan meratik pada pada artist dan atiknya pada situya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.9925,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.8579
+  },
+  {
+   "id": 60,
+   "start": 402.42,
+   "end": 405.42,
+   "text": " untuk untuk dipitirung.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9925,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.8579
+  },
+  {
+   "id": 61,
+   "start": 435.42,
+   "end": 445.42,
+   "text": " menun purutaya, ada manitik, patungnya yang menun purutaya. Memurian, nondere sebuah, ini pada",
+   "temperature": 0.2,
+   "avg_logprob": -0.9267,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.77
+  },
+  {
+   "id": 62,
+   "start": 445.42,
+   "end": 452.42,
+   "text": " rong, jadi pada rong, atau pun tipiti rong, itu yang hasil-patnya yang saya sekarang.",
+   "temperature": 0.2,
+   "avg_logprob": -0.9267,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.77
+  },
+  {
+   "id": 63,
+   "start": 452.42,
+   "end": 460.42,
+   "text": " Sedanan pada memurian rong, ini adalah berubahkan memurian accessnya bisa serah acah.",
+   "temperature": 0.2,
+   "avg_logprob": -0.9267,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.77
+  },
+  {
+   "id": 64,
+   "start": 460.42,
+   "end": 462.42,
+   "text": " Kau ada terkatanan",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 65,
+   "start": 462.42,
+   "end": 465.42,
+   "text": " Rambrandam Access memurin",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 66,
+   "start": 465.42,
+   "end": 467.42,
+   "text": " Terakhir memurin sejarah",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 67,
+   "start": 467.42,
+   "end": 470.42,
+   "text": " Prenci pada sanya Rargai memurinnya",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 68,
+   "start": 470.42,
+   "end": 472.42,
+   "text": " Pake mana",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 69,
+   "start": 472.42,
+   "end": 475.42,
+   "text": " Posi si yang utama",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 70,
+   "start": 475.42,
+   "end": 478.42,
+   "text": " Rargai Posi si 4 tahun jisem memurin",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 71,
+   "start": 478.42,
+   "end": 481.42,
+   "text": " Ini terakhir Rargai memurin",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 72,
+   "start": 481.42,
+   "end": 483.42,
+   "text": " Yang menjadi memurin",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 73,
+   "start": 483.42,
+   "end": 486.42,
+   "text": " Yang terjualan",
+   "temperature": 0.2,
+   "avg_logprob": -0.8609,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.855
+  },
+  {
+   "id": 74,
+   "start": 516.42,
+   "end": 530.42,
+   "text": " menakan laki, karena setelah dengan pertama teknologi, menggunakan teknologi terlalu kayak penyiparan, yang bisa dikantikan dengan cdh-puntifiti.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9412,
+   "compression_ratio": 1.355,
+   "no_speech_prob": 0.9604
+  },
+  {
+   "id": 75,
+   "start": 530.42,
+   "end": 535.42,
+   "text": " Tapi akhir lagi ini, jadi semakin atas ini terlalu semakin cepat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.697,
+   "compression_ratio": 1.659,
+   "no_speech_prob": 0.7676
+  },
+  {
+   "id": 76,
+   "start": 535.42,
+   "end": 542.42,
+   "text": " Karena kecepatan access, kecepatan tulis dari media memuritas bud.",
+   "temperature": 0.0,
+   "avg_logprob": -0.697,
+   "compression_ratio": 1.659,
+   "no_speech_prob": 0.7676
+  },
+  {
+   "id": 77,
+   "start": 542.42,
+   "end": 551.42,
+   "text": " Semakin katas terlalu semakin dingga. Semakin ke bawah, kecepatan accessnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.697,
+   "compression_ratio": 1.659,
+   "no_speech_prob": 0.7676
+  },
+  {
+   "id": 78,
+   "start": 551.42,
+   "end": 556.88,
+   "text": " Tidur langen perforbaha pembacangan memurih, atau tidak,",
+   "temperature": 0.4,
+   "avg_logprob": -0.9896,
+   "compression_ratio": 1.81,
+   "no_speech_prob": 0.5664
+  },
+  {
+   "id": 79,
+   "start": 556.88,
+   "end": 561.12,
+   "text": " dengan di dalam terkadangan keis,",
+   "temperature": 0.4,
+   "avg_logprob": -0.9896,
+   "compression_ratio": 1.81,
+   "no_speech_prob": 0.5664
+  },
+  {
+   "id": 80,
+   "start": 561.12,
+   "end": 564.44,
+   "text": " tidak ada keis, multilephal,",
+   "temperature": 0.4,
+   "avg_logprob": -0.9896,
+   "compression_ratio": 1.81,
+   "no_speech_prob": 0.5664
+  },
+  {
+   "id": 81,
+   "start": 564.44,
+   "end": 567.88,
+   "text": " multilephal keis yang lebih sangat berperan di dalam",
+   "temperature": 0.4,
+   "avg_logprob": -0.9896,
+   "compression_ratio": 1.81,
+   "no_speech_prob": 0.5664
+  },
+  {
+   "id": 82,
+   "start": 567.88,
+   "end": 570.74,
+   "text": " percepat kaksis pembacangan memurih.",
+   "temperature": 0.4,
+   "avg_logprob": -0.9896,
+   "compression_ratio": 1.81,
+   "no_speech_prob": 0.5664
+  },
+  {
+   "id": 83,
+   "start": 570.74,
+   "end": 572.68,
+   "text": " Tidur langen,",
+   "temperature": 0.4,
+   "avg_logprob": -0.9896,
+   "compression_ratio": 1.81,
+   "no_speech_prob": 0.5664
+  },
+  {
+   "id": 84,
+   "start": 572.68,
+   "end": 574.98,
+   "text": " mekanes mau penyimpanan,",
+   "temperature": 0.4,
+   "avg_logprob": -0.9896,
+   "compression_ratio": 1.81,
+   "no_speech_prob": 0.5664
+  },
+  {
+   "id": 85,
+   "start": 574.98,
+   "end": 579.62,
+   "text": " jadi penyimpanan di memurih.",
+   "temperature": 0.4,
+   "avg_logprob": -0.9896,
+   "compression_ratio": 1.81,
+   "no_speech_prob": 0.5664
+  },
+  {
+   "id": 86,
+   "start": 579.62,
+   "end": 592.62,
+   "text": " wasanya pokudahan multilephal memurinah diakan kekestru terlalu sangat penting di dalam percepat",
+   "temperature": 0.0,
+   "avg_logprob": -0.9053,
+   "compression_ratio": 1.598,
+   "no_speech_prob": 0.5757
+  },
+  {
+   "id": 87,
+   "start": 592.62,
+   "end": 603.62,
+   "text": " aksees yang muri dengan perkembangan atau perkembangan perkembangan kecepatan lo pun piaia",
+   "temperature": 0.0,
+   "avg_logprob": -0.9053,
+   "compression_ratio": 1.598,
+   "no_speech_prob": 0.5757
+  },
+  {
+   "id": 88,
+   "start": 603.62,
+   "end": 612.62,
+   "text": " Tata disipan di dalam memurin sihatnya ada yang bisa permainan dan patroviya untuk ekstermal itu yang sihatnya romainan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.7375,
+   "compression_ratio": 1.492,
+   "no_speech_prob": 0.7563
+  },
+  {
+   "id": 89,
+   "start": 612.62,
+   "end": 621.62,
+   "text": " Sedangkan diskes ini dikunakan untuk percepat access membacaan diskes.",
+   "temperature": 0.0,
+   "avg_logprob": -0.7375,
+   "compression_ratio": 1.492,
+   "no_speech_prob": 0.7563
+  },
+  {
+   "id": 90,
+   "start": 621.62,
+   "end": 628.06,
+   "text": " baik, kita masuk ke dalam topic case memory",
+   "temperature": 0.2,
+   "avg_logprob": -0.8598,
+   "compression_ratio": 1.667,
+   "no_speech_prob": 0.6943
+  },
+  {
+   "id": 91,
+   "start": 628.06,
+   "end": 633.82,
+   "text": " case memory ini dalam kebapan pakean dari CPU",
+   "temperature": 0.2,
+   "avg_logprob": -0.8598,
+   "compression_ratio": 1.667,
+   "no_speech_prob": 0.6943
+  },
+  {
+   "id": 92,
+   "start": 633.82,
+   "end": 640.78,
+   "text": " itu sehatu mekanisimal untuk memperciapat access pempatan dari main memory ke dalam CPU",
+   "temperature": 0.2,
+   "avg_logprob": -0.8598,
+   "compression_ratio": 1.667,
+   "no_speech_prob": 0.6943
+  },
+  {
+   "id": 93,
+   "start": 640.78,
+   "end": 647.56,
+   "text": " case memory ini adalah merupakan cilis memory yang statik",
+   "temperature": 0.2,
+   "avg_logprob": -0.8598,
+   "compression_ratio": 1.667,
+   "no_speech_prob": 0.6943
+  },
+  {
+   "id": 94,
+   "start": 647.56,
+   "end": 651.56,
+   "text": " sedangkan menmemurinya telah dinamik",
+   "temperature": 0.0,
+   "avg_logprob": -0.616,
+   "compression_ratio": 1.654,
+   "no_speech_prob": 0.8545
+  },
+  {
+   "id": 95,
+   "start": 651.56,
+   "end": 658.56,
+   "text": " antara setak perbedaanan terasatik RAM dan dinamik RAM itu pada sesi kecepatan",
+   "temperature": 0.0,
+   "avg_logprob": -0.616,
+   "compression_ratio": 1.654,
+   "no_speech_prob": 0.8545
+  },
+  {
+   "id": 96,
+   "start": 658.56,
+   "end": 670.56,
+   "text": " jadi kecepatan CPU atau kecepatan kays, dipandikan dengan kecepatan menmemurinya telah marah dinamik RAM",
+   "temperature": 0.0,
+   "avg_logprob": -0.616,
+   "compression_ratio": 1.654,
+   "no_speech_prob": 0.8545
+  },
+  {
+   "id": 97,
+   "start": 670.56,
+   "end": 675.28,
+   "text": " ini sangat cukup jauh, sangat jauh perhidahan kecepatannya,",
+   "temperature": 0.2,
+   "avg_logprob": -0.7777,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.5957
+  },
+  {
+   "id": 98,
+   "start": 675.28,
+   "end": 681.0,
+   "text": " harga-harga itu untuk mengatasi kecepatan dari pembatan",
+   "temperature": 0.2,
+   "avg_logprob": -0.7777,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.5957
+  },
+  {
+   "id": 99,
+   "start": 681.0,
+   "end": 684.56,
+   "text": " memurin-murin-murin, digunakan kecej, di mana ke sini dalam",
+   "temperature": 0.2,
+   "avg_logprob": -0.7777,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.5957
+  },
+  {
+   "id": 100,
+   "start": 684.56,
+   "end": 688.92,
+   "text": " merupakan memurin statik, statik rem, yang kecepatannya",
+   "temperature": 0.2,
+   "avg_logprob": -0.7777,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.5957
+  },
+  {
+   "id": 101,
+   "start": 688.92,
+   "end": 691.96,
+   "text": " pada umumnya, adalah semasa-masa perutik kecepatan",
+   "temperature": 0.2,
+   "avg_logprob": -0.7777,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.5957
+  },
+  {
+   "id": 102,
+   "start": 691.96,
+   "end": 698.56,
+   "text": " klok pada sistem pas di komputer.",
+   "temperature": 0.2,
+   "avg_logprob": -0.7777,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.5957
+  },
+  {
+   "id": 103,
+   "start": 698.56,
+   "end": 705.06,
+   "text": " kerapa ini bisa di mempercepat access memimurik,",
+   "temperature": 0.0,
+   "avg_logprob": -0.7837,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.3223
+  },
+  {
+   "id": 104,
+   "start": 705.06,
+   "end": 710.56,
+   "text": " kerapa tergunya access dari CPU ini banyak yang alup,",
+   "temperature": 0.0,
+   "avg_logprob": -0.7837,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.3223
+  },
+  {
+   "id": 105,
+   "start": 710.56,
+   "end": 713.56,
+   "text": " di perulangan banyak perulangan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.7837,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.3223
+  },
+  {
+   "id": 106,
+   "start": 713.56,
+   "end": 719.56,
+   "text": " bagaimana itu istruksi mau pun datang.",
+   "temperature": 0.0,
+   "avg_logprob": -0.7837,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.3223
+  },
+  {
+   "id": 107,
+   "start": 719.56,
+   "end": 724.56,
+   "text": " Ketika CPU itu akan mengases aplikasi program,",
+   "temperature": 0.0,
+   "avg_logprob": -0.7837,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.3223
+  },
+  {
+   "id": 108,
+   "start": 724.56,
+   "end": 731.56,
+   "text": " maka, nanti lebih banyak mengambil peruhatatatatatatupun program program iatatati yang",
+   "temperature": 0.2,
+   "avg_logprob": -0.9366,
+   "compression_ratio": 1.702,
+   "no_speech_prob": 0.9521
+  },
+  {
+   "id": 109,
+   "start": 731.56,
+   "end": 732.56,
+   "text": " tradikasi.",
+   "temperature": 0.2,
+   "avg_logprob": -0.9366,
+   "compression_ratio": 1.702,
+   "no_speech_prob": 0.9521
+  },
+  {
+   "id": 110,
+   "start": 732.56,
+   "end": 738.56,
+   "text": " Awa pilih program itu memang sedap berkanti, maka nanti akan dikantikan dengan",
+   "temperature": 0.2,
+   "avg_logprob": -0.9366,
+   "compression_ratio": 1.702,
+   "no_speech_prob": 0.9521
+  },
+  {
+   "id": 111,
+   "start": 738.56,
+   "end": 744.56,
+   "text": " instruksiya terpun datai yang atat di minmuri.",
+   "temperature": 0.2,
+   "avg_logprob": -0.9366,
+   "compression_ratio": 1.702,
+   "no_speech_prob": 0.9521
+  },
+  {
+   "id": 112,
+   "start": 744.56,
+   "end": 750.56,
+   "text": " Artinya sesuatu-sakali terpawa saja, siap yang menangbel datai yang terimemuri.",
+   "temperature": 0.2,
+   "avg_logprob": -0.9366,
+   "compression_ratio": 1.702,
+   "no_speech_prob": 0.9521
+  },
+  {
+   "id": 113,
+   "start": 750.56,
+   "end": 759.56,
+   "text": " tetapi sekalih istruksiya terbundat itu dihabil, maka dia akan tersempan di cash memori.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8899,
+   "compression_ratio": 1.333,
+   "no_speech_prob": 0.8696
+  },
+  {
+   "id": 114,
+   "start": 759.56,
+   "end": 771.56,
+   "text": " Singga ini bisa menjadi sebuah power. Access pembecaan adara CPU dengan cash itu menggunakan work transfer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8899,
+   "compression_ratio": 1.333,
+   "no_speech_prob": 0.8696
+  },
+  {
+   "id": 115,
+   "start": 771.56,
+   "end": 789.56,
+   "text": " Sekarikus dalam satu, dalam satu atres, dalam satu atres kebacan kesini, akan tipacan sekian tata yang purpa berubah bort.",
+   "temperature": 0.0,
+   "avg_logprob": -0.6505,
+   "compression_ratio": 1.701,
+   "no_speech_prob": 0.8379
+  },
+  {
+   "id": 116,
+   "start": 789.56,
+   "end": 798.56,
+   "text": " Sedangkan kebacan dari menemurin, lebih perubah pro, pada sekian pro atres kebacan menemurin,",
+   "temperature": 0.0,
+   "avg_logprob": -0.6505,
+   "compression_ratio": 1.701,
+   "no_speech_prob": 0.8379
+  },
+  {
+   "id": 117,
+   "start": 798.56,
+   "end": 806.56,
+   "text": " akan diambil secara perhutan dan antih akan disimband ke dalam alamat ke sini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9017,
+   "compression_ratio": 1.425,
+   "no_speech_prob": 0.8882
+  },
+  {
+   "id": 118,
+   "start": 807.56,
+   "end": 813.56,
+   "text": " Pertakitu lu ke CPU muteran, kita membeli ke mutikar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9017,
+   "compression_ratio": 1.425,
+   "no_speech_prob": 0.8882
+  },
+  {
+   "id": 119,
+   "start": 814.56,
+   "end": 820.56,
+   "text": " Mata penggunaan ke sini, menggunakan muti level.",
+   "temperature": 0.0,
+   "avg_logprob": -0.9017,
+   "compression_ratio": 1.425,
+   "no_speech_prob": 0.8882
+  },
+  {
+   "id": 120,
+   "start": 880.56,
+   "end": 888.56,
+   "text": " Pahasanya antara kes memurin dengan main memurin, ini adalah kabarannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8139,
+   "compression_ratio": 1.581,
+   "no_speech_prob": 0.4998
+  },
+  {
+   "id": 121,
+   "start": 888.56,
+   "end": 892.56,
+   "text": " Sehingga adalah satu peluk, datang yang ada yang akan klimasukan ketalan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8139,
+   "compression_ratio": 1.581,
+   "no_speech_prob": 0.4998
+  },
+  {
+   "id": 122,
+   "start": 892.56,
+   "end": 899.56,
+   "text": " Satu halamat tek, memurin, yang ada di dalam ditelam kes.",
+   "temperature": 0.0,
+   "avg_logprob": -0.8139,
+   "compression_ratio": 1.581,
+   "no_speech_prob": 0.4998
+  },
+  {
+   "id": 123,
+   "start": 1019.56,
+   "end": 1029.56,
+   "text": " dan berapa yang memurin bisa kegunakan dan seharapkan reka sosiai tepato set asu siatik.",
+   "temperature": 0.2,
+   "avg_logprob": -0.9751,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.8809
+  },
+  {
+   "id": 124,
+   "start": 1029.56,
+   "end": 1034.56,
+   "text": " Abar-abar-abar-abar-abar-abar segar untuk teknologi yang utik-war, kegunakan set asu siatik,",
+   "temperature": 0.2,
+   "avg_logprob": -0.9751,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.8809
+  },
+  {
+   "id": 125,
+   "start": 1034.56,
+   "end": 1044.56,
+   "text": " sinh kejutanan alukasinya jauh-jutanan alukasik atanya, nanti langsung bisa mengalukasikan pada masi masin,",
+   "temperature": 0.2,
+   "avg_logprob": -0.9751,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.8809
+  }
+ ]
+}

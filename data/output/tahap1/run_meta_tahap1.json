@@ -1,0 +1,125 @@
+{
+  "tanggal": "2026-10-14T19:32:09",
+  "tahap": "Tahap 1: enam varian tanpa adaptasi",
+  "python": "3.12.4",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "gpu": {
+    "nama": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+    "vram_total_mb": "6144",
+    "vram_terpakai_mb": "0",
+    "driver": "577.02"
+  },
+  "varian": [
+    "tiny",
+    "base",
+    "small",
+    "medium",
+    "large-v3",
+    "large-v3-turbo"
+  ],
+  "kode": {
+    "tiny": "T1-A",
+    "base": "T1-B",
+    "small": "T1-C",
+    "medium": "T1-D",
+    "large-v3": "T1-E",
+    "large-v3-turbo": "T1-F"
+  },
+  "parameter_decoding": {
+    "language": "id",
+    "task": "transcribe",
+    "beam_size": 5,
+    "temperature": [
+      0.0,
+      0.2,
+      0.4,
+      0.6,
+      0.8,
+      1.0
+    ],
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "word_timestamps": false
+  },
+  "compute_type": "float16",
+  "rtf": {
+    "ulangan": 3,
+    "pemanasan": {
+      "file_id": "APS-05",
+      "detik": 120
+    }
+  },
+  "metrik": {
+    "panjang_blok_detik": 180.0,
+    "ambang_p_blok": 0.001
+  },
+  "uji_kelayakan": {
+    "lora": {
+      "r": 32,
+      "alpha": 64,
+      "dropout": 0.0,
+      "target_modules": [
+        "q_proj",
+        "v_proj"
+      ]
+    },
+    "laju_belajar": 1e-05,
+    "batch_dicoba": [
+      4,
+      2,
+      1
+    ],
+    "langkah_pemanasan": 3,
+    "langkah_ukur": 10,
+    "presisi": "bobot dasar float16 beku, LoRA float32, autocast float16 dengan penskala gradien"
+  },
+  "kamus": {
+    "status": "terkunci",
+    "tanggal_kunci": "2026-10-13"
+  },
+  "terpilih": "large-v3",
+  "versi_pustaka": {
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.7.2",
+    "onnxruntime": "1.26.0",
+    "jiwer": "4.0.0",
+    "scipy": "1.17.1",
+    "numpy": "2.0.2",
+    "pandas": "3.0.3",
+    "torch": "2.4.1+cu121",
+    "transformers": "4.45.2",
+    "peft": "0.20.0",
+    "accelerate": "1.14.0",
+    "tokenizers": "0.20.0",
+    "soundfile": "0.13.1"
+  },
+  "parameter_bawaan_lain": {
+    "log_progress": "False",
+    "best_of": "5",
+    "patience": "1",
+    "length_penalty": "1",
+    "repetition_penalty": "1",
+    "no_repeat_ngram_size": "0",
+    "compression_ratio_threshold": "2.4",
+    "log_prob_threshold": "-1.0",
+    "no_speech_threshold": "0.6",
+    "prompt_reset_on_temperature": "0.5",
+    "initial_prompt": "None",
+    "prefix": "None",
+    "suppress_blank": "True",
+    "suppress_tokens": "[-1]",
+    "without_timestamps": "False",
+    "max_initial_timestamp": "1.0",
+    "prepend_punctuations": "'\"\\'“¿([{-'",
+    "append_punctuations": "'\"\\'.。,，!！?？:：”)]}、'",
+    "multilingual": "False",
+    "vad_parameters": "None",
+    "max_new_tokens": "None",
+    "chunk_length": "None",
+    "clip_timestamps": "'0'",
+    "hallucination_silence_threshold": "None",
+    "hotwords": "None",
+    "language_detection_threshold": "0.5",
+    "language_detection_segments": "1"
+  }
+}

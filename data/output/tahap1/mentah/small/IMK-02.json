@@ -1,0 +1,2219 @@
+{
+ "file_id": "IMK-02",
+ "konfigurasi": "small",
+ "model": "small",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "info": {
+  "duration": 1122.5223125,
+  "duration_after_vad": 1097.9943125,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 0.21,
+   "end": 4.53,
+   "text": " Selamat datang di video materi untuk mata kuliah interaksi manusia dan komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1573,
+   "compression_ratio": 1.927,
+   "no_speech_prob": 0.0325
+  },
+  {
+   "id": 2,
+   "start": 4.53,
+   "end": 9.41,
+   "text": " Pada kesempatan kali ini, kita akan membahas aspek kognitif di dalam desain interaksi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1573,
+   "compression_ratio": 1.927,
+   "no_speech_prob": 0.0325
+  },
+  {
+   "id": 3,
+   "start": 9.41,
+   "end": 10.61,
+   "text": " Selamat menyimak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1573,
+   "compression_ratio": 1.927,
+   "no_speech_prob": 0.0325
+  },
+  {
+   "id": 4,
+   "start": 10.61,
+   "end": 14.93,
+   "text": " Ada 3 topik utama yang akan kita bahas dalam video materi kali ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1573,
+   "compression_ratio": 1.927,
+   "no_speech_prob": 0.0325
+  },
+  {
+   "id": 5,
+   "start": 14.93,
+   "end": 17.65,
+   "text": " Pertama adalah mengenal kognisi manusia.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1573,
+   "compression_ratio": 1.927,
+   "no_speech_prob": 0.0325
+  },
+  {
+   "id": 6,
+   "start": 17.65,
+   "end": 21.25,
+   "text": " Lalu kedua, kita juga membahas jenis-jenis proses kognisi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1573,
+   "compression_ratio": 1.927,
+   "no_speech_prob": 0.0325
+  },
+  {
+   "id": 7,
+   "start": 21.25,
+   "end": 26.53,
+   "text": " Dan membahasan yang terakhir adalah bagaimana penerapan kognitif di dalam desain interaksi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1573,
+   "compression_ratio": 1.927,
+   "no_speech_prob": 0.0325
+  },
+  {
+   "id": 8,
+   "start": 26.53,
+   "end": 28.61,
+   "text": " Mari kita bahas satu per satu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1573,
+   "compression_ratio": 1.927,
+   "no_speech_prob": 0.0325
+  },
+  {
+   "id": 9,
+   "start": 28.61,
+   "end": 33.24,
+   "text": " Karena tema besar pembahasannya adalah koknisi,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1833,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0229
+  },
+  {
+   "id": 10,
+   "start": 33.24,
+   "end": 38.36,
+   "text": " maka tentu kita perlu memahami terlebih dahulu apa yang dimaksud dengan koknisi di sini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1833,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0229
+  },
+  {
+   "id": 11,
+   "start": 38.36,
+   "end": 42.76,
+   "text": " Jika kita lihat definisi koknisi dari kamus besar bahasa Indonesia,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1833,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0229
+  },
+  {
+   "id": 12,
+   "start": 42.76,
+   "end": 44.92,
+   "text": " koknisi memiliki 3 makna.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1833,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0229
+  },
+  {
+   "id": 13,
+   "start": 44.92,
+   "end": 50.36,
+   "text": " Pertama, koknisi di definisikan sebagai kegiatan atau proses memperoleh pengetahuan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1833,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0229
+  },
+  {
+   "id": 14,
+   "start": 50.36,
+   "end": 54.92,
+   "text": " atau usaha untuk mengenali sesuatu melalui pengalaman sendiri.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1833,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0229
+  },
+  {
+   "id": 15,
+   "start": 54.92,
+   "end": 64.44,
+   "text": " Lalu definisi yang kedua adalah proses, pengenalan, dan penafsiran lingkungan oleh seseorang, dan definisi yang ketiga adalah hasil pemerolehan pengetahuan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1289,
+   "compression_ratio": 1.879,
+   "no_speech_prob": 0.032
+  },
+  {
+   "id": 16,
+   "start": 64.44,
+   "end": 73.16,
+   "text": " Dari tiga definisi tersebut, kata kunci yang bisa kita geris bawahi tentang kognisi adalah proses dan mendapatkan pengetahuan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1289,
+   "compression_ratio": 1.879,
+   "no_speech_prob": 0.032
+  },
+  {
+   "id": 17,
+   "start": 73.16,
+   "end": 84.76,
+   "text": " Definisi yang digunakan dalam kelas ini tidak jauh berbeda, yaitu sebuah proses mental atau psikologis yang terjadi ketika seseorang memahami atau mempelajari sesuatu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1289,
+   "compression_ratio": 1.879,
+   "no_speech_prob": 0.032
+  },
+  {
+   "id": 18,
+   "start": 84.76,
+   "end": 90.4,
+   "text": " Yang dimaksud dengan proses mental di sini adalah proses yang berada di dalam pikiran manusia,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1749,
+   "compression_ratio": 1.813,
+   "no_speech_prob": 0.1171
+  },
+  {
+   "id": 19,
+   "start": 90.4,
+   "end": 93.8,
+   "text": " artinya tidak terlihat secara fisik namun ada.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1749,
+   "compression_ratio": 1.813,
+   "no_speech_prob": 0.1171
+  },
+  {
+   "id": 20,
+   "start": 93.8,
+   "end": 102.08,
+   "text": " Yang berkaitan dengan proses mental di sini adalah mental model yang merupakan konsep penting di dalam interaksi manusia dan komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1749,
+   "compression_ratio": 1.813,
+   "no_speech_prob": 0.1171
+  },
+  {
+   "id": 21,
+   "start": 102.08,
+   "end": 106.32,
+   "text": " Istilah kognisi lebih populer di bidang ilmu psikologi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1749,
+   "compression_ratio": 1.813,
+   "no_speech_prob": 0.1171
+  },
+  {
+   "id": 22,
+   "start": 106.32,
+   "end": 110.64,
+   "text": " Lalu apa pentingnya mengetahui teori tentang kognisi bagi desain interaksi?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1749,
+   "compression_ratio": 1.813,
+   "no_speech_prob": 0.1171
+  },
+  {
+   "id": 23,
+   "start": 110.64,
+   "end": 119.64,
+   "text": " Kita tahu bahwa tujuan dari desain interaksi salah satunya adalah menghasilkan aplikasi yang mudah untuk dipelajari dan mudah untuk digunakan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1048,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0735
+  },
+  {
+   "id": 24,
+   "start": 119.64,
+   "end": 127.64,
+   "text": " Mengetahui bagaimana pengguna belajar yang dalam hal ini adalah manusia tentu memudahkan kita untuk mencapai tujuan tersebut",
+   "temperature": 0.0,
+   "avg_logprob": -0.1048,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0735
+  },
+  {
+   "id": 25,
+   "start": 127.64,
+   "end": 131.64,
+   "text": " dan disitulah peran dari aspek kognitif untuk desain interaksi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1048,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0735
+  },
+  {
+   "id": 26,
+   "start": 131.64,
+   "end": 137.14,
+   "text": " Proses kognisi dapat terjadi dalam berbagai bentuk.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1048,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0735
+  },
+  {
+   "id": 27,
+   "start": 137.14,
+   "end": 142.38,
+   "text": " Jadi, ada 5 jenis utama proses kognisi yang kaitannya sangat erat dengan desain interaksi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.241,
+   "compression_ratio": 1.664,
+   "no_speech_prob": 0.2498
+  },
+  {
+   "id": 28,
+   "start": 142.38,
+   "end": 145.98,
+   "text": " Jenis-jenis proses kognisi tersebut antara lain adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.241,
+   "compression_ratio": 1.664,
+   "no_speech_prob": 0.2498
+  },
+  {
+   "id": 29,
+   "start": 145.98,
+   "end": 151.34,
+   "text": " Atensi, Persepsi, Memori, Literasi, dan Metacognisi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.241,
+   "compression_ratio": 1.664,
+   "no_speech_prob": 0.2498
+  },
+  {
+   "id": 30,
+   "start": 151.34,
+   "end": 154.34,
+   "text": " Atensi merupakan fokus perhatian.",
+   "temperature": 0.0,
+   "avg_logprob": -0.241,
+   "compression_ratio": 1.664,
+   "no_speech_prob": 0.2498
+  },
+  {
+   "id": 31,
+   "start": 154.34,
+   "end": 158.54,
+   "text": " Sedangkan Persepsi adalah pemahaman seseorang akan suatu informasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.241,
+   "compression_ratio": 1.664,
+   "no_speech_prob": 0.2498
+  },
+  {
+   "id": 32,
+   "start": 158.54,
+   "end": 163.34,
+   "text": " Memori berkaitan dengan kemampuan mengingat dan menyimpan pengetahuan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.241,
+   "compression_ratio": 1.664,
+   "no_speech_prob": 0.2498
+  },
+  {
+   "id": 33,
+   "start": 163.34,
+   "end": 173.34,
+   "text": " Literasi mencakup membaca, berbicara dan juga mendengar, dan metakoknisi merujuk pada pemahaman seseorang terhadap cara berpikir dirinya sendiri.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1557,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0466
+  },
+  {
+   "id": 34,
+   "start": 173.34,
+   "end": 181.34,
+   "text": " Kita akan membahas tiap proses koknisi ini satu per satu, berikut dengan bagaimana contoh penerapannya di dalam disa dinteraksi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1557,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0466
+  },
+  {
+   "id": 35,
+   "start": 181.34,
+   "end": 186.07,
+   "text": " Proses koknisi yang pertama adalah atensi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1557,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0466
+  },
+  {
+   "id": 36,
+   "start": 186.07,
+   "end": 190.07,
+   "text": " Atensi adalah memilih informasi sebagai pusat konsentrasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1557,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0466
+  },
+  {
+   "id": 37,
+   "start": 190.07,
+   "end": 198.07,
+   "text": " Atensi pengguna perlu untuk diperhatikan terutama apabila kita mengharapkan sesuatu untuk dilakukan oleh pengguna aplikasi kita.",
+   "temperature": 0.0,
+   "avg_logprob": -0.099,
+   "compression_ratio": 1.725,
+   "no_speech_prob": 0.5972
+  },
+  {
+   "id": 38,
+   "start": 198.07,
+   "end": 208.07,
+   "text": " Ada dua faktor utama yang mempengaruhi atensi. Pertama adalah bentuk informasi, dan yang kedua adalah tujuan yang ingin dicapai oleh pengguna tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.099,
+   "compression_ratio": 1.725,
+   "no_speech_prob": 0.5972
+  },
+  {
+   "id": 39,
+   "start": 208.07,
+   "end": 212.07,
+   "text": " Jika seseorang sudah mengetahui dengan jelas apa yang ingin dicapainya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.099,
+   "compression_ratio": 1.725,
+   "no_speech_prob": 0.5972
+  },
+  {
+   "id": 40,
+   "start": 212.07,
+   "end": 220.07,
+   "text": " Maka ia cenderung akan lebih cepat dalam menelusuri dan memilih informasi yang relevan untuk mencapai tujuannya itu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1191,
+   "compression_ratio": 2.014,
+   "no_speech_prob": 0.6587
+  },
+  {
+   "id": 41,
+   "start": 220.07,
+   "end": 226.07,
+   "text": " Misalkan kita baru saja tiba di Bandara dan ingin bergegas menuju terminal keberangkatan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1191,
+   "compression_ratio": 2.014,
+   "no_speech_prob": 0.6587
+  },
+  {
+   "id": 42,
+   "start": 226.07,
+   "end": 235.07,
+   "text": " Biasanya kita akan lebih cepat untuk menelusuri informasi di dalam Bandara tersebut dan memilih mana yang relevan untuk menunjukkan jalan ke terminal keberangkatan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1191,
+   "compression_ratio": 2.014,
+   "no_speech_prob": 0.6587
+  },
+  {
+   "id": 43,
+   "start": 235.07,
+   "end": 240.07,
+   "text": " Misalnya informasi tersebut tersedia dalam bentuk papan petunjuk jalan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1191,
+   "compression_ratio": 2.014,
+   "no_speech_prob": 0.6587
+  },
+  {
+   "id": 44,
+   "start": 240.07,
+   "end": 249.07,
+   "text": " Sekarang, coba bandingkan jika orang tersebut tiba 2 jam lebih awal di bandara dan tidak tahu ingin melakukan apa selama menunggu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1114,
+   "compression_ratio": 1.656,
+   "no_speech_prob": 0.436
+  },
+  {
+   "id": 45,
+   "start": 249.07,
+   "end": 257.07,
+   "text": " Mungkin saja dia memperhatikan setiap informasi yang dilihatnya, seperti toko souvenir, tempat makan, atau papan pengumuman.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1114,
+   "compression_ratio": 1.656,
+   "no_speech_prob": 0.436
+  },
+  {
+   "id": 46,
+   "start": 257.07,
+   "end": 263.07,
+   "text": " Namun yang pasti akan lebih lama untuk mendapatkan fokus yang menjadi pusat perhatiannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1114,
+   "compression_ratio": 1.656,
+   "no_speech_prob": 0.436
+  },
+  {
+   "id": 47,
+   "start": 263.07,
+   "end": 267.07,
+   "text": " Setiap orang memiliki kemampuan untuk dapat fokus yang berbeda-beda.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1114,
+   "compression_ratio": 1.656,
+   "no_speech_prob": 0.436
+  },
+  {
+   "id": 48,
+   "start": 267.07,
+   "end": 271.07,
+   "text": " Sebagian harus benar-benar fokus dan tidak terganggu oleh sekitarnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1413,
+   "compression_ratio": 1.581,
+   "no_speech_prob": 0.2559
+  },
+  {
+   "id": 49,
+   "start": 271.07,
+   "end": 278.07,
+   "text": " Namun, sebagian lagi bisa jadi adalah multitasker yang biasa mengerjakan beberapa aktivitas sekaligus.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1413,
+   "compression_ratio": 1.581,
+   "no_speech_prob": 0.2559
+  },
+  {
+   "id": 50,
+   "start": 279.07,
+   "end": 288.07,
+   "text": " Terkait multitasker, kita perlu pahami bahwa multitasker tingkat berat sangat mudah untuk terdistraksi dan sulit untuk menyeleksi informasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1413,
+   "compression_ratio": 1.581,
+   "no_speech_prob": 0.2559
+  },
+  {
+   "id": 51,
+   "start": 288.07,
+   "end": 300.07,
+   "text": " Sebagai designer, kita perlu merancang antar muka yang meminimalisir terjadinya distraksi ketika pengguna belum tuntas menyelesaikan suatu proses tertentu yang dilakukan di dalam aplikasi kita.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1539,
+   "compression_ratio": 1.623,
+   "no_speech_prob": 0.3438
+  },
+  {
+   "id": 52,
+   "start": 301.07,
+   "end": 307.07,
+   "text": " Mari kita lihat contoh penarapan atensi dalam desain interaksi agar lebih jelas memahaminya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1539,
+   "compression_ratio": 1.623,
+   "no_speech_prob": 0.3438
+  },
+  {
+   "id": 53,
+   "start": 308.07,
+   "end": 315.07,
+   "text": " Dari informasi yang terlihat ini, coba cari siapa saja mahasi suatu teknik informatika angkatan 2011.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1539,
+   "compression_ratio": 1.623,
+   "no_speech_prob": 0.3438
+  },
+  {
+   "id": 54,
+   "start": 315.07,
+   "end": 318.75,
+   "text": " Kira-kira apakah Anda bisa menemukannya dengan cepat?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.708,
+   "no_speech_prob": 0.2273
+  },
+  {
+   "id": 55,
+   "start": 318.75,
+   "end": 327.9,
+   "text": " Sekarang, coba bandingkan jika penyajian informasinya adalah seperti yang terlihat berikut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.708,
+   "no_speech_prob": 0.2273
+  },
+  {
+   "id": 56,
+   "start": 327.9,
+   "end": 333.9,
+   "text": " Tugasnya masih sama, yaitu mencari mahasiswa teknik informatika angkatan 2011.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.708,
+   "no_speech_prob": 0.2273
+  },
+  {
+   "id": 57,
+   "start": 333.9,
+   "end": 341.97,
+   "text": " Jika dibandingkan dengan yang sebelumnya, apakah mencari informasi tersebut sekarang lebih mudah dari sebelumnya?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.708,
+   "no_speech_prob": 0.2273
+  },
+  {
+   "id": 58,
+   "start": 341.97,
+   "end": 347.17,
+   "text": " Bagi kebanyakan orang, bentuk penyajian informasi ini lebih memudahkan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.708,
+   "no_speech_prob": 0.2273
+  },
+  {
+   "id": 59,
+   "start": 347.17,
+   "end": 353.81,
+   "text": " karena teorinya, mengelompokkan informasi sesuai relevanasi akan mempercepat proses atensi pengguna.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3041,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0149
+  },
+  {
+   "id": 60,
+   "start": 354.81,
+   "end": 359.69,
+   "text": " Mari kita lihat contoh lain bagaimana atensi bisa menentukan rancangan yang dibuat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3041,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0149
+  },
+  {
+   "id": 61,
+   "start": 359.69,
+   "end": 362.21,
+   "text": " Dari ke-6 banner yang kelihat ini,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3041,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0149
+  },
+  {
+   "id": 62,
+   "start": 362.21,
+   "end": 365.01,
+   "text": " yang mana yang paling nyaman untuk dibaca?",
+   "temperature": 0.0,
+   "avg_logprob": -0.3041,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0149
+  },
+  {
+   "id": 63,
+   "start": 366.37,
+   "end": 368.89,
+   "text": " Semua tulisannya tentu bisa dibaca.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3041,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0149
+  },
+  {
+   "id": 64,
+   "start": 368.89,
+   "end": 371.53,
+   "text": " Namun apakah semuanya nyaman untuk dibaca?",
+   "temperature": 0.0,
+   "avg_logprob": -0.3041,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0149
+  },
+  {
+   "id": 65,
+   "start": 371.53,
+   "end": 378.53,
+   "text": " Giasanya yang paling nyaman dibaca adalah yang Anda lihat pertama kali atau yang paling menarik perhatian.",
+   "temperature": 0.0,
+   "avg_logprob": -0.0987,
+   "compression_ratio": 1.821,
+   "no_speech_prob": 0.0873
+  },
+  {
+   "id": 66,
+   "start": 378.53,
+   "end": 386.53,
+   "text": " Dalam konteks aplikasi, penyajian informasi penting perlu dibuat agar nyaman dibaca dan juga bisa menarik perhatian.",
+   "temperature": 0.0,
+   "avg_logprob": -0.0987,
+   "compression_ratio": 1.821,
+   "no_speech_prob": 0.0873
+  },
+  {
+   "id": 67,
+   "start": 386.53,
+   "end": 394.53,
+   "text": " Dari ke-6 ini, mungkin yang nyaman dibaca ada dua, yaitu yang menggunakan background merah marun dengan tulisan putih,",
+   "temperature": 0.0,
+   "avg_logprob": -0.0987,
+   "compression_ratio": 1.821,
+   "no_speech_prob": 0.0873
+  },
+  {
+   "id": 68,
+   "start": 394.53,
+   "end": 398.53,
+   "text": " atau yang belatar belakang putih dan tulisannya berwarna hitam.",
+   "temperature": 0.0,
+   "avg_logprob": -0.0987,
+   "compression_ratio": 1.821,
+   "no_speech_prob": 0.0873
+  },
+  {
+   "id": 69,
+   "start": 398.53,
+   "end": 406.53,
+   "text": " Manakah yang lebih menarik di antara kedua-nya sepertinya yang menggunakan latar belakang merah marun dengan tulisan berwarna putih.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1306,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0779
+  },
+  {
+   "id": 70,
+   "start": 406.53,
+   "end": 414.53,
+   "text": " Dari contoh ini dapat dikatakan bahwa keterbacaan yang tepat akan mempermudah pemahaman pengguna terhadap maksud dan fungsi aplikasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1306,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0779
+  },
+  {
+   "id": 71,
+   "start": 414.53,
+   "end": 420.53,
+   "text": " Semakin cepat pengguna menyeleksi informasi, semakin cepat pengguna mencapai tujuannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1306,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0779
+  },
+  {
+   "id": 72,
+   "start": 420.53,
+   "end": 426.13,
+   "text": " Kita lanjutkan pada jenis proses kognisi yang kedua yaitu Persepsi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1306,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0779
+  },
+  {
+   "id": 73,
+   "start": 426.13,
+   "end": 433.57,
+   "text": " Persepsi dapat diartikan sebagai memaknai atau memberikan pemahaman terhadap suatu informasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0715
+  },
+  {
+   "id": 74,
+   "start": 433.57,
+   "end": 439.89,
+   "text": " Persepsi akan sangat tergantung dari pengetahuan yang dimiliki dan juga cara berpikir seseorang.",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0715
+  },
+  {
+   "id": 75,
+   "start": 439.89,
+   "end": 445.49,
+   "text": " Satu informasi yang sama bisa saja dipersepsikan berbeda oleh setiap orang,",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0715
+  },
+  {
+   "id": 76,
+   "start": 445.49,
+   "end": 449.81,
+   "text": " terlebih lagi jika informasinya bersifat bias dan multitafsir.",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0715
+  },
+  {
+   "id": 77,
+   "start": 449.81,
+   "end": 455.97,
+   "text": " Persepsi ini berkaitan dengan apakah sebuah informasi penting atau tidak menurut pengguna.",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0715
+  },
+  {
+   "id": 78,
+   "start": 455.97,
+   "end": 458.61,
+   "text": " Itu diputuskan oleh mereka sendiri.",
+   "temperature": 0.0,
+   "avg_logprob": -0.152,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.1344
+  },
+  {
+   "id": 79,
+   "start": 458.61,
+   "end": 466.61,
+   "text": " Tentu pengguna perlu memahami informasi yang diterima untuk memutuskan apakah informasi tersebut dibutuhkan atau tidak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.152,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.1344
+  },
+  {
+   "id": 80,
+   "start": 466.61,
+   "end": 472.21,
+   "text": " Dari sudut pandang sistem designer, penting untuk memahami apa yang pengguna pahami",
+   "temperature": 0.0,
+   "avg_logprob": -0.152,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.1344
+  },
+  {
+   "id": 81,
+   "start": 472.21,
+   "end": 475.33,
+   "text": " dan menerapkannya ke dalam desain yang kita rancang.",
+   "temperature": 0.0,
+   "avg_logprob": -0.152,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.1344
+  },
+  {
+   "id": 82,
+   "start": 475.33,
+   "end": 483.25,
+   "text": " Kita perlu perhatikan benar penyajian informasi baik dalam bentuk gambar atau puntulisan jelas dan mudah untuk dipahami.",
+   "temperature": 0.0,
+   "avg_logprob": -0.152,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.1344
+  },
+  {
+   "id": 83,
+   "start": 483.25,
+   "end": 488.53,
+   "text": " Dengan demikian, persepsi orang yang menerimanya cenderung tidak jauh berbeda satu sama lain.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1529,
+   "compression_ratio": 1.749,
+   "no_speech_prob": 0.0378
+  },
+  {
+   "id": 84,
+   "start": 488.53,
+   "end": 493.73,
+   "text": " Bagaimana contoh penerapan persepsi di dalam desain interaksi?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1529,
+   "compression_ratio": 1.749,
+   "no_speech_prob": 0.0378
+  },
+  {
+   "id": 85,
+   "start": 493.73,
+   "end": 497.09,
+   "text": " Kita ambil contoh saja pada website e-commerce.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1529,
+   "compression_ratio": 1.749,
+   "no_speech_prob": 0.0378
+  },
+  {
+   "id": 86,
+   "start": 497.09,
+   "end": 501.81,
+   "text": " Website e-commerce menggunakan gambar kerenjang untuk menggambarkan wadah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1529,
+   "compression_ratio": 1.749,
+   "no_speech_prob": 0.0378
+  },
+  {
+   "id": 87,
+   "start": 501.81,
+   "end": 504.93,
+   "text": " atau tempat mengumpulkan produk-produk yang akan dibeli.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1529,
+   "compression_ratio": 1.749,
+   "no_speech_prob": 0.0378
+  },
+  {
+   "id": 88,
+   "start": 504.93,
+   "end": 509.09,
+   "text": " Bagi sebagian orang, gambar kerenjang belanja sudah familiar",
+   "temperature": 0.0,
+   "avg_logprob": -0.1529,
+   "compression_ratio": 1.749,
+   "no_speech_prob": 0.0378
+  },
+  {
+   "id": 89,
+   "start": 509.09,
+   "end": 513.41,
+   "text": " dan dengan melihatnya, pengguna sudah memiliki gambaran apa fungsinya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1529,
+   "compression_ratio": 1.749,
+   "no_speech_prob": 0.0378
+  },
+  {
+   "id": 90,
+   "start": 513.41,
+   "end": 517.41,
+   "text": " Di dunia nyata, kranjang memang umum digunakan di supermarket",
+   "temperature": 0.0,
+   "avg_logprob": -0.1611,
+   "compression_ratio": 1.803,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 91,
+   "start": 517.41,
+   "end": 519.91,
+   "text": " untuk menyimpan barang-barang yang akan dibeli",
+   "temperature": 0.0,
+   "avg_logprob": -0.1611,
+   "compression_ratio": 1.803,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 92,
+   "start": 519.91,
+   "end": 522.41,
+   "text": " untuk kemudian dibawa ke kasir.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1611,
+   "compression_ratio": 1.803,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 93,
+   "start": 522.41,
+   "end": 525.91,
+   "text": " Mempersepsikan gambar kranjang belanja sebagai tempat",
+   "temperature": 0.0,
+   "avg_logprob": -0.1611,
+   "compression_ratio": 1.803,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 94,
+   "start": 525.91,
+   "end": 528.91,
+   "text": " untuk melihat barang yang sudah dipilih, tentu lebih mudah,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1611,
+   "compression_ratio": 1.803,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 95,
+   "start": 528.91,
+   "end": 532.41,
+   "text": " dibandingkan misalnya gambar yang digunakan adalah buku",
+   "temperature": 0.0,
+   "avg_logprob": -0.1611,
+   "compression_ratio": 1.803,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 96,
+   "start": 532.41,
+   "end": 534.41,
+   "text": " ataupun malahan tong sampah.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1611,
+   "compression_ratio": 1.803,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 97,
+   "start": 534.41,
+   "end": 539.7,
+   "text": " Proses kognisi yang selanjutnya adalah memori.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1611,
+   "compression_ratio": 1.803,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 98,
+   "start": 539.7,
+   "end": 543.2,
+   "text": " Memori kuat kaitannya dengan proses mengingat kembali",
+   "temperature": 0.0,
+   "avg_logprob": -0.1611,
+   "compression_ratio": 1.803,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 99,
+   "start": 543.2,
+   "end": 546.2,
+   "text": " berbagai jenis pengetahuan yang sudah dimiliki oleh seseorang,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1197,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.1642
+  },
+  {
+   "id": 100,
+   "start": 546.2,
+   "end": 549.2,
+   "text": " agar dapat digunakan untuk melakukan sesuatu tentunya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1197,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.1642
+  },
+  {
+   "id": 101,
+   "start": 549.2,
+   "end": 555.2,
+   "text": " Misalnya untuk mengurus perpanjangan surat izin mengumudi yang dilakukan setiap 5 tahun sekali.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1197,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.1642
+  },
+  {
+   "id": 102,
+   "start": 555.2,
+   "end": 559.2,
+   "text": " Seseorang perlu mengingat-ingat bagaimana prosedurnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1197,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.1642
+  },
+  {
+   "id": 103,
+   "start": 559.2,
+   "end": 564.2,
+   "text": " Jika dalam konteks aplikasi, misalnya ketika kita berupaya mengingat kembali",
+   "temperature": 0.0,
+   "avg_logprob": -0.1197,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.1642
+  },
+  {
+   "id": 104,
+   "start": 564.2,
+   "end": 568.2,
+   "text": " cara melaporkan SPT pajak tahunan melalui aplikasinya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1197,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.1642
+  },
+  {
+   "id": 105,
+   "start": 568.2,
+   "end": 572.2,
+   "text": " Ada 3 hal yang perlu kita perhatikan terkait memori.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1197,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.1642
+  },
+  {
+   "id": 106,
+   "start": 572.2,
+   "end": 575.76,
+   "text": " Pertama, pengguna tidak dapat mengingat semua informasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 107,
+   "start": 575.76,
+   "end": 581.48,
+   "text": " Ini perlu kita pahami, kapasitas otak manusia dalam menyimpan informasi memang cukup terbatas.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 108,
+   "start": 581.48,
+   "end": 587.04,
+   "text": " Yang kedua, perlu konteks untuk memudahkan pengguna mengenali atau mengingat sesuatu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 109,
+   "start": 587.04,
+   "end": 591.2,
+   "text": " Misalnya, jika Anda kebetulan melihat seseorang di dalam kereta,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 110,
+   "start": 591.2,
+   "end": 594.52,
+   "text": " bisa jadi Anda tidak langsung mengenali orang tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 111,
+   "start": 594.52,
+   "end": 598.84,
+   "text": " Namun, jika beberapa saat kemudian Anda melihat kembali orang yang sama,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 112,
+   "start": 598.84,
+   "end": 601.8,
+   "text": " dan ternyata adalah rekan kerja satu kantor,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 113,
+   "start": 601.8,
+   "end": 605.52,
+   "text": " Maka kemungkinan besar Anda bisa mengenali dan menyadarinya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2106,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.1049
+  },
+  {
+   "id": 114,
+   "start": 605.52,
+   "end": 610.34,
+   "text": " Tempat antara kereta dan kantor di sini merupakan dua konteks yang berbeda.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2106,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.1049
+  },
+  {
+   "id": 115,
+   "start": 610.34,
+   "end": 614.86,
+   "text": " Lalu, poin penting ketiga terkait memori adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2106,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.1049
+  },
+  {
+   "id": 116,
+   "start": 614.86,
+   "end": 620.44,
+   "text": " lebih mudah untuk mengenali atau recognize dibandingkan dengan mengingat atau recall.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2106,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.1049
+  },
+  {
+   "id": 117,
+   "start": 620.44,
+   "end": 625.2,
+   "text": " Anda mungkin tidak mengingat nama semua orang yang telah bertemu dengan Anda,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2106,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.1049
+  },
+  {
+   "id": 118,
+   "start": 625.2,
+   "end": 629.28,
+   "text": " namun jika melihat wajahnya, Anda mungkin saja merasa mengenalinya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2106,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.1049
+  },
+  {
+   "id": 119,
+   "start": 629.28,
+   "end": 633.28,
+   "text": " Bagaimana contoh penerapan aspek memori dalam desain interaksi?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1111,
+   "compression_ratio": 1.74,
+   "no_speech_prob": 0.0802
+  },
+  {
+   "id": 120,
+   "start": 633.28,
+   "end": 641.28,
+   "text": " Dari 3 hal yang perlu diperhatikan terkait memori tadi, kita tahu bahwa pengguna punya keterbatasan dalam mengingat semua informasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1111,
+   "compression_ratio": 1.74,
+   "no_speech_prob": 0.0802
+  },
+  {
+   "id": 121,
+   "start": 641.28,
+   "end": 647.28,
+   "text": " 1 contoh fitur aplikasi yang menjawab permasalahan tersebut adalah fitur pencarian di sistem operasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1111,
+   "compression_ratio": 1.74,
+   "no_speech_prob": 0.0802
+  },
+  {
+   "id": 122,
+   "start": 647.28,
+   "end": 654.28,
+   "text": " Fitur ini memudahkan pengguna untuk menemukan file, folder atau aplikasi yang diperlukan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1111,
+   "compression_ratio": 1.74,
+   "no_speech_prob": 0.0802
+  },
+  {
+   "id": 123,
+   "start": 654.28,
+   "end": 658.28,
+   "text": " Pengguna sering tidak hapal di mana menyimpan file yang diperlukan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1111,
+   "compression_ratio": 1.74,
+   "no_speech_prob": 0.0802
+  },
+  {
+   "id": 124,
+   "start": 658.28,
+   "end": 663.28,
+   "text": " Terutama apabila file yang dibutuhkan tersebut sudah lama tidak digunakan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1133,
+   "compression_ratio": 1.79,
+   "no_speech_prob": 0.3403
+  },
+  {
+   "id": 125,
+   "start": 663.28,
+   "end": 668.28,
+   "text": " Fitur pencarian mengurangi beban pengguna yang kesulitan untuk mengingat tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1133,
+   "compression_ratio": 1.79,
+   "no_speech_prob": 0.3403
+  },
+  {
+   "id": 126,
+   "start": 668.28,
+   "end": 673.28,
+   "text": " Gambar yang terlihat di sebelah kanan ini adalah tampilan fitur pencarian bernama Spotlight",
+   "temperature": 0.0,
+   "avg_logprob": -0.1133,
+   "compression_ratio": 1.79,
+   "no_speech_prob": 0.3403
+  },
+  {
+   "id": 127,
+   "start": 673.28,
+   "end": 676.28,
+   "text": " yang dimiliki oleh sistem operasi Mac OS.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1133,
+   "compression_ratio": 1.79,
+   "no_speech_prob": 0.3403
+  },
+  {
+   "id": 128,
+   "start": 676.28,
+   "end": 680.28,
+   "text": " Seperti yang terlihat pada gambar, Spotlight sangat membantu pengguna",
+   "temperature": 0.0,
+   "avg_logprob": -0.1133,
+   "compression_ratio": 1.79,
+   "no_speech_prob": 0.3403
+  },
+  {
+   "id": 129,
+   "start": 680.28,
+   "end": 687.28,
+   "text": " untuk menemukan apa yang mereka butuhkan, tidak hanya file, namun juga folder atau bahkan aplikasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1133,
+   "compression_ratio": 1.79,
+   "no_speech_prob": 0.3403
+  },
+  {
+   "id": 130,
+   "start": 687.28,
+   "end": 691.96,
+   "text": " yang menurut sistem relevan untuk ditampilkan sebagai hasil pencarian.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1903,
+   "compression_ratio": 1.646,
+   "no_speech_prob": 0.1578
+  },
+  {
+   "id": 131,
+   "start": 691.96,
+   "end": 700.09,
+   "text": " Tentu contoh penerapan aspek memori dalam desain interaksi tidak sebatas fitur pencarian saja.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1903,
+   "compression_ratio": 1.646,
+   "no_speech_prob": 0.1578
+  },
+  {
+   "id": 132,
+   "start": 700.09,
+   "end": 704.33,
+   "text": " Satu contoh lain dapat kita lihat pada web browser yang populer saat ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1903,
+   "compression_ratio": 1.646,
+   "no_speech_prob": 0.1578
+  },
+  {
+   "id": 133,
+   "start": 704.33,
+   "end": 707.05,
+   "text": " Kebanyakan web browser, misalnya Google Chrome,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1903,
+   "compression_ratio": 1.646,
+   "no_speech_prob": 0.1578
+  },
+  {
+   "id": 134,
+   "start": 707.05,
+   "end": 709.89,
+   "text": " menyediakan fitur penelusuran atau history.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1903,
+   "compression_ratio": 1.646,
+   "no_speech_prob": 0.1578
+  },
+  {
+   "id": 135,
+   "start": 709.89,
+   "end": 716.09,
+   "text": " Fitur ini membantu pengguna untuk merekoknais halaman website apa yang mereka buka di masa lalu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1903,
+   "compression_ratio": 1.646,
+   "no_speech_prob": 0.1578
+  },
+  {
+   "id": 136,
+   "start": 716.09,
+   "end": 720.53,
+   "text": " Jadi, daripada pengguna harus mengingat-ingat kemarin bambuka situs apa,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 137,
+   "start": 720.53,
+   "end": 726.49,
+   "text": " mereka hanya perlu mengakses menu history untuk melihat riwayat website yang mereka kunjungi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 138,
+   "start": 726.49,
+   "end": 733.25,
+   "text": " Dua contoh yang sudah diberikan ini mudah-mudahan membantu Anda untuk memahami bagaimana aspek memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 139,
+   "start": 733.25,
+   "end": 735.57,
+   "text": " menentukan desain interaksi yang dibuat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 140,
+   "start": 735.57,
+   "end": 742.3,
+   "text": " Proses kognisi yang selanjutnya adalah literasi atau kebahasaan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 141,
+   "start": 742.3,
+   "end": 744.98,
+   "text": " Literasi ini tidak hanya mencakup tulisan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 142,
+   "start": 744.98,
+   "end": 748.9,
+   "text": " Namun juga mencakup berbicara, mendengar, dan membaca.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1772,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0255
+  },
+  {
+   "id": 143,
+   "start": 748.9,
+   "end": 754.1,
+   "text": " Anda mungkin sudah pernah mengikuti ujian bahasa tertentu seperti bahasa Inggris misalnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1772,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0255
+  },
+  {
+   "id": 144,
+   "start": 754.1,
+   "end": 758.1,
+   "text": " Di dalam tes tersebut, biasanya ada 3 aspek literasi yang dinilai,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1772,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0255
+  },
+  {
+   "id": 145,
+   "start": 758.1,
+   "end": 760.98,
+   "text": " yaitu speaking, listening, dan juga reading.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1772,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0255
+  },
+  {
+   "id": 146,
+   "start": 760.98,
+   "end": 765.54,
+   "text": " Kurang lebih sama maknanya dengan literasi sebagai proses koknisi di sini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1772,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0255
+  },
+  {
+   "id": 147,
+   "start": 765.54,
+   "end": 770.18,
+   "text": " Inti dari bahasa adalah komunikasi yang dapat dipahami",
+   "temperature": 0.0,
+   "avg_logprob": -0.1772,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0255
+  },
+  {
+   "id": 148,
+   "start": 770.18,
+   "end": 774.5,
+   "text": " dan juga dianggap pantas atau sesuai dengan orang yang diajak berkomunikasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1772,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0255
+  },
+  {
+   "id": 149,
+   "start": 774.5,
+   "end": 781.34,
+   "text": " Dalam aplikasi yang penyajian informasinya didominasi oleh TEX, penerapan aspek literasi ini sangat lah penting.",
+   "temperature": 0.0,
+   "avg_logprob": -0.173,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0105
+  },
+  {
+   "id": 150,
+   "start": 781.34,
+   "end": 787.3,
+   "text": " Misalnya, kita perlu menyesuaikan gaya bahasa atau gaya penulisan dengan karakteristik pengguna.",
+   "temperature": 0.0,
+   "avg_logprob": -0.173,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0105
+  },
+  {
+   "id": 151,
+   "start": 787.3,
+   "end": 794.86,
+   "text": " Menulis konten untuk anak-anak remaja berusia 10 hingga 15 tahun, tentu berbeda dengan konten untuk orang lansia.",
+   "temperature": 0.0,
+   "avg_logprob": -0.173,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0105
+  },
+  {
+   "id": 152,
+   "start": 794.86,
+   "end": 801.1,
+   "text": " Atau menulis konten untuk anak sekolah menengah, tentu berbeda dengan untuk para profesional.",
+   "temperature": 0.0,
+   "avg_logprob": -0.173,
+   "compression_ratio": 1.738,
+   "no_speech_prob": 0.0105
+  },
+  {
+   "id": 153,
+   "start": 801.1,
+   "end": 808.1,
+   "text": " Sebegitu pentingnya aspek literasi di dalam penyajian konten, hingga saat ini ada salah satu profesi yang muncul,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1581,
+   "compression_ratio": 1.641,
+   "no_speech_prob": 0.0591
+  },
+  {
+   "id": 154,
+   "start": 808.1,
+   "end": 811.1,
+   "text": " yaitu konten writer, untuk UX.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1581,
+   "compression_ratio": 1.641,
+   "no_speech_prob": 0.0591
+  },
+  {
+   "id": 155,
+   "start": 811.1,
+   "end": 819.1,
+   "text": " Dimana tujuannya tidak hanya sekedar menulis konten, tetapi juga menyesuaikan gaya bahasa dengan target penggunanya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1581,
+   "compression_ratio": 1.641,
+   "no_speech_prob": 0.0591
+  },
+  {
+   "id": 156,
+   "start": 819.1,
+   "end": 824.1,
+   "text": " Mari kita lihat kembali fitur kerenjang kosong pada ikhmer yang tadi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1581,
+   "compression_ratio": 1.641,
+   "no_speech_prob": 0.0591
+  },
+  {
+   "id": 157,
+   "start": 824.1,
+   "end": 827.1,
+   "text": " Perhatikan kalimat yang ditandai border berwarna merah.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1581,
+   "compression_ratio": 1.641,
+   "no_speech_prob": 0.0591
+  },
+  {
+   "id": 158,
+   "start": 827.1,
+   "end": 830.1,
+   "text": " Perhatikan penglisan kalimatnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1581,
+   "compression_ratio": 1.641,
+   "no_speech_prob": 0.0591
+  },
+  {
+   "id": 159,
+   "start": 830.1,
+   "end": 836.38,
+   "text": " Menurut Anda, siapa kira-kira customer atau pengguna yang ditargetkan oleh aplikasi e-commerce ini?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2012,
+   "compression_ratio": 1.678,
+   "no_speech_prob": 0.0117
+  },
+  {
+   "id": 160,
+   "start": 836.38,
+   "end": 842.38,
+   "text": " Dari gaya bahasanya, sepertinya target utama penggunanya adalah generasi milenial,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2012,
+   "compression_ratio": 1.678,
+   "no_speech_prob": 0.0117
+  },
+  {
+   "id": 161,
+   "start": 842.38,
+   "end": 846.58,
+   "text": " atau yang rentang usianya antara belasan hingga 30 tahunan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2012,
+   "compression_ratio": 1.678,
+   "no_speech_prob": 0.0117
+  },
+  {
+   "id": 162,
+   "start": 846.58,
+   "end": 855.46,
+   "text": " Pada intinya, pemilihan kata, bahasa, dan kalimat pada suatu aplikasi perlu disesuaikan dengan siapa target penggunanya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2012,
+   "compression_ratio": 1.678,
+   "no_speech_prob": 0.0117
+  },
+  {
+   "id": 163,
+   "start": 855.46,
+   "end": 859.18,
+   "text": " Roses kognisi yang terakhir adalah metacognisi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2012,
+   "compression_ratio": 1.678,
+   "no_speech_prob": 0.0117
+  },
+  {
+   "id": 164,
+   "start": 859.18,
+   "end": 864.74,
+   "text": " Istilah ini mungkin terdengar sangat asing di bidang ilmu komputer atau sistem informasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1587,
+   "compression_ratio": 1.78,
+   "no_speech_prob": 0.0494
+  },
+  {
+   "id": 165,
+   "start": 864.74,
+   "end": 871.42,
+   "text": " Orang-orang yang memiliki latar belakang di bidang psikologi dan pendidikan mungkin lebih terbiasa dengan istilah ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1587,
+   "compression_ratio": 1.78,
+   "no_speech_prob": 0.0494
+  },
+  {
+   "id": 166,
+   "start": 871.42,
+   "end": 878.54,
+   "text": " Metacognisi ini merupakan pemahaman seseorang tentang sistem pemerosesan informasi pada dirinya sendiri.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1587,
+   "compression_ratio": 1.78,
+   "no_speech_prob": 0.0494
+  },
+  {
+   "id": 167,
+   "start": 878.54,
+   "end": 883.02,
+   "text": " Ada yang menyebutnya juga sebagai berpikir tentang cara berpikir.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1587,
+   "compression_ratio": 1.78,
+   "no_speech_prob": 0.0494
+  },
+  {
+   "id": 168,
+   "start": 883.02,
+   "end": 889.14,
+   "text": " Sulit untuk dibayangkan karena memang tidak terlihat, namun peran metacognisi ini sangat penting.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1587,
+   "compression_ratio": 1.78,
+   "no_speech_prob": 0.0494
+  },
+  {
+   "id": 169,
+   "start": 889.14,
+   "end": 896.64,
+   "text": " Metacognisi penting untuk penyelesaikan masalah, perencanaan, pertimbangan dan pengambilan keputusan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1354,
+   "compression_ratio": 1.841,
+   "no_speech_prob": 0.0222
+  },
+  {
+   "id": 170,
+   "start": 896.64,
+   "end": 905.14,
+   "text": " Metacognisi ini juga erat kaitannya dengan kepercayaan diri seseorang untuk merasa bisa menggunakan suatu aplikasi tertentu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1354,
+   "compression_ratio": 1.841,
+   "no_speech_prob": 0.0222
+  },
+  {
+   "id": 171,
+   "start": 905.14,
+   "end": 911.14,
+   "text": " Dan karena berkaitan dengan pengambilan keputusan, memperhatikan aspek metacognisi dalam desain interaksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1354,
+   "compression_ratio": 1.841,
+   "no_speech_prob": 0.0222
+  },
+  {
+   "id": 172,
+   "start": 911.14,
+   "end": 917.14,
+   "text": " akan membantu kita mengarahkan pengguna untuk mengambil keputusan yang sebetulnya kita harapkan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1354,
+   "compression_ratio": 1.841,
+   "no_speech_prob": 0.0222
+  },
+  {
+   "id": 173,
+   "start": 917.14,
+   "end": 923.14,
+   "text": " Mari kita lihat contoh bagaimana metacognisi diterapkan pada desa interaksi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1262,
+   "compression_ratio": 1.871,
+   "no_speech_prob": 0.1577
+  },
+  {
+   "id": 174,
+   "start": 923.14,
+   "end": 927.14,
+   "text": " Kita lihat lagi fitur kranjang kosong pada aplikasi ikamer sebelumnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1262,
+   "compression_ratio": 1.871,
+   "no_speech_prob": 0.1577
+  },
+  {
+   "id": 175,
+   "start": 927.14,
+   "end": 934.14,
+   "text": " Sebetulnya dari potongan aplikasi ini kita bisa lihat bagaimana aspek metacognisi diperhatikan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1262,
+   "compression_ratio": 1.871,
+   "no_speech_prob": 0.1577
+  },
+  {
+   "id": 176,
+   "start": 934.14,
+   "end": 936.14,
+   "text": " Kita lihat headline-nya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1262,
+   "compression_ratio": 1.871,
+   "no_speech_prob": 0.1577
+  },
+  {
+   "id": 177,
+   "start": 936.14,
+   "end": 941.14,
+   "text": " Pengembang aplikasi menaraskan kranjang kosong seolah-olah sebagai masalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1262,
+   "compression_ratio": 1.871,
+   "no_speech_prob": 0.1577
+  },
+  {
+   "id": 178,
+   "start": 941.14,
+   "end": 946.14,
+   "text": " dan berharap pengunjung mau menyelesaikan masalah kranjang yang kosong ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1262,
+   "compression_ratio": 1.871,
+   "no_speech_prob": 0.1577
+  },
+  {
+   "id": 179,
+   "start": 946.14,
+   "end": 948.14,
+   "text": " Lalu perhatikan kalimat selanjutnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.118,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0778
+  },
+  {
+   "id": 180,
+   "start": 948.14,
+   "end": 952.14,
+   "text": " Dari pada dianggurin, mending isi dengan barang-barang impianmu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.118,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0778
+  },
+  {
+   "id": 181,
+   "start": 952.14,
+   "end": 954.14,
+   "text": " Yuk, cek sekarang.",
+   "temperature": 0.0,
+   "avg_logprob": -0.118,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0778
+  },
+  {
+   "id": 182,
+   "start": 954.14,
+   "end": 957.14,
+   "text": " Kalimat ini pada dasarnya adalah untuk mengarahkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.118,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0778
+  },
+  {
+   "id": 183,
+   "start": 957.14,
+   "end": 961.14,
+   "text": " atau mengusulkan solusi dari permasalahan keranjang kosong tadi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.118,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0778
+  },
+  {
+   "id": 184,
+   "start": 961.14,
+   "end": 964.14,
+   "text": " Ada kepentingan dari pemilik aplikasi di sini,",
+   "temperature": 0.0,
+   "avg_logprob": -0.118,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0778
+  },
+  {
+   "id": 185,
+   "start": 964.14,
+   "end": 968.14,
+   "text": " yaitu jika pengguna belum memilih satupun produk untuk dibeli",
+   "temperature": 0.0,
+   "avg_logprob": -0.118,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0778
+  },
+  {
+   "id": 186,
+   "start": 968.14,
+   "end": 970.14,
+   "text": " yang ditunjukkan dengan keranjang kosongnya ini,",
+   "temperature": 0.0,
+   "avg_logprob": -0.118,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0778
+  },
+  {
+   "id": 187,
+   "start": 970.14,
+   "end": 975.14,
+   "text": " maka mereka harus dirayu untuk mengisi keranjang kosong tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.118,
+   "compression_ratio": 1.756,
+   "no_speech_prob": 0.0778
+  },
+  {
+   "id": 188,
+   "start": 975.14,
+   "end": 980.42,
+   "text": " Dan tidak berhenti sampai di sana saja, kita lihat di bawahnya ada tombol hijau.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1686,
+   "compression_ratio": 1.753,
+   "no_speech_prob": 0.0861
+  },
+  {
+   "id": 189,
+   "start": 980.42,
+   "end": 983.46,
+   "text": " Tombol ini disebut dengan istilah call to action,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1686,
+   "compression_ratio": 1.753,
+   "no_speech_prob": 0.0861
+  },
+  {
+   "id": 190,
+   "start": 983.46,
+   "end": 988.58,
+   "text": " dimana biasanya ini adalah goals dari aplikasi untuk case kranjang kosong.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1686,
+   "compression_ratio": 1.753,
+   "no_speech_prob": 0.0861
+  },
+  {
+   "id": 191,
+   "start": 988.58,
+   "end": 994.66,
+   "text": " Jika kranjang masih kosong, maka pengguna harus di bawah melihat-lihat produk yang ada.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1686,
+   "compression_ratio": 1.753,
+   "no_speech_prob": 0.0861
+  },
+  {
+   "id": 192,
+   "start": 994.66,
+   "end": 999.94,
+   "text": " Tombol ini berfungsi untuk memfasilitasi jika keputusan yang diambil pengguna",
+   "temperature": 0.0,
+   "avg_logprob": -0.1686,
+   "compression_ratio": 1.753,
+   "no_speech_prob": 0.0861
+  },
+  {
+   "id": 193,
+   "start": 999.94,
+   "end": 1003.06,
+   "text": " memang sesuai dengan harapan dari pemilik aplikasinya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1686,
+   "compression_ratio": 1.753,
+   "no_speech_prob": 0.0861
+  },
+  {
+   "id": 194,
+   "start": 1003.06,
+   "end": 1010.78,
+   "text": " agar lebih memahami apa bedanya dengan aplikasi lain yang kurang menekankan aspek metacognisi,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1961,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.051
+  },
+  {
+   "id": 195,
+   "start": 1010.78,
+   "end": 1014.66,
+   "text": " mari kita bandingkan kranjang kosong dari dua aplikasi berikut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1961,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.051
+  },
+  {
+   "id": 196,
+   "start": 1014.66,
+   "end": 1019.33,
+   "text": " Coba kita bandingkan dua gambar yang terlihat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1961,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.051
+  },
+  {
+   "id": 197,
+   "start": 1019.33,
+   "end": 1022.49,
+   "text": " Dalam konteks penyajian kranjang belanja kosong,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1961,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.051
+  },
+  {
+   "id": 198,
+   "start": 1022.49,
+   "end": 1027.45,
+   "text": " mana yang kira-kira menerapkan prinsip metacognisi lebih baik di antara keduanya?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1961,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.051
+  },
+  {
+   "id": 199,
+   "start": 1027.45,
+   "end": 1031.37,
+   "text": " Anda mungkin sudah bisa menebaknya dengan tepat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1961,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.051
+  },
+  {
+   "id": 200,
+   "start": 1031.37,
+   "end": 1033.61,
+   "text": " Memang dalam konteks kranjang kosong,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1961,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.051
+  },
+  {
+   "id": 201,
+   "start": 1033.61,
+   "end": 1038.01,
+   "text": " Aplikasi yang di sebelah kanan lebih baik dari aplikasi yang ada di sebelah kiri.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1631,
+   "compression_ratio": 1.876,
+   "no_speech_prob": 0.0301
+  },
+  {
+   "id": 202,
+   "start": 1038.01,
+   "end": 1044.69,
+   "text": " Sebelumnya sudah dibahas bagaimana aspek metacognisi diterapkan pada aplikasi yang berada di sebelah kanan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1631,
+   "compression_ratio": 1.876,
+   "no_speech_prob": 0.0301
+  },
+  {
+   "id": 203,
+   "start": 1044.69,
+   "end": 1047.89,
+   "text": " Sekarang kita bahas aplikasi yang di sebelah kiri saja.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1631,
+   "compression_ratio": 1.876,
+   "no_speech_prob": 0.0301
+  },
+  {
+   "id": 204,
+   "start": 1047.89,
+   "end": 1053.21,
+   "text": " Perhatikan bahwa terdapat informasi yang redundant atau double yang disediakan di sini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1631,
+   "compression_ratio": 1.876,
+   "no_speech_prob": 0.0301
+  },
+  {
+   "id": 205,
+   "start": 1053.21,
+   "end": 1059.49,
+   "text": " Di bagian atas ada informasi total barangnya adalah 0 dan gambar keranjangnya juga kosong.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1631,
+   "compression_ratio": 1.876,
+   "no_speech_prob": 0.0301
+  },
+  {
+   "id": 206,
+   "start": 1059.49,
+   "end": 1063.89,
+   "text": " Lalu, teks bertuliskan belum ada barang yang ditambahkan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.0573
+  },
+  {
+   "id": 207,
+   "start": 1063.89,
+   "end": 1067.89,
+   "text": " Ini sebetulnya hanya mengulang informasi yang sama.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.0573
+  },
+  {
+   "id": 208,
+   "start": 1067.89,
+   "end": 1072.13,
+   "text": " Jika total barangnya adalah 0, ya tanpa perlu diperjelas lagi,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.0573
+  },
+  {
+   "id": 209,
+   "start": 1072.13,
+   "end": 1076.69,
+   "text": " pengunjung juga tahu bahwa mereka belum menambahkan satu barang pun untuk dipilih.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.0573
+  },
+  {
+   "id": 210,
+   "start": 1076.69,
+   "end": 1082.21,
+   "text": " Kesalahan selanjutnya adalah tombol call to action di bawahnya yang bertuliskan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.0573
+  },
+  {
+   "id": 211,
+   "start": 1082.21,
+   "end": 1083.41,
+   "text": " lihat kranjang.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.0573
+  },
+  {
+   "id": 212,
+   "start": 1083.41,
+   "end": 1087.01,
+   "text": " Pertanyaannya, jika sudah tahu kranjangnya kosong,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.686,
+   "no_speech_prob": 0.0573
+  },
+  {
+   "id": 213,
+   "start": 1087.01,
+   "end": 1089.91,
+   "text": " Apakah pengunjung masih perlu lagi untuk melihatnya?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1907,
+   "compression_ratio": 1.674,
+   "no_speech_prob": 0.0345
+  },
+  {
+   "id": 214,
+   "start": 1090.91,
+   "end": 1093.31,
+   "text": " Apa yang mau dilihat dari kranjang kosong?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1907,
+   "compression_ratio": 1.674,
+   "no_speech_prob": 0.0345
+  },
+  {
+   "id": 215,
+   "start": 1093.61,
+   "end": 1098.51,
+   "text": " Lalu jika seandainya dilihat pun, apa yang diharapkan oleh pemilik aplikasinya?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1907,
+   "compression_ratio": 1.674,
+   "no_speech_prob": 0.0345
+  },
+  {
+   "id": 216,
+   "start": 1099.01,
+   "end": 1105.21,
+   "text": " Dari perbandingan dua aplikasi ini, kita bisa lihat bahwa aspek metacognisi bisa berdampak signifikan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1907,
+   "compression_ratio": 1.674,
+   "no_speech_prob": 0.0345
+  },
+  {
+   "id": 217,
+   "start": 1105.21,
+   "end": 1108.51,
+   "text": " jika diperhatikan dan diimplementasikan dengan tepat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1907,
+   "compression_ratio": 1.674,
+   "no_speech_prob": 0.0345
+  },
+  {
+   "id": 218,
+   "start": 1110.39,
+   "end": 1114.29,
+   "text": " Penyajian materi ini dibuat berdasarkan dua referensi utama berikut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1907,
+   "compression_ratio": 1.674,
+   "no_speech_prob": 0.0345
+  },
+  {
+   "id": 219,
+   "start": 1114.29,
+   "end": 1121.29,
+   "text": " Dan itu sekaligus menutup pembahasan kita dalam video ini, terima kasih karena Anda telah menyimaknya hingga selesai.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2187,
+   "compression_ratio": 1.182,
+   "no_speech_prob": 0.0708
+  }
+ ]
+}

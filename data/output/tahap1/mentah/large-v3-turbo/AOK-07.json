@@ -1,0 +1,3519 @@
+{
+ "file_id": "AOK-07",
+ "konfigurasi": "large-v3-turbo",
+ "model": "large-v3-turbo",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "info": {
+  "duration": 933.14825,
+  "duration_after_vad": 916.992,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 1.78,
+   "end": 11.4,
+   "text": " Oke, bertemu lagi dengan saya, Hanas, di Mata Kuliah Arsitektur dan Organisasi Komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1194,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 2,
+   "start": 12.22,
+   "end": 17.86,
+   "text": " Pada topik 7 ini terkait input-output bagian ke-1.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1194,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 3,
+   "start": 17.86,
+   "end": 32.32,
+   "text": " Oke, pada materi ini akan disampaikan terkait penjabaran antarmuka dari perangkat input-output",
+   "temperature": 0.0,
+   "avg_logprob": -0.1194,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 4,
+   "start": 32.32,
+   "end": 40.0,
+   "text": " dan perangkat peripheral lain yang ada maupun akan terhubung pada suatu komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1899,
+   "compression_ratio": 1.46,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 5,
+   "start": 41.66,
+   "end": 47.9,
+   "text": " Nah, pada bab ini akan dijelaskan terkait pengertian sistem I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1899,
+   "compression_ratio": 1.46,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 6,
+   "start": 48.42,
+   "end": 54.6,
+   "text": " Kemudian fungsi modul I.O. hingga struktur modul I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1899,
+   "compression_ratio": 1.46,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 7,
+   "start": 54.6,
+   "end": 75.48,
+   "text": " Oke, nah input-output, perangkat I.O. ini adalah salah satu elemen penting pada sebuah sistem komputer selain CPU dan sejumlah modul memori.",
+   "temperature": 0.0,
+   "avg_logprob": -0.137,
+   "compression_ratio": 1.52,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 8,
+   "start": 77.08,
+   "end": 85.3,
+   "text": " Nah, modul I.O. ini bukan hanya merupakan konektor mekanis yang sederhana untuk menghubungkan suatu perangkat dengan bus system.",
+   "temperature": 0.0,
+   "avg_logprob": -0.137,
+   "compression_ratio": 1.52,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 9,
+   "start": 85.3,
+   "end": 90.72,
+   "text": " Nah tetapi modul I.O. ini berisi sesuatu yang cerdas",
+   "temperature": 0.0,
+   "avg_logprob": -0.1307,
+   "compression_ratio": 1.541,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 10,
+   "start": 90.72,
+   "end": 92.92,
+   "text": " Yang berisi logika",
+   "temperature": 0.0,
+   "avg_logprob": -0.1307,
+   "compression_ratio": 1.541,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 11,
+   "start": 92.92,
+   "end": 98.44,
+   "text": " Untuk melakukan fungsi komunikasi antara peripheral dengan bus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1307,
+   "compression_ratio": 1.541,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 12,
+   "start": 98.44,
+   "end": 104.08,
+   "text": " Nah unit input output ini adalah bagian dari sistem mikroprosesor",
+   "temperature": 0.0,
+   "avg_logprob": -0.1307,
+   "compression_ratio": 1.541,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 13,
+   "start": 104.08,
+   "end": 108.86,
+   "text": " Yang digunakan mikroprosesor untuk berhubungan dengan dunia luar",
+   "temperature": 0.0,
+   "avg_logprob": -0.1307,
+   "compression_ratio": 1.541,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 14,
+   "start": 108.86,
+   "end": 113.0,
+   "text": " modul I.O",
+   "temperature": 0.0,
+   "avg_logprob": -0.2147,
+   "compression_ratio": 1.399,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 15,
+   "start": 113.0,
+   "end": 116.4,
+   "text": " ya ini tidak hanya untuk keluar masuknya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2147,
+   "compression_ratio": 1.399,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 16,
+   "start": 116.4,
+   "end": 120.64,
+   "text": " data kepada dari CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.2147,
+   "compression_ratio": 1.399,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 17,
+   "start": 120.64,
+   "end": 124.34,
+   "text": " prosesor, memori ke perangkat masukan keluaran",
+   "temperature": 0.0,
+   "avg_logprob": -0.2147,
+   "compression_ratio": 1.399,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 18,
+   "start": 124.34,
+   "end": 128.32,
+   "text": " tetapi bagaimana perangkat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2147,
+   "compression_ratio": 1.399,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 19,
+   "start": 128.32,
+   "end": 132.32,
+   "text": " input-output itu juga bisa berkomunikasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2147,
+   "compression_ratio": 1.399,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 20,
+   "start": 132.32,
+   "end": 135.6,
+   "text": " dengan baik oleh CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.2147,
+   "compression_ratio": 1.399,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 21,
+   "start": 135.6,
+   "end": 139.88,
+   "text": " nah, misalkan unit input",
+   "temperature": 0.0,
+   "avg_logprob": -0.1343,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 22,
+   "start": 139.88,
+   "end": 143.82,
+   "text": " ini unit masukannya, contohnya sederhana ya keyboard, mouse",
+   "temperature": 0.0,
+   "avg_logprob": -0.1343,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 23,
+   "start": 143.82,
+   "end": 147.86,
+   "text": " misalkan, kemudian unit output, biasanya untuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.1343,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 24,
+   "start": 147.86,
+   "end": 152.06,
+   "text": " menampilkan atau menyajikan data, nah ada lagi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1343,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 25,
+   "start": 152.06,
+   "end": 155.56,
+   "text": " unit yang dia berfungsi sebagai input dan output",
+   "temperature": 0.0,
+   "avg_logprob": -0.1343,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 26,
+   "start": 155.56,
+   "end": 159.72,
+   "text": " misalkan touchscreen, layar sentuh, nah dia kan dual",
+   "temperature": 0.0,
+   "avg_logprob": -0.1343,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 27,
+   "start": 159.72,
+   "end": 164.02,
+   "text": " fungsi, bisa jadi touchscreen, bisa jadi input",
+   "temperature": 0.0,
+   "avg_logprob": -0.1343,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 28,
+   "start": 164.02,
+   "end": 165.46,
+   "text": " bisa jadi output",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 29,
+   "start": 165.46,
+   "end": 167.44,
+   "text": " oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 30,
+   "start": 167.44,
+   "end": 170.6,
+   "text": " nah secara tidak langsung seperti ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 31,
+   "start": 170.6,
+   "end": 172.08,
+   "text": " ya jadi I.O. module",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 32,
+   "start": 172.08,
+   "end": 174.1,
+   "text": " ya ini misalkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 33,
+   "start": 174.1,
+   "end": 176.34,
+   "text": " bayangkan saja sebuah port USB",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 34,
+   "start": 176.34,
+   "end": 177.38,
+   "text": " pada komputer Anda",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 35,
+   "start": 177.38,
+   "end": 180.32,
+   "text": " oke, dia akan berhubung",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 36,
+   "start": 180.32,
+   "end": 182.0,
+   "text": " dengan sistem bus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 37,
+   "start": 182.0,
+   "end": 184.4,
+   "text": " sistem bus yang berisi antara",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 38,
+   "start": 184.4,
+   "end": 186.18,
+   "text": " address data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 39,
+   "start": 186.18,
+   "end": 188.68,
+   "text": " dan control yang dipergunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 40,
+   "start": 188.68,
+   "end": 190.48,
+   "text": " untuk berkomunikasi dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 41,
+   "start": 190.48,
+   "end": 192.66,
+   "text": " CPU atau memory secara",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 42,
+   "start": 192.66,
+   "end": 193.98,
+   "text": " langsung",
+   "temperature": 0.0,
+   "avg_logprob": -0.1879,
+   "compression_ratio": 1.567,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 43,
+   "start": 193.98,
+   "end": 196.48,
+   "text": " Nah, namun",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.361,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 44,
+   "start": 196.48,
+   "end": 202.8,
+   "text": " I.O. ini tidak boleh langsung berkomunikasi dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.361,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 45,
+   "start": 202.8,
+   "end": 205.16,
+   "text": " CPU atau memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.361,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 46,
+   "start": 205.16,
+   "end": 209.56,
+   "text": " Namun harus melewati I.O. modul",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.361,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 47,
+   "start": 209.56,
+   "end": 210.52,
+   "text": " Nah, kenapa?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.361,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 48,
+   "start": 211.64,
+   "end": 216.58,
+   "text": " Karena bervariasinya metode operasi piranti peripheral",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.361,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 49,
+   "start": 216.58,
+   "end": 221.56,
+   "text": " Oke, misalkan sederhana saja keyboard sama mouse",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.361,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 50,
+   "start": 221.56,
+   "end": 226.76,
+   "text": " Nah kan proses yang ada di keyboard sama mouse itu kan beda-beda",
+   "temperature": 0.0,
+   "avg_logprob": -0.1743,
+   "compression_ratio": 1.575,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 51,
+   "start": 226.76,
+   "end": 229.5,
+   "text": " Mulai jumlah tombolnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1743,
+   "compression_ratio": 1.575,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 52,
+   "start": 229.5,
+   "end": 233.34,
+   "text": " Kemudian operasi yang bisa dijalankan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1743,
+   "compression_ratio": 1.575,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 53,
+   "start": 233.34,
+   "end": 239.16,
+   "text": " Apalagi bentuk komunikasinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1743,
+   "compression_ratio": 1.575,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 54,
+   "start": 239.16,
+   "end": 242.56,
+   "text": " Ya proses komunikasinya juga beda",
+   "temperature": 0.0,
+   "avg_logprob": -0.1743,
+   "compression_ratio": 1.575,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 55,
+   "start": 242.56,
+   "end": 251.16,
+   "text": " Nah sehingga tidak praktis apabila sistem komputer ini menangani berbagai macam operasi piranti peripheral tersebut",
+   "temperature": 0.0,
+   "avg_logprob": -0.1743,
+   "compression_ratio": 1.575,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 56,
+   "start": 251.16,
+   "end": 254.42,
+   "text": " keyboard saja macamnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 57,
+   "start": 254.42,
+   "end": 256.7,
+   "text": " gak hanya satu, banyak, kan gak mungkin",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 58,
+   "start": 256.7,
+   "end": 258.84,
+   "text": " misalkan ada 100 merek keyboard",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 59,
+   "start": 258.84,
+   "end": 260.44,
+   "text": " sebuah CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 60,
+   "start": 260.44,
+   "end": 262.32,
+   "text": " harus menyesuaikan diri, enggak",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 61,
+   "start": 262.32,
+   "end": 264.3,
+   "text": " yang harus",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 62,
+   "start": 264.3,
+   "end": 266.44,
+   "text": " menyesuaikan diri adalah perangkat",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 63,
+   "start": 266.44,
+   "end": 268.7,
+   "text": " peripheral itu terhadap CPU-nya",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 64,
+   "start": 268.7,
+   "end": 270.88,
+   "text": " nah kemudian",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 65,
+   "start": 270.88,
+   "end": 272.38,
+   "text": " format data dan",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 66,
+   "start": 272.38,
+   "end": 274.38,
+   "text": " panjang data pada perangkat itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 67,
+   "start": 274.38,
+   "end": 276.2,
+   "text": " juga beda",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 68,
+   "start": 276.2,
+   "end": 278.8,
+   "text": " misalkan mouse komunikasinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 69,
+   "start": 278.8,
+   "end": 280.32,
+   "text": " karena tombolnya mungkin",
+   "temperature": 0.0,
+   "avg_logprob": -0.177,
+   "compression_ratio": 1.675,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 70,
+   "start": 280.32,
+   "end": 282.36,
+   "text": " Cuma 3 sampai 10",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 71,
+   "start": 282.36,
+   "end": 283.1,
+   "text": " Gak banyak ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 72,
+   "start": 283.1,
+   "end": 285.68,
+   "text": " Ya mungkin panjang datanya bisa",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 73,
+   "start": 285.68,
+   "end": 287.32,
+   "text": " Hanya 4 bit saja",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 74,
+   "start": 287.32,
+   "end": 290.02,
+   "text": " Nah bayangkan kalau keyboard dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 75,
+   "start": 290.02,
+   "end": 291.36,
+   "text": " Puluhan tombol",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 76,
+   "start": 291.36,
+   "end": 293.08,
+   "text": " Nah bisa jadi panjang datanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 77,
+   "start": 293.08,
+   "end": 295.96,
+   "text": " 16 bit",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 78,
+   "start": 295.96,
+   "end": 297.14,
+   "text": " Misalkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 79,
+   "start": 297.14,
+   "end": 299.58,
+   "text": " Nah sehingga perlu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 80,
+   "start": 299.58,
+   "end": 300.88,
+   "text": " Sebuah modul untuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 81,
+   "start": 300.88,
+   "end": 303.66,
+   "text": " Mentranslasikan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 82,
+   "start": 303.66,
+   "end": 306.08,
+   "text": " Istilahnya mentranslasikan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 83,
+   "start": 306.08,
+   "end": 307.46,
+   "text": " Bagaimana",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 84,
+   "start": 307.46,
+   "end": 309.04,
+   "text": " Sebuah port USB atau",
+   "temperature": 0.0,
+   "avg_logprob": -0.1646,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 85,
+   "start": 309.04,
+   "end": 310.34,
+   "text": " modul I.O",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 86,
+   "start": 310.34,
+   "end": 312.76,
+   "text": " itu bisa",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 87,
+   "start": 312.76,
+   "end": 314.94,
+   "text": " mengakomodir sesuatu yang ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 88,
+   "start": 314.94,
+   "end": 315.8,
+   "text": " di dunia luar",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 89,
+   "start": 315.8,
+   "end": 318.8,
+   "text": " dan bisa diolah oleh CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 90,
+   "start": 318.8,
+   "end": 321.08,
+   "text": " nah kalau semuanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 91,
+   "start": 321.08,
+   "end": 322.18,
+   "text": " yang olah CPU ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 92,
+   "start": 322.18,
+   "end": 325.38,
+   "text": " banyak yang dilakukan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 93,
+   "start": 325.38,
+   "end": 326.98,
+   "text": " oleh CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 94,
+   "start": 326.98,
+   "end": 329.06,
+   "text": " nah makanya dia harus ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 95,
+   "start": 329.06,
+   "end": 331.12,
+   "text": " modul sendiri biar CPU fokus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 96,
+   "start": 331.12,
+   "end": 332.92,
+   "text": " untuk sebagai unit",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 97,
+   "start": 332.92,
+   "end": 334.5,
+   "text": " pemroses saja",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 98,
+   "start": 334.5,
+   "end": 336.86,
+   "text": " oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 99,
+   "start": 336.86,
+   "end": 338.96,
+   "text": " ini tadi ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.564,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 100,
+   "start": 338.96,
+   "end": 341.52,
+   "text": " yang Anda bayangkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 101,
+   "start": 341.52,
+   "end": 343.6,
+   "text": " misalkan dia sebagai",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 102,
+   "start": 343.6,
+   "end": 344.32,
+   "text": " port USB",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 103,
+   "start": 344.32,
+   "end": 347.82,
+   "text": " oke, nah sebelum",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 104,
+   "start": 347.82,
+   "end": 349.32,
+   "text": " masuk ke",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 105,
+   "start": 349.32,
+   "end": 353.12,
+   "text": " bagian-bagian dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 106,
+   "start": 353.12,
+   "end": 354.46,
+   "text": " modul IO",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 107,
+   "start": 354.46,
+   "end": 357.44,
+   "text": " mayor",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 108,
+   "start": 357.44,
+   "end": 359.32,
+   "text": " fungsi, fungsi mayor dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 109,
+   "start": 359.32,
+   "end": 360.88,
+   "text": " sebuah perangkat IO",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 110,
+   "start": 360.88,
+   "end": 363.34,
+   "text": " jadi fungsi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 111,
+   "start": 363.34,
+   "end": 365.16,
+   "text": " mayor yang minimal",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 112,
+   "start": 365.16,
+   "end": 367.0,
+   "text": " harus dimiliki oleh perangkat IO",
+   "temperature": 0.0,
+   "avg_logprob": -0.2165,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 113,
+   "start": 367.0,
+   "end": 370.36,
+   "text": " Yang pertama adalah kontrol dan timing",
+   "temperature": 0.0,
+   "avg_logprob": -0.1714,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 114,
+   "start": 370.36,
+   "end": 375.72,
+   "text": " Jadi modul I.O. ini harus ada kontrol dan timing",
+   "temperature": 0.0,
+   "avg_logprob": -0.1714,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 115,
+   "start": 375.72,
+   "end": 379.1,
+   "text": " Kontrol dan timing ini untuk apa?",
+   "temperature": 0.0,
+   "avg_logprob": -0.1714,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 116,
+   "start": 379.3,
+   "end": 382.4,
+   "text": " Pewaktuan kapan CPU itu bisa menerima data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1714,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 117,
+   "start": 382.4,
+   "end": 386.94,
+   "text": " Kapan dia bisa dipanggil untuk diolah sama CPU-nya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1714,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 118,
+   "start": 386.94,
+   "end": 391.0,
+   "text": " Kemudian prosesor communication",
+   "temperature": 0.0,
+   "avg_logprob": -0.1714,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 119,
+   "start": 391.0,
+   "end": 395.08,
+   "text": " Misalkan ada command decoding untuk mengartikan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1714,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 120,
+   "start": 395.08,
+   "end": 397.24,
+   "text": " Kalau klik kiri itu artinya apa sih",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 121,
+   "start": 397.24,
+   "end": 400.66,
+   "text": " Yang bisa dibaca oleh CPU itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 122,
+   "start": 400.66,
+   "end": 401.7,
+   "text": " Dia bentuknya apa",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 123,
+   "start": 401.7,
+   "end": 404.36,
+   "text": " Ya misalkan ada 3 tombol",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 124,
+   "start": 404.36,
+   "end": 406.94,
+   "text": " Misalkan yang tombol pertama",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 125,
+   "start": 406.94,
+   "end": 408.1,
+   "text": " Kodenya 00",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 126,
+   "start": 408.1,
+   "end": 409.64,
+   "text": " Tombol kedua 01",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 127,
+   "start": 409.64,
+   "end": 411.72,
+   "text": " Tombol ketiga 01",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 128,
+   "start": 411.72,
+   "end": 412.3,
+   "text": " Ya boleh",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 129,
+   "start": 412.3,
+   "end": 416.74,
+   "text": " Kemudian status reporting",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 130,
+   "start": 416.74,
+   "end": 419.16,
+   "text": " Ini ready atau enggak",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 131,
+   "start": 419.16,
+   "end": 420.7,
+   "text": " Misalkan ada sebuah",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 132,
+   "start": 420.7,
+   "end": 423.16,
+   "text": " Moss saya masukkan ke komputer",
+   "temperature": 0.0,
+   "avg_logprob": -0.21,
+   "compression_ratio": 1.545,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 133,
+   "start": 423.16,
+   "end": 425.54,
+   "text": " nah mouse itu ready dipakai",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 134,
+   "start": 425.54,
+   "end": 427.24,
+   "text": " apa enggak, atau jangan-jangan masih",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 135,
+   "start": 427.24,
+   "end": 431.28,
+   "text": " belum dikenali oleh prosesor",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 136,
+   "start": 431.28,
+   "end": 431.72,
+   "text": " datanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 137,
+   "start": 431.72,
+   "end": 434.8,
+   "text": " oke, kemudian device information",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 138,
+   "start": 434.8,
+   "end": 436.92,
+   "text": " ini ada command status information",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 139,
+   "start": 436.92,
+   "end": 438.96,
+   "text": " and data dari perangkat",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 140,
+   "start": 438.96,
+   "end": 440.04,
+   "text": " input-put-put itu sendiri",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 141,
+   "start": 440.04,
+   "end": 442.74,
+   "text": " nah yang ketiga",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 142,
+   "start": 442.74,
+   "end": 443.86,
+   "text": " data buffering",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 143,
+   "start": 443.86,
+   "end": 447.04,
+   "text": " oke, kalau mouse mungkin simple, nah kalau keyboard",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 144,
+   "start": 447.04,
+   "end": 448.04,
+   "text": " berarti harus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 145,
+   "start": 448.04,
+   "end": 450.92,
+   "text": " atau misalkan perangkat lain, misalkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 146,
+   "start": 450.92,
+   "end": 452.9,
+   "text": " kamera, nah kamera",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 147,
+   "start": 452.9,
+   "end": 454.82,
+   "text": " kan data yang dihasilkan kan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 148,
+   "start": 454.82,
+   "end": 456.64,
+   "text": " lebih kompleks, nah bagaimana",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 149,
+   "start": 456.64,
+   "end": 459.16,
+   "text": " dia bisa ditranslasikan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 150,
+   "start": 459.16,
+   "end": 460.84,
+   "text": " biar bisa diolah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 151,
+   "start": 460.84,
+   "end": 462.06,
+   "text": " sama CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 152,
+   "start": 462.06,
+   "end": 465.06,
+   "text": " oke, yang terakhir",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 153,
+   "start": 465.06,
+   "end": 466.5,
+   "text": " error detection",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 154,
+   "start": 466.5,
+   "end": 469.1,
+   "text": " oke, deteksi error",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 155,
+   "start": 469.1,
+   "end": 470.94,
+   "text": " jadi misalkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 156,
+   "start": 470.94,
+   "end": 472.98,
+   "text": " perangkat yang error CPU-nya baik-baik aja",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 157,
+   "start": 472.98,
+   "end": 474.92,
+   "text": " ya jangan sampai nyalahkan CPU-nya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 158,
+   "start": 474.92,
+   "end": 476.36,
+   "text": " nggak bisa kerja, gitu kan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 159,
+   "start": 476.36,
+   "end": 479.18,
+   "text": " berarti IOModul",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 160,
+   "start": 479.18,
+   "end": 480.9,
+   "text": " harus bisa memberitahu ke prosesor",
+   "temperature": 0.0,
+   "avg_logprob": -0.1436,
+   "compression_ratio": 1.612,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 161,
+   "start": 480.9,
+   "end": 483.22,
+   "text": " misalkan, oh perangkat I.O. itu sudah rusak",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 162,
+   "start": 483.22,
+   "end": 485.0,
+   "text": " gak bisa dipakai, dia",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 163,
+   "start": 485.0,
+   "end": 486.1,
+   "text": " gak mau ngirim data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 164,
+   "start": 486.1,
+   "end": 487.9,
+   "text": " oke, itu adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 165,
+   "start": 487.9,
+   "end": 491.02,
+   "text": " fungsi mayor dari I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 166,
+   "start": 491.56,
+   "end": 491.96,
+   "text": " modul",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 167,
+   "start": 491.96,
+   "end": 497.93,
+   "text": " nah, struktur dari I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 168,
+   "start": 498.01,
+   "end": 499.93,
+   "text": " modul, ya, port USB",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 169,
+   "start": 499.93,
+   "end": 501.87,
+   "text": " pada, misalkan contohnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 170,
+   "start": 501.87,
+   "end": 503.79,
+   "text": " salah satu contoh, port USB",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 171,
+   "start": 503.79,
+   "end": 505.73,
+   "text": " pada komputer Anda, yaitu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 172,
+   "start": 505.73,
+   "end": 507.75,
+   "text": " harus memiliki bagian-bagian ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 173,
+   "start": 507.75,
+   "end": 510.03,
+   "text": " yang pertama ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 174,
+   "start": 510.03,
+   "end": 512.03,
+   "text": " data register, kedua",
+   "temperature": 0.0,
+   "avg_logprob": -0.1769,
+   "compression_ratio": 1.62,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 175,
+   "start": 512.03,
+   "end": 514.15,
+   "text": " status control, yang ketiga",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 176,
+   "start": 514.15,
+   "end": 515.05,
+   "text": " IO logic",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 177,
+   "start": 515.05,
+   "end": 518.13,
+   "text": " nah, masing-masing fungsinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 178,
+   "start": 518.13,
+   "end": 519.93,
+   "text": " data register dan status",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 179,
+   "start": 519.93,
+   "end": 522.15,
+   "text": " control register, ini untuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 180,
+   "start": 522.15,
+   "end": 524.01,
+   "text": " mengirimkan data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 181,
+   "start": 524.01,
+   "end": 525.95,
+   "text": " atau memberikan informasi data pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 182,
+   "start": 525.95,
+   "end": 527.35,
+   "text": " data lines di sistem",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 183,
+   "start": 527.35,
+   "end": 528.33,
+   "text": " bus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 184,
+   "start": 528.33,
+   "end": 531.79,
+   "text": " nah, kemudian address lines",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 185,
+   "start": 531.79,
+   "end": 534.35,
+   "text": " dan control lines, ini dioperasikan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 186,
+   "start": 534.35,
+   "end": 536.19,
+   "text": " oleh IO logic",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 187,
+   "start": 536.19,
+   "end": 538.27,
+   "text": " ya, IO logic ini semacam",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 188,
+   "start": 538.27,
+   "end": 539.89,
+   "text": " alu, arithmetic and",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 189,
+   "start": 539.89,
+   "end": 541.69,
+   "text": " logic unit, ya, jadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1445,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 190,
+   "start": 541.69,
+   "end": 543.09,
+   "text": " unit logika",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 191,
+   "start": 543.09,
+   "end": 545.85,
+   "text": " untuk memberikan instruksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 192,
+   "start": 545.85,
+   "end": 547.75,
+   "text": " pada modul I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 193,
+   "start": 548.59,
+   "end": 549.93,
+   "text": " Nah, kemudian dari I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 194,
+   "start": 550.01,
+   "end": 552.19,
+   "text": " modul baru, ini yang berhubungan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 195,
+   "start": 552.19,
+   "end": 553.93,
+   "text": " dengan external logic,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 196,
+   "start": 554.17,
+   "end": 555.27,
+   "text": " perangkat luar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 197,
+   "start": 556.39,
+   "end": 558.19,
+   "text": " Oke, nah perangkat luar ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 198,
+   "start": 558.19,
+   "end": 559.79,
+   "text": " dia juga punya masing-masing",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 199,
+   "start": 559.79,
+   "end": 561.79,
+   "text": " sendiri ya, data, status, sama",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 200,
+   "start": 561.79,
+   "end": 562.59,
+   "text": " kontrol.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 201,
+   "start": 564.31,
+   "end": 564.47,
+   "text": " Oke.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 202,
+   "start": 565.69,
+   "end": 568.17,
+   "text": " Nah, sedangkan di dalamnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 203,
+   "start": 568.17,
+   "end": 569.99,
+   "text": " I.O. logic ini, apa?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 204,
+   "start": 570.79,
+   "end": 571.43,
+   "text": " Oke.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2699,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 205,
+   "start": 571.69,
+   "end": 574.17,
+   "text": " nah, blok diagramnya seperti ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 206,
+   "start": 574.17,
+   "end": 576.29,
+   "text": " jadi disini ada kontrol logik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 207,
+   "start": 576.29,
+   "end": 577.45,
+   "text": " ada buffer dan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 208,
+   "start": 577.45,
+   "end": 579.07,
+   "text": " transluser",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 209,
+   "start": 579.07,
+   "end": 581.71,
+   "text": " nah, kontrol logik ini berfungsi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 210,
+   "start": 581.71,
+   "end": 584.05,
+   "text": " untuk mengenerate kontrol dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 211,
+   "start": 584.05,
+   "end": 585.93,
+   "text": " menerima",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 212,
+   "start": 585.93,
+   "end": 588.21,
+   "text": " kontrol dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 213,
+   "start": 588.21,
+   "end": 589.89,
+   "text": " CPU, kemudian",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 214,
+   "start": 589.89,
+   "end": 591.19,
+   "text": " dan mengirimkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 215,
+   "start": 591.19,
+   "end": 593.93,
+   "text": " ke I.O. modul",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 216,
+   "start": 593.93,
+   "end": 596.29,
+   "text": " oke, kemudian",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 217,
+   "start": 596.29,
+   "end": 598.07,
+   "text": " nah, kontrol logik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 218,
+   "start": 598.07,
+   "end": 600.31,
+   "text": " bagaimana sih cara kerjanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2665,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 219,
+   "start": 600.31,
+   "end": 604.39,
+   "text": " kontrol logik ini dia sebagai",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 220,
+   "start": 604.39,
+   "end": 605.81,
+   "text": " kontrol dan timing",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 221,
+   "start": 605.81,
+   "end": 608.51,
+   "text": " dia adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 222,
+   "start": 608.51,
+   "end": 609.97,
+   "text": " salah satu hal penting untuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 223,
+   "start": 609.97,
+   "end": 612.41,
+   "text": " sinkronisasi kinerja masing-masing",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 224,
+   "start": 612.41,
+   "end": 613.91,
+   "text": " komponen penyusun komputer",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 225,
+   "start": 613.91,
+   "end": 616.43,
+   "text": " nah yang pertama",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 226,
+   "start": 616.43,
+   "end": 618.51,
+   "text": " fungsi kontrol",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 227,
+   "start": 618.51,
+   "end": 620.55,
+   "text": " dan timing dia sebagai",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 228,
+   "start": 620.55,
+   "end": 622.37,
+   "text": " yang meminta",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 229,
+   "start": 622.37,
+   "end": 624.77,
+   "text": " dan memeriksa status perangkat",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 230,
+   "start": 624.77,
+   "end": 626.57,
+   "text": " dari CPU ke modul",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 231,
+   "start": 626.57,
+   "end": 627.07,
+   "text": " I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1836,
+   "compression_ratio": 1.639,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 232,
+   "start": 627.07,
+   "end": 630.41,
+   "text": " CPU memberikan request",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 233,
+   "start": 630.41,
+   "end": 630.87,
+   "text": " oh ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 234,
+   "start": 630.87,
+   "end": 634.09,
+   "text": " misalkan periksa ada modul",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 235,
+   "start": 634.09,
+   "end": 636.33,
+   "text": " ada IO yang nancep enggak",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 236,
+   "start": 636.33,
+   "end": 638.45,
+   "text": " atau misalkan ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 237,
+   "start": 638.45,
+   "end": 640.49,
+   "text": " IO yang nancep dia bisa kerja enggak",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 238,
+   "start": 640.49,
+   "end": 641.83,
+   "text": " nah itu sih",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 239,
+   "start": 641.83,
+   "end": 644.07,
+   "text": " ini control and timing",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 240,
+   "start": 644.07,
+   "end": 645.55,
+   "text": " sewaktu-waktu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 241,
+   "start": 645.55,
+   "end": 648.43,
+   "text": " akan dilakukan pengecekan oleh CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 242,
+   "start": 648.43,
+   "end": 650.23,
+   "text": " oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 243,
+   "start": 650.23,
+   "end": 652.43,
+   "text": " kemudian modul IO",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 244,
+   "start": 652.43,
+   "end": 653.55,
+   "text": " memberi jawaban",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 245,
+   "start": 653.55,
+   "end": 656.73,
+   "text": " bisa perangkatnya bisa dipakai",
+   "temperature": 0.0,
+   "avg_logprob": -0.1844,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 246,
+   "start": 656.73,
+   "end": 658.45,
+   "text": " Atau misalkan portnya sedang kosong",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.703,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 247,
+   "start": 658.45,
+   "end": 660.17,
+   "text": " Oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.703,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 248,
+   "start": 660.17,
+   "end": 665.11,
+   "text": " Nah kemudian ngasih informasi apabila perangkat eksternal telah siap untuk transfer data",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.703,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 249,
+   "start": 665.11,
+   "end": 668.31,
+   "text": " Jadi peripheralnya siap untuk transfer data",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.703,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 250,
+   "start": 668.31,
+   "end": 673.41,
+   "text": " Maka CPU akan mengirimkan perintah ke modul I.O",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.703,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 251,
+   "start": 673.41,
+   "end": 675.05,
+   "text": " Oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.703,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 252,
+   "start": 675.05,
+   "end": 680.15,
+   "text": " Kemudian modul I.O akan menerima paket data dengan panjang tertentu dari peripheral",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.703,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 253,
+   "start": 680.15,
+   "end": 684.19,
+   "text": " Oke misalkan panjangnya 16 bit tadi dari keyboard ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.148,
+   "compression_ratio": 1.703,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 254,
+   "start": 684.19,
+   "end": 685.85,
+   "text": " sementara",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 255,
+   "start": 685.85,
+   "end": 688.55,
+   "text": " CPU nya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 256,
+   "start": 688.55,
+   "end": 690.61,
+   "text": " misalkan bisa ngolah cuma 8 bit",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 257,
+   "start": 690.61,
+   "end": 692.69,
+   "text": " ya diantrikan gantian",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 258,
+   "start": 692.69,
+   "end": 693.55,
+   "text": " yang masuk ke CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 259,
+   "start": 693.55,
+   "end": 695.87,
+   "text": " ya ini adalah proses",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 260,
+   "start": 695.87,
+   "end": 698.55,
+   "text": " sinkronisasi sehingga",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 261,
+   "start": 698.55,
+   "end": 700.33,
+   "text": " semua data itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 262,
+   "start": 700.33,
+   "end": 702.13,
+   "text": " bisa diterima oleh",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 263,
+   "start": 702.13,
+   "end": 702.75,
+   "text": " CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 264,
+   "start": 702.75,
+   "end": 705.93,
+   "text": " nah yang kedua",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 265,
+   "start": 705.93,
+   "end": 708.19,
+   "text": " ini adalah transducer",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 266,
+   "start": 708.19,
+   "end": 710.43,
+   "text": " ya data",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 267,
+   "start": 710.43,
+   "end": 712.11,
+   "text": " to and from",
+   "temperature": 0.0,
+   "avg_logprob": -0.2264,
+   "compression_ratio": 1.523,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 268,
+   "start": 712.11,
+   "end": 716.09,
+   "text": " environment, ke atau dari environment",
+   "temperature": 0.0,
+   "avg_logprob": -0.1544,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 269,
+   "start": 716.09,
+   "end": 720.13,
+   "text": " nah, transfer data ini tidak akan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1544,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 270,
+   "start": 720.13,
+   "end": 723.93,
+   "text": " lepas dari penggunaan sistem bus, ya maka interaksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1544,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 271,
+   "start": 723.93,
+   "end": 727.19,
+   "text": " CPU dan modul I.O. akan melipatkan kontrol dan pewaktuan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1544,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 272,
+   "start": 727.19,
+   "end": 730.01,
+   "text": " ya, yakni istilahnya bus arbitration",
+   "temperature": 0.0,
+   "avg_logprob": -0.1544,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 273,
+   "start": 730.01,
+   "end": 735.69,
+   "text": " nah, transducer yang dilakukan pertama kali adalah command decoding",
+   "temperature": 0.0,
+   "avg_logprob": -0.1544,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 274,
+   "start": 735.69,
+   "end": 739.95,
+   "text": " yakni modul I.O. menerima perintah dari CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1544,
+   "compression_ratio": 1.597,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 275,
+   "start": 739.95,
+   "end": 744.21,
+   "text": " untuk dikirimkan sebagai sinyalnya bus control",
+   "temperature": 0.0,
+   "avg_logprob": -0.1523,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 276,
+   "start": 744.21,
+   "end": 750.59,
+   "text": " ya misalkan CPU itu ngirim ke CD-ROM misalkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1523,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 277,
+   "start": 750.59,
+   "end": 752.59,
+   "text": " komputernya ada CD-ROMnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1523,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 278,
+   "start": 752.59,
+   "end": 756.85,
+   "text": " oke, kamu bisa melakukan operasi baca data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1523,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 279,
+   "start": 756.85,
+   "end": 760.09,
+   "text": " tulis data atau memformat data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1523,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 280,
+   "start": 760.09,
+   "end": 764.51,
+   "text": " oke, nah pertukarannya itu melalui data bus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1523,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 281,
+   "start": 764.51,
+   "end": 768.77,
+   "text": " kemudian status reporting yaitu melaporkan kondisi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1523,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 282,
+   "start": 768.77,
+   "end": 775.07,
+   "text": " Jadi perangkat I.O. itu juga harus melaporkan kondisi melewati modul I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.548,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 283,
+   "start": 776.27,
+   "end": 781.53,
+   "text": " Jadi modul I.O. nya meriksa, oh kamu baik-baik saja, MOS-nya baik-baik saja, MOS-nya rusak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.548,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 284,
+   "start": 781.71,
+   "end": 786.69,
+   "text": " Nah kemudian itu diinformasikan ke CPU, yakni status reporting.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.548,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 285,
+   "start": 788.03,
+   "end": 791.61,
+   "text": " Nah kemudian yang terakhir ini adalah address recognition.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.548,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 286,
+   "start": 791.61,
+   "end": 794.49,
+   "text": " bahwa peralatan atau",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 287,
+   "start": 794.49,
+   "end": 796.67,
+   "text": " komponen position komputer dapat dihubungi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 288,
+   "start": 796.67,
+   "end": 798.79,
+   "text": " atau dipanggil",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 289,
+   "start": 798.79,
+   "end": 800.57,
+   "text": " maka harus memiliki alamat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 290,
+   "start": 800.57,
+   "end": 802.31,
+   "text": " yang unik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 291,
+   "start": 802.31,
+   "end": 802.61,
+   "text": " oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 292,
+   "start": 802.61,
+   "end": 808.71,
+   "text": " biasanya kita kenal sama port",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 293,
+   "start": 808.71,
+   "end": 810.59,
+   "text": " port USB ke satu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 294,
+   "start": 810.59,
+   "end": 812.37,
+   "text": " port USB ke dua, nah ini sebagai",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 295,
+   "start": 812.37,
+   "end": 814.27,
+   "text": " address recognition",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 296,
+   "start": 814.27,
+   "end": 816.25,
+   "text": " atau",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 297,
+   "start": 816.25,
+   "end": 817.71,
+   "text": " rekognisi alamat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 298,
+   "start": 817.71,
+   "end": 820.51,
+   "text": " oh dia ada di alamat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2227,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 299,
+   "start": 820.51,
+   "end": 822.03,
+   "text": " ke satu, ada di alamat kedua",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 300,
+   "start": 822.03,
+   "end": 824.15,
+   "text": " taunya dari mana ya, dari address",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 301,
+   "start": 824.15,
+   "end": 826.35,
+   "text": " recognition ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 302,
+   "start": 826.35,
+   "end": 828.21,
+   "text": " sehingga setiap modul I.O. harus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 303,
+   "start": 828.21,
+   "end": 830.61,
+   "text": " tahu ya siapa",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 304,
+   "start": 830.61,
+   "end": 832.47,
+   "text": " yang lagi nancep di dalamnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 305,
+   "start": 832.47,
+   "end": 835.81,
+   "text": " oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 306,
+   "start": 835.81,
+   "end": 838.75,
+   "text": " nah yang terakhir ini adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 307,
+   "start": 838.75,
+   "end": 840.49,
+   "text": " buffer itu sendiri",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 308,
+   "start": 840.49,
+   "end": 844.11,
+   "text": " nah buffer ini tujuannya adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 309,
+   "start": 844.11,
+   "end": 845.65,
+   "text": " mendapatkan penyesuaian data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 310,
+   "start": 845.65,
+   "end": 848.03,
+   "text": " so berhubungan dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 311,
+   "start": 848.03,
+   "end": 850.05,
+   "text": " perbedaan laju transfer data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1716,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 312,
+   "start": 850.05,
+   "end": 852.09,
+   "text": " dari perangkat dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 313,
+   "start": 852.09,
+   "end": 853.93,
+   "text": " kecepatan pengolahan CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 314,
+   "start": 853.93,
+   "end": 855.67,
+   "text": " yang mentranslasikan dan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 315,
+   "start": 855.67,
+   "end": 858.17,
+   "text": " ngontrol waktu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 316,
+   "start": 858.17,
+   "end": 859.91,
+   "text": " oke, misalkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 317,
+   "start": 859.91,
+   "end": 861.71,
+   "text": " CPU-nya bisa mengolah 8 bit",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 318,
+   "start": 861.71,
+   "end": 864.01,
+   "text": " tapi keyboardnya ternyata datanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 319,
+   "start": 864.01,
+   "end": 865.79,
+   "text": " 16, ya dibagi 8",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 320,
+   "start": 865.79,
+   "end": 867.87,
+   "text": " 8, yang mentranslasikan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 321,
+   "start": 867.87,
+   "end": 869.99,
+   "text": " 8 sama 8 yang tadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 322,
+   "start": 869.99,
+   "end": 871.73,
+   "text": " adalah si buffer",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 323,
+   "start": 871.73,
+   "end": 873.57,
+   "text": " oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 324,
+   "start": 873.57,
+   "end": 875.83,
+   "text": " fungsi terakhir adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 325,
+   "start": 875.83,
+   "end": 878.88,
+   "text": " deteksi kesalahan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 326,
+   "start": 878.88,
+   "end": 881.16,
+   "text": " apabila pada perangkat peripheral terdapat",
+   "temperature": 0.0,
+   "avg_logprob": -0.1518,
+   "compression_ratio": 1.622,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 327,
+   "start": 881.16,
+   "end": 883.26,
+   "text": " masalah yang tidak dapat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 328,
+   "start": 883.26,
+   "end": 884.9,
+   "text": " di eksekusi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 329,
+   "start": 884.9,
+   "end": 887.26,
+   "text": " modul I.O. harus",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 330,
+   "start": 887.26,
+   "end": 889.56,
+   "text": " melaporkan kesalahan data tersebut",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 331,
+   "start": 889.56,
+   "end": 892.18,
+   "text": " oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 332,
+   "start": 892.18,
+   "end": 895.28,
+   "text": " ya pada bab ini telah kita",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 333,
+   "start": 895.28,
+   "end": 896.3,
+   "text": " bahas mulai",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 334,
+   "start": 896.3,
+   "end": 899.26,
+   "text": " generik model",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 335,
+   "start": 899.26,
+   "end": 901.52,
+   "text": " generik model of an I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 336,
+   "start": 901.88,
+   "end": 903.44,
+   "text": " modul, jadi model",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 337,
+   "start": 903.44,
+   "end": 905.66,
+   "text": " umum I.O. yang bisa diterima",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 338,
+   "start": 905.66,
+   "end": 907.6,
+   "text": " oleh CPU, dan hubungannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 339,
+   "start": 907.6,
+   "end": 909.6,
+   "text": " dengan sistem BAS, kemudian",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 340,
+   "start": 909.6,
+   "end": 911.08,
+   "text": " perangkat I.O. eksternal",
+   "temperature": 0.0,
+   "avg_logprob": -0.2031,
+   "compression_ratio": 1.526,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 341,
+   "start": 911.08,
+   "end": 913.0,
+   "text": " dan struktur modul",
+   "temperature": 0.0,
+   "avg_logprob": -0.2863,
+   "compression_ratio": 1.25,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 342,
+   "start": 913.0,
+   "end": 914.14,
+   "text": " I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2863,
+   "compression_ratio": 1.25,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 343,
+   "start": 915.1,
+   "end": 915.38,
+   "text": " Oke,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2863,
+   "compression_ratio": 1.25,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 344,
+   "start": 916.06,
+   "end": 918.48,
+   "text": " sekian bab",
+   "temperature": 0.0,
+   "avg_logprob": -0.2863,
+   "compression_ratio": 1.25,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 345,
+   "start": 918.48,
+   "end": 920.94,
+   "text": " input-output bagian",
+   "temperature": 0.0,
+   "avg_logprob": -0.2863,
+   "compression_ratio": 1.25,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 346,
+   "start": 920.94,
+   "end": 923.24,
+   "text": " ke-1. Terima kasih",
+   "temperature": 0.0,
+   "avg_logprob": -0.2863,
+   "compression_ratio": 1.25,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 347,
+   "start": 923.24,
+   "end": 925.06,
+   "text": " atas perhatiannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2863,
+   "compression_ratio": 1.25,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 348,
+   "start": 925.48,
+   "end": 927.08,
+   "text": " Saya akhiri. Wassalamualaikum",
+   "temperature": 0.0,
+   "avg_logprob": -0.2863,
+   "compression_ratio": 1.25,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 349,
+   "start": 927.08,
+   "end": 928.92,
+   "text": " warahmatullahi wabarakatuh.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2863,
+   "compression_ratio": 1.25,
+   "no_speech_prob": 0.0
+  }
+ ]
+}

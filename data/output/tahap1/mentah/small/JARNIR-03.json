@@ -1,0 +1,1729 @@
+{
+ "file_id": "JARNIR-03",
+ "konfigurasi": "small",
+ "model": "small",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "info": {
+  "duration": 1089.9935,
+  "duration_after_vad": 1059.3215,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 0.91,
+   "end": 5.31,
+   "text": " Oke, kita langsung saja pada materinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.314,
+   "compression_ratio": 1.538,
+   "no_speech_prob": 0.0732
+  },
+  {
+   "id": 2,
+   "start": 6.31,
+   "end": 12.91,
+   "text": " Materi kali ini kita akan membahas tentang jenis-jenis jaringan berdasarkan cekupannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.314,
+   "compression_ratio": 1.538,
+   "no_speech_prob": 0.0732
+  },
+  {
+   "id": 3,
+   "start": 12.91,
+   "end": 17.91,
+   "text": " Jadi ada yang namanya PAN, itu Personal Area Network",
+   "temperature": 0.0,
+   "avg_logprob": -0.314,
+   "compression_ratio": 1.538,
+   "no_speech_prob": 0.0732
+  },
+  {
+   "id": 4,
+   "start": 17.91,
+   "end": 21.91,
+   "text": " Ada LAN, Local Area Network",
+   "temperature": 0.0,
+   "avg_logprob": -0.314,
+   "compression_ratio": 1.538,
+   "no_speech_prob": 0.0732
+  },
+  {
+   "id": 5,
+   "start": 21.91,
+   "end": 25.91,
+   "text": " Ada juga MAN, Metropolitan Area Network",
+   "temperature": 0.0,
+   "avg_logprob": -0.314,
+   "compression_ratio": 1.538,
+   "no_speech_prob": 0.0732
+  },
+  {
+   "id": 6,
+   "start": 25.91,
+   "end": 31.91,
+   "text": " kemudian ada juga one, wide area network dan terakhir internet",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.667,
+   "no_speech_prob": 0.2952
+  },
+  {
+   "id": 7,
+   "start": 31.91,
+   "end": 37.51,
+   "text": " sesuai dengan namamata pelajaran kita, teknologi jaringan berbasis luas atau one",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.667,
+   "no_speech_prob": 0.2952
+  },
+  {
+   "id": 8,
+   "start": 37.51,
+   "end": 41.91,
+   "text": " maka nanti kita akan fokus pada pembahasan one",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.667,
+   "no_speech_prob": 0.2952
+  },
+  {
+   "id": 9,
+   "start": 41.91,
+   "end": 48.91,
+   "text": " tapi sebelum kita memasuki one, kalian harus tahu apa itu pan, apa itu laman, one internet",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.667,
+   "no_speech_prob": 0.2952
+  },
+  {
+   "id": 10,
+   "start": 48.91,
+   "end": 52.91,
+   "text": " saya yakin ketika di kelas 10 kalian sudah pernah mendengar kata-kata ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2271,
+   "compression_ratio": 1.667,
+   "no_speech_prob": 0.2952
+  },
+  {
+   "id": 11,
+   "start": 52.91,
+   "end": 56.91,
+   "text": " Jadi di sini akan saya jelaskan singkat saja.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1639,
+   "compression_ratio": 1.717,
+   "no_speech_prob": 0.0734
+  },
+  {
+   "id": 12,
+   "start": 56.91,
+   "end": 62.91,
+   "text": " Yang pertama akan kita bahas adalah personal area network atau PAN.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1639,
+   "compression_ratio": 1.717,
+   "no_speech_prob": 0.0734
+  },
+  {
+   "id": 13,
+   "start": 62.91,
+   "end": 70.91,
+   "text": " PAN adalah jaringan yang digunakan untuk komunikasi antar perangkat dengan jarak yang sangat dekat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1639,
+   "compression_ratio": 1.717,
+   "no_speech_prob": 0.0734
+  },
+  {
+   "id": 14,
+   "start": 70.91,
+   "end": 79.91,
+   "text": " Jangkawan PAN antara 4 sampai 10 meter saja dan dapat digunakan untuk komunikasi antara perangkat pribadi sendiri.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1639,
+   "compression_ratio": 1.717,
+   "no_speech_prob": 0.0734
+  },
+  {
+   "id": 15,
+   "start": 79.91,
+   "end": 89.91,
+   "text": " Jadi pan itu network atau jaringan yang dia hanya bisa digunakan pada jarak yang dekat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1566,
+   "compression_ratio": 1.64,
+   "no_speech_prob": 0.1492
+  },
+  {
+   "id": 16,
+   "start": 89.91,
+   "end": 95.42,
+   "text": " Kegunannya yang pertama menghubungkan perangkat komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1566,
+   "compression_ratio": 1.64,
+   "no_speech_prob": 0.1492
+  },
+  {
+   "id": 17,
+   "start": 95.42,
+   "end": 101.42,
+   "text": " Sebagai media komunikasi antara perangkat sendiri atau komunikasi personal.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1566,
+   "compression_ratio": 1.64,
+   "no_speech_prob": 0.1492
+  },
+  {
+   "id": 18,
+   "start": 101.42,
+   "end": 106.42,
+   "text": " Kemudian transfer data antar perangkat pribadi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1566,
+   "compression_ratio": 1.64,
+   "no_speech_prob": 0.1492
+  },
+  {
+   "id": 19,
+   "start": 106.42,
+   "end": 115.04,
+   "text": " Teknologi yang digunakan pada pan ini adalah yang pertama Infrared,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2207,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.5015
+  },
+  {
+   "id": 20,
+   "start": 115.04,
+   "end": 123.04,
+   "text": " kemudian USB Universal Serial Bus, ada Bluetooth dan Wireless.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2207,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.5015
+  },
+  {
+   "id": 21,
+   "start": 123.04,
+   "end": 133.57,
+   "text": " Jadi, ini teknologi-teknologi ini kan hanya bisa kita gunakan dalam jarak yang dekat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2207,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.5015
+  },
+  {
+   "id": 22,
+   "start": 133.57,
+   "end": 138.57,
+   "text": " Cara kerjanya, dengan cara menghubungkan perangkat lokal atau sharing data,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2207,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.5015
+  },
+  {
+   "id": 23,
+   "start": 138.57,
+   "end": 143.57,
+   "text": " atau informasi dengan jarak yang lebih kecil dibandingkan dengan LAN",
+   "temperature": 0.0,
+   "avg_logprob": -0.2171,
+   "compression_ratio": 1.511,
+   "no_speech_prob": 0.3606
+  },
+  {
+   "id": 24,
+   "start": 143.57,
+   "end": 149.17,
+   "text": " itu tadi jaraknya 4 sampai 10 meter saja",
+   "temperature": 0.0,
+   "avg_logprob": -0.2171,
+   "compression_ratio": 1.511,
+   "no_speech_prob": 0.3606
+  },
+  {
+   "id": 25,
+   "start": 149.17,
+   "end": 155.17,
+   "text": " contohnya, yang pertama kita menghubungkan smartphone dengan laptop menggunakan bluetooth",
+   "temperature": 0.0,
+   "avg_logprob": -0.2171,
+   "compression_ratio": 1.511,
+   "no_speech_prob": 0.3606
+  },
+  {
+   "id": 26,
+   "start": 155.17,
+   "end": 161.17,
+   "text": " bluetooth ini kan nggak bisa jauh-jauh, nah ini termasuk dalam pan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2171,
+   "compression_ratio": 1.511,
+   "no_speech_prob": 0.3606
+  },
+  {
+   "id": 27,
+   "start": 161.17,
+   "end": 170.11,
+   "text": " kemudian menghubungkan mouse dengan laptop menggunakan bluetooth atau dengan menggunakan usb",
+   "temperature": 0.0,
+   "avg_logprob": -0.2887,
+   "compression_ratio": 2.138,
+   "no_speech_prob": 0.0243
+  },
+  {
+   "id": 28,
+   "start": 170.11,
+   "end": 181.04,
+   "text": " kemudian menghubungkan printer dengan laptop bisa dengan bluetooth atau usb atau juga wireless",
+   "temperature": 0.0,
+   "avg_logprob": -0.2887,
+   "compression_ratio": 2.138,
+   "no_speech_prob": 0.0243
+  },
+  {
+   "id": 29,
+   "start": 181.04,
+   "end": 184.04,
+   "text": " printer kan sekarang ada printer wireless",
+   "temperature": 0.0,
+   "avg_logprob": -0.2887,
+   "compression_ratio": 2.138,
+   "no_speech_prob": 0.0243
+  },
+  {
+   "id": 30,
+   "start": 184.04,
+   "end": 190.28,
+   "text": " kemudian transfer file dari smartphone ke laptop menggunakan wifi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2887,
+   "compression_ratio": 2.138,
+   "no_speech_prob": 0.0243
+  },
+  {
+   "id": 31,
+   "start": 190.28,
+   "end": 201.28,
+   "text": " menghubungkan printer dengan laptop menggunakan wifi itu tadi ada, tadi yang menghubungkan printer dengan laptop bisa bluetooth, bisa usb, bisa wifi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2757,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.1287
+  },
+  {
+   "id": 32,
+   "start": 201.28,
+   "end": 206.28,
+   "text": " kemudian menyalakan ac tv dengan smartphone menggunakan infrared",
+   "temperature": 0.0,
+   "avg_logprob": -0.2757,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.1287
+  },
+  {
+   "id": 33,
+   "start": 206.28,
+   "end": 209.28,
+   "text": " nah ini contoh-contoh penggunaan pan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2757,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.1287
+  },
+  {
+   "id": 34,
+   "start": 209.28,
+   "end": 216.28,
+   "text": " jadi kita tidak bisa menggunakan pan ini dalam jarak yang jauh",
+   "temperature": 0.0,
+   "avg_logprob": -0.2757,
+   "compression_ratio": 1.863,
+   "no_speech_prob": 0.1287
+  },
+  {
+   "id": 35,
+   "start": 216.28,
+   "end": 222.28,
+   "text": " yang jauh, misalnya kita nyalakan AC, TV, menggunakan smartphone, tapi di",
+   "temperature": 0.0,
+   "avg_logprob": -0.2821,
+   "compression_ratio": 1.826,
+   "no_speech_prob": 0.5317
+  },
+  {
+   "id": 36,
+   "start": 222.28,
+   "end": 227.28,
+   "text": " gausah jauh-jauh di rumah, dari rumah tetangga, ga akan bisa",
+   "temperature": 0.0,
+   "avg_logprob": -0.2821,
+   "compression_ratio": 1.826,
+   "no_speech_prob": 0.5317
+  },
+  {
+   "id": 37,
+   "start": 227.28,
+   "end": 232.28,
+   "text": " kemudian kita menghubungkan mos dengan laptop",
+   "temperature": 0.0,
+   "avg_logprob": -0.2821,
+   "compression_ratio": 1.826,
+   "no_speech_prob": 0.5317
+  },
+  {
+   "id": 38,
+   "start": 232.28,
+   "end": 238.28,
+   "text": " mosnya dimana, laptopnya dimana, itu kan ga akan nyambung",
+   "temperature": 0.0,
+   "avg_logprob": -0.2821,
+   "compression_ratio": 1.826,
+   "no_speech_prob": 0.5317
+  },
+  {
+   "id": 39,
+   "start": 238.28,
+   "end": 240.28,
+   "text": " seperti itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2821,
+   "compression_ratio": 1.826,
+   "no_speech_prob": 0.5317
+  },
+  {
+   "id": 40,
+   "start": 240.28,
+   "end": 245.28,
+   "text": " ini juga menghubungkan printer dengan laptop, menggunakan wifi juga ga bisa jauh-jauh",
+   "temperature": 0.0,
+   "avg_logprob": -0.2821,
+   "compression_ratio": 1.826,
+   "no_speech_prob": 0.5317
+  },
+  {
+   "id": 41,
+   "start": 245.28,
+   "end": 248.28,
+   "text": " Wifi itu cakupannya terbatas",
+   "temperature": 0.0,
+   "avg_logprob": -0.2649,
+   "compression_ratio": 1.696,
+   "no_speech_prob": 0.0324
+  },
+  {
+   "id": 42,
+   "start": 248.28,
+   "end": 255.28,
+   "text": " Cakupan Wifi itu kan area yang bisa dijangkau oleh perangkat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2649,
+   "compression_ratio": 1.696,
+   "no_speech_prob": 0.0324
+  },
+  {
+   "id": 43,
+   "start": 255.28,
+   "end": 260.28,
+   "text": " Memancarkan sinyal Wifi itu kan juga terbatas",
+   "temperature": 0.0,
+   "avg_logprob": -0.2649,
+   "compression_ratio": 1.696,
+   "no_speech_prob": 0.0324
+  },
+  {
+   "id": 44,
+   "start": 260.28,
+   "end": 263.28,
+   "text": " Makanya kalau printer nya dimana laptop nya dimana",
+   "temperature": 0.0,
+   "avg_logprob": -0.2649,
+   "compression_ratio": 1.696,
+   "no_speech_prob": 0.0324
+  },
+  {
+   "id": 45,
+   "start": 263.28,
+   "end": 266.28,
+   "text": " Dengan jarak yang jauh juga tidak akan bisa terhubung",
+   "temperature": 0.0,
+   "avg_logprob": -0.2649,
+   "compression_ratio": 1.696,
+   "no_speech_prob": 0.0324
+  },
+  {
+   "id": 46,
+   "start": 266.28,
+   "end": 269.28,
+   "text": " Jadi pan adalah jaringannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2649,
+   "compression_ratio": 1.696,
+   "no_speech_prob": 0.0324
+  },
+  {
+   "id": 47,
+   "start": 269.28,
+   "end": 274.28,
+   "text": " yang digunakan untuk jarak yang terikat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2246,
+   "compression_ratio": 1.603,
+   "no_speech_prob": 0.5107
+  },
+  {
+   "id": 48,
+   "start": 274.28,
+   "end": 279.28,
+   "text": " Kemudian LAN, lokal area network.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2246,
+   "compression_ratio": 1.603,
+   "no_speech_prob": 0.5107
+  },
+  {
+   "id": 49,
+   "start": 279.28,
+   "end": 285.82,
+   "text": " LAN ini lebih luas cakupannya daripada pan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2246,
+   "compression_ratio": 1.603,
+   "no_speech_prob": 0.5107
+  },
+  {
+   "id": 50,
+   "start": 285.82,
+   "end": 288.82,
+   "text": " Jaringan dengan cakupan yang wilayahnya kecil,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2246,
+   "compression_ratio": 1.603,
+   "no_speech_prob": 0.5107
+  },
+  {
+   "id": 51,
+   "start": 288.82,
+   "end": 290.82,
+   "text": " tapi lebih besar dari pan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2246,
+   "compression_ratio": 1.603,
+   "no_speech_prob": 0.5107
+  },
+  {
+   "id": 52,
+   "start": 290.82,
+   "end": 293.82,
+   "text": " Seperti jaringan yang ada di,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2246,
+   "compression_ratio": 1.603,
+   "no_speech_prob": 0.5107
+  },
+  {
+   "id": 53,
+   "start": 293.82,
+   "end": 296.82,
+   "text": " jaringan computer yang ada di gedung,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2246,
+   "compression_ratio": 1.603,
+   "no_speech_prob": 0.5107
+  },
+  {
+   "id": 54,
+   "start": 296.82,
+   "end": 299.82,
+   "text": " yang ada di sebuah kampus,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2246,
+   "compression_ratio": 1.603,
+   "no_speech_prob": 0.5107
+  },
+  {
+   "id": 55,
+   "start": 299.82,
+   "end": 306.52,
+   "text": " satu sekolah, jaringan yang ada di kantor, di rumah, atau dalam satu ruangan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3931,
+   "compression_ratio": 1.413,
+   "no_speech_prob": 0.3396
+  },
+  {
+   "id": 56,
+   "start": 307.62,
+   "end": 312.62,
+   "text": " LAN ini teknologinya menggunakan IEAE 802.3.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3931,
+   "compression_ratio": 1.413,
+   "no_speech_prob": 0.3396
+  },
+  {
+   "id": 57,
+   "start": 313.02,
+   "end": 318.22,
+   "text": " Sekali lagi, LAN itu lebih besar daripada PAN.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3931,
+   "compression_ratio": 1.413,
+   "no_speech_prob": 0.3396
+  },
+  {
+   "id": 58,
+   "start": 318.42,
+   "end": 323.62,
+   "text": " Kalau PAN tadi cuma 4-10 meter menggunakan Bluetooth infrared gitu,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3931,
+   "compression_ratio": 1.413,
+   "no_speech_prob": 0.3396
+  },
+  {
+   "id": 59,
+   "start": 323.62,
+   "end": 326.62,
+   "text": " kalau LAN ini biasanya kita sudah pakai kabel,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3931,
+   "compression_ratio": 1.413,
+   "no_speech_prob": 0.3396
+  },
+  {
+   "id": 60,
+   "start": 326.62,
+   "end": 337.62,
+   "text": " Jadi jangkauannya bisa satu gedung, bisa, tapi menggunakan kabel, satu ruangan, biasanya menggunakan kabel.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2123,
+   "compression_ratio": 1.642,
+   "no_speech_prob": 0.1863
+  },
+  {
+   "id": 61,
+   "start": 337.62,
+   "end": 342.62,
+   "text": " Biasanya kalau di laborator YUM Computer, itu kita menggunakan LAN.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2123,
+   "compression_ratio": 1.642,
+   "no_speech_prob": 0.1863
+  },
+  {
+   "id": 62,
+   "start": 342.62,
+   "end": 353.96,
+   "text": " Salah satu computer dalam jaringan LAN biasanya digunakan sebagai server yang mengatur seluruh sistem di jaringan itu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2123,
+   "compression_ratio": 1.642,
+   "no_speech_prob": 0.1863
+  },
+  {
+   "id": 63,
+   "start": 353.96,
+   "end": 365.96,
+   "text": " bedanya dengan pan kalau di LAN itu ada yang namanya server, jadi server ini tugasnya untuk mengatur seluruh jaringan yang ada di satu LAN itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1587,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.4434
+  },
+  {
+   "id": 64,
+   "start": 365.96,
+   "end": 372.96,
+   "text": " LAN dapat menghubungkan sebuah perangkat ke internet dengan menggunakan berbagai perangkat jaringan yang cukup sederhana",
+   "temperature": 0.0,
+   "avg_logprob": -0.1587,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.4434
+  },
+  {
+   "id": 65,
+   "start": 372.96,
+   "end": 378.96,
+   "text": " bisa menggunakan kabel Utp, Hub, Switch, Router dan lain sebagainya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1587,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.4434
+  },
+  {
+   "id": 66,
+   "start": 378.96,
+   "end": 394.96,
+   "text": " Jadi ini gambarnya biasanya di langit itu ada servernya, kemudian ada yang namanya perangkat tambahan yang digunakan untuk menghubungkan klien-kliennya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2323,
+   "compression_ratio": 1.385,
+   "no_speech_prob": 0.3643
+  },
+  {
+   "id": 67,
+   "start": 394.96,
+   "end": 402.96,
+   "text": " Jadi disini di gambar ini ada hub, bisa kita menggunakan hub atau switch atau router",
+   "temperature": 0.0,
+   "avg_logprob": -0.2597,
+   "compression_ratio": 1.632,
+   "no_speech_prob": 0.6074
+  },
+  {
+   "id": 68,
+   "start": 402.96,
+   "end": 413.96,
+   "text": " Terus ada perangkat tambahan disini dimana klien-kliennya ini akan terhubung ke server melalui hub atau switch ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2597,
+   "compression_ratio": 1.632,
+   "no_speech_prob": 0.6074
+  },
+  {
+   "id": 69,
+   "start": 413.96,
+   "end": 421.96,
+   "text": " Seperti itu, jadi kalau pun dalam satu gedung, servernya cuma satu itu tidak masalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2597,
+   "compression_ratio": 1.632,
+   "no_speech_prob": 0.6074
+  },
+  {
+   "id": 70,
+   "start": 421.96,
+   "end": 425.96,
+   "text": " jadi nanti ada nanti hub atau switch-nya yang banyak",
+   "temperature": 0.0,
+   "avg_logprob": -0.1935,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.5112
+  },
+  {
+   "id": 71,
+   "start": 425.96,
+   "end": 429.96,
+   "text": " tetap dinamakan jaringan LAN",
+   "temperature": 0.0,
+   "avg_logprob": -0.1935,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.5112
+  },
+  {
+   "id": 72,
+   "start": 429.96,
+   "end": 438.07,
+   "text": " karakteristik LAN yang pertama mempunyai pusat data yang lebih tinggi daripada PAN",
+   "temperature": 0.0,
+   "avg_logprob": -0.1935,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.5112
+  },
+  {
+   "id": 73,
+   "start": 438.07,
+   "end": 442.07,
+   "text": " karena ada yang namanya server tadi, jadi ada pusat datanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1935,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.5112
+  },
+  {
+   "id": 74,
+   "start": 442.07,
+   "end": 447.07,
+   "text": " kemudian meliputi wilayah geografi yang sempit",
+   "temperature": 0.0,
+   "avg_logprob": -0.1935,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.5112
+  },
+  {
+   "id": 75,
+   "start": 447.07,
+   "end": 452.07,
+   "text": " lebih sempit dari mandan wan tapi lebih luas dari PAN",
+   "temperature": 0.0,
+   "avg_logprob": -0.1935,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.5112
+  },
+  {
+   "id": 76,
+   "start": 452.07,
+   "end": 458.07,
+   "text": " tidak membutuhkan jalur telekomunikasi yang di sewa dari operator telekomunikasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1496,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.3889
+  },
+  {
+   "id": 77,
+   "start": 458.07,
+   "end": 461.07,
+   "text": " ini karakteristik LAN yang khusus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1496,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.3889
+  },
+  {
+   "id": 78,
+   "start": 461.07,
+   "end": 465.07,
+   "text": " jadi kalau kita membangun sebuah jaringan LAN",
+   "temperature": 0.0,
+   "avg_logprob": -0.1496,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.3889
+  },
+  {
+   "id": 79,
+   "start": 465.07,
+   "end": 469.07,
+   "text": " kita tetap bisa berkomunikasi dalam satu ruangan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1496,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.3889
+  },
+  {
+   "id": 80,
+   "start": 469.07,
+   "end": 472.07,
+   "text": " saya contohkan dalam satu ruangan misalnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1496,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.3889
+  },
+  {
+   "id": 81,
+   "start": 472.07,
+   "end": 475.07,
+   "text": " tanpa kita harus connect ke internet",
+   "temperature": 0.0,
+   "avg_logprob": -0.1496,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.3889
+  },
+  {
+   "id": 82,
+   "start": 475.07,
+   "end": 478.07,
+   "text": " kita itu bisa berkomunikasi dalam satu ruangan itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1496,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.3889
+  },
+  {
+   "id": 83,
+   "start": 478.07,
+   "end": 482.87,
+   "text": " Jadi tidak membutuhkan operator telekomunikasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2344,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 84,
+   "start": 483.87,
+   "end": 489.07,
+   "text": " Tapi kalau kita dalam jaringan LAN itu mau terkoneksi ke internet,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2344,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 85,
+   "start": 489.07,
+   "end": 492.07,
+   "text": " misalnya di satu ruangan itu pengen ke internet,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2344,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 86,
+   "start": 492.07,
+   "end": 495.57,
+   "text": " ya kita harus menyewa operator komunikasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2344,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 87,
+   "start": 495.57,
+   "end": 499.07,
+   "text": " agar kita bisa terkoneksi ke internet.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2344,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 88,
+   "start": 499.07,
+   "end": 503.57,
+   "text": " Tapi tanpa internet pun dalam sebuah jaringan LAN,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2344,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 89,
+   "start": 503.57,
+   "end": 508.26,
+   "text": " kita tetap bisa berkomunikasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2344,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 90,
+   "start": 508.26,
+   "end": 515.26,
+   "text": " alat untuk membangun LAN, yang pertama kita bisa menggunakan router, disini ada gambarnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.647,
+   "no_speech_prob": 0.0407
+  },
+  {
+   "id": 91,
+   "start": 515.26,
+   "end": 520.26,
+   "text": " router biasanya digunakan untuk koneksi ke internet, koneksi ke modem",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.647,
+   "no_speech_prob": 0.0407
+  },
+  {
+   "id": 92,
+   "start": 520.26,
+   "end": 533.26,
+   "text": " kemudian switch ini, switch atau hub digunakan untuk menghubungkan klien-klien ini tadi ke server",
+   "temperature": 0.0,
+   "avg_logprob": -0.2008,
+   "compression_ratio": 1.647,
+   "no_speech_prob": 0.0407
+  },
+  {
+   "id": 93,
+   "start": 533.26,
+   "end": 547.26,
+   "text": " Kemudian ada Ethernet Card, biasanya untuk di PC atau di laptop yang digunakan untuk menghubungkan dengan kabel",
+   "temperature": 0.0,
+   "avg_logprob": -0.2824,
+   "compression_ratio": 1.529,
+   "no_speech_prob": 0.0812
+  },
+  {
+   "id": 94,
+   "start": 548.26,
+   "end": 558.26,
+   "text": " Nah ini kabel Utipi, biasanya memang LAN itu menggunakan koneksinya, mediannya menggunakan kabel Utipi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2824,
+   "compression_ratio": 1.529,
+   "no_speech_prob": 0.0812
+  },
+  {
+   "id": 95,
+   "start": 558.26,
+   "end": 565.26,
+   "text": " kemudian modem, modem ini digunakan kalau kita mau berlan kita terkoneksi ke internet",
+   "temperature": 0.0,
+   "avg_logprob": -0.2866,
+   "compression_ratio": 1.66,
+   "no_speech_prob": 0.032
+  },
+  {
+   "id": 96,
+   "start": 565.26,
+   "end": 575.26,
+   "text": " peralatan ada crimping tool, lantester, bunting dan lain-lain ini digunakan untuk membuat kabel LAN",
+   "temperature": 0.0,
+   "avg_logprob": -0.2866,
+   "compression_ratio": 1.66,
+   "no_speech_prob": 0.032
+  },
+  {
+   "id": 97,
+   "start": 575.26,
+   "end": 585.26,
+   "text": " dari kabel UTP itu nanti ada, harusnya kelas 1 kalian sudah belajar membuat kabel LAN yang menggunakan crimping tool",
+   "temperature": 0.0,
+   "avg_logprob": -0.2866,
+   "compression_ratio": 1.66,
+   "no_speech_prob": 0.032
+  },
+  {
+   "id": 98,
+   "start": 585.26,
+   "end": 587.26,
+   "text": " jadi ada susunan warnanya itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2866,
+   "compression_ratio": 1.66,
+   "no_speech_prob": 0.032
+  },
+  {
+   "id": 99,
+   "start": 590.12,
+   "end": 597.92,
+   "text": " Kemudian keuntungan LAN lebih irit biayanya, lebih irit penggunaan kabelnya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3094,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.0132
+  },
+  {
+   "id": 100,
+   "start": 597.92,
+   "end": 605.12,
+   "text": " koneksi transurantar klien atau antar-node dan komputer bekerja dengan cepat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3094,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.0132
+  },
+  {
+   "id": 101,
+   "start": 605.92,
+   "end": 612.92,
+   "text": " Karena tadi lingkupnya kecil, jadi dia cepat tidak memerlukan operator telekomunikasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.3094,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.0132
+  },
+  {
+   "id": 102,
+   "start": 612.92,
+   "end": 616.42,
+   "text": " untuk dapat membangun sebuah LAN.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3094,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.0132
+  },
+  {
+   "id": 103,
+   "start": 616.42,
+   "end": 623.0,
+   "text": " Jadi bisa disimbulkan, LAN itu adalah jaringan yang lebih besar dari PAN.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2489,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0856
+  },
+  {
+   "id": 104,
+   "start": 623.0,
+   "end": 631.84,
+   "text": " Cakupannya bisa satu gedung, satu sekolah, satu ruangan, satu rumah, itu kita menggunakan jaringan LAN.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2489,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0856
+  },
+  {
+   "id": 105,
+   "start": 631.84,
+   "end": 644.8,
+   "text": " Jaringan LAN itu karakteristiknya yang paling utama adalah kita tidak perlu menggunakan atau kita tidak perlu menyewak operator telekomunikasi untuk berkomunikasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2489,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0856
+  },
+  {
+   "id": 106,
+   "start": 644.8,
+   "end": 655.1,
+   "text": " Tapi kalau kita mau terkoneksi ke internet, kita tetap membutuhkan operator telekomunikasi tadi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1651,
+   "compression_ratio": 1.554,
+   "no_speech_prob": 0.2107
+  },
+  {
+   "id": 107,
+   "start": 655.1,
+   "end": 658.1,
+   "text": " Selanjutnya, metropolitan area network atau MAN.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1651,
+   "compression_ratio": 1.554,
+   "no_speech_prob": 0.2107
+  },
+  {
+   "id": 108,
+   "start": 658.1,
+   "end": 665.1,
+   "text": " Namanya metropolitan area network, jadi ini lebih besar lagi daripada LAN.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1651,
+   "compression_ratio": 1.554,
+   "no_speech_prob": 0.2107
+  },
+  {
+   "id": 109,
+   "start": 665.1,
+   "end": 674.1,
+   "text": " Menurut Wikipedia, MAN adalah jaringan dalam suatu kota dengan transfer data berkecepatan tinggi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1651,
+   "compression_ratio": 1.554,
+   "no_speech_prob": 0.2107
+  },
+  {
+   "id": 110,
+   "start": 674.1,
+   "end": 682.1,
+   "text": " yang menghubungkan berbagai lokasi seperti kampus, perkantoran, pemerintahan dan sebagainya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2169,
+   "compression_ratio": 1.536,
+   "no_speech_prob": 0.3828
+  },
+  {
+   "id": 111,
+   "start": 683.1,
+   "end": 687.1,
+   "text": " Jaringan man ini adalah gabungan dari jaringan lan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2169,
+   "compression_ratio": 1.536,
+   "no_speech_prob": 0.3828
+  },
+  {
+   "id": 112,
+   "start": 688.1,
+   "end": 696.1,
+   "text": " Man ini lebih besar lagi daripada lan, jadi man itu biasanya jaringan dalam suatu kota.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2169,
+   "compression_ratio": 1.536,
+   "no_speech_prob": 0.3828
+  },
+  {
+   "id": 113,
+   "start": 696.1,
+   "end": 708.1,
+   "text": " Jadi dalam satu kota itu semuanya terkoneksi dari perkantoran, pemerintahan, sekolah-sekolah semuanya mempunyai koneksi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1909,
+   "compression_ratio": 1.423,
+   "no_speech_prob": 0.5117
+  },
+  {
+   "id": 114,
+   "start": 708.1,
+   "end": 713.1,
+   "text": " Seperti gambar ini, jadi man itu terdiri dari lan-lan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1909,
+   "compression_ratio": 1.423,
+   "no_speech_prob": 0.5117
+  },
+  {
+   "id": 115,
+   "start": 713.1,
+   "end": 730.1,
+   "text": " Misalnya ini sekolah, ini perkantoran, ini pemerintahan, ini kampus atau yang ini, apalagi rumah juga bisa, itu tergambung semuanya terkoneksi dalam man.",
+   "temperature": 0.0,
+   "avg_logprob": -0.324,
+   "compression_ratio": 1.366,
+   "no_speech_prob": 0.0305
+  },
+  {
+   "id": 116,
+   "start": 730.1,
+   "end": 745.68,
+   "text": " Jangkawan man ini antara lima sampai lima puluh kilometer, jadi cakupannya dari lima sampai lima puluh kilometer",
+   "temperature": 0.0,
+   "avg_logprob": -0.2882,
+   "compression_ratio": 1.637,
+   "no_speech_prob": 0.0896
+  },
+  {
+   "id": 117,
+   "start": 745.68,
+   "end": 752.68,
+   "text": " Man ini merupakan jaringan yang tepat untuk membangun jaringan antarkantor dalam satu kota",
+   "temperature": 0.0,
+   "avg_logprob": -0.2882,
+   "compression_ratio": 1.637,
+   "no_speech_prob": 0.0896
+  },
+  {
+   "id": 118,
+   "start": 752.68,
+   "end": 761.68,
+   "text": " Jadi, kayak misalnya, man itu kita bisa menganalogikan kayak ada kantor busat misalnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2047,
+   "compression_ratio": 1.772,
+   "no_speech_prob": 0.2861
+  },
+  {
+   "id": 119,
+   "start": 761.68,
+   "end": 765.68,
+   "text": " Terus di kelurahan-kelurahan itu ada kantor cabang.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2047,
+   "compression_ratio": 1.772,
+   "no_speech_prob": 0.2861
+  },
+  {
+   "id": 120,
+   "start": 765.68,
+   "end": 768.68,
+   "text": " Itu bisa kita koneksikan dengan menggunakan man.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2047,
+   "compression_ratio": 1.772,
+   "no_speech_prob": 0.2861
+  },
+  {
+   "id": 121,
+   "start": 769.68,
+   "end": 774.68,
+   "text": " Untuk bisa membuat jaringan man, biasanya dibutuhkan operator telekomunikasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2047,
+   "compression_ratio": 1.772,
+   "no_speech_prob": 0.2861
+  },
+  {
+   "id": 122,
+   "start": 774.68,
+   "end": 778.68,
+   "text": " yang mana dapat menghubungkan antara jaringan komputer,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2047,
+   "compression_ratio": 1.772,
+   "no_speech_prob": 0.2861
+  },
+  {
+   "id": 123,
+   "start": 778.68,
+   "end": 781.68,
+   "text": " satu dengan jaringan komputer yang lainnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2047,
+   "compression_ratio": 1.772,
+   "no_speech_prob": 0.2861
+  },
+  {
+   "id": 124,
+   "start": 781.68,
+   "end": 787.4,
+   "text": " Jadi seperti 3 dari sini, man, itu terdiri dari misalnya ini kampus,",
+   "temperature": 0.0,
+   "avg_logprob": -0.367,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.3564
+  },
+  {
+   "id": 125,
+   "start": 787.4,
+   "end": 793.28,
+   "text": " terus government building, pemerintahan, dan lain sebagainya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.367,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.3564
+  },
+  {
+   "id": 126,
+   "start": 793.28,
+   "end": 798.08,
+   "text": " itu terkoneksi dalam satu jaringan, yaitu man.",
+   "temperature": 0.0,
+   "avg_logprob": -0.367,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.3564
+  },
+  {
+   "id": 127,
+   "start": 799.08,
+   "end": 804.8,
+   "text": " Untuk koneksi man, itu biasanya menggunakan wireless dan FO.",
+   "temperature": 0.0,
+   "avg_logprob": -0.367,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.3564
+  },
+  {
+   "id": 128,
+   "start": 804.8,
+   "end": 809.36,
+   "text": " Kalau wireless, biasanya menggunakan sistem tembak sinyal menggunakan antena",
+   "temperature": 0.0,
+   "avg_logprob": -0.367,
+   "compression_ratio": 1.658,
+   "no_speech_prob": 0.3564
+  },
+  {
+   "id": 129,
+   "start": 809.36,
+   "end": 813.36,
+   "text": " dari jarak sekian sampai sekian kilometer",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 130,
+   "start": 813.36,
+   "end": 815.36,
+   "text": " jadi pakai antena",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 131,
+   "start": 815.36,
+   "end": 818.36,
+   "text": " kemudian kalau menggunakan kabel",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 132,
+   "start": 818.36,
+   "end": 821.36,
+   "text": " ya kabelnya pakai kabel FO",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 133,
+   "start": 821.36,
+   "end": 824.36,
+   "text": " yang biasanya ditanam di bawah jalan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 134,
+   "start": 824.36,
+   "end": 827.36,
+   "text": " biasanya kabel FO tuh",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 135,
+   "start": 827.36,
+   "end": 829.36,
+   "text": " yang kornya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 136,
+   "start": 829.36,
+   "end": 832.36,
+   "text": " atau yang kabel gede",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 137,
+   "start": 832.36,
+   "end": 835.36,
+   "text": " itu di tanam di bawah tanah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 138,
+   "start": 835.36,
+   "end": 839.18,
+   "text": " karakteristik untuk man",
+   "temperature": 0.0,
+   "avg_logprob": -0.2176,
+   "compression_ratio": 1.765,
+   "no_speech_prob": 0.177
+  },
+  {
+   "id": 139,
+   "start": 839.18,
+   "end": 847.18,
+   "text": " Jadi, cokupannya luas dari 5 sampai 50 km itu masih bisa dijangkau oleh man.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1998,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.3855
+  },
+  {
+   "id": 140,
+   "start": 847.18,
+   "end": 853.18,
+   "text": " Kemudian, man umumnya tidak dimiliki oleh satu organisasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1998,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.3855
+  },
+  {
+   "id": 141,
+   "start": 853.18,
+   "end": 861.18,
+   "text": " Man sering bertindak sebagai janingan kecepatan tinggi yang memungkinkan berbagai sumber daya antara daerah.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1998,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.3855
+  },
+  {
+   "id": 142,
+   "start": 861.18,
+   "end": 866.18,
+   "text": " Man berukuran lebih besar dan biasanya memakai teknologi yang sama dengan land.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1998,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.3855
+  },
+  {
+   "id": 143,
+   "start": 866.18,
+   "end": 876.18,
+   "text": " hanya memiliki satu atau dua buah kabel dan tidak memiliki elemen switch yang berfungsi untuk mengatur paket melalui beberapa output kabel",
+   "temperature": 0.0,
+   "avg_logprob": -0.1771,
+   "compression_ratio": 1.789,
+   "no_speech_prob": 0.2059
+  },
+  {
+   "id": 144,
+   "start": 876.18,
+   "end": 882.18,
+   "text": " jadi biasanya tadi saya bilang teknologinya biasanya menggunakan wireless",
+   "temperature": 0.0,
+   "avg_logprob": -0.1771,
+   "compression_ratio": 1.789,
+   "no_speech_prob": 0.2059
+  },
+  {
+   "id": 145,
+   "start": 882.18,
+   "end": 885.18,
+   "text": " kalau pun pakai kabel, kabelnya pakai kabel FO",
+   "temperature": 0.0,
+   "avg_logprob": -0.1771,
+   "compression_ratio": 1.789,
+   "no_speech_prob": 0.2059
+  },
+  {
+   "id": 146,
+   "start": 885.18,
+   "end": 895.82,
+   "text": " keuntungannya yang pertama server kantor pusat dapat berfungsi sebagai pusat data dari kantor cabang seperti yang saya bilang tadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1771,
+   "compression_ratio": 1.789,
+   "no_speech_prob": 0.2059
+  },
+  {
+   "id": 147,
+   "start": 895.82,
+   "end": 904.16,
+   "text": " Jadi kalau man, karena dalam satu kota, jadi itu kayak ada kantor pusat dan ada kantor cabangnya, seperti itu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2704,
+   "compression_ratio": 1.904,
+   "no_speech_prob": 0.0565
+  },
+  {
+   "id": 148,
+   "start": 905.16,
+   "end": 915.16,
+   "text": " Jaringannya, transaksi yang ada di jaringan man itu real-time, jadi data di server pusat itu di update saat itu juga.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2704,
+   "compression_ratio": 1.904,
+   "no_speech_prob": 0.0565
+  },
+  {
+   "id": 149,
+   "start": 915.16,
+   "end": 924.72,
+   "text": " Jadi misalnya di kantor cabang sedang melakukan update data, maka yang di kantor pusat secara real-time juga mengupdate data-nya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2704,
+   "compression_ratio": 1.904,
+   "no_speech_prob": 0.0565
+  },
+  {
+   "id": 150,
+   "start": 924.72,
+   "end": 931.72,
+   "text": " Cakupan wilayahnya lebih luas sehingga komunikasinya lebih efisien.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1894,
+   "compression_ratio": 1.608,
+   "no_speech_prob": 0.2289
+  },
+  {
+   "id": 151,
+   "start": 932.72,
+   "end": 939.72,
+   "text": " Komunikasi yang dilakukan antara satu kantor dengan lainnya bisa mengulangkan chatting, email atau yang lainnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1894,
+   "compression_ratio": 1.608,
+   "no_speech_prob": 0.2289
+  },
+  {
+   "id": 152,
+   "start": 939.72,
+   "end": 942.72,
+   "text": " Bisa juga dengan videokonferens.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1894,
+   "compression_ratio": 1.608,
+   "no_speech_prob": 0.2289
+  },
+  {
+   "id": 153,
+   "start": 943.72,
+   "end": 946.72,
+   "text": " Keamanan dari jaringan komputer meman lebih baik.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1894,
+   "compression_ratio": 1.608,
+   "no_speech_prob": 0.2289
+  },
+  {
+   "id": 154,
+   "start": 947.72,
+   "end": 952.72,
+   "text": " Kekurangannya, biayanya pasti lebih mahal daripada jaringan LAN.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1894,
+   "compression_ratio": 1.608,
+   "no_speech_prob": 0.2289
+  },
+  {
+   "id": 155,
+   "start": 952.72,
+   "end": 963.72,
+   "text": " Installasinya tidak mudah. Jika terjadi trouble pada jaringan, itu agak rumit untuk mengatasinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1849,
+   "compression_ratio": 1.565,
+   "no_speech_prob": 0.4968
+  },
+  {
+   "id": 156,
+   "start": 963.72,
+   "end": 968.72,
+   "text": " sehingga butuh waktu yang lumayan lama untuk memperbaiki trouble-nya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1849,
+   "compression_ratio": 1.565,
+   "no_speech_prob": 0.4968
+  },
+  {
+   "id": 157,
+   "start": 968.72,
+   "end": 976.72,
+   "text": " Dapat menjadi target dari para hacker atau para cracker yang digunakan untuk keuntungan pribadi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1849,
+   "compression_ratio": 1.565,
+   "no_speech_prob": 0.4968
+  },
+  {
+   "id": 158,
+   "start": 976.72,
+   "end": 989.72,
+   "text": " Jadi semakin luas jaringan itu maka semakin rentan juga keamanannya bisa di-hack atau di-crack oleh orang-orang yang tidak bertanggungjawab",
+   "temperature": 0.0,
+   "avg_logprob": -0.2905,
+   "compression_ratio": 1.507,
+   "no_speech_prob": 0.2671
+  },
+  {
+   "id": 159,
+   "start": 991.72,
+   "end": 997.72,
+   "text": " Jadi untuk man, kesimpulannya man ini jaringannya lebih besar daripada lan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2905,
+   "compression_ratio": 1.507,
+   "no_speech_prob": 0.2671
+  },
+  {
+   "id": 160,
+   "start": 997.72,
+   "end": 1010.72,
+   "text": " yaitu mencakup satu kota, 5-50 km jangkawannya, dan man ini sebenarnya terdiri dari beberapa lan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2473,
+   "compression_ratio": 1.563,
+   "no_speech_prob": 0.5918
+  },
+  {
+   "id": 161,
+   "start": 1010.72,
+   "end": 1015.72,
+   "text": " Misalnya kan tadi kalau sekolah itu menggunakan jaringan lan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2473,
+   "compression_ratio": 1.563,
+   "no_speech_prob": 0.5918
+  },
+  {
+   "id": 162,
+   "start": 1015.72,
+   "end": 1025.72,
+   "text": " kemudian satu gedung perkantoran pakai lan, jadi sekolah dan perkantoran bisa terhubung dengan yang namanya man.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2473,
+   "compression_ratio": 1.563,
+   "no_speech_prob": 0.5918
+  },
+  {
+   "id": 163,
+   "start": 1025.72,
+   "end": 1036.57,
+   "text": " White area network atau WAN, disinilah nanti banyak pembahasan yang akan kita dalami,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2947,
+   "compression_ratio": 1.561,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 164,
+   "start": 1036.57,
+   "end": 1040.57,
+   "text": " itu di materi WAN, White area network.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2947,
+   "compression_ratio": 1.561,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 165,
+   "start": 1041.57,
+   "end": 1046.57,
+   "text": " Menurut Wikipedia, WAN adalah jaringan komputer yang mencakup area yang besar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2947,
+   "compression_ratio": 1.561,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 166,
+   "start": 1046.57,
+   "end": 1054.57,
+   "text": " Sebagai contoh jaringan antar wilayah, antarkota, antar negara,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2947,
+   "compression_ratio": 1.561,
+   "no_speech_prob": 0.0823
+  },
+  {
+   "id": 167,
+   "start": 1054.57,
+   "end": 1063.85,
+   "text": " atau bisa juga antar benua. Jadi dapat di definisikan juga sebagai jaringan komputer yang membutuhkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.3195,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.6729
+  },
+  {
+   "id": 168,
+   "start": 1063.85,
+   "end": 1072.01,
+   "text": " ruter dan saluran komunikasi publik. Jadi nih seperti di gambarnya, maaf ini tipe ini landennya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3195,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.6729
+  },
+  {
+   "id": 169,
+   "start": 1072.01,
+   "end": 1080.97,
+   "text": " misalnya di negara landen, india, amerika ini saling terkoneksi menggunakan jaringan guan. Jadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.3195,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.6729
+  },
+  {
+   "id": 170,
+   "start": 1080.97,
+   "end": 1089.97,
+   "text": " Kalau men, tadi cuma dalam satu kota, kalau wan itu sudah beda kota, jadi misalnya sama rindan dengan bari.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4785,
+   "compression_ratio": 1.202,
+   "no_speech_prob": 0.0984
+  }
+ ]
+}

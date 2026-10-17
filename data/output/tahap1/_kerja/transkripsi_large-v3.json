@@ -1,0 +1,76 @@
+{
+ "nama": "large-v3",
+ "model": "large-v3",
+ "device": "cuda",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "ulangan": 3,
+ "rekaman": [
+  {
+   "file_id": "AOK-04",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\AOK-04.wav",
+   "durasi": 1171.989
+  },
+  {
+   "file_id": "AOK-07",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\AOK-07.wav",
+   "durasi": 933.148
+  },
+  {
+   "file_id": "APS-03",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\APS-03.wav",
+   "durasi": 642.403
+  },
+  {
+   "file_id": "APS-05",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\APS-05.wav",
+   "durasi": 581.521
+  },
+  {
+   "file_id": "IMK-02",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\IMK-02.wav",
+   "durasi": 1122.522
+  },
+  {
+   "file_id": "JARNIR-03",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\JARNIR-03.wav",
+   "durasi": 1089.994
+  },
+  {
+   "file_id": "PKK-02",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\PKK-02.wav",
+   "durasi": 1012.014
+  },
+  {
+   "file_id": "RPL-07",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\RPL-07.wav",
+   "durasi": 1214.014
+  },
+  {
+   "file_id": "RPL-10",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\RPL-10.wav",
+   "durasi": 1008.014
+  }
+ ],
+ "pemanasan": {
+  "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\APS-05.wav",
+  "detik": 120
+ },
+ "arsip_mentah": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\output\\tahap1\\mentah\\large-v3",
+ "log_waktu": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\output\\tahap1\\waktu_transkripsi.jsonl"
+}

@@ -1,0 +1,949 @@
+{
+ "file_id": "APS-03",
+ "konfigurasi": "small",
+ "model": "small",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "info": {
+  "duration": 642.4033125,
+  "duration_after_vad": 614.176,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 0.43,
+   "end": 7.93,
+   "text": " Halo semuanya, saya Fida Mastrika, dalam video tentang analisis dan desain sistem kali ini saya akan menjelaskan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1955,
+   "compression_ratio": 2.036,
+   "no_speech_prob": 0.3176
+  },
+  {
+   "id": 2,
+   "start": 7.93,
+   "end": 14.43,
+   "text": " apa perbedaan dari objek orientasi analisis dan juga struktur analisis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1955,
+   "compression_ratio": 2.036,
+   "no_speech_prob": 0.3176
+  },
+  {
+   "id": 3,
+   "start": 14.43,
+   "end": 21.43,
+   "text": " Di dalam video sebelumnya, saya sudah menjelaskan tentang pengertian dari analisis dan desain sistem.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1955,
+   "compression_ratio": 2.036,
+   "no_speech_prob": 0.3176
+  },
+  {
+   "id": 4,
+   "start": 21.43,
+   "end": 27.93,
+   "text": " Kalau yang belum nonton video sebelumnya, silakan ditonton dulu video sebelumnya sebelum menonton video ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1955,
+   "compression_ratio": 2.036,
+   "no_speech_prob": 0.3176
+  },
+  {
+   "id": 5,
+   "start": 27.93,
+   "end": 31.93,
+   "text": " Kalau yang sudah, ayo kita langsung lanjut ke materi kali ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2423,
+   "compression_ratio": 1.82,
+   "no_speech_prob": 0.0052
+  },
+  {
+   "id": 6,
+   "start": 31.93,
+   "end": 53.63,
+   "text": " Oke, dalam video sebelumnya saya sudah menjelaskan tentang sistem analisis itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2423,
+   "compression_ratio": 1.82,
+   "no_speech_prob": 0.0052
+  },
+  {
+   "id": 7,
+   "start": 53.63,
+   "end": 57.25,
+   "text": " terdiri dari dua, yang bisa kita bagi jadi dua.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2423,
+   "compression_ratio": 1.82,
+   "no_speech_prob": 0.0052
+  },
+  {
+   "id": 8,
+   "start": 57.25,
+   "end": 63.25,
+   "text": " Ada yang namanya Structured Analysis, ada yang namanya Object Oriented atau OO Analysis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2423,
+   "compression_ratio": 1.82,
+   "no_speech_prob": 0.0052
+  },
+  {
+   "id": 9,
+   "start": 63.25,
+   "end": 68.75,
+   "text": " Dalam video ini saya akan menjelaskan secara singkat apa sih perbedaan dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.2423,
+   "compression_ratio": 1.82,
+   "no_speech_prob": 0.0052
+  },
+  {
+   "id": 10,
+   "start": 68.75,
+   "end": 73.25,
+   "text": " Structured Analysis dan Object Oriented Analysis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2423,
+   "compression_ratio": 1.82,
+   "no_speech_prob": 0.0052
+  },
+  {
+   "id": 11,
+   "start": 73.25,
+   "end": 78.45,
+   "text": " Oke secara deskripsi ini adalah perbedaannya atau perbandingannya ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2548,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0664
+  },
+  {
+   "id": 12,
+   "start": 78.45,
+   "end": 87.95,
+   "text": " Structured Analysis ini memrepresentasikan sistem berdasarkan data dan proses yang dikenakan pada data tersebut",
+   "temperature": 0.0,
+   "avg_logprob": -0.2548,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0664
+  },
+  {
+   "id": 13,
+   "start": 87.95,
+   "end": 98.85,
+   "text": " Nah ini biasanya digunakan untuk mendesain dan menganalysis dan mendesain sistem yang nantinya dibangun dengan cara Structured Programming",
+   "temperature": 0.0,
+   "avg_logprob": -0.2548,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0664
+  },
+  {
+   "id": 14,
+   "start": 98.85,
+   "end": 105.85,
+   "text": " Modeling tools yang digunakan untuk struct check analisis adalah data flow diagram atau DFD.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2152,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.0336
+  },
+  {
+   "id": 15,
+   "start": 105.85,
+   "end": 113.85,
+   "text": " Data flow diagram ini dan bagaimana cara pembuatannya akan saya jelaskan di video-video saya selanjutnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2152,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.0336
+  },
+  {
+   "id": 16,
+   "start": 113.85,
+   "end": 122.85,
+   "text": " Untuk yang object-oriented analysis, itu sistem dilihat sebagai kumpulan obyek yang terdiri dari data dan proses.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2152,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.0336
+  },
+  {
+   "id": 17,
+   "start": 122.85,
+   "end": 128.37,
+   "text": " Nah kalau di dalam Structure Analysis, data dan proses ini dianggap sesuatu yang berbeda",
+   "temperature": 0.0,
+   "avg_logprob": -0.2902,
+   "compression_ratio": 1.785,
+   "no_speech_prob": 0.0096
+  },
+  {
+   "id": 18,
+   "start": 128.37,
+   "end": 136.21,
+   "text": " Kalau di dalam Object Orientate Analysis, mungkin untuk kalian yang sudah belajar tentang Object Orientate Programming",
+   "temperature": 0.0,
+   "avg_logprob": -0.2902,
+   "compression_ratio": 1.785,
+   "no_speech_prob": 0.0096
+  },
+  {
+   "id": 19,
+   "start": 136.21,
+   "end": 140.85,
+   "text": " Kalian ingat-ingat dulu apa yang dimaksud dengan sebuah objek",
+   "temperature": 0.0,
+   "avg_logprob": -0.2902,
+   "compression_ratio": 1.785,
+   "no_speech_prob": 0.0096
+  },
+  {
+   "id": 20,
+   "start": 140.85,
+   "end": 148.21,
+   "text": " Nah objek itu terdiri dari data dan proses ya jadi satu di dalam satu ke satu yang namanya objek",
+   "temperature": 0.0,
+   "avg_logprob": -0.2902,
+   "compression_ratio": 1.785,
+   "no_speech_prob": 0.0096
+  },
+  {
+   "id": 21,
+   "start": 148.21,
+   "end": 157.77,
+   "text": " Nah, jadi sistem yang dalam objek oriented analysis itu data dan proses dilihat sebagai satu kesatuan",
+   "temperature": 0.0,
+   "avg_logprob": -0.3229,
+   "compression_ratio": 1.541,
+   "no_speech_prob": 0.0549
+  },
+  {
+   "id": 22,
+   "start": 157.77,
+   "end": 164.51,
+   "text": " Dan kita mendesain dan menganalisisnya dengan Unified Modeling Language atau UML",
+   "temperature": 0.0,
+   "avg_logprob": -0.3229,
+   "compression_ratio": 1.541,
+   "no_speech_prob": 0.0549
+  },
+  {
+   "id": 23,
+   "start": 164.51,
+   "end": 173.61,
+   "text": " Nanti saya akan punya juga beberapa video untuk menjelaskan apa itu UML dan bagaimana cara membuat UML",
+   "temperature": 0.0,
+   "avg_logprob": -0.3229,
+   "compression_ratio": 1.541,
+   "no_speech_prob": 0.0549
+  },
+  {
+   "id": 24,
+   "start": 173.61,
+   "end": 176.61,
+   "text": " Oke, selanjutnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3229,
+   "compression_ratio": 1.541,
+   "no_speech_prob": 0.0549
+  },
+  {
+   "id": 25,
+   "start": 176.61,
+   "end": 185.61,
+   "text": " Contohnya, Structure Analysis ini bisa dibangun dengan metode Waterfall.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2002,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0884
+  },
+  {
+   "id": 26,
+   "start": 185.61,
+   "end": 193.61,
+   "text": " Dalam SDLC atau System Life Cycle Development, itu ada beberapa metode yang bisa kalian pilih.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2002,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0884
+  },
+  {
+   "id": 27,
+   "start": 193.61,
+   "end": 200.61,
+   "text": " Ini juga saya ada satu video yang menjelaskan beberapa metode yang bisa kalian pilih selain Waterfall.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2002,
+   "compression_ratio": 1.588,
+   "no_speech_prob": 0.0884
+  },
+  {
+   "id": 28,
+   "start": 200.61,
+   "end": 206.61,
+   "text": " Dan di sini saya akan menjelaskan sedikit saja ya tentang metode Waterfall ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.212,
+   "compression_ratio": 1.524,
+   "no_speech_prob": 0.2893
+  },
+  {
+   "id": 29,
+   "start": 206.61,
+   "end": 214.61,
+   "text": " Kalian ingat-ingat dulu di video saya sebelumnya menjelaskan tentang SDLC atau System Lifecycle Development.",
+   "temperature": 0.0,
+   "avg_logprob": -0.212,
+   "compression_ratio": 1.524,
+   "no_speech_prob": 0.2893
+  },
+  {
+   "id": 30,
+   "start": 214.61,
+   "end": 222.61,
+   "text": " Itu ada lima tahapan pokok yang bisa kalian jadikan sebuah siklus untuk pendesain sebuah sistem.",
+   "temperature": 0.0,
+   "avg_logprob": -0.212,
+   "compression_ratio": 1.524,
+   "no_speech_prob": 0.2893
+  },
+  {
+   "id": 31,
+   "start": 222.61,
+   "end": 231.61,
+   "text": " Itu di awali dengan planning, terus analisis desain, implementasi, dan support dan security.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2874,
+   "compression_ratio": 1.44,
+   "no_speech_prob": 0.018
+  },
+  {
+   "id": 32,
+   "start": 231.61,
+   "end": 244.61,
+   "text": " Dari tahapan poco SDLC tersebut, dalam Waterfall ini penampakannya atau alurnya ini seperti air terjun.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2874,
+   "compression_ratio": 1.44,
+   "no_speech_prob": 0.018
+  },
+  {
+   "id": 33,
+   "start": 244.61,
+   "end": 250.61,
+   "text": " Jadi dari fase 1 itu turun ke fase 2, fase 3, fase 4, dan fase 5.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2874,
+   "compression_ratio": 1.44,
+   "no_speech_prob": 0.018
+  },
+  {
+   "id": 34,
+   "start": 250.61,
+   "end": 257.61,
+   "text": " itu ini bisa kembali lagi ke atas ya tapi saya rasa ini harus melalui fase 5 dulu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2175,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.1064
+  },
+  {
+   "id": 35,
+   "start": 257.61,
+   "end": 264.61,
+   "text": " baru bisa kembali ke atas, nah kenapa namanya waterfall karena seperti air terjun seperti itu ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2175,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.1064
+  },
+  {
+   "id": 36,
+   "start": 264.61,
+   "end": 270.61,
+   "text": " fase-fasenya itu melambangkan fase-fasenya yang ada di tahapan SDLC",
+   "temperature": 0.0,
+   "avg_logprob": -0.2175,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.1064
+  },
+  {
+   "id": 37,
+   "start": 270.61,
+   "end": 275.61,
+   "text": " kalau misalnya lebih dari 5 ini juga boleh ya ada variasinya atau ada tambahannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2175,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.1064
+  },
+  {
+   "id": 38,
+   "start": 275.61,
+   "end": 281.37,
+   "text": " Tapi pokok saya rasa di sini lima ini sudah melambangkan semuanya ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3217,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0635
+  },
+  {
+   "id": 39,
+   "start": 282.33,
+   "end": 293.45,
+   "text": " Dari beberapa tahapan ini, dalam seri video ini, kita akan fokus ke analisis dan desain dari sistem",
+   "temperature": 0.0,
+   "avg_logprob": -0.3217,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0635
+  },
+  {
+   "id": 40,
+   "start": 293.45,
+   "end": 297.37,
+   "text": " Untuk yang struktur analisis, contohnya adalah seperti ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.3217,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0635
+  },
+  {
+   "id": 41,
+   "start": 297.37,
+   "end": 303.53,
+   "text": " Jadi kita planning dulu, setelah planning selesai, baru kita ke analisis",
+   "temperature": 0.0,
+   "avg_logprob": -0.3217,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0635
+  },
+  {
+   "id": 42,
+   "start": 303.53,
+   "end": 310.57,
+   "text": " Setelah analisi selesai sudah terdokumentasi dengan baik, baru kita ke fase selanjutnya desain.",
+   "temperature": 0.0,
+   "avg_logprob": -0.245,
+   "compression_ratio": 1.828,
+   "no_speech_prob": 0.0626
+  },
+  {
+   "id": 43,
+   "start": 310.57,
+   "end": 313.57,
+   "text": " Setelah desain selesai, baru ke implementasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.245,
+   "compression_ratio": 1.828,
+   "no_speech_prob": 0.0626
+  },
+  {
+   "id": 44,
+   "start": 313.57,
+   "end": 319.09,
+   "text": " Dan setelah implementasi selesai, baru kita ke sistem support and security.",
+   "temperature": 0.0,
+   "avg_logprob": -0.245,
+   "compression_ratio": 1.828,
+   "no_speech_prob": 0.0626
+  },
+  {
+   "id": 45,
+   "start": 319.09,
+   "end": 326.69,
+   "text": " Jadi ciri khas dari Waterfall ini, dia menunggu satu fase atau satu tahapan selesai dulu, selesai dengan baik.",
+   "temperature": 0.0,
+   "avg_logprob": -0.245,
+   "compression_ratio": 1.828,
+   "no_speech_prob": 0.0626
+  },
+  {
+   "id": 46,
+   "start": 326.69,
+   "end": 332.05,
+   "text": " Dan nantinya tidak akan ada perbaikan yang major atau yang berarti lain ya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.245,
+   "compression_ratio": 1.828,
+   "no_speech_prob": 0.0626
+  },
+  {
+   "id": 47,
+   "start": 332.05,
+   "end": 336.05,
+   "text": " Baru dia lanjut ke tahap yang selanjutnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2261,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.0126
+  },
+  {
+   "id": 48,
+   "start": 336.05,
+   "end": 339.55,
+   "text": " Nah itu gambaran dari Structure Analysis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2261,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.0126
+  },
+  {
+   "id": 49,
+   "start": 339.55,
+   "end": 343.55,
+   "text": " Nah sekarang ini adalah gambaran dari Object Orientate Analysis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2261,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.0126
+  },
+  {
+   "id": 50,
+   "start": 343.55,
+   "end": 346.05,
+   "text": " Nah disini gambarannya sudah agak berbeda ya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2261,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.0126
+  },
+  {
+   "id": 51,
+   "start": 346.05,
+   "end": 349.05,
+   "text": " Tapi kita lihat tahapan-tahapannya mungkin mirip.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2261,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.0126
+  },
+  {
+   "id": 52,
+   "start": 349.05,
+   "end": 353.05,
+   "text": " Coba kita lihat ada planning, ada analisis, ada desain.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2261,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.0126
+  },
+  {
+   "id": 53,
+   "start": 353.05,
+   "end": 356.55,
+   "text": " Setelah itu dia menghasilkan prototipe dan testing.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2261,
+   "compression_ratio": 1.673,
+   "no_speech_prob": 0.0126
+  },
+  {
+   "id": 54,
+   "start": 356.55,
+   "end": 371.55,
+   "text": " Di sini bedanya adalah dalam objek orientasi analisis ini mempunyai tahapan yang hampir mirip dengan SDLC atau yang Waterfall tadi yang saya jelaskan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2427,
+   "compression_ratio": 1.535,
+   "no_speech_prob": 0.0247
+  },
+  {
+   "id": 55,
+   "start": 371.55,
+   "end": 385.55,
+   "text": " Tapi tidak ada kepastian yang baku dari jumlah fasilnya itu harus ada berapa dan nama dari fasilnya itu apa saja.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2427,
+   "compression_ratio": 1.535,
+   "no_speech_prob": 0.0247
+  },
+  {
+   "id": 56,
+   "start": 385.55,
+   "end": 393.55,
+   "text": " dan bentuknya kira-kira seperti ini untuk obyek orientasi analisis tidak kaku seperti waterfall tadi ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2447,
+   "compression_ratio": 1.646,
+   "no_speech_prob": 0.0549
+  },
+  {
+   "id": 57,
+   "start": 393.55,
+   "end": 400.55,
+   "text": " tapi kita bisa lihat di sini ada yang berulang seperti Sikus yang pertama kita planning dulu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2447,
+   "compression_ratio": 1.646,
+   "no_speech_prob": 0.0549
+  },
+  {
+   "id": 58,
+   "start": 400.55,
+   "end": 409.55,
+   "text": " setelah itu analisis terus desain dan satu kali iterasi ini dia akan menghasilkan prototype",
+   "temperature": 0.0,
+   "avg_logprob": -0.2447,
+   "compression_ratio": 1.646,
+   "no_speech_prob": 0.0549
+  },
+  {
+   "id": 59,
+   "start": 409.55,
+   "end": 420.55,
+   "text": " Prototipe itu sistem yang belum lengkap dulu ya, sistem yang belum lengkap atau prototipe ini kita testing dulu bersama dengan user",
+   "temperature": 0.0,
+   "avg_logprob": -0.2131,
+   "compression_ratio": 1.923,
+   "no_speech_prob": 0.3132
+  },
+  {
+   "id": 60,
+   "start": 420.55,
+   "end": 427.55,
+   "text": " Nah kalau sudah ditesting dengan user itu pasti kita mendapatkan feedback ya, di sini kurangnya, di sini kurangnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2131,
+   "compression_ratio": 1.923,
+   "no_speech_prob": 0.3132
+  },
+  {
+   "id": 61,
+   "start": 427.55,
+   "end": 434.55,
+   "text": " Nah feedback itu kita masukkan lagi ke tahap planning, terus lanjut lagi ke analisis, terus ke desain",
+   "temperature": 0.0,
+   "avg_logprob": -0.2131,
+   "compression_ratio": 1.923,
+   "no_speech_prob": 0.3132
+  },
+  {
+   "id": 62,
+   "start": 434.55,
+   "end": 439.95,
+   "text": " menghasilkan prototip lagi, testing lagi, dapet feedback lagi dan berulang lagi seperti ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2975,
+   "compression_ratio": 1.618,
+   "no_speech_prob": 0.1705
+  },
+  {
+   "id": 63,
+   "start": 439.95,
+   "end": 444.83,
+   "text": " Seperti itu kira-kira untuk object oriented analysis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2975,
+   "compression_ratio": 1.618,
+   "no_speech_prob": 0.1705
+  },
+  {
+   "id": 64,
+   "start": 444.83,
+   "end": 450.19,
+   "text": " Siapa sebenarnya yang membangun sistem?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2975,
+   "compression_ratio": 1.618,
+   "no_speech_prob": 0.1705
+  },
+  {
+   "id": 65,
+   "start": 450.19,
+   "end": 457.39,
+   "text": " Kita di dalam seri video tentang analisis dan desain sistem ini, kita berperan sebagai apa sih sebenarnya?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2975,
+   "compression_ratio": 1.618,
+   "no_speech_prob": 0.1705
+  },
+  {
+   "id": 66,
+   "start": 457.39,
+   "end": 460.19,
+   "text": " Apakah sebagai programmer atau yang lain?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2975,
+   "compression_ratio": 1.618,
+   "no_speech_prob": 0.1705
+  },
+  {
+   "id": 67,
+   "start": 460.19,
+   "end": 468.19,
+   "text": " Nah siapa yang membangun sistem itu ada dua jenis ya, kita bisa secara umum membaginya menjadi dua jenis",
+   "temperature": 0.0,
+   "avg_logprob": -0.1216,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.1187
+  },
+  {
+   "id": 68,
+   "start": 468.19,
+   "end": 473.19,
+   "text": " Ada in-house application, jadi sebuah perusahaan itu membangun sistem informasinya sendiri",
+   "temperature": 0.0,
+   "avg_logprob": -0.1216,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.1187
+  },
+  {
+   "id": 69,
+   "start": 473.19,
+   "end": 480.19,
+   "text": " Sebuah perusahaan tersebut punya divisi untuk membangun sistem sendiri yang di dalam perusahaan tersebut",
+   "temperature": 0.0,
+   "avg_logprob": -0.1216,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.1187
+  },
+  {
+   "id": 70,
+   "start": 480.19,
+   "end": 487.19,
+   "text": " Yang kedua, perusahaan itu bisa membeli software packages yang dijual oleh vendor dari luar perusahaan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1216,
+   "compression_ratio": 1.91,
+   "no_speech_prob": 0.1187
+  },
+  {
+   "id": 71,
+   "start": 487.19,
+   "end": 493.19,
+   "text": " Kita juga bisa, misalnya di dalam perusahaan tersebut tidak mempunyai",
+   "temperature": 0.0,
+   "avg_logprob": -0.1512,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.4348
+  },
+  {
+   "id": 72,
+   "start": 493.19,
+   "end": 500.19,
+   "text": " divisi IT yang bisa untuk membangun sistem sendiri, perusahaan bisa membeli dari luar",
+   "temperature": 0.0,
+   "avg_logprob": -0.1512,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.4348
+  },
+  {
+   "id": 73,
+   "start": 500.19,
+   "end": 506.19,
+   "text": " dan akhirnya menginstall sistemnya di dalam perusahaan tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1512,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.4348
+  },
+  {
+   "id": 74,
+   "start": 506.19,
+   "end": 512.19,
+   "text": " Contohnya, di dalam suatu perusahaan, misalnya ada IT Department seperti ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1512,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.4348
+  },
+  {
+   "id": 75,
+   "start": 512.19,
+   "end": 519.01,
+   "text": " itu membawahi ada application development, system support and security dan lain-lainnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2515,
+   "compression_ratio": 1.818,
+   "no_speech_prob": 0.1139
+  },
+  {
+   "id": 76,
+   "start": 519.01,
+   "end": 525.33,
+   "text": " nanti siapa yang membangun sistem itu ada di application development",
+   "temperature": 0.0,
+   "avg_logprob": -0.2515,
+   "compression_ratio": 1.818,
+   "no_speech_prob": 0.1139
+  },
+  {
+   "id": 77,
+   "start": 525.33,
+   "end": 532.25,
+   "text": " dan di dalam divisi application development itu terdiri dari beberapa fungsi seperti ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2515,
+   "compression_ratio": 1.818,
+   "no_speech_prob": 0.1139
+  },
+  {
+   "id": 78,
+   "start": 532.25,
+   "end": 537.95,
+   "text": " nah ini sangat umum sekali ya dan tidak semua perusahaan mengikuti yang seperti ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2515,
+   "compression_ratio": 1.818,
+   "no_speech_prob": 0.1139
+  },
+  {
+   "id": 79,
+   "start": 537.95,
+   "end": 545.47,
+   "text": " tetapi pasti disana ada project manager, ada sistem analis, dan ada programmer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3283,
+   "compression_ratio": 1.713,
+   "no_speech_prob": 0.018
+  },
+  {
+   "id": 80,
+   "start": 545.47,
+   "end": 554.39,
+   "text": " Di dalam analisis dan desain sistem informasi, itu semuanya adalah tugas dari sistem analis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3283,
+   "compression_ratio": 1.713,
+   "no_speech_prob": 0.018
+  },
+  {
+   "id": 81,
+   "start": 554.39,
+   "end": 559.59,
+   "text": " Project manager tugasnya apa? Tugasnya adalah planning.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3283,
+   "compression_ratio": 1.713,
+   "no_speech_prob": 0.018
+  },
+  {
+   "id": 82,
+   "start": 559.59,
+   "end": 565.95,
+   "text": " Apa saja yang menjadi fokus dalam planning itu sudah ada di video saya sediumnya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3283,
+   "compression_ratio": 1.713,
+   "no_speech_prob": 0.018
+  },
+  {
+   "id": 83,
+   "start": 565.95,
+   "end": 574.65,
+   "text": " Apa saja yang ada di tugas dari analis itu ada di tahap analisis dan tahap desain.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3059,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0182
+  },
+  {
+   "id": 84,
+   "start": 574.65,
+   "end": 579.73,
+   "text": " Dan programmer di sini tugasnya adalah di tahap implementasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3059,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0182
+  },
+  {
+   "id": 85,
+   "start": 579.73,
+   "end": 584.73,
+   "text": " Jadi di dalam seri video ini kita hanya berperan sebagai sistem analis ya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3059,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0182
+  },
+  {
+   "id": 86,
+   "start": 584.73,
+   "end": 591.57,
+   "text": " Kita ada di tahap analis dan tahap desain dari sebuah perangkat luna.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3059,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0182
+  },
+  {
+   "id": 87,
+   "start": 591.57,
+   "end": 598.57,
+   "text": " Oke terima kasih untuk kalian yang sudah menonton video ini sampai terakhir",
+   "temperature": 0.0,
+   "avg_logprob": -0.1635,
+   "compression_ratio": 1.582,
+   "no_speech_prob": 0.4194
+  },
+  {
+   "id": 88,
+   "start": 598.57,
+   "end": 606.57,
+   "text": " Jadi kalian mungkin sudah lebih mengerti apa perbedaan dari Structured Analysis dan Object Oriented Analysis",
+   "temperature": 0.0,
+   "avg_logprob": -0.1635,
+   "compression_ratio": 1.582,
+   "no_speech_prob": 0.4194
+  },
+  {
+   "id": 89,
+   "start": 606.57,
+   "end": 612.57,
+   "text": " Untuk video-video selanjutnya saya akan membahas tentang Structured Analysis terlebih dahulu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1635,
+   "compression_ratio": 1.582,
+   "no_speech_prob": 0.4194
+  },
+  {
+   "id": 90,
+   "start": 612.57,
+   "end": 615.57,
+   "text": " Dan menggunakan Dataflow Diagram",
+   "temperature": 0.0,
+   "avg_logprob": -0.1635,
+   "compression_ratio": 1.582,
+   "no_speech_prob": 0.4194
+  },
+  {
+   "id": 91,
+   "start": 615.57,
+   "end": 625.57,
+   "text": " Untuk seri video selanjutnya, saya juga akan menjelaskan tentang object oriented analysis dengan menggunakan tools unified modeling language.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1866,
+   "compression_ratio": 1.493,
+   "no_speech_prob": 0.0242
+  },
+  {
+   "id": 92,
+   "start": 625.57,
+   "end": 630.57,
+   "text": " Terima kasih untuk kalian semua dan sampai ketemu di video saya selanjutnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1866,
+   "compression_ratio": 1.493,
+   "no_speech_prob": 0.0242
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+﻿varian,model_id,batch,gradient_checkpointing,status,vram_total_mb,vram_terpakai_awal_mb,parameter_total,parameter_terlatih,modul_lora,panjang_label_token,segmen_dipakai,detik_per_langkah,loss_akhir,puncak_dialokasikan_mb,puncak_dicadangkan_mb,ukuran_adapter_mb,pesan
+tiny,openai/whisper-tiny,4,False,berhasil,6144,985,38350464,589824,24,183,"['IMK-05_008', 'IMK-05_040', 'IMK-05_036', 'IMK-05_011']",0.124,1.5912,813.0,926.0,2.26,
+base,openai/whisper-base,4,False,berhasil,6144,985,73773568,1179648,36,183,"['IMK-05_008', 'IMK-05_040', 'IMK-05_036', 'IMK-05_011']",0.246,1.1446,1243.0,1366.0,4.52,
+small,openai/whisper-small,4,False,berhasil,6144,985,245273856,3538944,72,183,"['IMK-05_008', 'IMK-05_040', 'IMK-05_036', 'IMK-05_011']",0.713,0.6842,3000.0,3128.0,13.53,
+medium,openai/whisper-medium,4,False,berhasil,6144,985,773295104,9437184,144,183,"['IMK-05_008', 'IMK-05_040', 'IMK-05_036', 'IMK-05_011']",10.361,0.3907,7514.0,7736.0,36.05,
+medium,openai/whisper-medium,2,False,berhasil,6144,985,773295104,9437184,144,183,"['IMK-05_008', 'IMK-05_040']",1.178,0.3302,4601.0,4722.0,36.05,
+large-v3,openai/whisper-large-v3,4,False,memori habis,6144,985,1559219200,15728640,192,183,"['IMK-05_008', 'IMK-05_040', 'IMK-05_036', 'IMK-05_011']",,,,,,"OutOfMemoryError: CUDA out of memory. Tried to allocate 16.00 MiB. GPU 0 has a total capacity of 6.00 GiB of which 0 bytes is free. Of the allocated memory 11.25 GiB is allocated by PyTorch, and 495.75 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Me"
+large-v3,openai/whisper-large-v3,2,False,berhasil,6144,985,1559219200,15728640,192,183,"['IMK-05_008', 'IMK-05_040']",11.587,0.1789,7958.0,8502.0,60.06,
+large-v3,openai/whisper-large-v3,1,False,berhasil,6144,985,1559219200,15728640,192,183,['IMK-05_008'],1.704,0.1811,5544.0,6026.0,60.06,
+large-v3,openai/whisper-large-v3,1,True,berhasil,6144,985,1559219200,15728640,192,183,['IMK-05_008'],1.849,0.1811,3393.0,3854.0,60.06,
+large-v3-turbo,openai/whisper-large-v3-turbo,4,False,berhasil,6144,985,815431680,6553600,80,183,"['IMK-05_008', 'IMK-05_040', 'IMK-05_036', 'IMK-05_011']",18.955,0.3009,9001.0,9368.0,25.03,
+large-v3-turbo,openai/whisper-large-v3-turbo,2,False,berhasil,6144,985,815431680,6553600,80,183,"['IMK-05_008', 'IMK-05_040']",1.814,0.2445,5336.0,5688.0,25.03,
+large-v3-turbo,openai/whisper-large-v3-turbo,1,False,berhasil,6144,985,815431680,6553600,80,183,['IMK-05_008'],0.868,0.1808,3470.0,3830.0,25.03,

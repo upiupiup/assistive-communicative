@@ -1,0 +1,2199 @@
+{
+ "file_id": "RPL-10",
+ "konfigurasi": "base",
+ "model": "base",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "info": {
+  "duration": 1008.0135,
+  "duration_after_vad": 985.8855,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 0.02,
+   "end": 4.02,
+   "text": " Selamat datang di video materi untuk mata kuliah rekayasa perangkat lunak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2641,
+   "compression_ratio": 1.856,
+   "no_speech_prob": 0.0712
+  },
+  {
+   "id": 2,
+   "start": 4.02,
+   "end": 12.02,
+   "text": " Elam kesempatan kali ini yang menjadi pembahasan materi kita adalah tentang perancangan antar muka pengguna atau user interface design.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2641,
+   "compression_ratio": 1.856,
+   "no_speech_prob": 0.0712
+  },
+  {
+   "id": 3,
+   "start": 12.02,
+   "end": 14.02,
+   "text": " Selamat nimak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2641,
+   "compression_ratio": 1.856,
+   "no_speech_prob": 0.0712
+  },
+  {
+   "id": 4,
+   "start": 14.02,
+   "end": 17.02,
+   "text": " Ada tiga topik pembahasan di dalam video materi ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2641,
+   "compression_ratio": 1.856,
+   "no_speech_prob": 0.0712
+  },
+  {
+   "id": 5,
+   "start": 17.02,
+   "end": 24.02,
+   "text": " Pertama adalah tentang apa itu antar muka dan juga konsep usability yang selalu melekat di dalamnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2641,
+   "compression_ratio": 1.856,
+   "no_speech_prob": 0.0712
+  },
+  {
+   "id": 6,
+   "start": 24.02,
+   "end": 29.02,
+   "text": " Lalu tau peki yang kedua adalah princip yang dapat kita ikuti pada proses perancangan antar muka.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2641,
+   "compression_ratio": 1.856,
+   "no_speech_prob": 0.0712
+  },
+  {
+   "id": 7,
+   "start": 29.02,
+   "end": 34.02,
+   "text": " dan topik terakhir atau yang ketiga adalah proses yang ada di dalam perancangan antermuka.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2266,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.1888
+  },
+  {
+   "id": 8,
+   "start": 34.02,
+   "end": 36.02,
+   "text": " Mari kita bahas satu per satu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2266,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.1888
+  },
+  {
+   "id": 9,
+   "start": 36.02,
+   "end": 41.42,
+   "text": " Kita awalih pembahasan topik yang pertama dengan sebuah pertanyaan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2266,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.1888
+  },
+  {
+   "id": 10,
+   "start": 41.42,
+   "end": 45.42,
+   "text": " Apa itu sebetulnya user interface atau antermuka pengguna?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2266,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.1888
+  },
+  {
+   "id": 11,
+   "start": 45.42,
+   "end": 48.42,
+   "text": " Daniel Swigsom dan Road dalam buku mereka menduliskan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2266,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.1888
+  },
+  {
+   "id": 12,
+   "start": 48.42,
+   "end": 51.42,
+   "text": " bahwa user interface adalah bagian di dalam sistem,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2266,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.1888
+  },
+  {
+   "id": 13,
+   "start": 51.42,
+   "end": 55.42,
+   "text": " tempat di mana pengguna dapat berinteraksi dengan sistem tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2266,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.1888
+  },
+  {
+   "id": 14,
+   "start": 55.42,
+   "end": 58.42,
+   "text": " Menurut mereka, user interface ini mencakup tampilan layar",
+   "temperature": 0.0,
+   "avg_logprob": -0.2266,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.1888
+  },
+  {
+   "id": 15,
+   "start": 58.42,
+   "end": 61.34,
+   "text": " keputang pilan layar yang menyediakan navigasi sistem,",
+   "temperature": 0.0,
+   "avg_logprob": -0.397,
+   "compression_ratio": 1.705,
+   "no_speech_prob": 0.1775
+  },
+  {
+   "id": 16,
+   "start": 61.34,
+   "end": 64.94,
+   "text": " formulir-formulir yang biasa digunakan untuk mengumpulkan data,",
+   "temperature": 0.0,
+   "avg_logprob": -0.397,
+   "compression_ratio": 1.705,
+   "no_speech_prob": 0.1775
+  },
+  {
+   "id": 17,
+   "start": 64.94,
+   "end": 67.34,
+   "text": " dan juga laporan yang dibuat oleh sistem.",
+   "temperature": 0.0,
+   "avg_logprob": -0.397,
+   "compression_ratio": 1.705,
+   "no_speech_prob": 0.1775
+  },
+  {
+   "id": 18,
+   "start": 67.34,
+   "end": 70.5,
+   "text": " Kita dapat sederhanakan definisi tersebut menjadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.397,
+   "compression_ratio": 1.705,
+   "no_speech_prob": 0.1775
+  },
+  {
+   "id": 19,
+   "start": 70.5,
+   "end": 74.98,
+   "text": " user interface adalah tempat atau itik pengguna berinteraksi dengan sistem.",
+   "temperature": 0.0,
+   "avg_logprob": -0.397,
+   "compression_ratio": 1.705,
+   "no_speech_prob": 0.1775
+  },
+  {
+   "id": 20,
+   "start": 74.98,
+   "end": 78.78,
+   "text": " Misalnya, alaman website yang berisi menunjuk navigasi,",
+   "temperature": 0.0,
+   "avg_logprob": -0.397,
+   "compression_ratio": 1.705,
+   "no_speech_prob": 0.1775
+  },
+  {
+   "id": 21,
+   "start": 78.78,
+   "end": 82.58,
+   "text": " ois, comments, air, ATM, dan lain sebagainya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.397,
+   "compression_ratio": 1.705,
+   "no_speech_prob": 0.1775
+  },
+  {
+   "id": 22,
+   "start": 82.58,
+   "end": 87.86,
+   "text": " Kalau kita pahami bahwa interface ini tidak selamanya berbentuk grafik atau gui,",
+   "temperature": 0.0,
+   "avg_logprob": -0.397,
+   "compression_ratio": 1.705,
+   "no_speech_prob": 0.1775
+  },
+  {
+   "id": 23,
+   "start": 87.86,
+   "end": 92.86,
+   "text": " Antar muka bisa juga berbentuk komen lain interface, atau pun suara.",
+   "temperature": 0.0,
+   "avg_logprob": -0.294,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.0171
+  },
+  {
+   "id": 24,
+   "start": 92.86,
+   "end": 95.86,
+   "text": " Jika Anda pernah menonton film Iron Man,",
+   "temperature": 0.0,
+   "avg_logprob": -0.294,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.0171
+  },
+  {
+   "id": 25,
+   "start": 95.86,
+   "end": 98.86,
+   "text": " Jarvis dalam film tersebut juga merupakan cota user interface.",
+   "temperature": 0.0,
+   "avg_logprob": -0.294,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.0171
+  },
+  {
+   "id": 26,
+   "start": 98.86,
+   "end": 102.86,
+   "text": " Dalamal ini, berbentuknya Tural Language Voice User Interface.",
+   "temperature": 0.0,
+   "avg_logprob": -0.294,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.0171
+  },
+  {
+   "id": 27,
+   "start": 102.86,
+   "end": 107.86,
+   "text": " Sangpoka utama, iaitu Tony Stark berinteraksi dengan kostum Iron Man yang melalui Jarvis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.294,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.0171
+  },
+  {
+   "id": 28,
+   "start": 108.86,
+   "end": 112.86,
+   "text": " Ada sebuah konsep yang tidak bisa lepas dari rancangan antar muka,",
+   "temperature": 0.0,
+   "avg_logprob": -0.294,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.0171
+  },
+  {
+   "id": 29,
+   "start": 112.86,
+   "end": 114.86,
+   "text": " iaitu konsep usability.",
+   "temperature": 0.0,
+   "avg_logprob": -0.294,
+   "compression_ratio": 1.684,
+   "no_speech_prob": 0.0171
+  },
+  {
+   "id": 30,
+   "start": 114.86,
+   "end": 118.86,
+   "text": " User Interface akan sangat berkaitan erat dengan useability.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2317,
+   "compression_ratio": 1.952,
+   "no_speech_prob": 0.0289
+  },
+  {
+   "id": 31,
+   "start": 118.86,
+   "end": 121.86,
+   "text": " Useability memiliki dua konsep utama,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2317,
+   "compression_ratio": 1.952,
+   "no_speech_prob": 0.0289
+  },
+  {
+   "id": 32,
+   "start": 121.86,
+   "end": 125.86,
+   "text": " pertama, perangkat lunak yang mudah untuk digunakan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2317,
+   "compression_ratio": 1.952,
+   "no_speech_prob": 0.0289
+  },
+  {
+   "id": 33,
+   "start": 125.86,
+   "end": 128.86,
+   "text": " dan yang kedua perangkat lunak yang mudah untuk diplejarin.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2317,
+   "compression_ratio": 1.952,
+   "no_speech_prob": 0.0289
+  },
+  {
+   "id": 34,
+   "start": 128.86,
+   "end": 132.86,
+   "text": " Useability suatu sistem atau software dapat diukur,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2317,
+   "compression_ratio": 1.952,
+   "no_speech_prob": 0.0289
+  },
+  {
+   "id": 35,
+   "start": 132.86,
+   "end": 136.86,
+   "text": " misalnya dengan sistem useability scale atau SUS.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2317,
+   "compression_ratio": 1.952,
+   "no_speech_prob": 0.0289
+  },
+  {
+   "id": 36,
+   "start": 136.86,
+   "end": 139.86,
+   "text": " Semakin tinggi ini layusabilitinya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2317,
+   "compression_ratio": 1.952,
+   "no_speech_prob": 0.0289
+  },
+  {
+   "id": 37,
+   "start": 139.86,
+   "end": 142.86,
+   "text": " maka suatu perangkat lunak semakin mudah untuk digunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2317,
+   "compression_ratio": 1.952,
+   "no_speech_prob": 0.0289
+  },
+  {
+   "id": 38,
+   "start": 142.86,
+   "end": 146.3,
+   "text": " dan juga semakin mudah untuk dipelajari oleh pengguna barunya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3117,
+   "compression_ratio": 1.899,
+   "no_speech_prob": 0.0203
+  },
+  {
+   "id": 39,
+   "start": 147.18,
+   "end": 151.7,
+   "text": " Menjadikan aspek usabilitis bagi standar dalam perancangan nantar muka sangat disarankan",
+   "temperature": 0.0,
+   "avg_logprob": -0.3117,
+   "compression_ratio": 1.899,
+   "no_speech_prob": 0.0203
+  },
+  {
+   "id": 40,
+   "start": 152.02,
+   "end": 157.42,
+   "text": " agar sofer yang kita buat memiliki peluang lebih besar untuk menigunakan oleh pengguna secara berkelanjutan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3117,
+   "compression_ratio": 1.899,
+   "no_speech_prob": 0.0203
+  },
+  {
+   "id": 41,
+   "start": 158.58,
+   "end": 162.94,
+   "text": " Sofer dengan usabilit yang buruk akan memberikan pengalaman yang buruk bagi penggunanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3117,
+   "compression_ratio": 1.899,
+   "no_speech_prob": 0.0203
+  },
+  {
+   "id": 42,
+   "start": 163.26,
+   "end": 166.46,
+   "text": " lahkan mereka bisa tidak maul lagi menggunakan sofer tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3117,
+   "compression_ratio": 1.899,
+   "no_speech_prob": 0.0203
+  },
+  {
+   "id": 43,
+   "start": 167.06,
+   "end": 171.1,
+   "text": " Dan ingat, sofer yang tidak digunakan oleh penggunanya adalah sofer yang gagal",
+   "temperature": 0.0,
+   "avg_logprob": -0.3117,
+   "compression_ratio": 1.899,
+   "no_speech_prob": 0.0203
+  },
+  {
+   "id": 44,
+   "start": 171.1,
+   "end": 174.1,
+   "text": " sekalipun functionalitasnya berjalan dengan seharusnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 45,
+   "start": 174.1,
+   "end": 179.38,
+   "text": " Dalam membuat rancangan antar muka atau user interface,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 46,
+   "start": 179.38,
+   "end": 183.38,
+   "text": " kita sebaiknya mengikuti prinsip prinsip yang berlaku di dalamnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 47,
+   "start": 183.38,
+   "end": 186.38,
+   "text": " Sekurang-kurangnya ada 6 prinsip prancangan antar muka.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 48,
+   "start": 186.38,
+   "end": 189.38,
+   "text": " Avail yang kita lihat ini mendeskripsikan secara singkat",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 49,
+   "start": 189.38,
+   "end": 191.38,
+   "text": " ke 6 prinsip tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 50,
+   "start": 191.38,
+   "end": 193.38,
+   "text": " Prinsip yang pertama adalah layout.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 51,
+   "start": 193.38,
+   "end": 196.38,
+   "text": " Prinsip ini menyatakan bahwa antar muka",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 52,
+   "start": 196.38,
+   "end": 199.38,
+   "text": " haruslah di bagi menjadi beberapa kompulan area atau ilayah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 53,
+   "start": 199.38,
+   "end": 202.38,
+   "text": " yang konsisten dan sesuai fungsinya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1988,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0645
+  },
+  {
+   "id": 54,
+   "start": 202.38,
+   "end": 209.38,
+   "text": " Misalnya adalah aplikasi berbasis web, antar mukanya biasanya terbagi atas header, sidebar dan juga footer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2631,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0533
+  },
+  {
+   "id": 55,
+   "start": 209.38,
+   "end": 212.38,
+   "text": " Rencipt yang kedua adalah konten awareness.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2631,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0533
+  },
+  {
+   "id": 56,
+   "start": 212.38,
+   "end": 219.38,
+   "text": " Penurut Rencipt ini pengguna perlu mengetahui dimana dia berada dan informasi apa yang ditampilkan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2631,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0533
+  },
+  {
+   "id": 57,
+   "start": 219.38,
+   "end": 224.38,
+   "text": " atau dengan kata lain pengguna tidak tersesat saat berinteraksi dengan sistem.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2631,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0533
+  },
+  {
+   "id": 58,
+   "start": 224.38,
+   "end": 227.38,
+   "text": " Rencipt selanjutnya adalah estetik,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2631,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0533
+  },
+  {
+   "id": 59,
+   "start": 227.38,
+   "end": 231.38,
+   "text": " ...yaitu seimbang antara fungional dan keindahan penyajian informasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2628,
+   "compression_ratio": 1.766,
+   "no_speech_prob": 0.0064
+  },
+  {
+   "id": 60,
+   "start": 231.38,
+   "end": 238.38,
+   "text": " Lalu ada juga prinsip usage level yang mengharuskan antarmuka untuk mudah digunakan dan mudah di pelajari.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2628,
+   "compression_ratio": 1.766,
+   "no_speech_prob": 0.0064
+  },
+  {
+   "id": 61,
+   "start": 238.38,
+   "end": 241.38,
+   "text": " Prenciperancangan yang kelima adalah konsistenci.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2628,
+   "compression_ratio": 1.766,
+   "no_speech_prob": 0.0064
+  },
+  {
+   "id": 62,
+   "start": 241.38,
+   "end": 247.38,
+   "text": " Konsistenci pada user interface memudahkan user untuk menabak apa yang kira-kira dilakukan sistem...",
+   "temperature": 0.0,
+   "avg_logprob": -0.2628,
+   "compression_ratio": 1.766,
+   "no_speech_prob": 0.0064
+  },
+  {
+   "id": 63,
+   "start": 247.38,
+   "end": 250.38,
+   "text": " ...sebelum mereka menjalankan sebuah fungsi tertentu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2628,
+   "compression_ratio": 1.766,
+   "no_speech_prob": 0.0064
+  },
+  {
+   "id": 64,
+   "start": 250.38,
+   "end": 254.38,
+   "text": " Prenciperancangan antarmuka yang terakhir adalah minimasi user effort.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2628,
+   "compression_ratio": 1.766,
+   "no_speech_prob": 0.0064
+  },
+  {
+   "id": 65,
+   "start": 254.38,
+   "end": 259.38,
+   "text": " maksudnya, proses untuk menjalankan perintah tertentu harus sederhana.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2485,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 66,
+   "start": 259.38,
+   "end": 262.38,
+   "text": " Misalnya, kebanyakan perancang user interface,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2485,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 67,
+   "start": 262.38,
+   "end": 265.38,
+   "text": " menerapkan aturan tidak boleh lebih dari tiga klik mouse",
+   "temperature": 0.0,
+   "avg_logprob": -0.2485,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 68,
+   "start": 265.38,
+   "end": 268.38,
+   "text": " untuk menjalankan fungsi tertentu pada sistem.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2485,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 69,
+   "start": 268.38,
+   "end": 273.38,
+   "text": " Itulah ke enam princi perancangan antar muka yang sebaiknya kita ikuti.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2485,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 70,
+   "start": 273.38,
+   "end": 277.38,
+   "text": " Sekarang, mari kita lihat contoh penerapan dari masing-masing prinsip tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2485,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 71,
+   "start": 277.38,
+   "end": 282.72,
+   "text": " Penerapan prinsip layout bedaran jangan antar muka sangatlah penting.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2485,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 72,
+   "start": 282.72,
+   "end": 288.22,
+   "text": " dengan menerapkan ya, informasi yang bisa jikan kepada pengguna akan lebih terorganisir dengan baik.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2698,
+   "compression_ratio": 1.794,
+   "no_speech_prob": 0.1598
+  },
+  {
+   "id": 73,
+   "start": 288.22,
+   "end": 292.22,
+   "text": " Perhatikan contoh layout untuk aplikasi berbasis web berikut ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2698,
+   "compression_ratio": 1.794,
+   "no_speech_prob": 0.1598
+  },
+  {
+   "id": 74,
+   "start": 292.22,
+   "end": 296.72,
+   "text": " Ini adalah contoh antar muka untuk aplikasi pengelola konten berita.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2698,
+   "compression_ratio": 1.794,
+   "no_speech_prob": 0.1598
+  },
+  {
+   "id": 75,
+   "start": 296.72,
+   "end": 300.72,
+   "text": " Perhatikan bahwa terdapat pembagian milayah untuk konten yang spesifik,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2698,
+   "compression_ratio": 1.794,
+   "no_speech_prob": 0.1598
+  },
+  {
+   "id": 76,
+   "start": 300.72,
+   "end": 303.72,
+   "text": " sehingga tidak tercampur satu sama lain,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2698,
+   "compression_ratio": 1.794,
+   "no_speech_prob": 0.1598
+  },
+  {
+   "id": 77,
+   "start": 303.72,
+   "end": 306.72,
+   "text": " ini adalah contoh penerapan princip layout.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2698,
+   "compression_ratio": 1.794,
+   "no_speech_prob": 0.1598
+  },
+  {
+   "id": 78,
+   "start": 306.72,
+   "end": 308.72,
+   "text": " Dari rancangan atau gambar ini,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2698,
+   "compression_ratio": 1.794,
+   "no_speech_prob": 0.1598
+  },
+  {
+   "id": 79,
+   "start": 308.72,
+   "end": 312.22,
+   "text": " kita dapat mengetahui genis konten apa yang ditempatkan dimana.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2698,
+   "compression_ratio": 1.794,
+   "no_speech_prob": 0.1598
+  },
+  {
+   "id": 80,
+   "start": 312.22,
+   "end": 319.22,
+   "text": " Misalnya, judul website ditempatkan pada sebelah kiri di bagian header, di bawah header ada navigasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.25,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.0993
+  },
+  {
+   "id": 81,
+   "start": 319.22,
+   "end": 329.22,
+   "text": " Content utama teletak di bawah navigasi, dan menempati bagian paling kiri dengan ukurang labor yang lebih besar dibandingkan dengan iklan yang ada di sebelah kanannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.25,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.0993
+  },
+  {
+   "id": 82,
+   "start": 329.22,
+   "end": 338.22,
+   "text": " Jika tidak menerapkan princip layout dengan baik, struktur konten yang disajikan pada antar muka menjadi berantakan dan saling tercampur satu sama lain.",
+   "temperature": 0.0,
+   "avg_logprob": -0.25,
+   "compression_ratio": 1.758,
+   "no_speech_prob": 0.0993
+  },
+  {
+   "id": 83,
+   "start": 338.22,
+   "end": 342.22,
+   "text": " Tentu ini akan menyelitkan pengguna saat menggunakan aplikasi tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2744,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0111
+  },
+  {
+   "id": 84,
+   "start": 344.13,
+   "end": 347.63,
+   "text": " Kita lanjutkan pada prinsip Content Awareness dan juga Estetix.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2744,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0111
+  },
+  {
+   "id": 85,
+   "start": 347.63,
+   "end": 355.13,
+   "text": " Penerapan prinsip ini, penting terutama jika ada banyak sekali konten yang perlu disajikan kehadapan pengguna dalam satu layar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2744,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0111
+  },
+  {
+   "id": 86,
+   "start": 355.13,
+   "end": 363.13,
+   "text": " Dengan prinsip ini, kita merancang antar muka sedemikian hingga sehingga pengguna dapat dengan mudah menemukan apa yang mereka inginkan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2744,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0111
+  },
+  {
+   "id": 87,
+   "start": 363.13,
+   "end": 365.63,
+   "text": " Kita nghtengah konten lain yang sangat banyak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2744,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0111
+  },
+  {
+   "id": 88,
+   "start": 366.13,
+   "end": 369.13,
+   "text": " Mari kita jadikan Tokopedia sebagai contoh.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2744,
+   "compression_ratio": 1.773,
+   "no_speech_prob": 0.0111
+  },
+  {
+   "id": 89,
+   "start": 369.13,
+   "end": 373.81,
+   "text": " Pada website e-commerce ini terdapat sangat banyak kategori produk untuk dijual.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3248,
+   "compression_ratio": 1.652,
+   "no_speech_prob": 0.0088
+  },
+  {
+   "id": 90,
+   "start": 373.81,
+   "end": 380.81,
+   "text": " Perhatikan bagaimana Tokopedia merancang antar muka untuk mengantasi permasahan kategori yang sangat banyak tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3248,
+   "compression_ratio": 1.652,
+   "no_speech_prob": 0.0088
+  },
+  {
+   "id": 91,
+   "start": 380.81,
+   "end": 383.85,
+   "text": " Kategori utama seluruh letakkan di sebelah kiri.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3248,
+   "compression_ratio": 1.652,
+   "no_speech_prob": 0.0088
+  },
+  {
+   "id": 92,
+   "start": 383.85,
+   "end": 388.89,
+   "text": " Kita lihat disana ada office, olahraga, potomotiv, perawatan hewan dan strusinya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3248,
+   "compression_ratio": 1.652,
+   "no_speech_prob": 0.0088
+  },
+  {
+   "id": 93,
+   "start": 388.89,
+   "end": 394.73,
+   "text": " Subkategori baru akan muncul apabila pengguna mengerahkan kursor ke kategori utama tadi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3248,
+   "compression_ratio": 1.652,
+   "no_speech_prob": 0.0088
+  },
+  {
+   "id": 94,
+   "start": 394.73,
+   "end": 398.93,
+   "text": " Misalnya sepertinya lihat pada gambar, sub kategori sepak bola,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3372,
+   "compression_ratio": 1.709,
+   "no_speech_prob": 0.0151
+  },
+  {
+   "id": 95,
+   "start": 398.93,
+   "end": 405.73,
+   "text": " spaturoda, baseball, dan lain sebagainya baru muncul jika kursormus diarahkan ke kategori utama oleh raga.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3372,
+   "compression_ratio": 1.709,
+   "no_speech_prob": 0.0151
+  },
+  {
+   "id": 96,
+   "start": 405.73,
+   "end": 412.8,
+   "text": " Di bawah sap menung kategori itu lah menunguntuk jenis produk yang lebih spesifik di tempatkan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3372,
+   "compression_ratio": 1.709,
+   "no_speech_prob": 0.0151
+  },
+  {
+   "id": 97,
+   "start": 412.8,
+   "end": 419.8,
+   "text": " Jika seandainya pengguna ingin mencari produk bola tennis, maka mereka dapat manemukannya dengan relatif cukup mudah,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3372,
+   "compression_ratio": 1.709,
+   "no_speech_prob": 0.0151
+  },
+  {
+   "id": 98,
+   "start": 419.8,
+   "end": 423.8,
+   "text": " karena produk tersebut sudah di tempatkan pada kategori yang sesuai.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3372,
+   "compression_ratio": 1.709,
+   "no_speech_prob": 0.0151
+  },
+  {
+   "id": 99,
+   "start": 423.8,
+   "end": 429.3,
+   "text": " Ini lah contoh bagaimana Tokopedia menerahkan prinsip konten warnes pada rancangan menantar muka.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3227,
+   "compression_ratio": 1.801,
+   "no_speech_prob": 0.039
+  },
+  {
+   "id": 100,
+   "start": 429.3,
+   "end": 432.3,
+   "text": " Lalu bagaimana dengan prinsip astetiknya?",
+   "temperature": 0.0,
+   "avg_logprob": -0.3227,
+   "compression_ratio": 1.801,
+   "no_speech_prob": 0.039
+  },
+  {
+   "id": 101,
+   "start": 432.3,
+   "end": 439.3,
+   "text": " Prinsip tersebut di terapkan oleh Tokopedia dengan cara memanfaatkan rata kiri untuk setiap tulisan kategori produknya?",
+   "temperature": 0.0,
+   "avg_logprob": -0.3227,
+   "compression_ratio": 1.801,
+   "no_speech_prob": 0.039
+  },
+  {
+   "id": 102,
+   "start": 439.3,
+   "end": 444.8,
+   "text": " Menggunakan warna lata dan tulisan yang memiliki kontras yang baik sehingga terlihat jelas apa yang pertulis,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3227,
+   "compression_ratio": 1.801,
+   "no_speech_prob": 0.039
+  },
+  {
+   "id": 103,
+   "start": 444.8,
+   "end": 452.8,
+   "text": " dan juga penggunaan jarak atau white space antar konten yang membuat penggunaan nyaman untuk mengeksplorasi siap informasi yang disajikan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3227,
+   "compression_ratio": 1.801,
+   "no_speech_prob": 0.039
+  },
+  {
+   "id": 104,
+   "start": 452.8,
+   "end": 458.07,
+   "text": " Mari berali ke princips lanjutnya itu princips usage level.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2919,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0413
+  },
+  {
+   "id": 105,
+   "start": 458.07,
+   "end": 466.07,
+   "text": " Perhatikan gambar berikut, ini adalah contoh antar muka untuk aplikasi pengubah nama file secara masal untuk banyak file sekaligus.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2919,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0413
+  },
+  {
+   "id": 106,
+   "start": 466.07,
+   "end": 471.67,
+   "text": " Perhatikan siap konten yang dicajikan dalam antar muka tersebut, bagaimanakah menurut anda?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2919,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0413
+  },
+  {
+   "id": 107,
+   "start": 471.67,
+   "end": 479.37,
+   "text": " Bagi kebanyakan orang, terutama orang awam, akan terasa bahwa aplikasi ini ribet dan memberikan kesansulit digunakan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2919,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0413
+  },
+  {
+   "id": 108,
+   "start": 479.37,
+   "end": 483.97,
+   "text": " Bahkan banyak dari fungsi yang ditampilkan belum tentu dipahami oleh penggunanya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2919,
+   "compression_ratio": 1.744,
+   "no_speech_prob": 0.0413
+  },
+  {
+   "id": 109,
+   "start": 483.97,
+   "end": 486.97,
+   "text": " atau dengan kata lain tidak mudah untuk diplajari.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2137,
+   "compression_ratio": 1.781,
+   "no_speech_prob": 0.0898
+  },
+  {
+   "id": 110,
+   "start": 486.97,
+   "end": 494.47,
+   "text": " Ingat kembali bahwa prinsip usage level adalah memastikan bahwa aplikasi haruslah mudah digunakan dan juga mudah diplajari.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2137,
+   "compression_ratio": 1.781,
+   "no_speech_prob": 0.0898
+  },
+  {
+   "id": 111,
+   "start": 494.47,
+   "end": 503.82,
+   "text": " Jika kita memahami prinsip tersebut, maka tentu kita akan menghindari rancangan antar muka yang ribet seperti yang ditunjukkan oleh gambar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2137,
+   "compression_ratio": 1.781,
+   "no_speech_prob": 0.0898
+  },
+  {
+   "id": 112,
+   "start": 503.82,
+   "end": 511.32,
+   "text": " Selanjutnya adalah prinsip konsistensi, prinsip ini penting untuk diterapkan apabila ada sebuah fungsi tertentu dari aplikasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2137,
+   "compression_ratio": 1.781,
+   "no_speech_prob": 0.0898
+  },
+  {
+   "id": 113,
+   "start": 511.32,
+   "end": 515.82,
+   "text": " yang bisa muncul atau ditemukan pada banyak tempat di dalam aplikasi tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2482,
+   "compression_ratio": 1.835,
+   "no_speech_prob": 0.014
+  },
+  {
+   "id": 114,
+   "start": 515.82,
+   "end": 519.82,
+   "text": " Konsistenci ini misalnya adalah pada desain dan warna tombole.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2482,
+   "compression_ratio": 1.835,
+   "no_speech_prob": 0.014
+  },
+  {
+   "id": 115,
+   "start": 519.82,
+   "end": 523.82,
+   "text": " Sebaiknya kita mengikuti yang sudah umum di pahami oleh pengguna.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2482,
+   "compression_ratio": 1.835,
+   "no_speech_prob": 0.014
+  },
+  {
+   "id": 116,
+   "start": 523.82,
+   "end": 526.82,
+   "text": " Bisa saja karena sudah jadi kebiasaan mereka.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2482,
+   "compression_ratio": 1.835,
+   "no_speech_prob": 0.014
+  },
+  {
+   "id": 117,
+   "start": 526.82,
+   "end": 529.82,
+   "text": " Misalnya ada rancangan untuk tombole gilet,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2482,
+   "compression_ratio": 1.835,
+   "no_speech_prob": 0.014
+  },
+  {
+   "id": 118,
+   "start": 529.82,
+   "end": 533.82,
+   "text": " menurut Anda warna apa yang paling umum digunakan untuk tombole gilet.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2482,
+   "compression_ratio": 1.835,
+   "no_speech_prob": 0.014
+  },
+  {
+   "id": 119,
+   "start": 533.82,
+   "end": 537.82,
+   "text": " Terbanyakan aplikasi yang ada menggunakan warna merah untuk tombole gilet",
+   "temperature": 0.0,
+   "avg_logprob": -0.2482,
+   "compression_ratio": 1.835,
+   "no_speech_prob": 0.014
+  },
+  {
+   "id": 120,
+   "start": 537.82,
+   "end": 540.32,
+   "text": " dibandingkan dengan warna yang lain.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2482,
+   "compression_ratio": 1.835,
+   "no_speech_prob": 0.014
+  },
+  {
+   "id": 121,
+   "start": 540.32,
+   "end": 544.32,
+   "text": " ada 2 hal terkait prinsip konsisten si yang perlu kita perhatikan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2386,
+   "compression_ratio": 1.889,
+   "no_speech_prob": 0.1497
+  },
+  {
+   "id": 122,
+   "start": 544.32,
+   "end": 549.32,
+   "text": " pertama, gunakan rancangan antar muka yang sudah umum di pahami oleh pengguna",
+   "temperature": 0.0,
+   "avg_logprob": -0.2386,
+   "compression_ratio": 1.889,
+   "no_speech_prob": 0.1497
+  },
+  {
+   "id": 123,
+   "start": 549.32,
+   "end": 554.32,
+   "text": " dan kedua, konsisten dalam menggunakan rancangan yang sama untuk sebuah fungsi tertentu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2386,
+   "compression_ratio": 1.889,
+   "no_speech_prob": 0.1497
+  },
+  {
+   "id": 124,
+   "start": 554.32,
+   "end": 558.32,
+   "text": " jika di munculkan di banyak tempat pada aplikasi tersebut",
+   "temperature": 0.0,
+   "avg_logprob": -0.2386,
+   "compression_ratio": 1.889,
+   "no_speech_prob": 0.1497
+  },
+  {
+   "id": 125,
+   "start": 558.32,
+   "end": 563.32,
+   "text": " misalnya, jika sudah menggunakan warna mirah untuk tombol delete di sebuah halaman A",
+   "temperature": 0.0,
+   "avg_logprob": -0.2386,
+   "compression_ratio": 1.889,
+   "no_speech_prob": 0.1497
+  },
+  {
+   "id": 126,
+   "start": 563.32,
+   "end": 568.32,
+   "text": " maka tetap gunakan warna tersebut, setiap memunculkan pembul delete di halaman lainnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2386,
+   "compression_ratio": 1.889,
+   "no_speech_prob": 0.1497
+  },
+  {
+   "id": 127,
+   "start": 568.32,
+   "end": 571.22,
+   "text": " seperti Haleman B, C, D, hingga Z.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3292,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0924
+  },
+  {
+   "id": 128,
+   "start": 571.22,
+   "end": 576.45,
+   "text": " Perinci perancangan yang terakhir adalah minimize user effort.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3292,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0924
+  },
+  {
+   "id": 129,
+   "start": 576.45,
+   "end": 581.95,
+   "text": " Penerapan prinsip ini berorientasi pada penyenderhanakan langkah yang perlu dilakukan oleh pengguna",
+   "temperature": 0.0,
+   "avg_logprob": -0.3292,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0924
+  },
+  {
+   "id": 130,
+   "start": 581.95,
+   "end": 587.45,
+   "text": " untuk suatu fungsi tertentu yang sering digunakan oleh mereka saat menjalankan aplikasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3292,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0924
+  },
+  {
+   "id": 131,
+   "start": 587.45,
+   "end": 592.45,
+   "text": " Jantoh yang baik bagaimana prinsip ini terapkan dapat lihat pada aplikasi speed test",
+   "temperature": 0.0,
+   "avg_logprob": -0.3292,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0924
+  },
+  {
+   "id": 132,
+   "start": 592.45,
+   "end": 595.45,
+   "text": " yang berfungsi untuk menggukur kecepatan internet kita.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3292,
+   "compression_ratio": 1.661,
+   "no_speech_prob": 0.0924
+  },
+  {
+   "id": 133,
+   "start": 595.45,
+   "end": 602.45,
+   "text": " Ada aplikasi tersebut, kita hanya perlu mengklik satu buah tombol saja, dan fungsi yang diharapkan sudah berjalan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.682,
+   "no_speech_prob": 0.02
+  },
+  {
+   "id": 134,
+   "start": 602.45,
+   "end": 615.45,
+   "text": " Coba bayangkan apabila untuk menggunakannya, kita perlu memilih berbagai pengaturan terlebih dahulu, seperti memilih server pengujiannya, mengatur ukuran kecepatan pada indikatornya, atau pengaturan pengaturan lainnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.682,
+   "no_speech_prob": 0.02
+  },
+  {
+   "id": 135,
+   "start": 615.45,
+   "end": 618.45,
+   "text": " Aplikasi ini bisa saja dibuat seperti itu,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2364,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0069
+  },
+  {
+   "id": 136,
+   "start": 618.45,
+   "end": 623.76,
+   "text": " namun akan bertentangan dengan princip minim my user effort.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2364,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0069
+  },
+  {
+   "id": 137,
+   "start": 623.76,
+   "end": 625.76,
+   "text": " Sampai di sini, kita sudah melihat berbagai contoh",
+   "temperature": 0.0,
+   "avg_logprob": -0.2364,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0069
+  },
+  {
+   "id": 138,
+   "start": 625.76,
+   "end": 627.76,
+   "text": " penerapan princip princip perancangan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2364,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0069
+  },
+  {
+   "id": 139,
+   "start": 627.76,
+   "end": 631.76,
+   "text": " Lalu bagaimana sebetulnya proses perancangan user interface ini dilakukan?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2364,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0069
+  },
+  {
+   "id": 140,
+   "start": 631.76,
+   "end": 635.76,
+   "text": " Ada lebih dari satu pendekatan bagaimana perancangan antar muka.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2364,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0069
+  },
+  {
+   "id": 141,
+   "start": 635.76,
+   "end": 637.76,
+   "text": " Namun, apapun pendekatan yang dilakukan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2364,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0069
+  },
+  {
+   "id": 142,
+   "start": 637.76,
+   "end": 640.76,
+   "text": " kita perlu terlebih dahulu mengidentifikasi requirements",
+   "temperature": 0.0,
+   "avg_logprob": -0.2364,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0069
+  },
+  {
+   "id": 143,
+   "start": 640.76,
+   "end": 644.76,
+   "text": " atau kebutuhan dari aplikasi yang akan dibuat rencangannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2364,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0069
+  },
+  {
+   "id": 144,
+   "start": 644.76,
+   "end": 649.52,
+   "text": " Salah satu pendekatan yang terbukti bisa menghasilkan rancangan antar muka yang baik adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2563,
+   "compression_ratio": 1.802,
+   "no_speech_prob": 0.1493
+  },
+  {
+   "id": 145,
+   "start": 649.52,
+   "end": 654.36,
+   "text": " pendekatan yang berbusad pada pengguna atau istilahnya user center design.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2563,
+   "compression_ratio": 1.802,
+   "no_speech_prob": 0.1493
+  },
+  {
+   "id": 146,
+   "start": 654.36,
+   "end": 659.12,
+   "text": " Kurang lebih proses prancangan antar muka dengan pendekatan ini adalah seperti yang ditunjukkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2563,
+   "compression_ratio": 1.802,
+   "no_speech_prob": 0.1493
+  },
+  {
+   "id": 147,
+   "start": 659.12,
+   "end": 660.12,
+   "text": " pada gambar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2563,
+   "compression_ratio": 1.802,
+   "no_speech_prob": 0.1493
+  },
+  {
+   "id": 148,
+   "start": 660.12,
+   "end": 665.12,
+   "text": " Procesnya dimulai dengan memahami pengguna terlebih dahulu, kemudian kita buat susunan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2563,
+   "compression_ratio": 1.802,
+   "no_speech_prob": 0.1493
+  },
+  {
+   "id": 149,
+   "start": 665.12,
+   "end": 666.12,
+   "text": " interface-nya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2563,
+   "compression_ratio": 1.802,
+   "no_speech_prob": 0.1493
+  },
+  {
+   "id": 150,
+   "start": 666.12,
+   "end": 671.32,
+   "text": " Lalu tentukan standar dan terakhir adalah membuat prototipu atau purwarupanya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2563,
+   "compression_ratio": 1.802,
+   "no_speech_prob": 0.1493
+  },
+  {
+   "id": 151,
+   "start": 671.32,
+   "end": 679.32,
+   "text": " Pada setiap proses tersebut, dia lakukan uji dan evaluasi untuk memastikan luaran dari masing-masing sudah sesuai dengan apa yang diharapkan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2336,
+   "compression_ratio": 1.778,
+   "no_speech_prob": 0.1881
+  },
+  {
+   "id": 152,
+   "start": 679.32,
+   "end": 690.32,
+   "text": " Proces perancangan antar muka ini biasanya juga bersifat iteratif atau berulang prosesnya sampai dihasilkan rancangan antar muka yang paling memenuhi kebutuhan perangkat lunak yang kita kembangkan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2336,
+   "compression_ratio": 1.778,
+   "no_speech_prob": 0.1881
+  },
+  {
+   "id": 153,
+   "start": 690.32,
+   "end": 694.32,
+   "text": " Mari kita bahas setiap proses tersebut satu per satu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2336,
+   "compression_ratio": 1.778,
+   "no_speech_prob": 0.1881
+  },
+  {
+   "id": 154,
+   "start": 696.14,
+   "end": 700.82,
+   "text": " Proces yang pertama adalah mamahami siapa pengguna perangkat tunak yang kita kambangkan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2539,
+   "compression_ratio": 1.923,
+   "no_speech_prob": 0.03
+  },
+  {
+   "id": 155,
+   "start": 700.82,
+   "end": 708.26,
+   "text": " Memahami karakteristik dan kebiasaan siapa yang menggunakan software adalah kunci keberhasilan dalam rancang user interface.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2539,
+   "compression_ratio": 1.923,
+   "no_speech_prob": 0.03
+  },
+  {
+   "id": 156,
+   "start": 708.26,
+   "end": 713.82,
+   "text": " Pengguna bisa saja memiliki karakteristik dan kebiasaan yang berbeda-beda, perhatikan gama berberikut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2539,
+   "compression_ratio": 1.923,
+   "no_speech_prob": 0.03
+  },
+  {
+   "id": 157,
+   "start": 713.82,
+   "end": 718.06,
+   "text": " Ini adalah contoh 4 kelompok pengguna pada satu aplikasi yang sama.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2539,
+   "compression_ratio": 1.923,
+   "no_speech_prob": 0.03
+  },
+  {
+   "id": 158,
+   "start": 718.06,
+   "end": 723.66,
+   "text": " Setiap kelompok pengguna memiliki prilaku yang berbeda ketika menggunakan aplikasi tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2539,
+   "compression_ratio": 1.923,
+   "no_speech_prob": 0.03
+  },
+  {
+   "id": 159,
+   "start": 723.66,
+   "end": 731.16,
+   "text": " Kelompok yang pertama adalah pengguna yang biasanya hanya menggunakan aplikasi satu kali saja dan jarang menggunakannya kembali.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1862,
+   "compression_ratio": 2.0,
+   "no_speech_prob": 0.1461
+  },
+  {
+   "id": 160,
+   "start": 731.16,
+   "end": 739.66,
+   "text": " Lalu kelompok kedua adalah orang yang cukup sering menggunakan aplikasi, namun hanya sebagai pelangan yang menggunakan fitur-fitur gratis-nya saja.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1862,
+   "compression_ratio": 2.0,
+   "no_speech_prob": 0.1461
+  },
+  {
+   "id": 161,
+   "start": 739.66,
+   "end": 746.66,
+   "text": " Kelompok yang ketiga adalah pengguna yang mau menggunakan layanan premium, hanya apabila mereka merasa benar-benar membutuhannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1862,
+   "compression_ratio": 2.0,
+   "no_speech_prob": 0.1461
+  },
+  {
+   "id": 162,
+   "start": 746.66,
+   "end": 751.66,
+   "text": " Butuh proses tertentu hingga pada akhirnya mereka mau menjadi pelangan premium.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1862,
+   "compression_ratio": 2.0,
+   "no_speech_prob": 0.1461
+  },
+  {
+   "id": 163,
+   "start": 751.66,
+   "end": 761.46,
+   "text": " Dan kelompok terakhir adalah kelompok pengguna yang tanpa ragu langsung menjadi pelangan premium terlepas pada saat itu apakah mereka membutuhkan fitur-fitur premium atau tidak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2301,
+   "compression_ratio": 1.735,
+   "no_speech_prob": 0.0084
+  },
+  {
+   "id": 164,
+   "start": 761.46,
+   "end": 774.66,
+   "text": " Memahami karakteristik pengguna akan memudahkan kita adalah menentukan prioritas, misalnya untuk menentukan fitur apa yang perlu dibuat terlebih dahulu, atau bagaimana susunan informasi yang bisa jika dan lain sebagainya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2301,
+   "compression_ratio": 1.735,
+   "no_speech_prob": 0.0084
+  },
+  {
+   "id": 165,
+   "start": 774.66,
+   "end": 779.46,
+   "text": " Akan sangat sulit untuk membuat aplikasi yang sesuai untuk semua kelompok pengguna,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3315,
+   "compression_ratio": 1.853,
+   "no_speech_prob": 0.0481
+  },
+  {
+   "id": 166,
+   "start": 779.46,
+   "end": 783.26,
+   "text": " kita perlu menentukan prioritas kelompok mana yang sudah hulukan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3315,
+   "compression_ratio": 1.853,
+   "no_speech_prob": 0.0481
+  },
+  {
+   "id": 167,
+   "start": 783.26,
+   "end": 788.21,
+   "text": " Setelah karakteristik dan prilaku pengguna sudah dapat dipahami,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3315,
+   "compression_ratio": 1.853,
+   "no_speech_prob": 0.0481
+  },
+  {
+   "id": 168,
+   "start": 788.21,
+   "end": 792.41,
+   "text": " maka proses selanjutnya adalah membuat struktur atau susunan antar muka.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3315,
+   "compression_ratio": 1.853,
+   "no_speech_prob": 0.0481
+  },
+  {
+   "id": 169,
+   "start": 792.41,
+   "end": 796.81,
+   "text": " Bungan membuat struktur user interface, kita akan mendapatkan gambaran apa saja",
+   "temperature": 0.0,
+   "avg_logprob": -0.3315,
+   "compression_ratio": 1.853,
+   "no_speech_prob": 0.0481
+  },
+  {
+   "id": 170,
+   "start": 796.81,
+   "end": 799.81,
+   "text": " user interface yang harus dibuat untuk perangkat lunak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3315,
+   "compression_ratio": 1.853,
+   "no_speech_prob": 0.0481
+  },
+  {
+   "id": 171,
+   "start": 799.81,
+   "end": 803.81,
+   "text": " Contoh sederhana struktur antar muka adalah site map atau petas itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.3315,
+   "compression_ratio": 1.853,
+   "no_speech_prob": 0.0481
+  },
+  {
+   "id": 172,
+   "start": 803.81,
+   "end": 807.33,
+   "text": " pada aplikasi berbasis web seperti yang terlihat pada gambar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3754,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.1538
+  },
+  {
+   "id": 173,
+   "start": 807.97,
+   "end": 809.85,
+   "text": " Dengan membuat sitemap seperti ini,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3754,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.1538
+  },
+  {
+   "id": 174,
+   "start": 809.85,
+   "end": 814.21,
+   "text": " kita bisa mendapatkan gambaran tentang susunan menu dari aplikasi yang akan dibuat.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3754,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.1538
+  },
+  {
+   "id": 175,
+   "start": 814.57,
+   "end": 819.41,
+   "text": " Pedalaman atau level menunya, dan juga menggambarkan di bagian manas aja suatu fungsi",
+   "temperature": 0.0,
+   "avg_logprob": -0.3754,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.1538
+  },
+  {
+   "id": 176,
+   "start": 819.41,
+   "end": 821.17,
+   "text": " dapat dijelangkan oleh pengguna.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3754,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.1538
+  },
+  {
+   "id": 177,
+   "start": 823.5,
+   "end": 825.3,
+   "text": " Setelah struktur antar muka dibuat,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3754,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.1538
+  },
+  {
+   "id": 178,
+   "start": 825.3,
+   "end": 827.74,
+   "text": " maka kita perlu juga menentukan standar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3754,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.1538
+  },
+  {
+   "id": 179,
+   "start": 828.06,
+   "end": 830.38,
+   "text": " Ini lah yang dilakukan pada proses selanjutnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3754,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.1538
+  },
+  {
+   "id": 180,
+   "start": 830.94,
+   "end": 835.06,
+   "text": " Standar merupakan sebuah aturan yang harus dipenuhi dalam setiap user interface",
+   "temperature": 0.0,
+   "avg_logprob": -0.3754,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.1538
+  },
+  {
+   "id": 181,
+   "start": 835.06,
+   "end": 840.06,
+   "text": " yang dibuat. Standar bisa ditetapkan sendiri atau mengikuti bes praktif yang ada.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2872,
+   "compression_ratio": 1.669,
+   "no_speech_prob": 0.5024
+  },
+  {
+   "id": 182,
+   "start": 840.06,
+   "end": 845.06,
+   "text": " Contoh contoh standar dalam aplikasi berbasis website misalnya sebagai berikut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2872,
+   "compression_ratio": 1.669,
+   "no_speech_prob": 0.5024
+  },
+  {
+   "id": 183,
+   "start": 845.06,
+   "end": 848.06,
+   "text": " Ketama gunakan icon di sebelah kiri tombol menu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2872,
+   "compression_ratio": 1.669,
+   "no_speech_prob": 0.5024
+  },
+  {
+   "id": 184,
+   "start": 848.06,
+   "end": 854.06,
+   "text": " 2-3 menggunakan gambar yang panjang atau lebernya lebih kecil dari 300 pixel.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2872,
+   "compression_ratio": 1.669,
+   "no_speech_prob": 0.5024
+  },
+  {
+   "id": 185,
+   "start": 854.06,
+   "end": 863.06,
+   "text": " 3-4 untuk setiap halaman website adalah 70% lebar untuk isi utama dan 30% lebar untuk sidebar di sebelah kiri.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2872,
+   "compression_ratio": 1.669,
+   "no_speech_prob": 0.5024
+  },
+  {
+   "id": 186,
+   "start": 863.06,
+   "end": 867.06,
+   "text": " Keempat ukuran phone minimal adalah 12 pixel.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3105,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 187,
+   "start": 867.06,
+   "end": 873.06,
+   "text": " Puduh masih ada banyak contoh standar lain yang dapat diterapkan selain keempat standar yang dijadikan contoh tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3105,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 188,
+   "start": 873.06,
+   "end": 879.66,
+   "text": " Setelah standaran sangat antar muka, ditapkan maka saatnya melancutkan ke proses berikutnya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3105,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 189,
+   "start": 879.66,
+   "end": 883.66,
+   "text": " yang itu membuat prototipu atau kurwarupa antar muka.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3105,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 190,
+   "start": 883.66,
+   "end": 889.66,
+   "text": " Prototipu user interface harus bisa menggambarkan fungsi yang sebenarnya dari user interface tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3105,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 191,
+   "start": 889.66,
+   "end": 892.66,
+   "text": " Prototipu dapat juga dikatakan sebagai wireframe.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3105,
+   "compression_ratio": 1.795,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 192,
+   "start": 892.66,
+   "end": 900.16,
+   "text": " Prototype ini bisa dalam bentuk low-vidality prototype atau high-vidality prototype tergantung dari kebutuhannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2618,
+   "compression_ratio": 1.879,
+   "no_speech_prob": 0.011
+  },
+  {
+   "id": 193,
+   "start": 900.16,
+   "end": 905.16,
+   "text": " Membuat high-vidality prototype tentu akan lebih detail menggambarkan rancangan antar muka,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2618,
+   "compression_ratio": 1.879,
+   "no_speech_prob": 0.011
+  },
+  {
+   "id": 194,
+   "start": 905.16,
+   "end": 909.16,
+   "text": " namun demikian waktu yang diperlukan untuk membuatnya juga lebih lama.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2618,
+   "compression_ratio": 1.879,
+   "no_speech_prob": 0.011
+  },
+  {
+   "id": 195,
+   "start": 909.16,
+   "end": 915.16,
+   "text": " Giasanya, design akhir antar muka yang digunakan tidak jauh berbeda dari high-vidality prototype yang dibuat,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2618,
+   "compression_ratio": 1.879,
+   "no_speech_prob": 0.011
+  },
+  {
+   "id": 196,
+   "start": 915.16,
+   "end": 917.66,
+   "text": " walaupun tidak selalu seperti itu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2618,
+   "compression_ratio": 1.879,
+   "no_speech_prob": 0.011
+  },
+  {
+   "id": 197,
+   "start": 917.66,
+   "end": 930.49,
+   "text": " Ingat bahwa pembuatan pura rupa pada desarnya adalah untuk memastikan fungsi dan fitur yang akan dimiliki oleh aplikasi, berikut dengan penempatan menu untuk mengaksesinya sudah sesuai atau belum.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2215,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 198,
+   "start": 930.49,
+   "end": 933.99,
+   "text": " Terakhir adalah proses pengujian dan evaluasi antermuka.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2215,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 199,
+   "start": 933.99,
+   "end": 940.99,
+   "text": " Sejuan dari pengujian dan evaluasi adalah untuk mengukur kesesuaian rancangan yang dihasilkan dengan kebutuhan yang ada.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2215,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 200,
+   "start": 940.99,
+   "end": 945.99,
+   "text": " Dan apabila ada kekurangan, kita dapat mengetahui bagaimana cara memperbaikinya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2215,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0452
+  },
+  {
+   "id": 201,
+   "start": 945.99,
+   "end": 950.55,
+   "text": " Ada banyak bentuk evaluasi, namun ada empat bentuk yang umum digunakan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3819,
+   "compression_ratio": 1.788,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 202,
+   "start": 950.55,
+   "end": 953.35,
+   "text": " Pertama adalah juristik evaluation,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3819,
+   "compression_ratio": 1.788,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 203,
+   "start": 953.35,
+   "end": 956.79,
+   "text": " ya itu evaluasi dengan membandingkan interfesi yang ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.3819,
+   "compression_ratio": 1.788,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 204,
+   "start": 956.79,
+   "end": 959.75,
+   "text": " dengan prinsip prinsip atau standa yang digunakan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3819,
+   "compression_ratio": 1.788,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 205,
+   "start": 959.75,
+   "end": 961.75,
+   "text": " biasanya dengan checklist.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3819,
+   "compression_ratio": 1.788,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 206,
+   "start": 961.75,
+   "end": 964.63,
+   "text": " Lalu ada juga interactive evaluation.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3819,
+   "compression_ratio": 1.788,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 207,
+   "start": 964.63,
+   "end": 967.99,
+   "text": " Evaluasi ini dilakukan dengan meminta pengguna software",
+   "temperature": 0.0,
+   "avg_logprob": -0.3819,
+   "compression_ratio": 1.788,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 208,
+   "start": 967.99,
+   "end": 972.23,
+   "text": " melakukan skenario tertentu yang ditentukan oleh tim prangkat lunak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3819,
+   "compression_ratio": 1.788,
+   "no_speech_prob": 0.1078
+  },
+  {
+   "id": 209,
+   "start": 972.23,
+   "end": 975.23,
+   "text": " 3. there is a whole truth evaluation.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3301,
+   "compression_ratio": 1.798,
+   "no_speech_prob": 0.1326
+  },
+  {
+   "id": 210,
+   "start": 975.23,
+   "end": 980.23,
+   "text": " Evaluasi dengan cara menelusuri setiap interface yang dibuat 1-1.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3301,
+   "compression_ratio": 1.798,
+   "no_speech_prob": 0.1326
+  },
+  {
+   "id": 211,
+   "start": 980.23,
+   "end": 983.23,
+   "text": " Yasanya dilakukan oleh pengguna dengan storyboard.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3301,
+   "compression_ratio": 1.798,
+   "no_speech_prob": 0.1326
+  },
+  {
+   "id": 212,
+   "start": 983.23,
+   "end": 987.23,
+   "text": " Bentuk evaluation kempat adalah formal usability testing.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3301,
+   "compression_ratio": 1.798,
+   "no_speech_prob": 0.1326
+  },
+  {
+   "id": 213,
+   "start": 987.23,
+   "end": 992.23,
+   "text": " Evaluasi ini dilakukan dengan kondisi yang benar-benar menekati kondisi yang sebenarnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3301,
+   "compression_ratio": 1.798,
+   "no_speech_prob": 0.1326
+  },
+  {
+   "id": 214,
+   "start": 992.23,
+   "end": 995.23,
+   "text": " Yasanya dilakukan oleh pengguna sungguhan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3301,
+   "compression_ratio": 1.798,
+   "no_speech_prob": 0.1326
+  },
+  {
+   "id": 215,
+   "start": 995.23,
+   "end": 1001.23,
+   "text": " Baiklah process-process dalam perancangan antar mukata di mengakhiri pembahasan materi kita kali ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3301,
+   "compression_ratio": 1.798,
+   "no_speech_prob": 0.1326
+  },
+  {
+   "id": 216,
+   "start": 1001.23,
+   "end": 1005.23,
+   "text": " Likut ada 3 referensi utama dalam penyesunan materi video ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3215,
+   "compression_ratio": 1.202,
+   "no_speech_prob": 0.0258
+  },
+  {
+   "id": 217,
+   "start": 1005.23,
+   "end": 1008.23,
+   "text": " Lima kasih karena sudah menimaknya sampai selesai.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3215,
+   "compression_ratio": 1.202,
+   "no_speech_prob": 0.0258
+  }
+ ]
+}

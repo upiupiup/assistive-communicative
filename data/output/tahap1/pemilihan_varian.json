@@ -1,0 +1,87 @@
+{
+  "terpilih": "large-v3",
+  "kode_baseline": "T1-E",
+  "kriteria": "TTER agregat terendah di antara varian dengan RTF <= 1 dan dapat dilatih (subbab 3.6.5)",
+  "batch_tahap3": 1,
+  "gradient_checkpointing": true,
+  "tabel": [
+    {
+      "varian": "tiny",
+      "kode": "T1-A",
+      "TTER": 0.5718349928876245,
+      "WER": 0.3739587338203255,
+      "RTF": 0.02971638429912085,
+      "dapat_dilatih": true,
+      "batch": 4,
+      "RTF<=1": true,
+      "lolos": true,
+      "alasan_gugur": "",
+      "terpilih": false
+    },
+    {
+      "varian": "base",
+      "kode": "T1-B",
+      "TTER": 0.35206258890469416,
+      "WER": 0.22773292323465333,
+      "RTF": 0.024571827924617054,
+      "dapat_dilatih": true,
+      "batch": 4,
+      "RTF<=1": true,
+      "lolos": true,
+      "alasan_gugur": "",
+      "terpilih": false
+    },
+    {
+      "varian": "small",
+      "kode": "T1-C",
+      "TTER": 0.22119487908961594,
+      "WER": 0.12777136998590286,
+      "RTF": 0.04515943547685924,
+      "dapat_dilatih": true,
+      "batch": 4,
+      "RTF<=1": true,
+      "lolos": true,
+      "alasan_gugur": "",
+      "terpilih": false
+    },
+    {
+      "varian": "medium",
+      "kode": "T1-D",
+      "TTER": 0.14580369843527738,
+      "WER": 0.08810713828014866,
+      "RTF": 0.10019483146051196,
+      "dapat_dilatih": true,
+      "batch": 2,
+      "RTF<=1": true,
+      "lolos": true,
+      "alasan_gugur": "",
+      "terpilih": false
+    },
+    {
+      "varian": "large-v3",
+      "kode": "T1-E",
+      "TTER": 0.050497866287339974,
+      "WER": 0.046264257336921695,
+      "RTF": 0.16191693524221293,
+      "dapat_dilatih": true,
+      "batch": 1,
+      "RTF<=1": true,
+      "lolos": true,
+      "alasan_gugur": "",
+      "terpilih": true
+    },
+    {
+      "varian": "large-v3-turbo",
+      "kode": "T1-F",
+      "TTER": 0.10384068278805121,
+      "WER": 0.06984493143662694,
+      "RTF": 0.054919354786634796,
+      "dapat_dilatih": true,
+      "batch": 1,
+      "RTF<=1": true,
+      "lolos": true,
+      "alasan_gugur": "",
+      "terpilih": false
+    }
+  ]
+}

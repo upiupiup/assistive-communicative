@@ -1,0 +1,7 @@
+﻿varian,kode,WER %,WER <= 25%,blok dengan WER <= 25%,RTF,RTF <= 1
+tiny,T1-A,37.4,False,9/54,0.0297,True
+base,T1-B,22.77,True,33/54,0.0246,True
+small,T1-C,12.78,True,50/54,0.0452,True
+medium,T1-D,8.81,True,52/54,0.1002,True
+large-v3,T1-E,4.63,True,52/54,0.1619,True
+large-v3-turbo,T1-F,6.98,True,53/54,0.0549,True

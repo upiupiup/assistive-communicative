@@ -1,0 +1,7 @@
+﻿varian,dapat_dilatih,batch,gradient_checkpointing,puncak_memori_mb,detik_per_langkah,parameter_terlatih,%_terlatih,ukuran_adapter_mb,langkah_tahap3,estimasi_jam_tahap3
+tiny,True,4,False,926,0.124,589824,1.538,2.26,8785,0.3
+base,True,4,False,1366,0.246,1179648,1.599,4.52,8785,0.6
+small,True,4,False,3128,0.713,3538944,1.443,13.53,8785,1.7
+medium,True,2,False,4722,1.178,9437184,1.22,36.05,17535,5.7
+large-v3,True,1,True,3854,1.849,15728640,1.009,60.06,35035,18.0
+large-v3-turbo,True,1,False,3830,0.868,6553600,0.804,25.03,35035,8.4

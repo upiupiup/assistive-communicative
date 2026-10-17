@@ -1,0 +1,4539 @@
+{
+ "file_id": "AOK-04",
+ "konfigurasi": "large-v3-turbo",
+ "model": "large-v3-turbo",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "info": {
+  "duration": 1171.9886875,
+  "duration_after_vad": 1149.088,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 4.62,
+   "end": 7.28,
+   "text": " Assalamualaikum warahmatullahi wabarakatuh",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 2,
+   "start": 7.28,
+   "end": 10.16,
+   "text": " Pada sesi kali ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 3,
+   "start": 10.16,
+   "end": 11.22,
+   "text": " Manalah kita akan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 4,
+   "start": 11.22,
+   "end": 13.78,
+   "text": " Membahas terkait dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 5,
+   "start": 13.78,
+   "end": 15.98,
+   "text": " Perkulian kita",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 6,
+   "start": 15.98,
+   "end": 17.02,
+   "text": " Dengan topik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 7,
+   "start": 17.02,
+   "end": 19.56,
+   "text": " Memory case",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 8,
+   "start": 19.56,
+   "end": 21.78,
+   "text": " Jadi memory case ini sangat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 9,
+   "start": 21.78,
+   "end": 23.48,
+   "text": " Berperan di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 10,
+   "start": 23.48,
+   "end": 25.66,
+   "text": " Meningkatkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 11,
+   "start": 25.66,
+   "end": 26.26,
+   "text": " Performance",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 12,
+   "start": 26.26,
+   "end": 30.02,
+   "text": " Komputer, sistem komputer kita",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 13,
+   "start": 30.02,
+   "end": 32.22,
+   "text": " Oke",
+   "temperature": 0.0,
+   "avg_logprob": -0.2759,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 14,
+   "start": 32.22,
+   "end": 35.26,
+   "text": " memory case",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 15,
+   "start": 35.26,
+   "end": 37.0,
+   "text": " ini adalah menjadi bagian dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 16,
+   "start": 37.0,
+   "end": 39.36,
+   "text": " organisasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 17,
+   "start": 39.36,
+   "end": 40.78,
+   "text": " memori yang ada dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 18,
+   "start": 40.78,
+   "end": 42.94,
+   "text": " sistem komputer kita",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 19,
+   "start": 42.94,
+   "end": 43.5,
+   "text": " dimana",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 20,
+   "start": 43.5,
+   "end": 46.86,
+   "text": " memory case ini menjadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 21,
+   "start": 46.86,
+   "end": 49.06,
+   "text": " bagian dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 22,
+   "start": 49.06,
+   "end": 50.88,
+   "text": " sistem prosesor",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 23,
+   "start": 50.88,
+   "end": 52.42,
+   "text": " atau di dalam CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 24,
+   "start": 52.42,
+   "end": 54.8,
+   "text": " secara hirarki",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 25,
+   "start": 54.8,
+   "end": 56.52,
+   "text": " memory case ini menjadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 26,
+   "start": 56.52,
+   "end": 59.06,
+   "text": " bagian yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 27,
+   "start": 59.06,
+   "end": 61.16,
+   "text": " sangat penting di dalam sistem",
+   "temperature": 0.0,
+   "avg_logprob": -0.2599,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 28,
+   "start": 61.16,
+   "end": 62.36,
+   "text": " komputer kita.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 29,
+   "start": 63.42,
+   "end": 64.42,
+   "text": " Oke, sebelum menginjak",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 30,
+   "start": 64.42,
+   "end": 66.7,
+   "text": " terhadap",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 31,
+   "start": 66.7,
+   "end": 69.02,
+   "text": " pembahasan pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 32,
+   "start": 69.02,
+   "end": 70.92,
+   "text": " memory case, mungkin kita perlu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 33,
+   "start": 70.92,
+   "end": 73.52,
+   "text": " bahas terkait dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 34,
+   "start": 73.52,
+   "end": 75.24,
+   "text": " sistem karakteristik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 35,
+   "start": 75.24,
+   "end": 77.16,
+   "text": " sistem memori yang ada dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 36,
+   "start": 77.16,
+   "end": 79.2,
+   "text": " sistem komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 37,
+   "start": 80.36,
+   "end": 81.08,
+   "text": " Karakteristik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 38,
+   "start": 81.08,
+   "end": 83.22,
+   "text": " sistem komputer secara",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 39,
+   "start": 83.22,
+   "end": 85.54,
+   "text": " lokasi, artinya mengajuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 40,
+   "start": 85.54,
+   "end": 86.62,
+   "text": " kepada lokasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 41,
+   "start": 86.62,
+   "end": 89.08,
+   "text": " memori itu secara internal atau",
+   "temperature": 0.0,
+   "avg_logprob": -0.2788,
+   "compression_ratio": 1.747,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 42,
+   "start": 89.08,
+   "end": 91.34,
+   "text": " eksternal. Memori internal",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 43,
+   "start": 91.34,
+   "end": 93.48,
+   "text": " seringkali disamakan dengan main memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 44,
+   "start": 93.48,
+   "end": 95.1,
+   "text": " atau memory utama, atau",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 45,
+   "start": 95.1,
+   "end": 96.14,
+   "text": " primary memory.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 46,
+   "start": 96.92,
+   "end": 99.32,
+   "text": " Prosesor membutuhkan memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 47,
+   "start": 99.32,
+   "end": 101.34,
+   "text": " lokal atau internal memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 48,
+   "start": 101.34,
+   "end": 102.66,
+   "text": " ini dalam bentuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 49,
+   "start": 102.66,
+   "end": 103.84,
+   "text": " register.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 50,
+   "start": 104.84,
+   "end": 105.12,
+   "text": " Jadi,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 51,
+   "start": 105.84,
+   "end": 109.08,
+   "text": " register adalah merupakan salah satu jenis",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 52,
+   "start": 109.08,
+   "end": 111.44,
+   "text": " memory yang memiliki tingkatan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 53,
+   "start": 111.44,
+   "end": 113.16,
+   "text": " paling tinggi. Kemudian",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 54,
+   "start": 113.16,
+   "end": 115.22,
+   "text": " di bawahnya register adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 55,
+   "start": 115.22,
+   "end": 117.32,
+   "text": " memory case yang akan kita bahas",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.783,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 56,
+   "start": 117.32,
+   "end": 119.4,
+   "text": " pada sesi kali ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 57,
+   "start": 119.4,
+   "end": 123.38,
+   "text": " menjadi bagian dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 58,
+   "start": 123.38,
+   "end": 125.22,
+   "text": " internal memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 59,
+   "start": 125.22,
+   "end": 126.24,
+   "text": " sehingga kita",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 60,
+   "start": 126.24,
+   "end": 128.36,
+   "text": " sebut bahwasannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 61,
+   "start": 128.36,
+   "end": 130.52,
+   "text": " internal memory ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 62,
+   "start": 130.52,
+   "end": 133.4,
+   "text": " termasuk register maupun",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 63,
+   "start": 133.4,
+   "end": 135.38,
+   "text": " case memory di samping",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 64,
+   "start": 135.38,
+   "end": 137.36,
+   "text": " main memory yang ada dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 65,
+   "start": 137.36,
+   "end": 139.16,
+   "text": " sistem komputer kita",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 66,
+   "start": 139.16,
+   "end": 142.52,
+   "text": " di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 67,
+   "start": 142.52,
+   "end": 143.56,
+   "text": " lokasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 68,
+   "start": 143.56,
+   "end": 146.3,
+   "text": " berdasarkan lokasi ini nanti juga ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 69,
+   "start": 146.3,
+   "end": 148.62,
+   "text": " external memory yaitu merupakan perangkat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2229,
+   "compression_ratio": 1.763,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 70,
+   "start": 148.62,
+   "end": 150.98,
+   "text": " perangkat memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 71,
+   "start": 150.98,
+   "end": 152.18,
+   "text": " yang ada di",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 72,
+   "start": 152.18,
+   "end": 154.48,
+   "text": " luar",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 73,
+   "start": 154.48,
+   "end": 157.04,
+   "text": " komputer",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 74,
+   "start": 157.04,
+   "end": 158.86,
+   "text": " yang biasanya menjadi bagian",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 75,
+   "start": 158.86,
+   "end": 161.14,
+   "text": " dari sistem IHO",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 76,
+   "start": 161.14,
+   "end": 163.34,
+   "text": " misalnya seperti HD, CD, DVD",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 77,
+   "start": 163.34,
+   "end": 165.04,
+   "text": " berdasarkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 78,
+   "start": 165.04,
+   "end": 167.12,
+   "text": " kapasitas, memori nanti",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 79,
+   "start": 167.12,
+   "end": 168.78,
+   "text": " biasanya dinyatakan dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 80,
+   "start": 168.78,
+   "end": 170.6,
+   "text": " byte, jadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 81,
+   "start": 170.6,
+   "end": 173.36,
+   "text": " kilobyte, megabyte",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 82,
+   "start": 173.36,
+   "end": 175.08,
+   "text": " gigabyte",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 83,
+   "start": 175.08,
+   "end": 176.7,
+   "text": " sampai dengan mungkin terabyte",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.521,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 84,
+   "start": 176.7,
+   "end": 202.76,
+   "text": " Kemudian berdasarkan unit transfer, nanti ada memori internal di mana transfernya nanti sesuai dengan jumlah saluran listrik atau koneksi yang menjadi bagian dari modul memori untuk input-output atau baca tulis memori.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1684,
+   "compression_ratio": 1.514,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 85,
+   "start": 202.76,
+   "end": 207.68,
+   "text": " bahwasannya di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 86,
+   "start": 207.68,
+   "end": 209.62,
+   "text": " memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 87,
+   "start": 209.62,
+   "end": 211.84,
+   "text": " di dalam memori kita untuk akses",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 88,
+   "start": 211.84,
+   "end": 213.54,
+   "text": " akses memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 89,
+   "start": 213.54,
+   "end": 215.94,
+   "text": " sistem memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 90,
+   "start": 215.94,
+   "end": 217.56,
+   "text": " dalam komputer kita itu ada beberapa",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 91,
+   "start": 217.56,
+   "end": 220.14,
+   "text": " jenis yaitu sequential access",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 92,
+   "start": 220.14,
+   "end": 221.92,
+   "text": " direct access, random maupun",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 93,
+   "start": 221.92,
+   "end": 222.8,
+   "text": " associative",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 94,
+   "start": 222.8,
+   "end": 225.78,
+   "text": " jadi yang sequential access itu maksudnya adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 95,
+   "start": 225.78,
+   "end": 226.3,
+   "text": " merupakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 96,
+   "start": 226.3,
+   "end": 229.64,
+   "text": " akses pembacaan baca tulis",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 97,
+   "start": 229.64,
+   "end": 230.64,
+   "text": " memori yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.1801,
+   "compression_ratio": 1.809,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 98,
+   "start": 230.64,
+   "end": 232.48,
+   "text": " secara",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 99,
+   "start": 232.48,
+   "end": 234.86,
+   "text": " sequential, secara berurutan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 100,
+   "start": 234.86,
+   "end": 236.66,
+   "text": " kemudian",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 101,
+   "start": 236.66,
+   "end": 238.78,
+   "text": " direct access, artinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 102,
+   "start": 238.78,
+   "end": 240.82,
+   "text": " pembacaan akses",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 103,
+   "start": 240.82,
+   "end": 242.24,
+   "text": " memory itu secara langsung",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 104,
+   "start": 242.24,
+   "end": 244.38,
+   "text": " ini biasanya pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 105,
+   "start": 244.38,
+   "end": 245.48,
+   "text": " media",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 106,
+   "start": 245.48,
+   "end": 251.1,
+   "text": " hard disk",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 107,
+   "start": 251.1,
+   "end": 252.62,
+   "text": " atau media penyimpan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 108,
+   "start": 252.62,
+   "end": 254.2,
+   "text": " sedang pada sequential ini pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 109,
+   "start": 254.2,
+   "end": 256.38,
+   "text": " media penyimpan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 110,
+   "start": 256.38,
+   "end": 258.64,
+   "text": " tip, media tip",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 111,
+   "start": 258.64,
+   "end": 261.2,
+   "text": " yang sekarang mungkin sudah tidak ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2128,
+   "compression_ratio": 1.716,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 112,
+   "start": 261.2,
+   "end": 263.74,
+   "text": " daerah akses masih ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 113,
+   "start": 263.74,
+   "end": 266.16,
+   "text": " yaitu jalan-jalan adalah bentuk hard disk",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 114,
+   "start": 266.16,
+   "end": 269.88,
+   "text": " artinya akses itu langsung",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 115,
+   "start": 269.88,
+   "end": 271.9,
+   "text": " dilakukan pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 116,
+   "start": 271.9,
+   "end": 275.94,
+   "text": " lokasi pada permukaan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 117,
+   "start": 275.94,
+   "end": 278.58,
+   "text": " permukaan cakram atau permukaan disk",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 118,
+   "start": 278.58,
+   "end": 279.66,
+   "text": " memori tersebut",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 119,
+   "start": 279.66,
+   "end": 281.86,
+   "text": " sedangkan random access ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 120,
+   "start": 281.86,
+   "end": 284.64,
+   "text": " yang merupakan mekanisme akses pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 121,
+   "start": 284.64,
+   "end": 286.02,
+   "text": " RAM maupun ROM",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 122,
+   "start": 286.02,
+   "end": 288.28,
+   "text": " jadi langsung nanti pada address",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 123,
+   "start": 288.28,
+   "end": 290.32,
+   "text": " lokasi dari RAM",
+   "temperature": 0.0,
+   "avg_logprob": -0.1939,
+   "compression_ratio": 1.689,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 124,
+   "start": 290.32,
+   "end": 294.04,
+   "text": " atau plurum yang menjadi bagian utama",
+   "temperature": 0.0,
+   "avg_logprob": -0.1665,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 125,
+   "start": 294.04,
+   "end": 298.18,
+   "text": " di dalam sistem komputer kita pada main memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.1665,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 126,
+   "start": 298.18,
+   "end": 301.72,
+   "text": " kemudian yang terakhir ini adalah asosiatif",
+   "temperature": 0.0,
+   "avg_logprob": -0.1665,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 127,
+   "start": 301.72,
+   "end": 306.34,
+   "text": " asosiatif ini adalah merupakan mekanisme akses baca tulis",
+   "temperature": 0.0,
+   "avg_logprob": -0.1665,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 128,
+   "start": 306.34,
+   "end": 312.04,
+   "text": " yang terkait dengan cache memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.1665,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 129,
+   "start": 312.04,
+   "end": 319.46,
+   "text": " berdasarkan kapasitas memory itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1665,
+   "compression_ratio": 1.68,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 130,
+   "start": 319.46,
+   "end": 321.14,
+   "text": " nanti akan di",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 131,
+   "start": 321.14,
+   "end": 325.12,
+   "text": " karakteristik kinerjanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 132,
+   "start": 325.12,
+   "end": 325.74,
+   "text": " maksudnya ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 133,
+   "start": 325.74,
+   "end": 328.56,
+   "text": " jadi kapasitas dan karakteristik kinerja",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 134,
+   "start": 328.56,
+   "end": 331.1,
+   "text": " dari sebuah main memory nanti akan ditutupkan oleh",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 135,
+   "start": 331.1,
+   "end": 332.96,
+   "text": " waktu akses",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 136,
+   "start": 332.96,
+   "end": 335.16,
+   "text": " atau latensi, jadi waktu yang diperlukan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 137,
+   "start": 335.16,
+   "end": 336.84,
+   "text": " untuk baca tulis",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 138,
+   "start": 336.84,
+   "end": 338.76,
+   "text": " kemudian memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 139,
+   "start": 338.76,
+   "end": 340.4,
+   "text": " cycle time artinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 140,
+   "start": 340.4,
+   "end": 342.76,
+   "text": " berapa waktu yang diperlukan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 141,
+   "start": 342.76,
+   "end": 343.46,
+   "text": " di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 142,
+   "start": 343.46,
+   "end": 346.3,
+   "text": " siklus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 143,
+   "start": 346.3,
+   "end": 348.34,
+   "text": " akses pembacaan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1649,
+   "compression_ratio": 1.807,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 144,
+   "start": 348.34,
+   "end": 349.94,
+   "text": " ataupun penulisan memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 145,
+   "start": 349.94,
+   "end": 352.12,
+   "text": " dan yang ketiga",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 146,
+   "start": 352.12,
+   "end": 353.54,
+   "text": " ditentukan oleh transfer rate",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 147,
+   "start": 353.54,
+   "end": 356.06,
+   "text": " jadi berapa kecepatan transfer",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 148,
+   "start": 356.06,
+   "end": 358.14,
+   "text": " data untuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 149,
+   "start": 358.14,
+   "end": 361.64,
+   "text": " input, output, atau",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 150,
+   "start": 361.64,
+   "end": 362.94,
+   "text": " pacar tulis di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 151,
+   "start": 362.94,
+   "end": 364.44,
+   "text": " memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 152,
+   "start": 364.44,
+   "end": 369.46,
+   "text": " berdasarkan karastrik penyimpanan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 153,
+   "start": 369.46,
+   "end": 373.0,
+   "text": " berdasarkan sel memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 154,
+   "start": 373.0,
+   "end": 374.68,
+   "text": " ada memori semikonduktor",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 155,
+   "start": 374.68,
+   "end": 377.74,
+   "text": " memori magnetik, memori optik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2213,
+   "compression_ratio": 1.732,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 156,
+   "start": 377.74,
+   "end": 379.72,
+   "text": " atau memori magneto-optikal",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 157,
+   "start": 379.72,
+   "end": 381.28,
+   "text": " yang mungkin sekarang tidak-tidak ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 158,
+   "start": 381.28,
+   "end": 383.84,
+   "text": " memori semi-konduktor ini yang ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 159,
+   "start": 383.84,
+   "end": 384.52,
+   "text": " nanti pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 160,
+   "start": 384.52,
+   "end": 387.92,
+   "text": " memori RAM maupun ROM",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 161,
+   "start": 387.92,
+   "end": 390.04,
+   "text": " dan termasuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 162,
+   "start": 390.04,
+   "end": 391.18,
+   "text": " juga cache memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 163,
+   "start": 391.18,
+   "end": 395.54,
+   "text": " termasuk jenis memori yang semi-konduktor",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 164,
+   "start": 395.54,
+   "end": 397.68,
+   "text": " sedangkan permukaan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 165,
+   "start": 397.68,
+   "end": 398.64,
+   "text": " magnetik ada pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 166,
+   "start": 398.64,
+   "end": 401.56,
+   "text": " hard disk dan optik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 167,
+   "start": 401.56,
+   "end": 403.18,
+   "text": " ini pada CD ataupun DVD",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 168,
+   "start": 403.18,
+   "end": 404.76,
+   "text": " DVD ROM",
+   "temperature": 0.0,
+   "avg_logprob": -0.2126,
+   "compression_ratio": 1.711,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 169,
+   "start": 404.76,
+   "end": 407.2,
+   "text": " secara",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 170,
+   "start": 407.2,
+   "end": 408.9,
+   "text": " karakteristik penyimpanan",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 171,
+   "start": 408.9,
+   "end": 411.1,
+   "text": " biasanya dibagi menjadi dua bagian",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 172,
+   "start": 411.1,
+   "end": 412.72,
+   "text": " yaitu memori yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 173,
+   "start": 412.72,
+   "end": 414.74,
+   "text": " mudah menguap dan",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 174,
+   "start": 414.74,
+   "end": 417.26,
+   "text": " memori yang sifatnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 175,
+   "start": 417.26,
+   "end": 418.48,
+   "text": " permanen atau non",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 176,
+   "start": 418.48,
+   "end": 420.72,
+   "text": " volatile, memori yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 177,
+   "start": 420.72,
+   "end": 423.16,
+   "text": " menguap ini yang volatile, ini yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 178,
+   "start": 423.16,
+   "end": 425.2,
+   "text": " krememori",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 179,
+   "start": 425.2,
+   "end": 426.92,
+   "text": " yang permanen",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 180,
+   "start": 426.92,
+   "end": 428.32,
+   "text": " itu yang non",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 181,
+   "start": 428.32,
+   "end": 431.2,
+   "text": " volatile, ini termasuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 182,
+   "start": 431.2,
+   "end": 432.9,
+   "text": " ada di sampel konduktor",
+   "temperature": 0.0,
+   "avg_logprob": -0.211,
+   "compression_ratio": 1.868,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 183,
+   "start": 432.9,
+   "end": 434.74,
+   "text": " ini ada yang volatile",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 184,
+   "start": 434.74,
+   "end": 436.5,
+   "text": " ataupun non-volatile",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 185,
+   "start": 436.5,
+   "end": 439.02,
+   "text": " pada magnetik, pada umumnya yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 186,
+   "start": 439.02,
+   "end": 441.08,
+   "text": " non-volatile",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 187,
+   "start": 441.08,
+   "end": 444.4,
+   "text": " memori yang non-erisable",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 188,
+   "start": 444.4,
+   "end": 446.22,
+   "text": " ini pada ROM",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 189,
+   "start": 446.22,
+   "end": 448.66,
+   "text": " misalkan ya, pada ROM ataupun DVD ROM",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 190,
+   "start": 448.66,
+   "end": 449.96,
+   "text": " itu yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 191,
+   "start": 449.96,
+   "end": 452.02,
+   "text": " supportnya hanya sekali program",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 192,
+   "start": 452.02,
+   "end": 454.1,
+   "text": " sedangkan pada memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 193,
+   "start": 454.1,
+   "end": 456.46,
+   "text": " RAM, itu adalah merupakan memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 194,
+   "start": 456.46,
+   "end": 458.82,
+   "text": " yang aksesnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 195,
+   "start": 458.82,
+   "end": 460.32,
+   "text": " bisa secara acak",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 196,
+   "start": 460.32,
+   "end": 462.1,
+   "text": " oleh karena itu dikenal dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2558,
+   "compression_ratio": 1.741,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 197,
+   "start": 462.1,
+   "end": 465.28,
+   "text": " RAM random access memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 198,
+   "start": 465.28,
+   "end": 466.94,
+   "text": " hirarki memory secara",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 199,
+   "start": 466.94,
+   "end": 469.2,
+   "text": " prinsip bahwasannya hirarki",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 200,
+   "start": 469.2,
+   "end": 470.22,
+   "text": " memory ini adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 201,
+   "start": 470.22,
+   "end": 471.9,
+   "text": " bagaimana",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 202,
+   "start": 471.9,
+   "end": 475.12,
+   "text": " posisi yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 203,
+   "start": 475.12,
+   "end": 477.28,
+   "text": " utama dari posisi teratas",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 204,
+   "start": 477.28,
+   "end": 478.7,
+   "text": " dalam sistem memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 205,
+   "start": 478.7,
+   "end": 481.18,
+   "text": " ini adalah hirarki",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 206,
+   "start": 481.18,
+   "end": 482.92,
+   "text": " memory yang menjadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 207,
+   "start": 482.92,
+   "end": 485.22,
+   "text": " memory yang ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 208,
+   "start": 485.22,
+   "end": 486.98,
+   "text": " di dalam komputer",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 209,
+   "start": 486.98,
+   "end": 489.34,
+   "text": " mulai dari register yang ada dalam CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 210,
+   "start": 489.34,
+   "end": 490.92,
+   "text": " case yang ada dalam CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1913,
+   "compression_ratio": 1.96,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 211,
+   "start": 490.92,
+   "end": 492.76,
+   "text": " main memory yang ada di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 212,
+   "start": 492.76,
+   "end": 494.12,
+   "text": " board",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 213,
+   "start": 494.12,
+   "end": 496.0,
+   "text": " komputer kita",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 214,
+   "start": 496.0,
+   "end": 499.12,
+   "text": " sedangkan yang di luar",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 215,
+   "start": 499.12,
+   "end": 501.32,
+   "text": " atau di outboard",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 216,
+   "start": 501.32,
+   "end": 503.12,
+   "text": " ini termasuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 217,
+   "start": 503.12,
+   "end": 505.2,
+   "text": " memory hard disk, cd-rom",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 218,
+   "start": 505.2,
+   "end": 507.04,
+   "text": " cd-rw, dvd-rw",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 219,
+   "start": 507.04,
+   "end": 509.3,
+   "text": " dvd-ram ataupun blu-ray",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 220,
+   "start": 509.3,
+   "end": 510.92,
+   "text": " dan yang di",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 221,
+   "start": 510.92,
+   "end": 513.14,
+   "text": " bagian yang paling bawah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 222,
+   "start": 513.14,
+   "end": 514.84,
+   "text": " ini adalah magnetic tape yang sekarang",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 223,
+   "start": 514.84,
+   "end": 517.16,
+   "text": " sudah tidak ada, tidak digunakan lagi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 224,
+   "start": 517.16,
+   "end": 518.62,
+   "text": " karena sudah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1698,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 225,
+   "start": 518.62,
+   "end": 521.36,
+   "text": " dengan perkembangan teknologi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1249,
+   "compression_ratio": 1.739,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 226,
+   "start": 521.36,
+   "end": 525.78,
+   "text": " menggunakan teknologi-teknologi penyimpanan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1249,
+   "compression_ratio": 1.739,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 227,
+   "start": 525.78,
+   "end": 529.16,
+   "text": " yang bisa digantikan dengan CD",
+   "temperature": 0.0,
+   "avg_logprob": -0.1249,
+   "compression_ratio": 1.739,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 228,
+   "start": 529.16,
+   "end": 533.28,
+   "text": " ataupun DVD. Pada hirarki ini, jadi semakin",
+   "temperature": 0.0,
+   "avg_logprob": -0.1249,
+   "compression_ratio": 1.739,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 229,
+   "start": 533.28,
+   "end": 535.54,
+   "text": " atas ini adalah semakin cepat, artinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1249,
+   "compression_ratio": 1.739,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 230,
+   "start": 535.54,
+   "end": 539.64,
+   "text": " kecepatan akses baca tulis",
+   "temperature": 0.0,
+   "avg_logprob": -0.1249,
+   "compression_ratio": 1.739,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 231,
+   "start": 539.64,
+   "end": 543.4,
+   "text": " dari media memori tersebut, semakin ke atas",
+   "temperature": 0.0,
+   "avg_logprob": -0.1249,
+   "compression_ratio": 1.739,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 232,
+   "start": 543.4,
+   "end": 546.5,
+   "text": " adalah semakin tinggi, semakin ke bawah adalah semakin",
+   "temperature": 0.0,
+   "avg_logprob": -0.1249,
+   "compression_ratio": 1.739,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 233,
+   "start": 546.5,
+   "end": 549.64,
+   "text": " rendah kecepatan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 234,
+   "start": 549.64,
+   "end": 551.02,
+   "text": " aksesnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 235,
+   "start": 551.02,
+   "end": 554.06,
+   "text": " di dalam performa",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 236,
+   "start": 554.06,
+   "end": 555.8,
+   "text": " pembacaan memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 237,
+   "start": 555.8,
+   "end": 558.18,
+   "text": " nanti di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 238,
+   "start": 558.18,
+   "end": 559.92,
+   "text": " terkait dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 239,
+   "start": 559.92,
+   "end": 562.12,
+   "text": " case, nanti ada case",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 240,
+   "start": 562.12,
+   "end": 563.52,
+   "text": " multi level",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 241,
+   "start": 563.52,
+   "end": 566.08,
+   "text": " multi level case yang nanti",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 242,
+   "start": 566.08,
+   "end": 567.42,
+   "text": " sangat berperan di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 243,
+   "start": 567.42,
+   "end": 570.26,
+   "text": " mempercepat akses pembacaan memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 244,
+   "start": 570.26,
+   "end": 571.46,
+   "text": " di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 245,
+   "start": 571.46,
+   "end": 575.12,
+   "text": " mekanisme penyimpanan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2173,
+   "compression_ratio": 1.806,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 246,
+   "start": 575.12,
+   "end": 603.66,
+   "text": " Jadi penyimpanan di memory bahwasannya penggunaan multi-level memory nanti akan di case terutama itu adalah sangat penting di dalam mempercepat akses memory dengan perkembangan ataupun dengan pertimbangan kecepatan maupun biaya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1441,
+   "compression_ratio": 1.629,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 247,
+   "start": 603.66,
+   "end": 606.2,
+   "text": " data disimpan di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 248,
+   "start": 606.2,
+   "end": 607.9,
+   "text": " memori sifatnya ada yang bisa",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 249,
+   "start": 607.9,
+   "end": 609.94,
+   "text": " permanen dan padangnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 250,
+   "start": 609.94,
+   "end": 611.9,
+   "text": " untuk eksternal itu yang sifatnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 251,
+   "start": 611.9,
+   "end": 614.24,
+   "text": " permanen, sedangkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 252,
+   "start": 614.24,
+   "end": 615.56,
+   "text": " disk case ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 253,
+   "start": 615.56,
+   "end": 618.28,
+   "text": " digunakan untuk mempercepat",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 254,
+   "start": 618.28,
+   "end": 619.72,
+   "text": " akses pembacaan ke",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 255,
+   "start": 619.72,
+   "end": 621.3,
+   "text": " disk",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 256,
+   "start": 621.3,
+   "end": 623.98,
+   "text": " baik, kita masuk ke dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 257,
+   "start": 623.98,
+   "end": 625.26,
+   "text": " topik",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 258,
+   "start": 625.26,
+   "end": 627.72,
+   "text": " cache memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 259,
+   "start": 627.72,
+   "end": 630.18,
+   "text": " cache memory ini adalah merupakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 260,
+   "start": 630.18,
+   "end": 632.04,
+   "text": " bagian",
+   "temperature": 0.0,
+   "avg_logprob": -0.1884,
+   "compression_ratio": 1.724,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 261,
+   "start": 632.04,
+   "end": 633.64,
+   "text": " dari CPU sebenarnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 262,
+   "start": 633.64,
+   "end": 636.5,
+   "text": " yaitu suatu mekanisme",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 263,
+   "start": 636.5,
+   "end": 638.5,
+   "text": " untuk mempercepat akses pembacaan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 264,
+   "start": 638.5,
+   "end": 640.5,
+   "text": " dari main memory ke dalam CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 265,
+   "start": 640.5,
+   "end": 642.7,
+   "text": " case memory ini adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 266,
+   "start": 642.7,
+   "end": 644.76,
+   "text": " merupakan jenis memory yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 267,
+   "start": 644.76,
+   "end": 647.2,
+   "text": " static",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 268,
+   "start": 647.2,
+   "end": 648.56,
+   "text": " sedangkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 269,
+   "start": 648.56,
+   "end": 650.48,
+   "text": " main memory ini adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 270,
+   "start": 650.48,
+   "end": 651.02,
+   "text": " dynamic",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 271,
+   "start": 651.02,
+   "end": 654.14,
+   "text": " perbedaan antara static",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 272,
+   "start": 654.14,
+   "end": 657.1,
+   "text": " RAM dan dynamic RAM",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 273,
+   "start": 657.1,
+   "end": 658.56,
+   "text": " itu pada sisi kecepatan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 274,
+   "start": 658.56,
+   "end": 659.86,
+   "text": " jadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2253,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 275,
+   "start": 659.86,
+   "end": 661.96,
+   "text": " kecepatan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 276,
+   "start": 661.96,
+   "end": 664.74,
+   "text": " CPU atau kecepatan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 277,
+   "start": 664.74,
+   "end": 666.76,
+   "text": " cache dibandingkan dengan kecepatan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 278,
+   "start": 666.76,
+   "end": 668.36,
+   "text": " main memory dalam hal ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 279,
+   "start": 668.36,
+   "end": 670.42,
+   "text": " dynamic RAM",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 280,
+   "start": 670.42,
+   "end": 672.76,
+   "text": " ini sangat cukup jauh",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 281,
+   "start": 672.76,
+   "end": 674.42,
+   "text": " atau sangat jauh perbedaan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 282,
+   "start": 674.42,
+   "end": 675.84,
+   "text": " kecepatannya, oleh karena itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 283,
+   "start": 675.84,
+   "end": 677.72,
+   "text": " untuk mengatasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 284,
+   "start": 677.72,
+   "end": 680.42,
+   "text": " kecepatan dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 285,
+   "start": 680.42,
+   "end": 682.46,
+   "text": " pembacaan main memory inilah digunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 286,
+   "start": 682.46,
+   "end": 684.6,
+   "text": " cache, dimana cache ini adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 287,
+   "start": 684.6,
+   "end": 685.76,
+   "text": " merupakan memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 288,
+   "start": 685.76,
+   "end": 688.28,
+   "text": " static, static RAM yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.1697,
+   "compression_ratio": 1.755,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 289,
+   "start": 688.28,
+   "end": 697.7,
+   "text": " Dan kecepatannya pada umumnya adalah sama seperti kecepatan clock pada sistem bus di komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2243,
+   "compression_ratio": 1.5,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 290,
+   "start": 698.96,
+   "end": 704.76,
+   "text": " Nah, kenapa ini bisa mempercepat akses main memory?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2243,
+   "compression_ratio": 1.5,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 291,
+   "start": 704.76,
+   "end": 712.76,
+   "text": " Karena pada umumnya akses dari CPU ini banyak yang loop di perulangan-perulangan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2243,
+   "compression_ratio": 1.5,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 292,
+   "start": 712.76,
+   "end": 715.9,
+   "text": " perulangan, baik itu instruksi maupun",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.633,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 293,
+   "start": 715.9,
+   "end": 721.22,
+   "text": " data. Nah, sehingga ketika CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.633,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 294,
+   "start": 721.22,
+   "end": 724.6,
+   "text": " akan mengakses aplikasi, program, data,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.633,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 295,
+   "start": 724.8,
+   "end": 727.72,
+   "text": " maka nanti lebih banyak mengambil",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.633,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 296,
+   "start": 727.72,
+   "end": 730.56,
+   "text": " data-data ataupun program-program yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.633,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 297,
+   "start": 730.56,
+   "end": 734.3,
+   "text": " ada di case. Apabila program itu memang",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.633,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 298,
+   "start": 734.3,
+   "end": 735.84,
+   "text": " sudah berganti, maka nanti akan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.633,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 299,
+   "start": 735.84,
+   "end": 740.48,
+   "text": " digantikan dengan instruksi ataupun",
+   "temperature": 0.0,
+   "avg_logprob": -0.1404,
+   "compression_ratio": 1.633,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 300,
+   "start": 740.48,
+   "end": 743.54,
+   "text": " data yang ada di",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 301,
+   "start": 743.54,
+   "end": 744.78,
+   "text": " memori, artinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 302,
+   "start": 744.78,
+   "end": 746.8,
+   "text": " sesekali tetap bahwasannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 303,
+   "start": 746.8,
+   "end": 749.42,
+   "text": " CPU nanti akan mengambil",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 304,
+   "start": 749.42,
+   "end": 751.2,
+   "text": " data yang dari memori, tetapi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 305,
+   "start": 751.2,
+   "end": 752.6,
+   "text": " sekali",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 306,
+   "start": 752.6,
+   "end": 755.26,
+   "text": " instruksi ataupun data itu diambil",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 307,
+   "start": 755.26,
+   "end": 757.26,
+   "text": " maka dia akan tersimpan di",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 308,
+   "start": 757.26,
+   "end": 759.34,
+   "text": " cache memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 309,
+   "start": 759.34,
+   "end": 761.14,
+   "text": " sehingga ini bisa menjadi sebuah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 310,
+   "start": 761.14,
+   "end": 762.66,
+   "text": " buffer",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 311,
+   "start": 762.66,
+   "end": 763.92,
+   "text": " akses",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 312,
+   "start": 763.92,
+   "end": 767.34,
+   "text": " pembacaan antara CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 313,
+   "start": 767.34,
+   "end": 769.08,
+   "text": " dengan cache itu menggunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1422,
+   "compression_ratio": 1.65,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 314,
+   "start": 769.08,
+   "end": 780.04,
+   "text": " word transfer, artinya sekaligus dalam satu adres, dalam satu adres pembacaan case ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.153,
+   "compression_ratio": 1.46,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 315,
+   "start": 780.04,
+   "end": 793.02,
+   "text": " akan dibaca sekian data yang berupa word. Sedangkan pembacaan dari main memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.153,
+   "compression_ratio": 1.46,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 316,
+   "start": 793.02,
+   "end": 795.88,
+   "text": " nanti berlupa blok, artinya sekian blok",
+   "temperature": 0.0,
+   "avg_logprob": -0.2502,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 317,
+   "start": 795.88,
+   "end": 799.68,
+   "text": " adres pada memori ini akan diambil secara",
+   "temperature": 0.0,
+   "avg_logprob": -0.2502,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 318,
+   "start": 799.68,
+   "end": 802.52,
+   "text": " berhutan dan nanti akan disimpan ke dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2502,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 319,
+   "start": 802.52,
+   "end": 806.12,
+   "text": " alamat-alamat cache ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2502,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 320,
+   "start": 807.52,
+   "end": 809.5,
+   "text": " Pada teknologi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2502,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 321,
+   "start": 809.5,
+   "end": 812.58,
+   "text": " CPU modern dimana memiliki",
+   "temperature": 0.0,
+   "avg_logprob": -0.2502,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 322,
+   "start": 812.58,
+   "end": 815.72,
+   "text": " multi-core, maka",
+   "temperature": 0.0,
+   "avg_logprob": -0.2502,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 323,
+   "start": 815.72,
+   "end": 818.7,
+   "text": " penggunaan cache ini menggunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2502,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 324,
+   "start": 818.7,
+   "end": 822.3,
+   "text": " multi-level. Jadi cache level 1,",
+   "temperature": 0.0,
+   "avg_logprob": -0.2502,
+   "compression_ratio": 1.534,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 325,
+   "start": 822.3,
+   "end": 823.9,
+   "text": " level 2, level 3",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 326,
+   "start": 823.9,
+   "end": 826.1,
+   "text": " dan sampai ke main memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 327,
+   "start": 826.1,
+   "end": 827.54,
+   "text": " artinya apa? bahwasannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 328,
+   "start": 827.54,
+   "end": 828.6,
+   "text": " di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 329,
+   "start": 828.6,
+   "end": 831.06,
+   "text": " buffering",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 330,
+   "start": 831.06,
+   "end": 834.2,
+   "text": " data ataupun instruksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 331,
+   "start": 834.2,
+   "end": 835.56,
+   "text": " yang dari main memory ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 332,
+   "start": 835.56,
+   "end": 838.22,
+   "text": " yang paling sering diakses adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 333,
+   "start": 838.22,
+   "end": 839.84,
+   "text": " pada level 1 yang nantinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 334,
+   "start": 839.84,
+   "end": 842.12,
+   "text": " akan membuffer pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 335,
+   "start": 842.12,
+   "end": 844.1,
+   "text": " instruksi dan data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 336,
+   "start": 844.1,
+   "end": 845.6,
+   "text": " level 2 ini pada umumnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 337,
+   "start": 845.6,
+   "end": 848.5,
+   "text": " pada disiapkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 338,
+   "start": 848.5,
+   "end": 850.46,
+   "text": " untuk membuffer pada masing-masing call",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 339,
+   "start": 850.46,
+   "end": 852.24,
+   "text": " sedangkan level 3 ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.1785,
+   "compression_ratio": 1.842,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 340,
+   "start": 852.24,
+   "end": 855.22,
+   "text": " secara umum, jadi semua buffering data",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 341,
+   "start": 855.22,
+   "end": 857.04,
+   "text": " ataupun instruksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 342,
+   "start": 857.04,
+   "end": 858.62,
+   "text": " nanti akan ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 343,
+   "start": 858.62,
+   "end": 860.96,
+   "text": " di level 3",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 344,
+   "start": 860.96,
+   "end": 861.92,
+   "text": " bahasanya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 345,
+   "start": 861.92,
+   "end": 865.46,
+   "text": " dari sisi kapasitas",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 346,
+   "start": 865.46,
+   "end": 867.06,
+   "text": " level 3 ini yang paling besar",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 347,
+   "start": 867.06,
+   "end": 869.46,
+   "text": " lebih kecil",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 348,
+   "start": 869.46,
+   "end": 870.9,
+   "text": " dan level 1 ini yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 349,
+   "start": 870.9,
+   "end": 872.9,
+   "text": " paling kecil karena nanti",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 350,
+   "start": 872.9,
+   "end": 875.0,
+   "text": " langsung menuju kepada instruksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 351,
+   "start": 875.0,
+   "end": 876.06,
+   "text": " dan data pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 352,
+   "start": 876.06,
+   "end": 878.86,
+   "text": " akses dari CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.2104,
+   "compression_ratio": 1.604,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 353,
+   "start": 878.86,
+   "end": 882.82,
+   "text": " bahwasannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 354,
+   "start": 882.82,
+   "end": 884.92,
+   "text": " antara cache",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 355,
+   "start": 884.92,
+   "end": 886.62,
+   "text": " memory dengan main memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 356,
+   "start": 886.62,
+   "end": 888.14,
+   "text": " ini adalah gambarannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 357,
+   "start": 888.14,
+   "end": 890.54,
+   "text": " disini adalah satu block data",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 358,
+   "start": 890.54,
+   "end": 892.48,
+   "text": " yang nantinya akan dimasukkan ke dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 359,
+   "start": 892.48,
+   "end": 894.82,
+   "text": " satu halaman tag",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 360,
+   "start": 894.82,
+   "end": 896.34,
+   "text": " memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 361,
+   "start": 896.34,
+   "end": 898.54,
+   "text": " yang ada di dalam",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 362,
+   "start": 898.54,
+   "end": 899.76,
+   "text": " di dalam cache",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 363,
+   "start": 899.76,
+   "end": 902.68,
+   "text": " mekanisme pembacaan casenya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 364,
+   "start": 902.68,
+   "end": 904.1,
+   "text": " bahwasannya pada",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 365,
+   "start": 904.1,
+   "end": 906.56,
+   "text": " pada saat pembacaan awal",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 366,
+   "start": 906.56,
+   "end": 908.42,
+   "text": " dari prosesor",
+   "temperature": 0.0,
+   "avg_logprob": -0.2208,
+   "compression_ratio": 1.838,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 367,
+   "start": 908.42,
+   "end": 913.94,
+   "text": " Untuk membaca data atau membaca instruksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1331,
+   "compression_ratio": 1.837,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 368,
+   "start": 913.94,
+   "end": 916.04,
+   "text": " Maka nanti akan dicek apakah ada",
+   "temperature": 0.0,
+   "avg_logprob": -0.1331,
+   "compression_ratio": 1.837,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 369,
+   "start": 916.04,
+   "end": 918.82,
+   "text": " Ketika ada di case maka langsung diambil",
+   "temperature": 0.0,
+   "avg_logprob": -0.1331,
+   "compression_ratio": 1.837,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 370,
+   "start": 918.82,
+   "end": 920.42,
+   "text": " Tapi kalau ketika tidak ada case",
+   "temperature": 0.0,
+   "avg_logprob": -0.1331,
+   "compression_ratio": 1.837,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 371,
+   "start": 920.42,
+   "end": 924.12,
+   "text": " Maka nanti akan diakses melalui main memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.1331,
+   "compression_ratio": 1.837,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 372,
+   "start": 924.12,
+   "end": 926.46,
+   "text": " Kemudian nanti akan masuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.1331,
+   "compression_ratio": 1.837,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 373,
+   "start": 926.46,
+   "end": 930.78,
+   "text": " Jadi ketika masuk ini akan secara otomatis",
+   "temperature": 0.0,
+   "avg_logprob": -0.1331,
+   "compression_ratio": 1.837,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 374,
+   "start": 930.78,
+   "end": 935.36,
+   "text": " Akan langsung juga tersimpan di case memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.1331,
+   "compression_ratio": 1.837,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 375,
+   "start": 935.36,
+   "end": 938.36,
+   "text": " Jadi sekali tersimpan maka untuk pembacaan selanjutnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1331,
+   "compression_ratio": 1.837,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 376,
+   "start": 938.36,
+   "end": 940.86,
+   "text": " akan menggunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 377,
+   "start": 940.86,
+   "end": 942.98,
+   "text": " case",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 378,
+   "start": 942.98,
+   "end": 945.56,
+   "text": " seperti ini adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 379,
+   "start": 945.56,
+   "end": 947.58,
+   "text": " mekanisme pembacaan",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 380,
+   "start": 947.58,
+   "end": 949.02,
+   "text": " case memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 381,
+   "start": 949.02,
+   "end": 951.82,
+   "text": " bahwasannya processor nanti akan",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 382,
+   "start": 951.82,
+   "end": 953.94,
+   "text": " mengecek keberadaan instruksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 383,
+   "start": 953.94,
+   "end": 955.96,
+   "text": " atau data yang akan ada di case ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 384,
+   "start": 955.96,
+   "end": 958.3,
+   "text": " apakah ada, kalau tidak ada maka",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 385,
+   "start": 958.3,
+   "end": 960.04,
+   "text": " pengambilan data akan dilakukan",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 386,
+   "start": 960.04,
+   "end": 962.14,
+   "text": " di main memory yang ada di dalam sistem",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 387,
+   "start": 962.14,
+   "end": 963.7,
+   "text": " PAS, sehingga nanti",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 388,
+   "start": 963.7,
+   "end": 965.32,
+   "text": " PAS address akan mengalamati",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 389,
+   "start": 965.32,
+   "end": 968.18,
+   "text": " main memory",
+   "temperature": 0.0,
+   "avg_logprob": -0.202,
+   "compression_ratio": 1.728,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 390,
+   "start": 968.18,
+   "end": 969.42,
+   "text": " kemudian",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 391,
+   "start": 969.42,
+   "end": 972.16,
+   "text": " bus control",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 392,
+   "start": 972.16,
+   "end": 973.82,
+   "text": " akan memperolehkan pembacaan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 393,
+   "start": 973.82,
+   "end": 975.98,
+   "text": " dan data nanti akan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 394,
+   "start": 975.98,
+   "end": 977.46,
+   "text": " masuk melalui bus data ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 395,
+   "start": 977.46,
+   "end": 979.64,
+   "text": " nah ketika masuk ke dalam browser",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 396,
+   "start": 979.64,
+   "end": 981.92,
+   "text": " sekaligus nanti juga akan tersimpan di casing",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 397,
+   "start": 981.92,
+   "end": 983.66,
+   "text": " untuk pembacaan selanjutnya akan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 398,
+   "start": 983.66,
+   "end": 986.28,
+   "text": " terbaca",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 399,
+   "start": 986.28,
+   "end": 987.6,
+   "text": " sudah tersimpan dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 400,
+   "start": 987.6,
+   "end": 988.64,
+   "text": " dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 401,
+   "start": 988.64,
+   "end": 990.32,
+   "text": " case",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 402,
+   "start": 990.32,
+   "end": 992.34,
+   "text": " bahwasannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 403,
+   "start": 992.34,
+   "end": 994.0,
+   "text": " mekanisme",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 404,
+   "start": 994.0,
+   "end": 996.36,
+   "text": " case untuk",
+   "temperature": 0.0,
+   "avg_logprob": -0.2272,
+   "compression_ratio": 1.767,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 405,
+   "start": 996.36,
+   "end": 999.74,
+   "text": " ketika case itu penuh",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 406,
+   "start": 999.74,
+   "end": 1000.74,
+   "text": " maka digunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 407,
+   "start": 1000.74,
+   "end": 1002.28,
+   "text": " replacement algoritma",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 408,
+   "start": 1002.28,
+   "end": 1002.9,
+   "text": " jadi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 409,
+   "start": 1002.9,
+   "end": 1005.96,
+   "text": " secara fisik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 410,
+   "start": 1005.96,
+   "end": 1008.14,
+   "text": " address yang di case ini adalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 411,
+   "start": 1008.14,
+   "end": 1008.82,
+   "text": " menggunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 412,
+   "start": 1008.82,
+   "end": 1010.76,
+   "text": " logical",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 413,
+   "start": 1010.76,
+   "end": 1013.46,
+   "text": " dan physical",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 414,
+   "start": 1013.46,
+   "end": 1016.46,
+   "text": " jadi physical nanti kaitannya dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 415,
+   "start": 1016.46,
+   "end": 1020.12,
+   "text": " lain data",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 416,
+   "start": 1020.12,
+   "end": 1021.94,
+   "text": " kemudian untuk mapping",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 417,
+   "start": 1021.94,
+   "end": 1023.0,
+   "text": " mapping ke",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 418,
+   "start": 1023.0,
+   "end": 1026.16,
+   "text": " memory bisa digunakan dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2921,
+   "compression_ratio": 1.662,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 419,
+   "start": 1026.16,
+   "end": 1029.34,
+   "text": " secara direct asosiatif atau set asosiatif.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1708,
+   "compression_ratio": 1.688,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 420,
+   "start": 1029.92,
+   "end": 1032.64,
+   "text": " Nah, pada umumnya sekarang untuk teknologi yang multi-core",
+   "temperature": 0.0,
+   "avg_logprob": -0.1708,
+   "compression_ratio": 1.688,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 421,
+   "start": 1032.64,
+   "end": 1037.12,
+   "text": " digunakan set asosiatif sehingga di dalam alokasinya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1708,
+   "compression_ratio": 1.688,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 422,
+   "start": 1037.3,
+   "end": 1043.44,
+   "text": " di dalam alokasi datanya nanti langsung bisa mengalokasikan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1708,
+   "compression_ratio": 1.688,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 423,
+   "start": 1043.44,
+   "end": 1045.92,
+   "text": " pada masing-masing core.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1708,
+   "compression_ratio": 1.688,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 424,
+   "start": 1047.06,
+   "end": 1050.54,
+   "text": " Jadi ketika case itu penuh, jadi case memory itu penuh,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1708,
+   "compression_ratio": 1.688,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 425,
+   "start": 1050.54,
+   "end": 1056.74,
+   "text": " maka algoritma untuk membuang data yang sudah tersimpan di dalam case",
+   "temperature": 0.0,
+   "avg_logprob": -0.1701,
+   "compression_ratio": 1.613,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 426,
+   "start": 1056.74,
+   "end": 1062.78,
+   "text": " jadi ada yang menggunakan teknologi LRU, ada VIVU, LRU, maupun random",
+   "temperature": 0.0,
+   "avg_logprob": -0.1701,
+   "compression_ratio": 1.613,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 427,
+   "start": 1062.78,
+   "end": 1070.1,
+   "text": " replacement algorithm ini sudah didesain ketika pembuatan prosesor",
+   "temperature": 0.0,
+   "avg_logprob": -0.1701,
+   "compression_ratio": 1.613,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 428,
+   "start": 1070.1,
+   "end": 1078.78,
+   "text": " dan padangnya sudah tertentu, jadi padangnya kebanyakan algoritmanya LRU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1701,
+   "compression_ratio": 1.613,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 429,
+   "start": 1078.78,
+   "end": 1080.8,
+   "text": " ataupun LRU",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 430,
+   "start": 1080.8,
+   "end": 1081.78,
+   "text": " LRU ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 431,
+   "start": 1081.78,
+   "end": 1083.92,
+   "text": " least recently used",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 432,
+   "start": 1083.92,
+   "end": 1087.4,
+   "text": " data-data ataupun instruksi-instruksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 433,
+   "start": 1087.4,
+   "end": 1089.22,
+   "text": " yang paling",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 434,
+   "start": 1089.22,
+   "end": 1091.16,
+   "text": " baru digunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 435,
+   "start": 1091.16,
+   "end": 1093.62,
+   "text": " yang paling update digunakan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 436,
+   "start": 1093.62,
+   "end": 1095.78,
+   "text": " itu dipertahankan, sedangkan apabila",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 437,
+   "start": 1096.58,
+   "end": 1097.74,
+   "text": " memori",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 438,
+   "start": 1097.74,
+   "end": 1099.92,
+   "text": " case ini penuh, maka",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 439,
+   "start": 1099.92,
+   "end": 1101.36,
+   "text": " data yang sudah lama",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 440,
+   "start": 1101.36,
+   "end": 1102.62,
+   "text": " tidak diakses juga akan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 441,
+   "start": 1102.62,
+   "end": 1105.18,
+   "text": " dibuang, sehingga",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 442,
+   "start": 1105.18,
+   "end": 1107.44,
+   "text": " dan mekanisme read policy ada yang",
+   "temperature": 0.0,
+   "avg_logprob": -0.2318,
+   "compression_ratio": 1.617,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 443,
+   "start": 1107.44,
+   "end": 1110.44,
+   "text": " kita menggunakan write-through ataupun write-back.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1989,
+   "compression_ratio": 1.832,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 444,
+   "start": 1110.44,
+   "end": 1116.44,
+   "text": " Artinya yang write-through itu tanpa disimpan di case langsung ke main memory.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1989,
+   "compression_ratio": 1.832,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 445,
+   "start": 1116.44,
+   "end": 1120.44,
+   "text": " Sedangkan write-back ini memanfaatkan case sehingga nanti akan disimpan case dulu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1989,
+   "compression_ratio": 1.832,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 446,
+   "start": 1120.44,
+   "end": 1126.44,
+   "text": " baru controller dari main memory kita akan meneruskan ke dalam main memory.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1989,
+   "compression_ratio": 1.832,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 447,
+   "start": 1126.44,
+   "end": 1133.44,
+   "text": " Nah kemudian bahwasannya di dalam case ada yang single atau dua level atau tiga level",
+   "temperature": 0.0,
+   "avg_logprob": -0.1989,
+   "compression_ratio": 1.832,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 448,
+   "start": 1133.44,
+   "end": 1136.44,
+   "text": " bahkan juga ada yang sampai empat level.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1989,
+   "compression_ratio": 1.832,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 449,
+   "start": 1136.44,
+   "end": 1142.28,
+   "text": " Ini adalah mekanisme kes.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1761,
+   "compression_ratio": 1.493,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 450,
+   "start": 1142.98,
+   "end": 1152.42,
+   "text": " Baik, demikian sementara untuk sesi 1 dalam pertemuan perkulian terkait dengan topik kes,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1761,
+   "compression_ratio": 1.493,
+   "no_speech_prob": 0.0
+  },
+  {
+   "id": 451,
+   "start": 1152.52,
+   "end": 1161.72,
+   "text": " nanti akan kita lanjutkan pada sesi berikutnya, pada sesi 2 pada pembahasan tanggai dengan kes ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1761,
+   "compression_ratio": 1.493,
+   "no_speech_prob": 0.0
+  }
+ ]
+}

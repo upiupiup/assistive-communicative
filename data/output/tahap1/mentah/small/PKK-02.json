@@ -1,0 +1,1659 @@
+{
+ "file_id": "PKK-02",
+ "konfigurasi": "small",
+ "model": "small",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "info": {
+  "duration": 1012.0135,
+  "duration_after_vad": 948.3175,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 0.66,
+   "end": 5.66,
+   "text": " Assalamualaikum warahmatullahi wabarakatuh, Selamat pagi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2816,
+   "compression_ratio": 1.395,
+   "no_speech_prob": 0.1224
+  },
+  {
+   "id": 2,
+   "start": 5.66,
+   "end": 13.66,
+   "text": " Semoga kalian diberi kesehatan, kelancaran untuk belajar di pagi ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.2816,
+   "compression_ratio": 1.395,
+   "no_speech_prob": 0.1224
+  },
+  {
+   "id": 3,
+   "start": 13.66,
+   "end": 17.66,
+   "text": " Perkenalkan dulu nama saya Hadi Permana",
+   "temperature": 0.0,
+   "avg_logprob": -0.2816,
+   "compression_ratio": 1.395,
+   "no_speech_prob": 0.1224
+  },
+  {
+   "id": 4,
+   "start": 17.66,
+   "end": 21.66,
+   "text": " Saya tutor di PKBM by Toolwildan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2816,
+   "compression_ratio": 1.395,
+   "no_speech_prob": 0.1224
+  },
+  {
+   "id": 5,
+   "start": 21.66,
+   "end": 25.66,
+   "text": " Mengajar bidang informatika",
+   "temperature": 0.0,
+   "avg_logprob": -0.2816,
+   "compression_ratio": 1.395,
+   "no_speech_prob": 0.1224
+  },
+  {
+   "id": 6,
+   "start": 25.66,
+   "end": 40.5,
+   "text": " keh materi untuk hari ini bab satu itu tentang informatika dan pembelajarannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2708,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.6543
+  },
+  {
+   "id": 7,
+   "start": 40.5,
+   "end": 57.12,
+   "text": " keh disini ada pengenalan informatika apa itu informatika yuk kenali dunia digital",
+   "temperature": 0.0,
+   "avg_logprob": -0.2708,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.6543
+  },
+  {
+   "id": 8,
+   "start": 57.12,
+   "end": 62.62,
+   "text": " informatika adalah ilmu yang mempelajari cara mengumpulkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2708,
+   "compression_ratio": 1.679,
+   "no_speech_prob": 0.6543
+  },
+  {
+   "id": 9,
+   "start": 62.62,
+   "end": 73.62,
+   "text": " Menyimpan, mengololak dan menyebarkan informasi menggunakan komputer dan teknologi digital dalam kehidupan sehari-hari.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2057,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.7935
+  },
+  {
+   "id": 10,
+   "start": 73.62,
+   "end": 85.62,
+   "text": " Informatika ada di mana-mana dari smartphone yang kamu gunakan, aplikasi belajar online, hingga game favoritmu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2057,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.7935
+  },
+  {
+   "id": 11,
+   "start": 85.62,
+   "end": 101.62,
+   "text": " mengapa informatika penting, yang pertama itu membantu kita memecahkan masalah dengan logis atau masuk akal, melatih kreativitas dan berpikir kritis,",
+   "temperature": 0.0,
+   "avg_logprob": -0.237,
+   "compression_ratio": 1.549,
+   "no_speech_prob": 0.7378
+  },
+  {
+   "id": 12,
+   "start": 101.62,
+   "end": 110.62,
+   "text": " mempersiapkan kita untuk masa depan digital, membuka peluang karir di bidang teknologi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.237,
+   "compression_ratio": 1.549,
+   "no_speech_prob": 0.7378
+  },
+  {
+   "id": 13,
+   "start": 110.62,
+   "end": 117.62,
+   "text": " Di kelas ini kita akan belajar bersama tentang dunia informatika yang seru dan menarik.",
+   "temperature": 0.0,
+   "avg_logprob": -0.174,
+   "compression_ratio": 1.734,
+   "no_speech_prob": 0.2676
+  },
+  {
+   "id": 14,
+   "start": 117.62,
+   "end": 129.56,
+   "text": " Di sini ada empat tilar informatika yang pertama itu ada berpikir komputasional.",
+   "temperature": 0.0,
+   "avg_logprob": -0.174,
+   "compression_ratio": 1.734,
+   "no_speech_prob": 0.2676
+  },
+  {
+   "id": 15,
+   "start": 129.56,
+   "end": 132.56,
+   "text": " Apa itu berpikir komputasional?",
+   "temperature": 0.0,
+   "avg_logprob": -0.174,
+   "compression_ratio": 1.734,
+   "no_speech_prob": 0.2676
+  },
+  {
+   "id": 16,
+   "start": 132.56,
+   "end": 141.56,
+   "text": " Yaitu kemampuan memecahkan masalah secara sistematis dan logis menggunakan cara berpikir seperti komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.174,
+   "compression_ratio": 1.734,
+   "no_speech_prob": 0.2676
+  },
+  {
+   "id": 17,
+   "start": 141.56,
+   "end": 158.56,
+   "text": " Yang kedua, ada teknologi informasi, yaitu memahami dan memanfaatkan perangkat teknologi untuk mengolah, menyimpan, dan berbagi informasi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1829,
+   "compression_ratio": 1.38,
+   "no_speech_prob": 0.5771
+  },
+  {
+   "id": 18,
+   "start": 158.56,
+   "end": 173.56,
+   "text": " Yang ketiga, ada praktik lintas bidang, yaitu menerapkan konsep informatika dalam berbagi ilmu, bidang ilmu dan kehidupan sehari-hari.",
+   "temperature": 0.0,
+   "avg_logprob": -0.155,
+   "compression_ratio": 1.66,
+   "no_speech_prob": 0.4612
+  },
+  {
+   "id": 19,
+   "start": 173.56,
+   "end": 187.56,
+   "text": " Yang keempat untuk pilar informatika itu ada dampak sosial, yaitu dampak sosial memahami pengaruh teknologi terhadap kehidupan sosial.",
+   "temperature": 0.0,
+   "avg_logprob": -0.155,
+   "compression_ratio": 1.66,
+   "no_speech_prob": 0.4612
+  },
+  {
+   "id": 20,
+   "start": 187.56,
+   "end": 192.16,
+   "text": " budaya dan etika di masyarakat",
+   "temperature": 0.0,
+   "avg_logprob": -0.3428,
+   "compression_ratio": 1.479,
+   "no_speech_prob": 0.4297
+  },
+  {
+   "id": 21,
+   "start": 193.66,
+   "end": 196.44,
+   "text": " Next, lanjut",
+   "temperature": 0.0,
+   "avg_logprob": -0.3428,
+   "compression_ratio": 1.479,
+   "no_speech_prob": 0.4297
+  },
+  {
+   "id": 22,
+   "start": 196.64,
+   "end": 198.94,
+   "text": " Langkah berpikir komputasional",
+   "temperature": 0.0,
+   "avg_logprob": -0.3428,
+   "compression_ratio": 1.479,
+   "no_speech_prob": 0.4297
+  },
+  {
+   "id": 23,
+   "start": 198.94,
+   "end": 203.44,
+   "text": " yaitu yang pertama ada deko posisi",
+   "temperature": 0.0,
+   "avg_logprob": -0.3428,
+   "compression_ratio": 1.479,
+   "no_speech_prob": 0.4297
+  },
+  {
+   "id": 24,
+   "start": 204.14,
+   "end": 205.64,
+   "text": " Deko posisi apa?",
+   "temperature": 0.0,
+   "avg_logprob": -0.3428,
+   "compression_ratio": 1.479,
+   "no_speech_prob": 0.4297
+  },
+  {
+   "id": 25,
+   "start": 205.64,
+   "end": 207.74,
+   "text": " Memecahkan masalah besar",
+   "temperature": 0.0,
+   "avg_logprob": -0.3428,
+   "compression_ratio": 1.479,
+   "no_speech_prob": 0.4297
+  },
+  {
+   "id": 26,
+   "start": 207.74,
+   "end": 210.24,
+   "text": " menjadi bagian-bagian kecil",
+   "temperature": 0.0,
+   "avg_logprob": -0.3428,
+   "compression_ratio": 1.479,
+   "no_speech_prob": 0.4297
+  },
+  {
+   "id": 27,
+   "start": 210.24,
+   "end": 213.84,
+   "text": " yang lebih mudah diselesaikan satu per satu",
+   "temperature": 0.0,
+   "avg_logprob": -0.3428,
+   "compression_ratio": 1.479,
+   "no_speech_prob": 0.4297
+  },
+  {
+   "id": 28,
+   "start": 215.14,
+   "end": 217.14,
+   "text": " Yang kedua, ada apa?",
+   "temperature": 0.0,
+   "avg_logprob": -0.3428,
+   "compression_ratio": 1.479,
+   "no_speech_prob": 0.4297
+  },
+  {
+   "id": 29,
+   "start": 217.14,
+   "end": 220.02,
+   "text": " ada pengenalan pola",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 30,
+   "start": 220.42,
+   "end": 222.46,
+   "text": " pengenalan pola itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 31,
+   "start": 222.46,
+   "end": 224.94,
+   "text": " menemukan kesamaan",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 32,
+   "start": 224.94,
+   "end": 228.22,
+   "text": " atau pola berulang dalam masalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 33,
+   "start": 228.22,
+   "end": 231.26,
+   "text": " untuk mempermudah penyelesaian",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 34,
+   "start": 233.6,
+   "end": 237.08,
+   "text": " yang ketiga ada abstraksi",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 35,
+   "start": 237.32,
+   "end": 239.6,
+   "text": " dan algoritma",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 36,
+   "start": 240.16,
+   "end": 241.48,
+   "text": " yaitu apa?",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 37,
+   "start": 241.48,
+   "end": 244.68,
+   "text": " Pokus pada informasi penting saja",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 38,
+   "start": 245.96,
+   "end": 248.28,
+   "text": " lalu susun langkah-langkah",
+   "temperature": 0.0,
+   "avg_logprob": -0.5041,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.4958
+  },
+  {
+   "id": 39,
+   "start": 248.28,
+   "end": 251.28,
+   "text": " solusi secara urut dan jelas",
+   "temperature": 0.0,
+   "avg_logprob": -0.2955,
+   "compression_ratio": 1.752,
+   "no_speech_prob": 0.47
+  },
+  {
+   "id": 40,
+   "start": 252.08,
+   "end": 256.28,
+   "text": " nah disitu ada 3 langkah berpikir komputasional",
+   "temperature": 0.0,
+   "avg_logprob": -0.2955,
+   "compression_ratio": 1.752,
+   "no_speech_prob": 0.47
+  },
+  {
+   "id": 41,
+   "start": 257.98,
+   "end": 258.48,
+   "text": " lanjut",
+   "temperature": 0.0,
+   "avg_logprob": -0.2955,
+   "compression_ratio": 1.752,
+   "no_speech_prob": 0.47
+  },
+  {
+   "id": 42,
+   "start": 261.23,
+   "end": 266.13,
+   "text": " disini ada manfaat berpikir komputasional itu ada 3",
+   "temperature": 0.0,
+   "avg_logprob": -0.2955,
+   "compression_ratio": 1.752,
+   "no_speech_prob": 0.47
+  },
+  {
+   "id": 43,
+   "start": 267.23,
+   "end": 269.83,
+   "text": " yang pertama mecakan masalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2955,
+   "compression_ratio": 1.752,
+   "no_speech_prob": 0.47
+  },
+  {
+   "id": 44,
+   "start": 270.83,
+   "end": 276.23,
+   "text": " mecakan masalah itu bermaksud membantu kita mengurangi masalah besar",
+   "temperature": 0.0,
+   "avg_logprob": -0.2955,
+   "compression_ratio": 1.752,
+   "no_speech_prob": 0.47
+  },
+  {
+   "id": 45,
+   "start": 276.63,
+   "end": 278.43,
+   "text": " menjadi bagian kecil",
+   "temperature": 0.0,
+   "avg_logprob": -0.2955,
+   "compression_ratio": 1.752,
+   "no_speech_prob": 0.47
+  },
+  {
+   "id": 46,
+   "start": 278.43,
+   "end": 281.43,
+   "text": " yang lebih mudah diselesaikan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2222,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.7583
+  },
+  {
+   "id": 47,
+   "start": 282.43,
+   "end": 287.43,
+   "text": " Yang kedua itu berpikir logis dan terstruktur.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2222,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.7583
+  },
+  {
+   "id": 48,
+   "start": 287.43,
+   "end": 295.43,
+   "text": " Melati kita berpikir runtut dan sistematis dalam mengambil keputusan sehari-hari.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2222,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.7583
+  },
+  {
+   "id": 49,
+   "start": 296.43,
+   "end": 302.43,
+   "text": " Manfaat berpikri kompetensional yang ketiga itu ada meningkatkan kreativitas.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2222,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.7583
+  },
+  {
+   "id": 50,
+   "start": 302.43,
+   "end": 311.23,
+   "text": " mendorong kita menciptakan solusi baru dan inopatif menggunakan teknologi digital",
+   "temperature": 0.0,
+   "avg_logprob": -0.2691,
+   "compression_ratio": 1.543,
+   "no_speech_prob": 0.2178
+  },
+  {
+   "id": 51,
+   "start": 311.23,
+   "end": 317.15,
+   "text": " disini ada data PS informasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2691,
+   "compression_ratio": 1.543,
+   "no_speech_prob": 0.2178
+  },
+  {
+   "id": 52,
+   "start": 317.15,
+   "end": 320.15,
+   "text": " yang pertama itu ada data mentah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2691,
+   "compression_ratio": 1.543,
+   "no_speech_prob": 0.2178
+  },
+  {
+   "id": 53,
+   "start": 320.15,
+   "end": 327.75,
+   "text": " data mentah itu data adalah fakta atau angka yang belum diolah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2691,
+   "compression_ratio": 1.543,
+   "no_speech_prob": 0.2178
+  },
+  {
+   "id": 54,
+   "start": 327.75,
+   "end": 333.95,
+   "text": " contohnya disini ada nilai ulangan 75-80-90",
+   "temperature": 0.0,
+   "avg_logprob": -0.2691,
+   "compression_ratio": 1.543,
+   "no_speech_prob": 0.2178
+  },
+  {
+   "id": 55,
+   "start": 333.95,
+   "end": 339.95,
+   "text": " Data sendiri belum memberikan arti yang jelas, tanpa diolah terlebih dahulu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2204,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0478
+  },
+  {
+   "id": 56,
+   "start": 339.95,
+   "end": 343.95,
+   "text": " Sedangkan informasi bermakna.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2204,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0478
+  },
+  {
+   "id": 57,
+   "start": 343.95,
+   "end": 349.95,
+   "text": " Informasi adalah data yang sudah diolah sehingga memiliki makna.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2204,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0478
+  },
+  {
+   "id": 58,
+   "start": 349.95,
+   "end": 356.95,
+   "text": " Contoh, rata-rata milai kelas 8a adalah 82.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2204,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0478
+  },
+  {
+   "id": 59,
+   "start": 356.95,
+   "end": 364.73,
+   "text": " Artinya, kelas tersebut berpresstasi baik.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2204,
+   "compression_ratio": 1.491,
+   "no_speech_prob": 0.0478
+  },
+  {
+   "id": 60,
+   "start": 364.73,
+   "end": 373.73,
+   "text": " Oke, selanjutnya di sini ada jenis-jenis data. Ada empat, yaitu yang pertama ada text.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2587,
+   "compression_ratio": 1.494,
+   "no_speech_prob": 0.0478
+  },
+  {
+   "id": 61,
+   "start": 374.73,
+   "end": 384.73,
+   "text": " Text adalah data berupa huruk, kata atau kalimat. Contohnya itu dokumen, artikel dan pesan text.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2587,
+   "compression_ratio": 1.494,
+   "no_speech_prob": 0.0478
+  },
+  {
+   "id": 62,
+   "start": 385.73,
+   "end": 391.73,
+   "text": " Yang kedua ada angka. Data berupa bilangan untuk perhitungan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2587,
+   "compression_ratio": 1.494,
+   "no_speech_prob": 0.0478
+  },
+  {
+   "id": 63,
+   "start": 391.73,
+   "end": 397.73,
+   "text": " Contohnya, nilai ujian, data statistik, dan harga.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1829,
+   "compression_ratio": 1.549,
+   "no_speech_prob": 0.2715
+  },
+  {
+   "id": 64,
+   "start": 397.73,
+   "end": 401.73,
+   "text": " Yang ketiga, jenis data itu ada gambar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1829,
+   "compression_ratio": 1.549,
+   "no_speech_prob": 0.2715
+  },
+  {
+   "id": 65,
+   "start": 401.73,
+   "end": 406.73,
+   "text": " Data berupa foto atau ilustrasi visual.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1829,
+   "compression_ratio": 1.549,
+   "no_speech_prob": 0.2715
+  },
+  {
+   "id": 66,
+   "start": 406.73,
+   "end": 412.73,
+   "text": " Contohnya, foto, ilustrasi, dan infografis.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1829,
+   "compression_ratio": 1.549,
+   "no_speech_prob": 0.2715
+  },
+  {
+   "id": 67,
+   "start": 412.73,
+   "end": 418.73,
+   "text": " Jenis data yang keempat itu ada audio dan video.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1829,
+   "compression_ratio": 1.549,
+   "no_speech_prob": 0.2715
+  },
+  {
+   "id": 68,
+   "start": 418.73,
+   "end": 429.23,
+   "text": " Data berupa suara dan rekaman visual, contohnya musik, broadcast, dan film pendek.",
+   "temperature": 0.0,
+   "avg_logprob": -0.345,
+   "compression_ratio": 1.272,
+   "no_speech_prob": 0.0633
+  },
+  {
+   "id": 69,
+   "start": 429.23,
+   "end": 441.27,
+   "text": " Selanjutnya, proses pengolahan informasi, yaitu yang pertama ada input data.",
+   "temperature": 0.0,
+   "avg_logprob": -0.345,
+   "compression_ratio": 1.272,
+   "no_speech_prob": 0.0633
+  },
+  {
+   "id": 70,
+   "start": 441.27,
+   "end": 461.27,
+   "text": " Apa input data, input data adalah data mentah dikumpulkan dari berbagai sumber, seperti give out, sensor, atau dokumen, sebagai bahan awal pomprosesan yang disebut input data.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3968,
+   "compression_ratio": 1.458,
+   "no_speech_prob": 0.2379
+  },
+  {
+   "id": 71,
+   "start": 461.27,
+   "end": 483.27,
+   "text": " yang kedua ada proses itu data yang masuk di olah oleh komputer menggunakan program atau algoritma untuk menghasilkan hasil yang berguna",
+   "temperature": 0.0,
+   "avg_logprob": -0.2606,
+   "compression_ratio": 1.388,
+   "no_speech_prob": 0.4631
+  },
+  {
+   "id": 72,
+   "start": 483.27,
+   "end": 507.78,
+   "text": " yang ketiga ada output, output itu hasil pengolahan data ditampilkan dalam bentuk informasi yang dapat dibaca seperti text, gambar atau laporan di layar",
+   "temperature": 0.0,
+   "avg_logprob": -0.2347,
+   "compression_ratio": 1.357,
+   "no_speech_prob": 0.5532
+  },
+  {
+   "id": 73,
+   "start": 507.78,
+   "end": 510.78,
+   "text": " disini ada komponen komputer",
+   "temperature": 0.0,
+   "avg_logprob": -0.4855,
+   "compression_ratio": 2.041,
+   "no_speech_prob": 0.4966
+  },
+  {
+   "id": 74,
+   "start": 512.54,
+   "end": 515.04,
+   "text": " disini ada hardware",
+   "temperature": 0.0,
+   "avg_logprob": -0.4855,
+   "compression_ratio": 2.041,
+   "no_speech_prob": 0.4966
+  },
+  {
+   "id": 75,
+   "start": 515.28,
+   "end": 516.28,
+   "text": " software",
+   "temperature": 0.0,
+   "avg_logprob": -0.4855,
+   "compression_ratio": 2.041,
+   "no_speech_prob": 0.4966
+  },
+  {
+   "id": 76,
+   "start": 516.96,
+   "end": 519.96,
+   "text": " dan bandware",
+   "temperature": 0.0,
+   "avg_logprob": -0.4855,
+   "compression_ratio": 2.041,
+   "no_speech_prob": 0.4966
+  },
+  {
+   "id": 77,
+   "start": 520.62,
+   "end": 524.12,
+   "text": " hardware itu ada perangkat keras",
+   "temperature": 0.0,
+   "avg_logprob": -0.4855,
+   "compression_ratio": 2.041,
+   "no_speech_prob": 0.4966
+  },
+  {
+   "id": 78,
+   "start": 524.6,
+   "end": 527.24,
+   "text": " contohnya disini ada monitor",
+   "temperature": 0.0,
+   "avg_logprob": -0.4855,
+   "compression_ratio": 2.041,
+   "no_speech_prob": 0.4966
+  },
+  {
+   "id": 79,
+   "start": 528.66,
+   "end": 531.48,
+   "text": " termasuk perangkat keras atau hardware",
+   "temperature": 0.0,
+   "avg_logprob": -0.4855,
+   "compression_ratio": 2.041,
+   "no_speech_prob": 0.4966
+  },
+  {
+   "id": 80,
+   "start": 531.88,
+   "end": 534.74,
+   "text": " software itu perangkat lunak",
+   "temperature": 0.0,
+   "avg_logprob": -0.4855,
+   "compression_ratio": 2.041,
+   "no_speech_prob": 0.4966
+  },
+  {
+   "id": 81,
+   "start": 535.22,
+   "end": 538.8,
+   "text": " perangkat lunak itu disini ada sebuah aplikasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.4855,
+   "compression_ratio": 2.041,
+   "no_speech_prob": 0.4966
+  },
+  {
+   "id": 82,
+   "start": 539.12,
+   "end": 542.12,
+   "text": " itu termasuk ke dalam software",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 83,
+   "start": 542.12,
+   "end": 546.12,
+   "text": " kalau brandware itu berarti pengguna atau",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 84,
+   "start": 546.12,
+   "end": 549.12,
+   "text": " lush user",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 85,
+   "start": 549.12,
+   "end": 551.12,
+   "text": " sedangkan data",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 86,
+   "start": 551.12,
+   "end": 553.12,
+   "text": " terakhir",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 87,
+   "start": 553.12,
+   "end": 557.97,
+   "text": " lanjut",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 88,
+   "start": 557.97,
+   "end": 560.97,
+   "text": " disini ada jenis-jenis hardware, computer",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 89,
+   "start": 560.97,
+   "end": 563.97,
+   "text": " yang pertama ada input device",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 90,
+   "start": 563.97,
+   "end": 566.97,
+   "text": " yaitu perangkat masukan",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 91,
+   "start": 566.97,
+   "end": 569.97,
+   "text": " perangkat untuk memasukan data ke computer",
+   "temperature": 0.0,
+   "avg_logprob": -0.2295,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.4556
+  },
+  {
+   "id": 92,
+   "start": 569.97,
+   "end": 576.97,
+   "text": " Contohnya apa? Di sini ada keyboard, mouse, scanner, mikrofon, dan kamera.",
+   "temperature": 0.0,
+   "avg_logprob": -0.376,
+   "compression_ratio": 1.406,
+   "no_speech_prob": 0.2391
+  },
+  {
+   "id": 93,
+   "start": 576.97,
+   "end": 586.8,
+   "text": " Yang kedua jenis-jenil hardware-computer itu ada process device, perangkat, pemproses.",
+   "temperature": 0.0,
+   "avg_logprob": -0.376,
+   "compression_ratio": 1.406,
+   "no_speech_prob": 0.2391
+  },
+  {
+   "id": 94,
+   "start": 586.8,
+   "end": 594.8,
+   "text": " Contohnya itu perangkat untuk mengolah data, contohnya CPU atau prosesor RAM,",
+   "temperature": 0.0,
+   "avg_logprob": -0.376,
+   "compression_ratio": 1.406,
+   "no_speech_prob": 0.2391
+  },
+  {
+   "id": 95,
+   "start": 594.8,
+   "end": 605.08,
+   "text": " Mainboard, VGA card, yang ketiga itu ada jenis-jenis hardware computer ada output device, perangkat",
+   "temperature": 0.0,
+   "avg_logprob": -0.3226,
+   "compression_ratio": 1.387,
+   "no_speech_prob": 0.7783
+  },
+  {
+   "id": 96,
+   "start": 605.08,
+   "end": 616.2,
+   "text": " keluaran, perangkat untuk menampilkan hasil pengolahan data contohnya monitor, print, speaker dan",
+   "temperature": 0.0,
+   "avg_logprob": -0.3226,
+   "compression_ratio": 1.387,
+   "no_speech_prob": 0.7783
+  },
+  {
+   "id": 97,
+   "start": 616.2,
+   "end": 649.27,
+   "text": " dan proyektor. Di sini ada jenis-jenis software, software itu perangkat lunak adalah program yang menjalankan komputer, ada 3 jenis utama software yang perlu kamu ketahui, yang pertama itu sistem operasi, software utama yang mengolol semua program di komputer, contohnya itu ada windows, macOS, Linux, Android,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3252,
+   "compression_ratio": 1.64,
+   "no_speech_prob": 0.7349
+  },
+  {
+   "id": 98,
+   "start": 649.27,
+   "end": 659.99,
+   "text": " itu semua ke dalam sistem operasi yang kedua ada software aplikasi software aplikasi itu program",
+   "temperature": 0.0,
+   "avg_logprob": -0.3349,
+   "compression_ratio": 1.519,
+   "no_speech_prob": 0.6416
+  },
+  {
+   "id": 99,
+   "start": 659.99,
+   "end": 671.23,
+   "text": " untuk kebutuhan tertentu seperti menulis menghitung atau browsing contohnya mikroskop watt kron dan",
+   "temperature": 0.0,
+   "avg_logprob": -0.3349,
+   "compression_ratio": 1.519,
+   "no_speech_prob": 0.6416
+  },
+  {
+   "id": 100,
+   "start": 671.23,
+   "end": 673.23,
+   "text": " dan YouTube",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 101,
+   "start": 673.23,
+   "end": 677.23,
+   "text": " yang ketiga ada software utility",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 102,
+   "start": 677.23,
+   "end": 680.23,
+   "text": " yaitu program pembantu untuk merawat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 103,
+   "start": 680.23,
+   "end": 683.23,
+   "text": " dan memoptimalkan kinerja komputer",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 104,
+   "start": 683.23,
+   "end": 685.23,
+   "text": " contohnya itu ada antivirus",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 105,
+   "start": 685.23,
+   "end": 687.23,
+   "text": " Winrar",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 106,
+   "start": 687.23,
+   "end": 689.23,
+   "text": " Bis Cleaner",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 107,
+   "start": 689.23,
+   "end": 697.04,
+   "text": " oke lanjut disini ada dasar-dasar internet",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 108,
+   "start": 697.04,
+   "end": 700.04,
+   "text": " yang pertama itu ada browser",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 109,
+   "start": 700.04,
+   "end": 704.04,
+   "text": " browser adalah aplikasi untuk menjelajahi internet",
+   "temperature": 0.0,
+   "avg_logprob": -0.2765,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.7466
+  },
+  {
+   "id": 110,
+   "start": 704.04,
+   "end": 715.04,
+   "text": " Internet. Contohnya di sini ada Chrome, Firefox, AdG, dan Safari. Yang kedua ada Search Engine.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2935,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.811
+  },
+  {
+   "id": 111,
+   "start": 715.04,
+   "end": 724.04,
+   "text": " Search Engine adalah mesin pencari informasi di Internet. Contohnya Google, Bing, dan Yahoo.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2935,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.811
+  },
+  {
+   "id": 112,
+   "start": 724.04,
+   "end": 732.04,
+   "text": " Yang ketiga ada Website. Website adalah kumpulan halaman di Internet yang bisa diakses.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2935,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.811
+  },
+  {
+   "id": 113,
+   "start": 732.04,
+   "end": 743.24,
+   "text": " menggunakan browser dan alamat URL. Yang keempat ada email. Email adalah surat",
+   "temperature": 0.0,
+   "avg_logprob": -0.2876,
+   "compression_ratio": 1.477,
+   "no_speech_prob": 0.4885
+  },
+  {
+   "id": 114,
+   "start": 743.24,
+   "end": 748.8,
+   "text": " surat elektronik untuk mengirim dan menerima pesan secara digital melalui",
+   "temperature": 0.0,
+   "avg_logprob": -0.2876,
+   "compression_ratio": 1.477,
+   "no_speech_prob": 0.4885
+  },
+  {
+   "id": 115,
+   "start": 748.8,
+   "end": 758.72,
+   "text": " internet. Di sini ada keamanan internet. Yang pertama itu ada password harus",
+   "temperature": 0.0,
+   "avg_logprob": -0.2876,
+   "compression_ratio": 1.477,
+   "no_speech_prob": 0.4885
+  },
+  {
+   "id": 116,
+   "start": 758.72,
+   "end": 768.19,
+   "text": " Jangan membuat password kalian terlalu lemah atau mudah di jebol.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3191,
+   "compression_ratio": 1.374,
+   "no_speech_prob": 0.688
+  },
+  {
+   "id": 117,
+   "start": 768.19,
+   "end": 772.19,
+   "text": " Yang kedua, ada jaga pripasi data.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3191,
+   "compression_ratio": 1.374,
+   "no_speech_prob": 0.688
+  },
+  {
+   "id": 118,
+   "start": 772.19,
+   "end": 780.19,
+   "text": " Yang ketiga, hindari finishing dan etika digital.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3191,
+   "compression_ratio": 1.374,
+   "no_speech_prob": 0.688
+  },
+  {
+   "id": 119,
+   "start": 780.19,
+   "end": 786.63,
+   "text": " Lanjut, pengenalan algoritma.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3191,
+   "compression_ratio": 1.374,
+   "no_speech_prob": 0.688
+  },
+  {
+   "id": 120,
+   "start": 786.63,
+   "end": 792.63,
+   "text": " yang pertama itu ada tentukan masalah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2307,
+   "compression_ratio": 1.615,
+   "no_speech_prob": 0.6089
+  },
+  {
+   "id": 121,
+   "start": 792.63,
+   "end": 805.63,
+   "text": " nah disini tentukan masalah adalah identifikasi masalah yang ingin diselesaikan dengan jelas dan spesifik sebelum membuat algoritma",
+   "temperature": 0.0,
+   "avg_logprob": -0.2307,
+   "compression_ratio": 1.615,
+   "no_speech_prob": 0.6089
+  },
+  {
+   "id": 122,
+   "start": 805.63,
+   "end": 811.91,
+   "text": " yang kedua ada buat langkah",
+   "temperature": 0.0,
+   "avg_logprob": -0.2307,
+   "compression_ratio": 1.615,
+   "no_speech_prob": 0.6089
+  },
+  {
+   "id": 123,
+   "start": 811.91,
+   "end": 822.91,
+   "text": " buat langkah dulu, susun langkah-langkah penyelesaian secara urut, logis, dan muda dipahami oleh siapapun",
+   "temperature": 0.0,
+   "avg_logprob": -0.2111,
+   "compression_ratio": 1.553,
+   "no_speech_prob": 0.7031
+  },
+  {
+   "id": 124,
+   "start": 823.91,
+   "end": 836.91,
+   "text": " yang ketiga, ada uji solusi, yaitu coba jalankan algoritma untuk memastikan setiap langkah-langkah berjalan benar",
+   "temperature": 0.0,
+   "avg_logprob": -0.2111,
+   "compression_ratio": 1.553,
+   "no_speech_prob": 0.7031
+  },
+  {
+   "id": 125,
+   "start": 836.91,
+   "end": 840.91,
+   "text": " dan menghasilkan solusi yang tepat",
+   "temperature": 0.0,
+   "avg_logprob": -0.231,
+   "compression_ratio": 1.609,
+   "no_speech_prob": 0.728
+  },
+  {
+   "id": 126,
+   "start": 840.91,
+   "end": 845.91,
+   "text": " nah itu adalah pengenalan algoritma",
+   "temperature": 0.0,
+   "avg_logprob": -0.231,
+   "compression_ratio": 1.609,
+   "no_speech_prob": 0.728
+  },
+  {
+   "id": 127,
+   "start": 845.91,
+   "end": 851.54,
+   "text": " selanjutnya ada dasar pemprograman",
+   "temperature": 0.0,
+   "avg_logprob": -0.231,
+   "compression_ratio": 1.609,
+   "no_speech_prob": 0.728
+  },
+  {
+   "id": 128,
+   "start": 851.54,
+   "end": 854.54,
+   "text": " yang pertama itu ada variable",
+   "temperature": 0.0,
+   "avg_logprob": -0.231,
+   "compression_ratio": 1.609,
+   "no_speech_prob": 0.728
+  },
+  {
+   "id": 129,
+   "start": 854.54,
+   "end": 859.54,
+   "text": " variable adalah tempat menyimpan data dalam program",
+   "temperature": 0.0,
+   "avg_logprob": -0.231,
+   "compression_ratio": 1.609,
+   "no_speech_prob": 0.728
+  },
+  {
+   "id": 130,
+   "start": 859.54,
+   "end": 862.54,
+   "text": " contohnya nama sama dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.231,
+   "compression_ratio": 1.609,
+   "no_speech_prob": 0.728
+  },
+  {
+   "id": 131,
+   "start": 862.54,
+   "end": 868.54,
+   "text": " tanda petik 2, nilai, sama dengan 90",
+   "temperature": 0.0,
+   "avg_logprob": -0.3925,
+   "compression_ratio": 1.425,
+   "no_speech_prob": 0.6206
+  },
+  {
+   "id": 132,
+   "start": 869.54,
+   "end": 872.54,
+   "text": " yang kedua ada kondisi Ip",
+   "temperature": 0.0,
+   "avg_logprob": -0.3925,
+   "compression_ratio": 1.425,
+   "no_speech_prob": 0.6206
+  },
+  {
+   "id": 133,
+   "start": 872.54,
+   "end": 875.54,
+   "text": " garis strip L",
+   "temperature": 0.0,
+   "avg_logprob": -0.3925,
+   "compression_ratio": 1.425,
+   "no_speech_prob": 0.6206
+  },
+  {
+   "id": 134,
+   "start": 875.54,
+   "end": 879.54,
+   "text": " kondisi digunakan untuk membuat keputusan",
+   "temperature": 0.0,
+   "avg_logprob": -0.3925,
+   "compression_ratio": 1.425,
+   "no_speech_prob": 0.6206
+  },
+  {
+   "id": 135,
+   "start": 879.54,
+   "end": 884.54,
+   "text": " contoh, jika nilai lebih besar sama dengan",
+   "temperature": 0.0,
+   "avg_logprob": -0.3925,
+   "compression_ratio": 1.425,
+   "no_speech_prob": 0.6206
+  },
+  {
+   "id": 136,
+   "start": 884.54,
+   "end": 889.54,
+   "text": " 75, maka tanda petik 2, lulus",
+   "temperature": 0.0,
+   "avg_logprob": -0.3925,
+   "compression_ratio": 1.425,
+   "no_speech_prob": 0.6206
+  },
+  {
+   "id": 137,
+   "start": 889.54,
+   "end": 893.54,
+   "text": " Tanda petik 2, selan itu remedy.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2871,
+   "compression_ratio": 1.497,
+   "no_speech_prob": 0.6353
+  },
+  {
+   "id": 138,
+   "start": 895.54,
+   "end": 898.54,
+   "text": " Yang ketiga ada perulangan loop.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2871,
+   "compression_ratio": 1.497,
+   "no_speech_prob": 0.6353
+  },
+  {
+   "id": 139,
+   "start": 898.54,
+   "end": 902.54,
+   "text": " Loop digunakan untuk mengulang perintah berkali-kali.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2871,
+   "compression_ratio": 1.497,
+   "no_speech_prob": 0.6353
+  },
+  {
+   "id": 140,
+   "start": 902.54,
+   "end": 906.54,
+   "text": " Contohnya, por i sama dengan 1 sampai 10.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2871,
+   "compression_ratio": 1.497,
+   "no_speech_prob": 0.6353
+  },
+  {
+   "id": 141,
+   "start": 906.54,
+   "end": 909.54,
+   "text": " Cetak angka i.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2871,
+   "compression_ratio": 1.497,
+   "no_speech_prob": 0.6353
+  },
+  {
+   "id": 142,
+   "start": 909.54,
+   "end": 915.71,
+   "text": " Etika digital.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2871,
+   "compression_ratio": 1.497,
+   "no_speech_prob": 0.6353
+  },
+  {
+   "id": 143,
+   "start": 915.71,
+   "end": 920.71,
+   "text": " Etika digital adalah tanggung jawab kita dalam berplih laku baik",
+   "temperature": 0.0,
+   "avg_logprob": -0.2871,
+   "compression_ratio": 1.497,
+   "no_speech_prob": 0.6353
+  },
+  {
+   "id": 144,
+   "start": 920.71,
+   "end": 923.71,
+   "text": " baik dan sopan di dunia maya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2284,
+   "compression_ratio": 1.631,
+   "no_speech_prob": 0.8896
+  },
+  {
+   "id": 145,
+   "start": 923.71,
+   "end": 926.71,
+   "text": " setiap tindakan online memiliki",
+   "temperature": 0.0,
+   "avg_logprob": -0.2284,
+   "compression_ratio": 1.631,
+   "no_speech_prob": 0.8896
+  },
+  {
+   "id": 146,
+   "start": 926.71,
+   "end": 930.71,
+   "text": " dampak nyata bagi diri sendiri dan orang lain",
+   "temperature": 0.0,
+   "avg_logprob": -0.2284,
+   "compression_ratio": 1.631,
+   "no_speech_prob": 0.8896
+  },
+  {
+   "id": 147,
+   "start": 930.71,
+   "end": 935.15,
+   "text": " nah disini ada hak cipta",
+   "temperature": 0.0,
+   "avg_logprob": -0.2284,
+   "compression_ratio": 1.631,
+   "no_speech_prob": 0.8896
+  },
+  {
+   "id": 148,
+   "start": 935.15,
+   "end": 938.15,
+   "text": " digital yaitu menghargai",
+   "temperature": 0.0,
+   "avg_logprob": -0.2284,
+   "compression_ratio": 1.631,
+   "no_speech_prob": 0.8896
+  },
+  {
+   "id": 149,
+   "start": 938.15,
+   "end": 941.15,
+   "text": " karya orang lain di internet",
+   "temperature": 0.0,
+   "avg_logprob": -0.2284,
+   "compression_ratio": 1.631,
+   "no_speech_prob": 0.8896
+  },
+  {
+   "id": 150,
+   "start": 941.15,
+   "end": 944.15,
+   "text": " jangan menyalin atau",
+   "temperature": 0.0,
+   "avg_logprob": -0.2284,
+   "compression_ratio": 1.631,
+   "no_speech_prob": 0.8896
+  },
+  {
+   "id": 151,
+   "start": 944.15,
+   "end": 947.15,
+   "text": " menyebar konten tanpa izin pemiliknya",
+   "temperature": 0.0,
+   "avg_logprob": -0.2284,
+   "compression_ratio": 1.631,
+   "no_speech_prob": 0.8896
+  },
+  {
+   "id": 152,
+   "start": 948.15,
+   "end": 951.15,
+   "text": " yang kedua ada si berbullying",
+   "temperature": 0.0,
+   "avg_logprob": -0.2284,
+   "compression_ratio": 1.631,
+   "no_speech_prob": 0.8896
+  },
+  {
+   "id": 153,
+   "start": 951.15,
+   "end": 959.15,
+   "text": " Yaitu perlundungan siber adalah tindakan menyakiti orang lain secara online.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1839,
+   "compression_ratio": 1.455,
+   "no_speech_prob": 0.7266
+  },
+  {
+   "id": 154,
+   "start": 959.15,
+   "end": 965.15,
+   "text": " Jadilah pengguna internet yang ramah dan bertanggung jawab.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1839,
+   "compression_ratio": 1.455,
+   "no_speech_prob": 0.7266
+  },
+  {
+   "id": 155,
+   "start": 965.15,
+   "end": 969.15,
+   "text": " Yang ketiga ada jejak digital.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1839,
+   "compression_ratio": 1.455,
+   "no_speech_prob": 0.7266
+  },
+  {
+   "id": 156,
+   "start": 969.15,
+   "end": 973.15,
+   "text": " Setiap aktivitas online meninggalkan jejak.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1839,
+   "compression_ratio": 1.455,
+   "no_speech_prob": 0.7266
+  },
+  {
+   "id": 157,
+   "start": 973.15,
+   "end": 977.15,
+   "text": " jaga pripasi dan reputasimu",
+   "temperature": 0.0,
+   "avg_logprob": -0.2228,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.46
+  },
+  {
+   "id": 158,
+   "start": 977.15,
+   "end": 982.15,
+   "text": " dengan bijak dalam berbagai informasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2228,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.46
+  },
+  {
+   "id": 159,
+   "start": 982.15,
+   "end": 989.96,
+   "text": " ok, cukup terima kasih",
+   "temperature": 0.0,
+   "avg_logprob": -0.2228,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.46
+  },
+  {
+   "id": 160,
+   "start": 989.96,
+   "end": 994.96,
+   "text": " jadilah generasi digital yang cerdas dan bertanggungjawab",
+   "temperature": 0.0,
+   "avg_logprob": -0.2228,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.46
+  },
+  {
+   "id": 161,
+   "start": 994.96,
+   "end": 997.96,
+   "text": " teruslah belajar, berkreasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.2228,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.46
+  },
+  {
+   "id": 162,
+   "start": 997.96,
+   "end": 1002.96,
+   "text": " dan gunakan teknologi untuk hal-hal positif",
+   "temperature": 0.0,
+   "avg_logprob": -0.2228,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.46
+  },
+  {
+   "id": 163,
+   "start": 1002.96,
+   "end": 1011.96,
+   "text": " Cukup sekian pertemuan kali ini Bapak Ahiri Wabilahitofi Kuali Dayah Wassalamu'alaikum warahmatullahi wabarakatuh",
+   "temperature": 0.0,
+   "avg_logprob": -0.4171,
+   "compression_ratio": 1.153,
+   "no_speech_prob": 0.0766
+  }
+ ]
+}

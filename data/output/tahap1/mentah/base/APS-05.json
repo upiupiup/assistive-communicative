@@ -1,0 +1,1139 @@
+{
+ "file_id": "APS-05",
+ "konfigurasi": "base",
+ "model": "base",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "info": {
+  "duration": 581.5205625,
+  "duration_after_vad": 547.008,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 1.17,
+   "end": 12.61,
+   "text": " Halun sumuanya saya fidem-mastrika dalam video sharing tentang analisis dan desain sistem kali ini saya akan membahas tentang Unified Modeling Language atau UML.",
+   "temperature": 0.0,
+   "avg_logprob": -0.5245,
+   "compression_ratio": 1.688,
+   "no_speech_prob": 0.0809
+  },
+  {
+   "id": 2,
+   "start": 12.61,
+   "end": 23.17,
+   "text": " Dalam video-video selanjutnya saya akan membahas lebih detail tentang UML, ya itu use case diagram, ada aktiviti diagram, sequence diagram dan kelas diagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.5245,
+   "compression_ratio": 1.688,
+   "no_speech_prob": 0.0809
+  },
+  {
+   "id": 3,
+   "start": 23.17,
+   "end": 27.17,
+   "text": " pada video kali ini, saya akan membahas secara umum saja tentang MML.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3175,
+   "compression_ratio": 1.691,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 4,
+   "start": 27.17,
+   "end": 30.17,
+   "text": " Oke, ayo kita langsung ke materi kali ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3175,
+   "compression_ratio": 1.691,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 5,
+   "start": 31.17,
+   "end": 49.02,
+   "text": " Oke, nah sebelum kita ke Unified Modeling Language,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3175,
+   "compression_ratio": 1.691,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 6,
+   "start": 49.02,
+   "end": 55.02,
+   "text": " ada baiknya kita tahu apa yang dimaksud dengan object oriented analysis dan design.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3175,
+   "compression_ratio": 1.691,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 7,
+   "start": 55.02,
+   "end": 60.02,
+   "text": " pada video-video saya sebelumnya, saya sudah menjelaskan analysis dan design system",
+   "temperature": 0.0,
+   "avg_logprob": -0.3175,
+   "compression_ratio": 1.691,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 8,
+   "start": 60.02,
+   "end": 63.02,
+   "text": " itu berdasarkan pemerberaman tersuhtur,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3175,
+   "compression_ratio": 1.691,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 9,
+   "start": 63.02,
+   "end": 67.02,
+   "text": " jadi kita merancang sistemnya menggunakan data flow diagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3175,
+   "compression_ratio": 1.691,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 10,
+   "start": 67.02,
+   "end": 73.14,
+   "text": " nah kali ini dengan webl kita akan merancang sistem yang berdasarkan objek",
+   "temperature": 0.0,
+   "avg_logprob": -0.3969,
+   "compression_ratio": 1.951,
+   "no_speech_prob": 0.2389
+  },
+  {
+   "id": 11,
+   "start": 73.14,
+   "end": 79.78,
+   "text": " orientit setelah itu kita harus menganalisis dan mendesain sistemnya itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.3969,
+   "compression_ratio": 1.951,
+   "no_speech_prob": 0.2389
+  },
+  {
+   "id": 12,
+   "start": 79.78,
+   "end": 84.42,
+   "text": " berdasarkan objek orientit juga ya jadi objek orientit",
+   "temperature": 0.0,
+   "avg_logprob": -0.3969,
+   "compression_ratio": 1.951,
+   "no_speech_prob": 0.2389
+  },
+  {
+   "id": 13,
+   "start": 84.42,
+   "end": 88.3,
+   "text": " analisis dan desain ini adalah metode yang dibunakan untuk merancang",
+   "temperature": 0.0,
+   "avg_logprob": -0.3969,
+   "compression_ratio": 1.951,
+   "no_speech_prob": 0.2389
+  },
+  {
+   "id": 14,
+   "start": 88.3,
+   "end": 91.94,
+   "text": " perangkat munak dengan konsep berorientasi objek",
+   "temperature": 0.0,
+   "avg_logprob": -0.3969,
+   "compression_ratio": 1.951,
+   "no_speech_prob": 0.2389
+  },
+  {
+   "id": 15,
+   "start": 91.94,
+   "end": 97.3,
+   "text": " Coba tinggal-tinggal lagi bagaimana saat kalian belajar tentang objek",
+   "temperature": 0.0,
+   "avg_logprob": -0.4963,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0791
+  },
+  {
+   "id": 16,
+   "start": 97.3,
+   "end": 99.3,
+   "text": " ori antifrograming.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4963,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0791
+  },
+  {
+   "id": 17,
+   "start": 99.3,
+   "end": 104.22,
+   "text": " Nah ini meneliti requirement atau kebutuhan sistem dari",
+   "temperature": 0.0,
+   "avg_logprob": -0.4963,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0791
+  },
+  {
+   "id": 18,
+   "start": 104.22,
+   "end": 109.1,
+   "text": " perspektif class dan objek yang ditemukan dalam linggungan",
+   "temperature": 0.0,
+   "avg_logprob": -0.4963,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0791
+  },
+  {
+   "id": 19,
+   "start": 109.1,
+   "end": 111.14,
+   "text": " permasalahan yang akan dipecahkan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4963,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0791
+  },
+  {
+   "id": 20,
+   "start": 111.14,
+   "end": 116.18,
+   "text": " Ini berbeda dengan DFD kemarin ya, kalau yang DFD itu kita",
+   "temperature": 0.0,
+   "avg_logprob": -0.4963,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0791
+  },
+  {
+   "id": 21,
+   "start": 116.18,
+   "end": 118.78,
+   "text": " pakai perspektif aliran data.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4963,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0791
+  },
+  {
+   "id": 22,
+   "start": 118.78,
+   "end": 124.18,
+   "text": " Nah, kalau sekarang di objek oriented analisis dan design yang nanti ngakan memakai UML,",
+   "temperature": 0.0,
+   "avg_logprob": -0.4369,
+   "compression_ratio": 1.707,
+   "no_speech_prob": 0.0802
+  },
+  {
+   "id": 23,
+   "start": 124.18,
+   "end": 130.38,
+   "text": " kita akan berangkat dari sudut pandang kelas dan objek yang perlibat dalam sistem.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4369,
+   "compression_ratio": 1.707,
+   "no_speech_prob": 0.0802
+  },
+  {
+   "id": 24,
+   "start": 130.38,
+   "end": 138.78,
+   "text": " Dalam analisis dan desain system ini, kita menggunakan votasi berorientasi objek",
+   "temperature": 0.0,
+   "avg_logprob": -0.4369,
+   "compression_ratio": 1.707,
+   "no_speech_prob": 0.0802
+  },
+  {
+   "id": 25,
+   "start": 138.78,
+   "end": 144.78,
+   "text": " untuk menggambarkan sistem baik secara fisik maupun logis dari sistem yang di desain.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4369,
+   "compression_ratio": 1.707,
+   "no_speech_prob": 0.0802
+  },
+  {
+   "id": 26,
+   "start": 144.78,
+   "end": 155.28,
+   "text": " Nah, UML ini adalah suatu metode dalam pemodilan secara visual yang digunakan sebagai sarana perancangan sistem berorientasi objek.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4664,
+   "compression_ratio": 1.579,
+   "no_speech_prob": 0.0695
+  },
+  {
+   "id": 27,
+   "start": 155.28,
+   "end": 165.78,
+   "text": " Ya, nanti kalau kalian mendesain sistem, tolong dicek lagi, kalian mendesainya dengan pemrograman per struktur atau dengan objek korentet programing,",
+   "temperature": 0.0,
+   "avg_logprob": -0.4664,
+   "compression_ratio": 1.579,
+   "no_speech_prob": 0.0695
+  },
+  {
+   "id": 28,
+   "start": 165.78,
+   "end": 171.74,
+   "text": " Kalau dengan objek korentek programing, silakan kalian gunakan UML ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.5043,
+   "compression_ratio": 1.624,
+   "no_speech_prob": 0.0302
+  },
+  {
+   "id": 29,
+   "start": 172.34,
+   "end": 178.54,
+   "text": " UML ini juga dapat di definisikan sebagai suatu bahasa stender untuk visualisasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.5043,
+   "compression_ratio": 1.624,
+   "no_speech_prob": 0.0302
+  },
+  {
+   "id": 30,
+   "start": 178.86,
+   "end": 185.18,
+   "text": " perancangan dan penggokumentasian sistem atau dikenal juga sebagai bahasa stender penelisan",
+   "temperature": 0.0,
+   "avg_logprob": -0.5043,
+   "compression_ratio": 1.624,
+   "no_speech_prob": 0.0302
+  },
+  {
+   "id": 31,
+   "start": 185.18,
+   "end": 192.02,
+   "text": " buprin dari sebuah software yang berlandaskan objek orientat programingnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.5043,
+   "compression_ratio": 1.624,
+   "no_speech_prob": 0.0302
+  },
+  {
+   "id": 32,
+   "start": 192.02,
+   "end": 206.32,
+   "text": " WML itu dibagi menjadi beberapa jenis diagramnya, ada struktur diagram atau diagram yang menunjukkan struktur dari sebuah sistem.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2562,
+   "compression_ratio": 1.55,
+   "no_speech_prob": 0.3159
+  },
+  {
+   "id": 33,
+   "start": 206.32,
+   "end": 214.32,
+   "text": " Itu bagian-bagiannya pada tingkat abstraksi dan implementasi yang berbeda dan bagaimana mereka terkait satu sama lain.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2562,
+   "compression_ratio": 1.55,
+   "no_speech_prob": 0.3159
+  },
+  {
+   "id": 34,
+   "start": 214.32,
+   "end": 217.32,
+   "text": " Jadi ini menggambarkan struktur dari sistemnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3264,
+   "compression_ratio": 1.885,
+   "no_speech_prob": 0.2473
+  },
+  {
+   "id": 35,
+   "start": 217.32,
+   "end": 218.32,
+   "text": " setelah itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.3264,
+   "compression_ratio": 1.885,
+   "no_speech_prob": 0.2473
+  },
+  {
+   "id": 36,
+   "start": 219.32,
+   "end": 223.32,
+   "text": " element element yang ada dalam diagram tersebut",
+   "temperature": 0.0,
+   "avg_logprob": -0.3264,
+   "compression_ratio": 1.885,
+   "no_speech_prob": 0.2473
+  },
+  {
+   "id": 37,
+   "start": 223.32,
+   "end": 226.32,
+   "text": " mau akili konsep konsep yang berarti dari suatu sistem",
+   "temperature": 0.0,
+   "avg_logprob": -0.3264,
+   "compression_ratio": 1.885,
+   "no_speech_prob": 0.2473
+  },
+  {
+   "id": 38,
+   "start": 226.32,
+   "end": 229.32,
+   "text": " dan dapat mencaput konsep konsep abstract duniannya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3264,
+   "compression_ratio": 1.885,
+   "no_speech_prob": 0.2473
+  },
+  {
+   "id": 39,
+   "start": 229.32,
+   "end": 233.32,
+   "text": " tada dan bagaimana implementasinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3264,
+   "compression_ratio": 1.885,
+   "no_speech_prob": 0.2473
+  },
+  {
+   "id": 40,
+   "start": 233.32,
+   "end": 235.32,
+   "text": " itu adalah struktur diagram",
+   "temperature": 0.0,
+   "avg_logprob": -0.3264,
+   "compression_ratio": 1.885,
+   "no_speech_prob": 0.2473
+  },
+  {
+   "id": 41,
+   "start": 235.32,
+   "end": 239.32,
+   "text": " nah yang selanjutnya ada yang namanya behavior diagram",
+   "temperature": 0.0,
+   "avg_logprob": -0.3264,
+   "compression_ratio": 1.885,
+   "no_speech_prob": 0.2473
+  },
+  {
+   "id": 42,
+   "start": 239.32,
+   "end": 242.32,
+   "text": " diagram pilih laku menunjukkan pilih laku dinamis dari objek",
+   "temperature": 0.0,
+   "avg_logprob": -0.3264,
+   "compression_ratio": 1.885,
+   "no_speech_prob": 0.2473
+  },
+  {
+   "id": 43,
+   "start": 242.32,
+   "end": 249.18,
+   "text": " dari objek dalam satu sistem yang dapat digambarkan sebagai serangkayan perubahan sistem dari waktu ke waktu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4681,
+   "compression_ratio": 1.872,
+   "no_speech_prob": 0.5791
+  },
+  {
+   "id": 44,
+   "start": 249.18,
+   "end": 259.02,
+   "text": " Nah, struktur biagram itu contohnya adalah klas biagram, objek biagram, package biagram, komponen biagram, deployment biagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4681,
+   "compression_ratio": 1.872,
+   "no_speech_prob": 0.5791
+  },
+  {
+   "id": 45,
+   "start": 259.02,
+   "end": 266.7,
+   "text": " Biheir biagram itu contohnya adalah use case biagram, aktiviti biagram, state machine biagram, dan sequels biagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4681,
+   "compression_ratio": 1.872,
+   "no_speech_prob": 0.5791
+  },
+  {
+   "id": 46,
+   "start": 266.7,
+   "end": 270.7,
+   "text": " yang akan saya bahas dalam rangkayan video selanjutnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3447,
+   "compression_ratio": 1.944,
+   "no_speech_prob": 0.1216
+  },
+  {
+   "id": 47,
+   "start": 270.7,
+   "end": 273.7,
+   "text": " hanya yang saya berikan pada merah ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.3447,
+   "compression_ratio": 1.944,
+   "no_speech_prob": 0.1216
+  },
+  {
+   "id": 48,
+   "start": 273.7,
+   "end": 277.7,
+   "text": " struktur diagram saya akan hanya membahas klas diagram",
+   "temperature": 0.0,
+   "avg_logprob": -0.3447,
+   "compression_ratio": 1.944,
+   "no_speech_prob": 0.1216
+  },
+  {
+   "id": 49,
+   "start": 277.7,
+   "end": 281.7,
+   "text": " behavior diagram ada 3 yang saya bahas ada use case",
+   "temperature": 0.0,
+   "avg_logprob": -0.3447,
+   "compression_ratio": 1.944,
+   "no_speech_prob": 0.1216
+  },
+  {
+   "id": 50,
+   "start": 281.7,
+   "end": 283.7,
+   "text": " activity dan sequence",
+   "temperature": 0.0,
+   "avg_logprob": -0.3447,
+   "compression_ratio": 1.944,
+   "no_speech_prob": 0.1216
+  },
+  {
+   "id": 51,
+   "start": 283.7,
+   "end": 287.7,
+   "text": " behavior ini lebih ke bagaimana nanti perilaku sistem",
+   "temperature": 0.0,
+   "avg_logprob": -0.3447,
+   "compression_ratio": 1.944,
+   "no_speech_prob": 0.1216
+  },
+  {
+   "id": 52,
+   "start": 287.7,
+   "end": 290.7,
+   "text": " struktur diagram ini lebih ke bagaimana",
+   "temperature": 0.0,
+   "avg_logprob": -0.3447,
+   "compression_ratio": 1.944,
+   "no_speech_prob": 0.1216
+  },
+  {
+   "id": 53,
+   "start": 290.7,
+   "end": 295.04,
+   "text": " struktur dari sistem tersebut",
+   "temperature": 0.0,
+   "avg_logprob": -0.3447,
+   "compression_ratio": 1.944,
+   "no_speech_prob": 0.1216
+  },
+  {
+   "id": 54,
+   "start": 295.04,
+   "end": 301.52,
+   "text": " Contohnya ini ada use case diagram, ini masuk ke behavior diagram yang tadi ya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.4825,
+   "compression_ratio": 2.112,
+   "no_speech_prob": 0.1613
+  },
+  {
+   "id": 55,
+   "start": 301.52,
+   "end": 304.0,
+   "text": " contohnya ini adalah use case diagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4825,
+   "compression_ratio": 2.112,
+   "no_speech_prob": 0.1613
+  },
+  {
+   "id": 56,
+   "start": 304.0,
+   "end": 311.6,
+   "text": " Mereka yang use case diagram ini menggambarkan serangkai yang tindakan yang ditunjukkan dengan use case,",
+   "temperature": 0.0,
+   "avg_logprob": -0.4825,
+   "compression_ratio": 2.112,
+   "no_speech_prob": 0.1613
+  },
+  {
+   "id": 57,
+   "start": 311.6,
+   "end": 313.84,
+   "text": " yang bullet-bulat ini adalah use case ya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.4825,
+   "compression_ratio": 2.112,
+   "no_speech_prob": 0.1613
+  },
+  {
+   "id": 58,
+   "start": 313.84,
+   "end": 318.36,
+   "text": " kalau ada yang lain-lainnya, ini namanya use case diagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4825,
+   "compression_ratio": 2.112,
+   "no_speech_prob": 0.1613
+  },
+  {
+   "id": 59,
+   "start": 318.36,
+   "end": 319.96,
+   "text": " Jadi jangan lalu salah sebut ya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.4825,
+   "compression_ratio": 2.112,
+   "no_speech_prob": 0.1613
+  },
+  {
+   "id": 60,
+   "start": 319.96,
+   "end": 322.12,
+   "text": " use case adalah satu yang bullet-bulat,",
+   "temperature": 0.0,
+   "avg_logprob": -0.4825,
+   "compression_ratio": 2.112,
+   "no_speech_prob": 0.1613
+  },
+  {
+   "id": 61,
+   "start": 322.12,
+   "end": 326.62,
+   "text": " kalau dilengkapi dengan teman-teman ini namanya adalah Yuskis Yagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3673,
+   "compression_ratio": 1.685,
+   "no_speech_prob": 0.087
+  },
+  {
+   "id": 62,
+   "start": 327.62,
+   "end": 330.12,
+   "text": " Ini menggambarkan tindakan yang harus",
+   "temperature": 0.0,
+   "avg_logprob": -0.3673,
+   "compression_ratio": 1.685,
+   "no_speech_prob": 0.087
+  },
+  {
+   "id": 63,
+   "start": 330.12,
+   "end": 333.62,
+   "text": " atau dapat dilakukan oleh sistem dan aktor.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3673,
+   "compression_ratio": 1.685,
+   "no_speech_prob": 0.087
+  },
+  {
+   "id": 64,
+   "start": 333.62,
+   "end": 337.62,
+   "text": " Akornya ini adalah siapa yang bisa menggunakan sistem.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3673,
+   "compression_ratio": 1.685,
+   "no_speech_prob": 0.087
+  },
+  {
+   "id": 65,
+   "start": 337.62,
+   "end": 340.62,
+   "text": " Nah, kalau secara singkat kita bisa baca diagramnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3673,
+   "compression_ratio": 1.685,
+   "no_speech_prob": 0.087
+  },
+  {
+   "id": 66,
+   "start": 340.62,
+   "end": 344.62,
+   "text": " customer ini dapat menggecep balensinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3673,
+   "compression_ratio": 1.685,
+   "no_speech_prob": 0.087
+  },
+  {
+   "id": 67,
+   "start": 344.62,
+   "end": 348.62,
+   "text": " bisa menaruh puang, bisa menarik puang",
+   "temperature": 0.0,
+   "avg_logprob": -0.3673,
+   "compression_ratio": 1.685,
+   "no_speech_prob": 0.087
+  },
+  {
+   "id": 68,
+   "start": 348.62,
+   "end": 352.82,
+   "text": " dan bisa menransport wow atau dengan, seperti itu ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.5397,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.3296
+  },
+  {
+   "id": 69,
+   "start": 352.82,
+   "end": 357.82,
+   "text": " dan begitu juga dari sisi aktor-aktor yang lainnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.5397,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.3296
+  },
+  {
+   "id": 70,
+   "start": 358.32,
+   "end": 361.26,
+   "text": " Selanjutnya, aktiviti di agar,",
+   "temperature": 0.0,
+   "avg_logprob": -0.5397,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.3296
+  },
+  {
+   "id": 71,
+   "start": 361.26,
+   "end": 362.9,
+   "text": " contohnya seperti ini,",
+   "temperature": 0.0,
+   "avg_logprob": -0.5397,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.3296
+  },
+  {
+   "id": 72,
+   "start": 362.9,
+   "end": 366.54,
+   "text": " ini menunjukkan urutan akti dari sebuah process.",
+   "temperature": 0.0,
+   "avg_logprob": -0.5397,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.3296
+  },
+  {
+   "id": 73,
+   "start": 366.54,
+   "end": 368.58,
+   "text": " Ini mirip seperti flotsat,",
+   "temperature": 0.0,
+   "avg_logprob": -0.5397,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.3296
+  },
+  {
+   "id": 74,
+   "start": 368.58,
+   "end": 370.38,
+   "text": " ada startnya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.5397,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.3296
+  },
+  {
+   "id": 75,
+   "start": 370.38,
+   "end": 374.34,
+   "text": " terus nanti di bawah ini akan ada endnya juga,",
+   "temperature": 0.0,
+   "avg_logprob": -0.5397,
+   "compression_ratio": 1.595,
+   "no_speech_prob": 0.3296
+  },
+  {
+   "id": 76,
+   "start": 374.34,
+   "end": 380.34,
+   "text": " Tapi di sini di bagi menjadi beberapa swing lane yang ini namanya swing lane",
+   "temperature": 0.0,
+   "avg_logprob": -0.3481,
+   "compression_ratio": 2.22,
+   "no_speech_prob": 0.1887
+  },
+  {
+   "id": 77,
+   "start": 380.34,
+   "end": 385.34,
+   "text": " kolom-kolom ini ada kolom commuter, ada ticket vaning machine, ada bang",
+   "temperature": 0.0,
+   "avg_logprob": -0.3481,
+   "compression_ratio": 2.22,
+   "no_speech_prob": 0.1887
+  },
+  {
+   "id": 78,
+   "start": 385.34,
+   "end": 389.34,
+   "text": " nah ini tiap aktivitas ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.3481,
+   "compression_ratio": 2.22,
+   "no_speech_prob": 0.1887
+  },
+  {
+   "id": 79,
+   "start": 389.34,
+   "end": 394.34,
+   "text": " kalau dia berada di swing lane commuter, berarti dia dilakukan oleh commuter",
+   "temperature": 0.0,
+   "avg_logprob": -0.3481,
+   "compression_ratio": 2.22,
+   "no_speech_prob": 0.1887
+  },
+  {
+   "id": 80,
+   "start": 394.34,
+   "end": 402.34,
+   "text": " kalau dia berada di swing lanenya ticket vaning machine, berarti dia dilakukan oleh ticket vaning machine dan sepersinya",
+   "temperature": 0.0,
+   "avg_logprob": -0.3481,
+   "compression_ratio": 2.22,
+   "no_speech_prob": 0.1887
+  },
+  {
+   "id": 81,
+   "start": 402.34,
+   "end": 410.34,
+   "text": " Nah ini, semua di kerja kan saya berurutan ya, karena ada start, dan nanti ada endnya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3928,
+   "compression_ratio": 1.797,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 82,
+   "start": 410.34,
+   "end": 412.34,
+   "text": " berarti ada urutannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3928,
+   "compression_ratio": 1.797,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 83,
+   "start": 412.34,
+   "end": 413.34,
+   "text": " Itu.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3928,
+   "compression_ratio": 1.797,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 84,
+   "start": 413.34,
+   "end": 417.78,
+   "text": " Selanjutnya ada sequence diagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3928,
+   "compression_ratio": 1.797,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 85,
+   "start": 417.78,
+   "end": 423.78,
+   "text": " Sequence diagram ini menggambarkan interaksi yang berfokus pada urutan pesan yang dipertukakan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3928,
+   "compression_ratio": 1.797,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 86,
+   "start": 423.78,
+   "end": 427.78,
+   "text": " atau di kirimnya ada yang mengirim pesan, ada yang mendari 5 pesan gitu ya,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3928,
+   "compression_ratio": 1.797,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 87,
+   "start": 427.78,
+   "end": 432.78,
+   "text": " dengan bersama dengan kemunculannya yang sesuai pada online.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3928,
+   "compression_ratio": 1.797,
+   "no_speech_prob": 0.1034
+  },
+  {
+   "id": 88,
+   "start": 432.78,
+   "end": 441.74,
+   "text": " contohnya adalah seperti ini, jadi kalau di dalam object oriented programming, itu interaction",
+   "temperature": 0.0,
+   "avg_logprob": -0.5326,
+   "compression_ratio": 1.726,
+   "no_speech_prob": 0.0288
+  },
+  {
+   "id": 89,
+   "start": 441.74,
+   "end": 449.58,
+   "text": " antar object, atau antar object dari kelas itu ya, dilakukan dengan cara bertukar pesan,",
+   "temperature": 0.0,
+   "avg_logprob": -0.5326,
+   "compression_ratio": 1.726,
+   "no_speech_prob": 0.0288
+  },
+  {
+   "id": 90,
+   "start": 449.58,
+   "end": 457.38,
+   "text": " oke, jadi ini adalah object dari web customer, yang ini adalah object dari online shop,",
+   "temperature": 0.0,
+   "avg_logprob": -0.5326,
+   "compression_ratio": 1.726,
+   "no_speech_prob": 0.0288
+  },
+  {
+   "id": 91,
+   "start": 457.38,
+   "end": 462.22,
+   "text": " Apa yang mereka lakukan di dalam sistem itu adalah saling berkekar pesan.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3624,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.3384
+  },
+  {
+   "id": 92,
+   "start": 462.22,
+   "end": 465.22,
+   "text": " Search inventory ini adalah nomor pesannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3624,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.3384
+  },
+  {
+   "id": 93,
+   "start": 465.22,
+   "end": 471.7,
+   "text": " Terus apa yang dikembalikan oleh sistem keusur itu adalah search resultnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3624,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.3384
+  },
+  {
+   "id": 94,
+   "start": 471.7,
+   "end": 476.54,
+   "text": " Ini ada option, option ini adalah pilihannya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3624,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.3384
+  },
+  {
+   "id": 95,
+   "start": 476.54,
+   "end": 481.22,
+   "text": " Kalau memilih ini seperti apa, kalau memilih yang lain seperti apa,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3624,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.3384
+  },
+  {
+   "id": 96,
+   "start": 481.22,
+   "end": 484.86,
+   "text": " seperti itu ya dari sequence diagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3624,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.3384
+  },
+  {
+   "id": 97,
+   "start": 484.86,
+   "end": 486.58,
+   "text": " Selanjutnya, class diagram.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3624,
+   "compression_ratio": 1.811,
+   "no_speech_prob": 0.3384
+  },
+  {
+   "id": 98,
+   "start": 486.58,
+   "end": 492.66,
+   "text": " Ini menunjukkan struktur sistem yang dirancang, subsystem atau komponen sebagai kelas",
+   "temperature": 0.0,
+   "avg_logprob": -0.4412,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0169
+  },
+  {
+   "id": 99,
+   "start": 492.66,
+   "end": 501.9,
+   "text": " dan antar muka terkait dengan fitur batasan hubuannya, hubuannya ini bisa asosiasi, generasi, dependensi dan lain-lain",
+   "temperature": 0.0,
+   "avg_logprob": -0.4412,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0169
+  },
+  {
+   "id": 100,
+   "start": 501.9,
+   "end": 507.9,
+   "text": " Nah kalian ingat-ingat dulu ya yang asosiasi itu gimana, generasi gimana, dependensi gimana",
+   "temperature": 0.0,
+   "avg_logprob": -0.4412,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0169
+  },
+  {
+   "id": 101,
+   "start": 507.9,
+   "end": 511.9,
+   "text": " Semua ada di teori object oriented programming ya",
+   "temperature": 0.0,
+   "avg_logprob": -0.4412,
+   "compression_ratio": 1.671,
+   "no_speech_prob": 0.0169
+  },
+  {
+   "id": 102,
+   "start": 511.9,
+   "end": 521.64,
+   "text": " tentunya kalau seperti ini, kas diagram itu terdiri dari beberapa klas yang kalian gunakan di dalam object oriented programming",
+   "temperature": 0.0,
+   "avg_logprob": -0.5411,
+   "compression_ratio": 1.852,
+   "no_speech_prob": 0.0297
+  },
+  {
+   "id": 103,
+   "start": 521.64,
+   "end": 528.24,
+   "text": " dan disini, isi dari klasnya akan dijelaskan ya, tidak lama ya ini, contohnya seperti itu",
+   "temperature": 0.0,
+   "avg_logprob": -0.5411,
+   "compression_ratio": 1.852,
+   "no_speech_prob": 0.0297
+  },
+  {
+   "id": 104,
+   "start": 528.24,
+   "end": 533.48,
+   "text": " nah nanti akan ada video-video-video detail dari tiap diagram yang rancanya jelaskan",
+   "temperature": 0.0,
+   "avg_logprob": -0.5411,
+   "compression_ratio": 1.852,
+   "no_speech_prob": 0.0297
+  },
+  {
+   "id": 105,
+   "start": 533.48,
+   "end": 539.32,
+   "text": " ada empat ya, ada use case diagram, ada activity dan ada sequence diagram",
+   "temperature": 0.0,
+   "avg_logprob": -0.5411,
+   "compression_ratio": 1.852,
+   "no_speech_prob": 0.0297
+  },
+  {
+   "id": 106,
+   "start": 539.32,
+   "end": 543.92,
+   "text": " dan ada pas diagram sini di video-video saya, yara selanjutnya ya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4081,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0377
+  },
+  {
+   "id": 107,
+   "start": 546.82,
+   "end": 551.14,
+   "text": " Oke, terima kasih untuk kalian yang sudah menonton video ini sampai terakhir.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4081,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0377
+  },
+  {
+   "id": 108,
+   "start": 551.14,
+   "end": 557.14,
+   "text": " Di video selanjutnya, saya akan membahas tentang Review Object Oriented Programming.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4081,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0377
+  },
+  {
+   "id": 109,
+   "start": 557.46,
+   "end": 561.54,
+   "text": " So, belum kita lebih menitel ke tiap diagram yang saya jelaskan tadi.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4081,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0377
+  },
+  {
+   "id": 110,
+   "start": 561.82,
+   "end": 566.74,
+   "text": " Saya rasa kalian perlu mengingat beberapa teori tentang Object Oriented Programming.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4081,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0377
+  },
+  {
+   "id": 111,
+   "start": 566.74,
+   "end": 569.86,
+   "text": " Oke, sampai ketemu di video saya selanjutnya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.4081,
+   "compression_ratio": 1.799,
+   "no_speech_prob": 0.0377
+  }
+ ]
+}
