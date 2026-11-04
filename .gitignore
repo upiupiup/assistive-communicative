@@ -22,3 +22,8 @@ data/processed/audio/
 *.pdf
 *.mp4
 data/sessions/
+
+### Tahap 3: model besar dan state pelatihan
+data/output/tahap3/model/
+data/output/tahap3/_kerja/state/
+data/output/tahap3/uji_coba/_kerja/
