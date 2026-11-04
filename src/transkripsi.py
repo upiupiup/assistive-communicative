@@ -40,20 +40,29 @@ import time
 from pathlib import Path
 
 
-def jalankan_terpisah(cfg: dict, path_cfg: str | Path, cwd: str | Path, python: str = sys.executable) -> None:
+def jalankan_terpisah(cfg: dict, path_cfg: str | Path, cwd: str | Path, python: str = sys.executable,
+                      modul: str = "src.transkripsi") -> dict | None:
     """Tulis konfigurasi ke path_cfg lalu jalankan worker ini di proses terpisah.
 
     Keluaran worker diteruskan baris demi baris ke notebook. Galat bila worker gagal.
+    Bila worker menulis baris berawalan ###HASIL###, isinya dikembalikan sebagai dict.
+    ``modul`` dapat diganti untuk worker lain yang memakai pola sama
+    (src.latih_lora, src.konversi_lora, src.evaluasi_segmen).
     """
     import os
     Path(path_cfg).write_text(json.dumps(cfg, ensure_ascii=False, indent=1), encoding="utf-8")
-    proses = subprocess.Popen([python, "-m", "src.transkripsi", str(path_cfg)], cwd=cwd, text=True,
+    proses = subprocess.Popen([python, "-m", modul, str(path_cfg)], cwd=cwd, text=True,
                               encoding="utf-8", errors="replace", stdout=subprocess.PIPE,
                               stderr=subprocess.STDOUT, env={**os.environ, "PYTHONIOENCODING": "utf-8"})
+    hasil = None
     for baris in proses.stdout:
+        if baris.startswith("###HASIL###"):
+            hasil = json.loads(baris[len("###HASIL###"):])
+            continue
         print(baris, end="")
     if proses.wait() != 0:
         raise RuntimeError(f"worker {cfg['nama']} berhenti dengan galat")
+    return hasil
 
 
 def vram_terpakai_mb() -> int:
