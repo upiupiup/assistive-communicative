@@ -1,0 +1,156 @@
+﻿mata_kuliah,entri_id,bentuk_kanonik,di_hotwords,diperbaiki,dirusak,tetap benar,tetap salah
+AOK,AOK-001,access time,True,0,0,1,0
+AOK,AOK-004,ALU,True,0,0,1,0
+AOK,AOK-007,arsitektur komputer,True,0,0,1,0
+AOK,AOK-011,bit,True,0,0,5,0
+AOK,AOK-014,buffer,True,0,3,7,0
+AOK,AOK-015,bus,True,0,1,9,0
+AOK,AOK-016,byte,True,0,0,1,0
+AOK,AOK-017,cache,True,13,3,26,7
+AOK,AOK-022,clock,False,0,0,1,0
+AOK,AOK-026,computer arithmetic,True,0,0,1,0
+AOK,AOK-028,core,True,0,2,2,0
+AOK,AOK-030,CPU,True,0,0,44,0
+AOK,AOK-031,data bus,False,0,0,2,0
+AOK,AOK-032,data transfer,False,0,0,4,0
+AOK,AOK-038,disk,True,0,0,7,0
+AOK,AOK-047,external memory,False,0,0,1,0
+AOK,AOK-054,I/O,True,2,2,23,1
+AOK,AOK-055,I/O module,True,2,1,19,1
+AOK,AOK-060,instruction,True,0,0,12,0
+AOK,AOK-068,interface,True,0,0,1,0
+AOK,AOK-069,internal memory,False,0,0,4,0
+AOK,AOK-076,main memory,True,2,1,19,0
+AOK,AOK-080,memori,True,1,18,47,0
+AOK,AOK-081,memory cell,False,0,1,0,0
+AOK,AOK-085,microprocessor,True,0,2,0,0
+AOK,AOK-101,organisasi komputer,True,0,0,2,0
+AOK,AOK-106,peripheral,True,0,0,7,0
+AOK,AOK-111,prosesor,True,0,0,9,0
+AOK,AOK-113,RAM,False,0,1,9,0
+AOK,AOK-114,random access,False,0,0,2,0
+AOK,AOK-115,register,True,0,0,8,0
+AOK,AOK-120,ROM,True,0,2,7,0
+AOK,AOK-125,semiconductor memory,False,0,2,0,0
+AOK,AOK-138,tag,True,0,0,1,0
+AOK,AOK-142,transfer rate,False,0,0,2,0
+AOK,AOK-147,volatile,False,0,0,7,0
+AOK,AOK-148,word,True,0,0,2,0
+AOK,AOK-149,write back,False,0,0,2,0
+APS,APS-002,abstraksi,True,0,0,1,0
+APS,APS-005,activity diagram,False,0,0,3,0
+APS,APS-006,actor,True,0,0,3,0
+APS,APS-013,analisis,True,0,1,28,0
+APS,APS-015,association,True,0,0,2,0
+APS,APS-023,class diagram,True,0,2,2,0
+APS,APS-027,component diagram,False,0,0,1,0
+APS,APS-030,constraint,True,0,0,1,0
+APS,APS-035,data flow diagram,False,0,0,4,0
+APS,APS-039,diagram,True,0,0,21,0
+APS,APS-054,generalization,True,0,0,2,0
+APS,APS-065,interface,True,0,0,1,0
+APS,APS-068,kebutuhan,True,0,0,2,0
+APS,APS-069,kelas,True,0,1,6,0
+APS,APS-071,komponen,True,0,0,1,0
+APS,APS-075,lifeline,False,0,0,1,0
+APS,APS-079,method,True,0,0,6,0
+APS,APS-085,object oriented,True,0,0,9,0
+APS,APS-086,object oriented analysis,False,1,1,11,0
+APS,APS-088,objek,True,0,3,18,0
+APS,APS-095,packaging,True,0,0,2,0
+APS,APS-096,pemodelan,True,0,0,1,0
+APS,APS-099,perancangan,True,0,6,15,0
+APS,APS-104,perangkat lunak,True,1,0,2,0
+APS,APS-119,sequence diagram,True,0,2,4,0
+APS,APS-121,sistem,True,0,0,46,1
+APS,APS-122,sistem informasi,False,0,0,1,0
+APS,APS-130,sub-sistem,True,0,1,0,0
+APS,APS-136,UML,True,0,1,11,0
+APS,APS-141,use case,True,0,1,3,0
+APS,APS-142,use case diagram,True,0,0,8,0
+IMK,IMK-006,button,True,0,0,4,0
+IMK,IMK-007,cognitive,False,0,0,3,0
+IMK,IMK-012,computer,True,0,0,1,0
+IMK,IMK-017,design,True,0,0,1,0
+IMK,IMK-025,display,True,0,0,1,0
+IMK,IMK-035,error,True,0,0,1,0
+IMK,IMK-044,goal,True,0,0,4,0
+IMK,IMK-046,grouping,True,0,0,1,0
+IMK,IMK-055,human,True,0,0,4,0
+IMK,IMK-058,human-computer interaction,True,0,0,2,0
+IMK,IMK-065,interaction design,False,0,0,14,0
+IMK,IMK-069,interface,True,0,0,1,0
+IMK,IMK-077,memory,True,0,3,7,0
+IMK,IMK-078,mental model,False,0,0,1,0
+IMK,IMK-079,menu,True,0,0,1,0
+IMK,IMK-096,principle,True,0,0,1,0
+IMK,IMK-103,recall,False,0,0,3,0
+IMK,IMK-104,recognition,False,0,0,1,0
+IMK,IMK-138,user,True,0,0,28,0
+IMK,IMK-149,World Wide Web,True,0,0,2,0
+JARNIR,JARNIR-009,antena,False,0,0,1,0
+JARNIR,JARNIR-016,bluetooth,True,0,1,6,0
+JARNIR,JARNIR-072,kanal,True,0,0,1,0
+JARNIR,JARNIR-075,local area network,False,0,7,33,0
+JARNIR,JARNIR-084,media transmisi,False,0,0,1,0
+JARNIR,JARNIR-098,nirkabel,True,0,0,6,0
+JARNIR,JARNIR-099,node,True,0,0,1,0
+JARNIR,JARNIR-109,personal area network,False,0,5,14,1
+JARNIR,JARNIR-130,sinyal,True,0,0,2,0
+JARNIR,JARNIR-144,Wi-Fi,True,0,7,0,0
+JARNIR,JARNIR-145,wide area network,False,0,2,10,1
+PKK,PKK-001,abstraction,True,0,0,1,0
+PKK,PKK-004,algorithm,True,0,0,6,0
+PKK,PKK-007,application software,True,0,1,4,0
+PKK,PKK-017,brainware,True,2,0,0,0
+PKK,PKK-028,CPU,True,0,0,1,1
+PKK,PKK-030,critical thinking,True,0,0,1,0
+PKK,PKK-037,decomposition,True,0,0,0,2
+PKK,PKK-039,digital ethics,False,0,0,1,1
+PKK,PKK-044,etika,True,0,0,1,0
+PKK,PKK-052,hak cipta,False,0,0,1,0
+PKK,PKK-056,hardware,True,0,1,3,0
+PKK,PKK-059,informatika,False,0,0,8,1
+PKK,PKK-060,input,True,0,0,2,1
+PKK,PKK-062,internet,True,0,0,8,0
+PKK,PKK-066,keyboard,False,0,0,2,0
+PKK,PKK-071,komputer,True,0,1,10,0
+PKK,PKK-081,logical thinking,False,0,0,1,0
+PKK,PKK-089,monitor,False,0,0,1,0
+PKK,PKK-092,mouse,False,0,0,1,0
+PKK,PKK-097,operating system,True,0,0,2,0
+PKK,PKK-099,output,True,0,0,4,0
+PKK,PKK-100,pattern,True,0,1,2,0
+PKK,PKK-107,problem solving,True,0,2,3,0
+PKK,PKK-115,RAM,True,0,0,1,0
+PKK,PKK-119,requirement,True,0,0,1,0
+PKK,PKK-123,scanner,False,0,0,1,0
+PKK,PKK-125,security,True,0,0,1,0
+PKK,PKK-130,software,True,0,1,10,1
+PKK,PKK-149,windows,True,0,0,1,0
+RPL,RPL-022,customer,True,0,0,4,0
+RPL,RPL-031,developer,True,0,0,3,1
+RPL,RPL-040,feature,True,0,0,7,0
+RPL,RPL-049,implementation,True,0,0,1,0
+RPL,RPL-059,model,True,1,0,50,3
+RPL,RPL-060,modeling,True,0,0,8,0
+RPL,RPL-061,natural language,True,0,0,1,0
+RPL,RPL-062,notation,True,0,0,4,0
+RPL,RPL-065,perangkat lunak,True,0,0,26,0
+RPL,RPL-071,problem,True,0,0,4,0
+RPL,RPL-083,prototyping,True,0,0,6,3
+RPL,RPL-087,rekayasa perangkat lunak,True,0,0,3,0
+RPL,RPL-089,requirement,True,0,0,28,2
+RPL,RPL-092,requirements analysis,False,0,0,2,0
+RPL,RPL-102,scenario,True,0,0,11,3
+RPL,RPL-114,software design,True,0,0,12,4
+RPL,RPL-115,software development,True,0,0,1,0
+RPL,RPL-122,software project,False,0,0,1,0
+RPL,RPL-129,stakeholder,True,0,0,3,0
+RPL,RPL-132,testing,True,0,0,3,0
+RPL,RPL-137,usability,False,0,0,9,0
+RPL,RPL-138,user,True,0,0,48,0
+RPL,RPL-139,user interface,True,0,0,15,0
+RPL,RPL-140,user interface design,False,0,0,1,0
+RPL,RPL-141,user requirements,False,0,0,1,0
+RPL,RPL-146,verification,True,0,0,1,0

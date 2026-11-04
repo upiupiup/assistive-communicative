@@ -1,0 +1,10 @@
+﻿file_id,mata_kuliah,jalur_acuan,WER_T1-E,WER_T2,selisih_WER,TTER_T1-E,TTER_T2,selisih_TTER,arah
+AOK-04,AOK,whisper,2.27,10.12,7.85,8.39,15.03,6.64,
+AOK-07,AOK,whisper,1.1,7.84,6.74,4.17,6.55,2.38,
+APS-03,APS,whisper,0.26,5.01,4.75,0.8,8.0,7.2,
+APS-05,APS,whisper,0.38,8.66,8.28,1.05,6.81,5.76,
+IMK-02,IMK,whisper,0.0,0.35,0.35,0.0,2.8,2.8,
+JARNIR-03,JARNIR,wav2vec2,10.79,25.59,14.79,1.85,26.85,25.0,
+PKK-02,PKK,wav2vec2,16.7,20.61,3.91,16.36,20.0,3.64,
+RPL-07,RPL,wav2vec2,5.79,5.61,-0.18,5.62,5.0,-0.62,
+RPL-10,RPL,wav2vec2,5.32,5.45,0.14,5.3,5.3,0.0,

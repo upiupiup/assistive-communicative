@@ -1,0 +1,1130 @@
+{
+ "file_id": "AOK-07",
+ "konfigurasi": "T2",
+ "model": "large-v3",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false,
+  "hotwords": "ALU, aritmatika, ARM, arsitektur, biner, bit, branch, buffer, bus, byte, cache, chip, CISC, cloud computing, cluster, control unit, core, CPU, disk, DMA, DRAM, exponent, fetch, flash memory, floating point, format instruksi, gate, I/O, instruksi, instruksi mesin, integer, interconnection, interface, interupsi, ISA, koherensi cache, main memory, memori, memori virtual, microprocessor, mode pengalamatan, modul I/O, multicore, multithreading, operand, operating system, organisasi, page table, penjadwalan, peripheral, physical address, pipeline, prosesor, RAID, register, register file, RISC, ROM, set instruksi, significand, SMP, stack, superscalar, tag, thread, TLB, track, virtual address, waktu akses, word, x86"
+ },
+ "info": {
+  "duration": 933.14825,
+  "duration_after_vad": 916.992,
+  "language": "id"
+ },
+ "segmen": [
+  {
+   "id": 1,
+   "start": 1.78,
+   "end": 11.4,
+   "text": " Oke, bertemu lagi dengan saya, Hanas, di Mata Kuliah Arsitektur dan Organisasi Komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1284,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.0057
+  },
+  {
+   "id": 2,
+   "start": 12.22,
+   "end": 17.86,
+   "text": " Pada topik 7 ini terkait input-output bagian ke 1.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1284,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.0057
+  },
+  {
+   "id": 3,
+   "start": 17.86,
+   "end": 32.32,
+   "text": " Oke, pada materi ini akan disampaikan terkait penjabaran antarmuka dari perangkat input-output",
+   "temperature": 0.0,
+   "avg_logprob": -0.1284,
+   "compression_ratio": 1.453,
+   "no_speech_prob": 0.0057
+  },
+  {
+   "id": 4,
+   "start": 32.32,
+   "end": 40.02,
+   "text": " dan perangkat peripheral lain yang ada maupun akan terhubung pada suatu komputer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2373,
+   "compression_ratio": 1.454,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 5,
+   "start": 41.66,
+   "end": 47.9,
+   "text": " Nah, pada bab ini akan dijelaskan terkait pengertian sistem I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2373,
+   "compression_ratio": 1.454,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 6,
+   "start": 48.56,
+   "end": 54.6,
+   "text": " Kemudian fungsi modul I.O. hingga struktur modul I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2373,
+   "compression_ratio": 1.454,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 7,
+   "start": 60.22,
+   "end": 60.4,
+   "text": " Oke?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2373,
+   "compression_ratio": 1.454,
+   "no_speech_prob": 0.0059
+  },
+  {
+   "id": 8,
+   "start": 60.4,
+   "end": 76.4,
+   "text": " Nah, input-output, perangkat I-O, ini adalah salah satu elemen penting pada sebuah sistem komputer, selain CPU dan sejumlah modul memori.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1447,
+   "compression_ratio": 1.497,
+   "no_speech_prob": 0.0053
+  },
+  {
+   "id": 9,
+   "start": 76.4,
+   "end": 85.4,
+   "text": " Nah, modul I-O ini bukan hanya merupakan konektor mekanis yang sederhana untuk menghubungkan suatu perangkat dengan bus system.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1447,
+   "compression_ratio": 1.497,
+   "no_speech_prob": 0.0053
+  },
+  {
+   "id": 10,
+   "start": 85.4,
+   "end": 98.4,
+   "text": " Nah, tetapi, modul I-O ini berisi sesuatu yang cerdas, yang berisi logika, untuk melakukan fungsi komunikasi antara peripheral dengan bus.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1426,
+   "compression_ratio": 1.551,
+   "no_speech_prob": 0.0042
+  },
+  {
+   "id": 11,
+   "start": 99.4,
+   "end": 108.4,
+   "text": " Nah, unit input-output ini adalah bagian dari sistem microprocessor yang digunakan microprocessor untuk perhubungan dengan dunia luar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1426,
+   "compression_ratio": 1.551,
+   "no_speech_prob": 0.0042
+  },
+  {
+   "id": 12,
+   "start": 108.4,
+   "end": 138.4,
+   "text": " luar. Oke, modul I-O ya ini tidak hanya untuk keluar masuknya data kepada dari CPU, prosesor, memori ke perangkat masukan keluaran tetapi bagaimana perangkat input output itu juga bisa berkomunikasi dengan baik oleh CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1741,
+   "compression_ratio": 1.413,
+   "no_speech_prob": 0.0031
+  },
+  {
+   "id": 13,
+   "start": 138.4,
+   "end": 149.84,
+   "text": " Misalkan unit input ini unit masukannya, contohnya sederhana ya keyboard, mouse, misalkan kemudian unit output biasanya untuk menampilkan atau menyajikan data.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.0028
+  },
+  {
+   "id": 14,
+   "start": 150.82,
+   "end": 158.38,
+   "text": " Nah, ada lagi unit yang dia berfungsi sebagai input dan output, misalkan touchscreen, layar sentuh.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.0028
+  },
+  {
+   "id": 15,
+   "start": 158.98,
+   "end": 165.42,
+   "text": " Nah, dia kan dual fungsi, bisa jadi touchscreen, bisa jadi input, bisa jadi output.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1614,
+   "compression_ratio": 1.815,
+   "no_speech_prob": 0.0028
+  },
+  {
+   "id": 16,
+   "start": 165.42,
+   "end": 193.96,
+   "text": " Oke, nah secara tidak langsung seperti ini, ya jadi I-O modul, ya ini misalkan bayangkan saja sebuah port USB pada komputer Anda, oke, dia akan berhubung dengan sistem bus, ya, sistem bus yang berisi antara address, data, dan control yang dipergunakan untuk berkomunikasi dengan CPU atau memori secara langsung.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1384,
+   "compression_ratio": 1.532,
+   "no_speech_prob": 0.0063
+  },
+  {
+   "id": 17,
+   "start": 193.96,
+   "end": 209.96,
+   "text": " Nah, namun, I-O ini tidak boleh langsung berkomunikasi dengan CPU atau memori, namun harus melewati I-O modul.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1835,
+   "compression_ratio": 1.372,
+   "no_speech_prob": 0.004
+  },
+  {
+   "id": 18,
+   "start": 209.96,
+   "end": 216.96,
+   "text": " Nah, kenapa? Karena bervariasinya metode operasi piranti peripheral.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1835,
+   "compression_ratio": 1.372,
+   "no_speech_prob": 0.004
+  },
+  {
+   "id": 19,
+   "start": 216.96,
+   "end": 221.96,
+   "text": " Misalkan sederhana saja, keyboard sama mouse.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1835,
+   "compression_ratio": 1.372,
+   "no_speech_prob": 0.004
+  },
+  {
+   "id": 20,
+   "start": 221.96,
+   "end": 226.8,
+   "text": " Nah, kan proses yang ada di keyboard sama MOS itu kan beda-beda.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1653,
+   "compression_ratio": 1.555,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 21,
+   "start": 226.8,
+   "end": 239.14,
+   "text": " Mulai jumlah tombolnya, kemudian operasi yang bisa dijalankan, apalagi bentuk komunikasinya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1653,
+   "compression_ratio": 1.555,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 22,
+   "start": 240.12,
+   "end": 241.96,
+   "text": " Ya, proses komunikasinya juga beda.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1653,
+   "compression_ratio": 1.555,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 23,
+   "start": 243.64,
+   "end": 251.1,
+   "text": " Nah, sehingga tidak praktis apabila sistem komputer ini menangani berbagai macam operasi piranti peripheral tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1653,
+   "compression_ratio": 1.555,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 24,
+   "start": 251.96,
+   "end": 281.94,
+   "text": " Oke, keyboard saja macamnya nggak hanya satu, banyak, kan nggak mungkin, misalkan ada 100 merk keyboard gitu, sebuah CPU harus menyesuaikan diri, nggak, yang harus menyesuaikan diri adalah perangkat peripheral itu terhadap CPU-nya, nah kemudian format data dan panjang data pada perangkat itu juga beda, oke misalkan MOS komunikasinya karena tombolnya mungkin cuma 3 sampai 3,",
+   "temperature": 0.0,
+   "avg_logprob": -0.125,
+   "compression_ratio": 1.664,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 25,
+   "start": 281.96,
+   "end": 283.0,
+   "text": " banyak ya.",
+   "temperature": 0.8,
+   "avg_logprob": -0.6099,
+   "compression_ratio": 1.572,
+   "no_speech_prob": 0.0021
+  },
+  {
+   "id": 26,
+   "start": 284.08,
+   "end": 287.3,
+   "text": " Ya mungkin panjang datanya bisa hanya 4 bit saja.",
+   "temperature": 0.8,
+   "avg_logprob": -0.6099,
+   "compression_ratio": 1.572,
+   "no_speech_prob": 0.0021
+  },
+  {
+   "id": 27,
+   "start": 287.9,
+   "end": 296.4,
+   "text": " Nah bayangkan kalau keyboard dengan puluhan tombol, bisa jadi panjang datanya 16 bit misalkan.",
+   "temperature": 0.8,
+   "avg_logprob": -0.6099,
+   "compression_ratio": 1.572,
+   "no_speech_prob": 0.0021
+  },
+  {
+   "id": 28,
+   "start": 296.92,
+   "end": 297.82,
+   "text": " Ya kan boleh.",
+   "temperature": 0.8,
+   "avg_logprob": -0.6099,
+   "compression_ratio": 1.572,
+   "no_speech_prob": 0.0021
+  },
+  {
+   "id": 29,
+   "start": 298.24,
+   "end": 306.04,
+   "text": " Nah sehingga perlu sebuah modul untuk mentranslasikan, istilahnya mentranslasikan,",
+   "temperature": 0.8,
+   "avg_logprob": -0.6099,
+   "compression_ratio": 1.572,
+   "no_speech_prob": 0.0021
+  },
+  {
+   "id": 30,
+   "start": 306.62,
+   "end": 310.42,
+   "text": " bagaimana sebuah port USB atau modul I.O.",
+   "temperature": 0.8,
+   "avg_logprob": -0.6099,
+   "compression_ratio": 1.572,
+   "no_speech_prob": 0.0021
+  },
+  {
+   "id": 31,
+   "start": 311.96,
+   "end": 318.8,
+   "text": " Itu bisa mengakomodir sesuatu yang ada di dunia luar dan bisa diolah oleh CPU.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1791,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0019
+  },
+  {
+   "id": 32,
+   "start": 319.98,
+   "end": 326.98,
+   "text": " Nah, kalau semuanya yang olah CPU ya, ya banyak yang dilakukan oleh CPU.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1791,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0019
+  },
+  {
+   "id": 33,
+   "start": 327.58,
+   "end": 334.44,
+   "text": " Nah, makanya dia harus ada modul sendiri biar CPU fokus untuk sebagai unit pemroses saja.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1791,
+   "compression_ratio": 1.516,
+   "no_speech_prob": 0.0019
+  },
+  {
+   "id": 34,
+   "start": 334.44,
+   "end": 344.64,
+   "text": " Oke, ini tadi ya, yang Anda bayangkan, misalkan dia sebagai port USB ya.",
+   "temperature": 0.0,
+   "avg_logprob": -0.3203,
+   "compression_ratio": 1.176,
+   "no_speech_prob": 0.0094
+  },
+  {
+   "id": 35,
+   "start": 344.64,
+   "end": 354.52,
+   "text": " Oke, nah sebelum masuk ke bagian-bagian dari modul IO,",
+   "temperature": 0.0,
+   "avg_logprob": -0.3203,
+   "compression_ratio": 1.176,
+   "no_speech_prob": 0.0094
+  },
+  {
+   "id": 36,
+   "start": 354.52,
+   "end": 360.96,
+   "text": " mayor fungsi, fungsi mayor dari sebuah perangkat IO",
+   "temperature": 0.0,
+   "avg_logprob": -0.2068,
+   "compression_ratio": 1.789,
+   "no_speech_prob": 0.0093
+  },
+  {
+   "id": 37,
+   "start": 360.96,
+   "end": 367.06,
+   "text": " jadi fungsi mayor yang minimal harus dimiliki oleh perangkat IO",
+   "temperature": 0.0,
+   "avg_logprob": -0.2068,
+   "compression_ratio": 1.789,
+   "no_speech_prob": 0.0093
+  },
+  {
+   "id": 38,
+   "start": 367.06,
+   "end": 370.36,
+   "text": " yang pertama adalah kontrol dan timing",
+   "temperature": 0.0,
+   "avg_logprob": -0.2068,
+   "compression_ratio": 1.789,
+   "no_speech_prob": 0.0093
+  },
+  {
+   "id": 39,
+   "start": 370.36,
+   "end": 375.72,
+   "text": " jadi modul IO ini harus ada kontrol dan timing",
+   "temperature": 0.0,
+   "avg_logprob": -0.2068,
+   "compression_ratio": 1.789,
+   "no_speech_prob": 0.0093
+  },
+  {
+   "id": 40,
+   "start": 375.72,
+   "end": 379.32,
+   "text": " kontrol dan timing ini untuk apa ya?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2068,
+   "compression_ratio": 1.789,
+   "no_speech_prob": 0.0093
+  },
+  {
+   "id": 41,
+   "start": 379.32,
+   "end": 409.3,
+   "text": " perwaktuan, kapan CPU itu bisa menerima data, kapan dia bisa dipanggil untuk diolah sama CPU-nya, oke, kemudian prosesor communication, ya misalkan ada command decoding untuk mengartikan, ya kalau klik kiri itu artinya apa sih, ya yang bisa dibaca oleh CPU itu dia bentuknya apa, ya misalkan ada 3 tombol, ya misalkan yang tombol pertama kodenya 00, tombol kedua 00,",
+   "temperature": 0.0,
+   "avg_logprob": -0.1271,
+   "compression_ratio": 1.777,
+   "no_speech_prob": 0.007
+  },
+  {
+   "id": 42,
+   "start": 409.32,
+   "end": 439.32,
+   "text": " 1, tombol ketiga 1, 0, ya boleh, misalkan seperti itu, oke, kemudian status reporting, ini ready atau enggak, misalkan ada sebuah MOS saya masukkan ke komputer, nah MOS itu ready dipakai apa enggak, atau jangan-jangan masih belum dikenali oleh prosesor datanya, oke, kemudian device information, ini ada command status information and data dari perangkat yang butuh",
+   "temperature": 0.0,
+   "avg_logprob": -0.1402,
+   "compression_ratio": 1.682,
+   "no_speech_prob": 0.0051
+  },
+  {
+   "id": 43,
+   "start": 439.32,
+   "end": 443.86,
+   "text": " Nah, yang ketiga, data buffering.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2166,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.0049
+  },
+  {
+   "id": 44,
+   "start": 444.68,
+   "end": 451.4,
+   "text": " Oke, kalau mouse mungkin simple, nah kalau keyboard, berarti harus, atau misalkan perangkat lain, misalkan kamera.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2166,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.0049
+  },
+  {
+   "id": 45,
+   "start": 452.3,
+   "end": 462.04,
+   "text": " Nah, kamera kan data yang dihasilkan kan lebih kompleks, nah bagaimana dia bisa ditranslasikan biar bisa diolah sama CPU.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2166,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.0049
+  },
+  {
+   "id": 46,
+   "start": 463.3,
+   "end": 466.42,
+   "text": " Oke, yang terakhir, error detection.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2166,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.0049
+  },
+  {
+   "id": 47,
+   "start": 466.42,
+   "end": 469.1,
+   "text": " Oke, deteksi error.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2166,
+   "compression_ratio": 1.643,
+   "no_speech_prob": 0.0049
+  },
+  {
+   "id": 48,
+   "start": 469.32,
+   "end": 476.38,
+   "text": " jadi misalkan perangkat yang error CPU-nya baik-baik aja ya jangan sampai nyalakan CPU-nya gak bisa kerja gitu kan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1571,
+   "compression_ratio": 1.7,
+   "no_speech_prob": 0.0039
+  },
+  {
+   "id": 49,
+   "start": 476.38,
+   "end": 483.24,
+   "text": " berarti I-O modul harus bisa memberitahu ke prosesor misalkan oh perangkat I-O itu sudah rusak",
+   "temperature": 0.0,
+   "avg_logprob": -0.1571,
+   "compression_ratio": 1.7,
+   "no_speech_prob": 0.0039
+  },
+  {
+   "id": 50,
+   "start": 483.24,
+   "end": 486.1,
+   "text": " gak bisa dipakai dia gak mau ngirim data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1571,
+   "compression_ratio": 1.7,
+   "no_speech_prob": 0.0039
+  },
+  {
+   "id": 51,
+   "start": 486.1,
+   "end": 491.96,
+   "text": " oke itu adalah fungsi mayor dari I-O modul",
+   "temperature": 0.0,
+   "avg_logprob": -0.1571,
+   "compression_ratio": 1.7,
+   "no_speech_prob": 0.0039
+  },
+  {
+   "id": 52,
+   "start": 491.96,
+   "end": 501.87,
+   "text": " nah struktur dari I-O modul ya port USB pada misalkan contohnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1571,
+   "compression_ratio": 1.7,
+   "no_speech_prob": 0.0039
+  },
+  {
+   "id": 53,
+   "start": 501.87,
+   "end": 504.81,
+   "text": " salah satu contoh port USB pada komputer Anda",
+   "temperature": 0.0,
+   "avg_logprob": -0.232,
+   "compression_ratio": 1.619,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 54,
+   "start": 504.81,
+   "end": 507.75,
+   "text": " yaitu harus memiliki bagian-bagian ini",
+   "temperature": 0.0,
+   "avg_logprob": -0.232,
+   "compression_ratio": 1.619,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 55,
+   "start": 507.75,
+   "end": 511.01,
+   "text": " yang pertama ini data register",
+   "temperature": 0.0,
+   "avg_logprob": -0.232,
+   "compression_ratio": 1.619,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 56,
+   "start": 511.01,
+   "end": 513.13,
+   "text": " kedua status control",
+   "temperature": 0.0,
+   "avg_logprob": -0.232,
+   "compression_ratio": 1.619,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 57,
+   "start": 513.13,
+   "end": 515.17,
+   "text": " yang ketiga IOLOGIC",
+   "temperature": 0.0,
+   "avg_logprob": -0.232,
+   "compression_ratio": 1.619,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 58,
+   "start": 515.17,
+   "end": 520.89,
+   "text": " nah masing-masing fungsinya data register dan status control register",
+   "temperature": 0.0,
+   "avg_logprob": -0.232,
+   "compression_ratio": 1.619,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 59,
+   "start": 520.89,
+   "end": 524.01,
+   "text": " ini untuk mengirimkan data",
+   "temperature": 0.0,
+   "avg_logprob": -0.232,
+   "compression_ratio": 1.619,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 60,
+   "start": 524.01,
+   "end": 528.33,
+   "text": " atau memberikan informasi data pada data lines di sistem bus",
+   "temperature": 0.0,
+   "avg_logprob": -0.232,
+   "compression_ratio": 1.619,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 61,
+   "start": 528.33,
+   "end": 536.33,
+   "text": " Nah, kemudian address lines dan control lines ini dioperasikan oleh I-O logic.",
+   "temperature": 0.0,
+   "avg_logprob": -0.17,
+   "compression_ratio": 1.582,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 62,
+   "start": 536.33,
+   "end": 541.33,
+   "text": " I-O logic ini semacam ALU, arithmetic and logic unit.",
+   "temperature": 0.0,
+   "avg_logprob": -0.17,
+   "compression_ratio": 1.582,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 63,
+   "start": 541.33,
+   "end": 548.33,
+   "text": " Jadi, unit logika untuk memberikan instruksi pada modul I-O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.17,
+   "compression_ratio": 1.582,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 64,
+   "start": 548.33,
+   "end": 556.33,
+   "text": " Nah, kemudian dari I-O modul baru, ini yang berhubungan dengan external logic, perangkat luar.",
+   "temperature": 0.0,
+   "avg_logprob": -0.17,
+   "compression_ratio": 1.582,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 65,
+   "start": 556.33,
+   "end": 562.55,
+   "text": " Oke, nah perangkat luar ini dia juga punya masing-masing sendiri ya, data, status, sama, kontrol.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2653,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0042
+  },
+  {
+   "id": 66,
+   "start": 564.23,
+   "end": 569.99,
+   "text": " Oke, nah sedangkan di dalamnya IOLOGIC ini apa?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2653,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0042
+  },
+  {
+   "id": 67,
+   "start": 570.77,
+   "end": 574.15,
+   "text": " Oke, nah blok diagramnya seperti ini.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2653,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0042
+  },
+  {
+   "id": 68,
+   "start": 574.75,
+   "end": 578.95,
+   "text": " Jadi di sini ada kontrol logik, ada buffer, dan transducer.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2653,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0042
+  },
+  {
+   "id": 69,
+   "start": 579.15,
+   "end": 585.91,
+   "text": " Nah, kontrol logik ini berfungsi untuk mengenerate kontrol dari menerima.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2653,
+   "compression_ratio": 1.577,
+   "no_speech_prob": 0.0042
+  },
+  {
+   "id": 70,
+   "start": 586.33,
+   "end": 593.91,
+   "text": " kontrol dari CPU, kemudian dan mengirimkan ke I-O module",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.574,
+   "no_speech_prob": 0.0039
+  },
+  {
+   "id": 71,
+   "start": 593.91,
+   "end": 600.35,
+   "text": " nah, kontrol logik bagaimana sih cara kerjanya?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.574,
+   "no_speech_prob": 0.0039
+  },
+  {
+   "id": 72,
+   "start": 600.35,
+   "end": 605.83,
+   "text": " kontrol logik ini dia sebagai kontrol dan timing",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.574,
+   "no_speech_prob": 0.0039
+  },
+  {
+   "id": 73,
+   "start": 605.83,
+   "end": 613.91,
+   "text": " dia adalah salah satu hal penting untuk sinkronisasi kinerja masing-masing komponen penyusun komputer",
+   "temperature": 0.0,
+   "avg_logprob": -0.2119,
+   "compression_ratio": 1.574,
+   "no_speech_prob": 0.0039
+  },
+  {
+   "id": 74,
+   "start": 613.91,
+   "end": 627.05,
+   "text": " Nah, yang pertama, fungsi control and timing, dia sebagai yang meminta dan memeriksa status perangkat dari CPU ke modul I.O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.2003,
+   "compression_ratio": 1.576,
+   "no_speech_prob": 0.0119
+  },
+  {
+   "id": 75,
+   "start": 627.05,
+   "end": 636.35,
+   "text": " CPU memberikan request, oh ada, misalkan periksa, ada modul, ada I.O. yang nancep nggak?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2003,
+   "compression_ratio": 1.576,
+   "no_speech_prob": 0.0119
+  },
+  {
+   "id": 76,
+   "start": 636.35,
+   "end": 640.55,
+   "text": " Atau misalkan ada I.O. yang nancep, dia bisa kerja nggak?",
+   "temperature": 0.0,
+   "avg_logprob": -0.2003,
+   "compression_ratio": 1.576,
+   "no_speech_prob": 0.0119
+  },
+  {
+   "id": 77,
+   "start": 640.55,
+   "end": 644.07,
+   "text": " nah itu si ini, control and timing",
+   "temperature": 0.0,
+   "avg_logprob": -0.1235,
+   "compression_ratio": 1.636,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 78,
+   "start": 644.07,
+   "end": 648.41,
+   "text": " ya, sewaktu-waktu akan dilakukan pengecekan oleh CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1235,
+   "compression_ratio": 1.636,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 79,
+   "start": 648.41,
+   "end": 653.55,
+   "text": " oke, kemudian modul I-O memberi jawaban",
+   "temperature": 0.0,
+   "avg_logprob": -0.1235,
+   "compression_ratio": 1.636,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 80,
+   "start": 653.55,
+   "end": 656.73,
+   "text": " oke, bisa, perangkatnya bisa dipakai",
+   "temperature": 0.0,
+   "avg_logprob": -0.1235,
+   "compression_ratio": 1.636,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 81,
+   "start": 656.73,
+   "end": 658.45,
+   "text": " atau misalkan portnya sedang kosong",
+   "temperature": 0.0,
+   "avg_logprob": -0.1235,
+   "compression_ratio": 1.636,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 82,
+   "start": 658.45,
+   "end": 665.09,
+   "text": " oke, nah kemudian ngasih informasi apabila perangkat eksternal telah siap untuk transfer data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1235,
+   "compression_ratio": 1.636,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 83,
+   "start": 665.09,
+   "end": 668.29,
+   "text": " ya, jadi peripheralnya siap untuk transfer data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1235,
+   "compression_ratio": 1.636,
+   "no_speech_prob": 0.0032
+  },
+  {
+   "id": 84,
+   "start": 668.29,
+   "end": 673.41,
+   "text": " maka CPU akan mengirimkan perintah ke modul I-O",
+   "temperature": 0.0,
+   "avg_logprob": -0.1742,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.0014
+  },
+  {
+   "id": 85,
+   "start": 673.41,
+   "end": 680.13,
+   "text": " kemudian modul I-O akan menerima paket data dengan panjang tertentu dari peripheral",
+   "temperature": 0.0,
+   "avg_logprob": -0.1742,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.0014
+  },
+  {
+   "id": 86,
+   "start": 680.13,
+   "end": 683.93,
+   "text": " misalkan panjangnya 16 bit tadi dari keyboard",
+   "temperature": 0.0,
+   "avg_logprob": -0.1742,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.0014
+  },
+  {
+   "id": 87,
+   "start": 683.93,
+   "end": 690.63,
+   "text": " sementara CPU-nya misalkan bisa mengolah cuma 8 bit",
+   "temperature": 0.0,
+   "avg_logprob": -0.1742,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.0014
+  },
+  {
+   "id": 88,
+   "start": 690.63,
+   "end": 693.55,
+   "text": " diantrikan, gantian yang masuk ke CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1742,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.0014
+  },
+  {
+   "id": 89,
+   "start": 693.55,
+   "end": 697.57,
+   "text": " ini adalah proses sinkronisasi",
+   "temperature": 0.0,
+   "avg_logprob": -0.1742,
+   "compression_ratio": 1.56,
+   "no_speech_prob": 0.0014
+  },
+  {
+   "id": 90,
+   "start": 697.57,
+   "end": 702.75,
+   "text": " sehingga semua data itu bisa diterima oleh CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1754,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 91,
+   "start": 702.75,
+   "end": 708.21,
+   "text": " oke, nah yang kedua ini adalah transducer",
+   "temperature": 0.0,
+   "avg_logprob": -0.1754,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 92,
+   "start": 708.21,
+   "end": 713.29,
+   "text": " ya, data to and from environment",
+   "temperature": 0.0,
+   "avg_logprob": -0.1754,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 93,
+   "start": 713.29,
+   "end": 716.11,
+   "text": " ke atau dari environment",
+   "temperature": 0.0,
+   "avg_logprob": -0.1754,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 94,
+   "start": 716.11,
+   "end": 721.93,
+   "text": " nah, transfer data ini tidak akan lepas dari penggunaan sistem bus",
+   "temperature": 0.0,
+   "avg_logprob": -0.1754,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 95,
+   "start": 721.93,
+   "end": 727.17,
+   "text": " ya maka interaksi CPU dan modul IO akan melibatkan kontrol dan pewaktuan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1754,
+   "compression_ratio": 1.546,
+   "no_speech_prob": 0.0025
+  },
+  {
+   "id": 96,
+   "start": 727.17,
+   "end": 730.01,
+   "text": " ya, yakni istilahnya bus arbitration",
+   "temperature": 0.0,
+   "avg_logprob": -0.1683,
+   "compression_ratio": 1.535,
+   "no_speech_prob": 0.0011
+  },
+  {
+   "id": 97,
+   "start": 730.01,
+   "end": 735.69,
+   "text": " nah, transducer yang dilakukan pertama kali adalah command decoding",
+   "temperature": 0.0,
+   "avg_logprob": -0.1683,
+   "compression_ratio": 1.535,
+   "no_speech_prob": 0.0011
+  },
+  {
+   "id": 98,
+   "start": 735.69,
+   "end": 739.95,
+   "text": " yakni modul I-O menerima perintah dari CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1683,
+   "compression_ratio": 1.535,
+   "no_speech_prob": 0.0011
+  },
+  {
+   "id": 99,
+   "start": 739.95,
+   "end": 744.17,
+   "text": " untuk dikirimkan sebagai sinyalnya bus control",
+   "temperature": 0.0,
+   "avg_logprob": -0.1683,
+   "compression_ratio": 1.535,
+   "no_speech_prob": 0.0011
+  },
+  {
+   "id": 100,
+   "start": 744.17,
+   "end": 750.59,
+   "text": " ya, misalkan CPU itu ngirim ke CD-ROM misalkan",
+   "temperature": 0.0,
+   "avg_logprob": -0.1683,
+   "compression_ratio": 1.535,
+   "no_speech_prob": 0.0011
+  },
+  {
+   "id": 101,
+   "start": 750.59,
+   "end": 752.57,
+   "text": " komputernya ada CD-ROMnya",
+   "temperature": 0.0,
+   "avg_logprob": -0.1683,
+   "compression_ratio": 1.535,
+   "no_speech_prob": 0.0011
+  },
+  {
+   "id": 102,
+   "start": 752.57,
+   "end": 756.85,
+   "text": " oke, kamu bisa melakukan operasi baca data",
+   "temperature": 0.0,
+   "avg_logprob": -0.1683,
+   "compression_ratio": 1.535,
+   "no_speech_prob": 0.0011
+  },
+  {
+   "id": 103,
+   "start": 756.85,
+   "end": 786.85,
+   "text": " tulis data ya atau memformat data oke nah pertukarannya itu melalui data bus kemudian status reporting yaitu melaporkan kondisi jadi perangkat I-O itu juga harus melaporkan kondisi melewati modul I-O jadi modul I-O nya meriksa oh kamu baik-baik saja MOS nya baik-baik saja MOS nya rusak nah kemudian itu diinformasikan ke CPU",
+   "temperature": 0.0,
+   "avg_logprob": -0.1833,
+   "compression_ratio": 1.757,
+   "no_speech_prob": 0.0027
+  },
+  {
+   "id": 104,
+   "start": 786.85,
+   "end": 816.85,
+   "text": " nah kemudian yang terakhir ini adalah address recognition bahwa peralatan atau komponen position komputer dapat dihubungi atau dipanggil maka harus memiliki alamat yang unik biasanya kita kenal sama port USB ke 1, port USB ke 2 nah ini sebagai address recognition",
+   "temperature": 0.0,
+   "avg_logprob": -0.1628,
+   "compression_ratio": 1.565,
+   "no_speech_prob": 0.0057
+  },
+  {
+   "id": 105,
+   "start": 816.85,
+   "end": 846.85,
+   "text": " alamat oh dia ada di alamat ke satu ada di alamat kedua ya taunya dari mana ya dari address recognition ini sehingga setiap modul IO harus tahu ya siapa yang lagi nancep di dalamnya oke nah yang terakhir ini adalah buffer itu sendiri",
+   "temperature": 0.0,
+   "avg_logprob": -0.2223,
+   "compression_ratio": 1.607,
+   "no_speech_prob": 0.0112
+  },
+  {
+   "id": 106,
+   "start": 846.85,
+   "end": 858.17,
+   "text": " untuk berhubungan dengan perbedaan laju transfer data dari perangkat dengan kecepatan pengolahan CPU yang mentranslasikan dan ngontrol waktu",
+   "temperature": 0.0,
+   "avg_logprob": -0.1397,
+   "compression_ratio": 1.581,
+   "no_speech_prob": 0.0026
+  },
+  {
+   "id": 107,
+   "start": 858.17,
+   "end": 871.73,
+   "text": " oke, misalkan CPU-nya bisa mengolah 8 bit, tapi keyboardnya ternyata datanya 16, ya dibagi 8, 8, yang mentranslasikan 8 sama 8 yang tadi adalah si buffer",
+   "temperature": 0.0,
+   "avg_logprob": -0.1397,
+   "compression_ratio": 1.581,
+   "no_speech_prob": 0.0026
+  },
+  {
+   "id": 108,
+   "start": 871.73,
+   "end": 890.04,
+   "text": " Oke, fungsi terakhir adalah deteksi kesalahan. Apabila pada perangkat peripheral terdapat masalah yang tidak dapat dieksekusi, modul I-O harus melaporkan kesalahan data tersebut.",
+   "temperature": 0.0,
+   "avg_logprob": -0.157,
+   "compression_ratio": 1.38,
+   "no_speech_prob": 0.0115
+  },
+  {
+   "id": 109,
+   "start": 890.04,
+   "end": 914.04,
+   "text": " Oke, pada bab ini telah kita bahas mulai generic model of an I-O module, jadi model umum I-O yang bisa diterima oleh CPU, dan hubungannya dengan sistem bus, kemudian perangkat I-O eksternal, dan struktur modul I-O.",
+   "temperature": 0.0,
+   "avg_logprob": -0.1839,
+   "compression_ratio": 1.408,
+   "no_speech_prob": 0.0124
+  },
+  {
+   "id": 110,
+   "start": 914.04,
+   "end": 929.04,
+   "text": " Oke, sekian bab input output bagian ke satu, terima kasih atas perhatiannya, saya akhiri, wassalamualaikum warahmatullahi wabarakatuh",
+   "temperature": 0.0,
+   "avg_logprob": -0.1933,
+   "compression_ratio": 1.304,
+   "no_speech_prob": 0.0012
+  }
+ ]
+}

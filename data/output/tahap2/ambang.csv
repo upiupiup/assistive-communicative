@@ -1,0 +1,3 @@
+﻿kode,WER %,WER <= 25%,blok dengan WER <= 25%,RTF,RTF <= 1
+T1-E,4.63,True,52/54,0.1619,True
+T2,9.03,True,50/54,0.1993,True

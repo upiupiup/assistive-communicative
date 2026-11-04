@@ -1,0 +1,106 @@
+{
+ "nama": "T2",
+ "model": "large-v3",
+ "device": "cuda",
+ "compute_type": "float16",
+ "parameter": {
+  "language": "id",
+  "task": "transcribe",
+  "beam_size": 5,
+  "temperature": [
+   0.0,
+   0.2,
+   0.4,
+   0.6,
+   0.8,
+   1.0
+  ],
+  "vad_filter": true,
+  "condition_on_previous_text": false,
+  "word_timestamps": false
+ },
+ "ulangan": 3,
+ "rekaman": [
+  {
+   "file_id": "AOK-04",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\AOK-04.wav",
+   "durasi": 1171.989,
+   "parameter": {
+    "hotwords": "ALU, aritmatika, ARM, arsitektur, biner, bit, branch, buffer, bus, byte, cache, chip, CISC, cloud computing, cluster, control unit, core, CPU, disk, DMA, DRAM, exponent, fetch, flash memory, floating point, format instruksi, gate, I/O, instruksi, instruksi mesin, integer, interconnection, interface, interupsi, ISA, koherensi cache, main memory, memori, memori virtual, microprocessor, mode pengalamatan, modul I/O, multicore, multithreading, operand, operating system, organisasi, page table, penjadwalan, peripheral, physical address, pipeline, prosesor, RAID, register, register file, RISC, ROM, set instruksi, significand, SMP, stack, superscalar, tag, thread, TLB, track, virtual address, waktu akses, word, x86"
+   }
+  },
+  {
+   "file_id": "AOK-07",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\AOK-07.wav",
+   "durasi": 933.148,
+   "parameter": {
+    "hotwords": "ALU, aritmatika, ARM, arsitektur, biner, bit, branch, buffer, bus, byte, cache, chip, CISC, cloud computing, cluster, control unit, core, CPU, disk, DMA, DRAM, exponent, fetch, flash memory, floating point, format instruksi, gate, I/O, instruksi, instruksi mesin, integer, interconnection, interface, interupsi, ISA, koherensi cache, main memory, memori, memori virtual, microprocessor, mode pengalamatan, modul I/O, multicore, multithreading, operand, operating system, organisasi, page table, penjadwalan, peripheral, physical address, pipeline, prosesor, RAID, register, register file, RISC, ROM, set instruksi, significand, SMP, stack, superscalar, tag, thread, TLB, track, virtual address, waktu akses, word, x86"
+   }
+  },
+  {
+   "file_id": "APS-03",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\APS-03.wav",
+   "durasi": 642.403,
+   "parameter": {
+    "hotwords": "abstraction, adaptability, aggregation, aktor, aliran alternatif, aliran utama, ambigu, analisis, association, atribut, behavioral, boundary, class, class diagram, cohesion, composition, consistency, constraint, creational, data warehouse, design, design pattern, diagram, elisitasi, entity, entity relationship diagram, error message, façade, generalisasi, GoF, include, inheritance, instance, interface, interface design, kebutuhan, komponen, kondisi akhir, kopling, methods, model, objek, observer, OO, operasi, package, pemodelan, pengembangan perangkat lunak, pengujian, PL, presentation, problem domain, prototyping, RE, real-time, reuse, sequence diagram, singleton, sistem, skenario, solution domain, SRS, stakeholder, statechart diagram, sub-actors, sub-sistem, superclass, UI, UML, use case, use case diagram, validasi, verifikasi"
+   }
+  },
+  {
+   "file_id": "APS-05",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\APS-05.wav",
+   "durasi": 581.521,
+   "parameter": {
+    "hotwords": "abstraction, adaptability, aggregation, aktor, aliran alternatif, aliran utama, ambigu, analisis, association, atribut, behavioral, boundary, class, class diagram, cohesion, composition, consistency, constraint, creational, data warehouse, design, design pattern, diagram, elisitasi, entity, entity relationship diagram, error message, façade, generalisasi, GoF, include, inheritance, instance, interface, interface design, kebutuhan, komponen, kondisi akhir, kopling, methods, model, objek, observer, OO, operasi, package, pemodelan, pengembangan perangkat lunak, pengujian, PL, presentation, problem domain, prototyping, RE, real-time, reuse, sequence diagram, singleton, sistem, skenario, solution domain, SRS, stakeholder, statechart diagram, sub-actors, sub-sistem, superclass, UI, UML, use case, use case diagram, validasi, verifikasi"
+   }
+  },
+  {
+   "file_id": "IMK-02",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\IMK-02.wav",
+   "durasi": 1122.522,
+   "parameter": {
+    "hotwords": "affordance, alignment, auditory, batch processing, buttons, colour, colour blindness, computer, consistency, constraints, deduction, design, design process, design rationale, design rules, dialogue box, direct manipulation, documentation, dpi, earcons, efficiency, emotion, ergonomics, error, evaluation, execution/evaluation loop, feedback, flexibility, fonts, gesture, goal, golden rules, grouping, guidelines, haptic, HCI, human, hypertext, icons, interaction, interactive, interface, iterative design, keyboard, layout, LCD, life cycle, LTM, memory, menu, mode, mouse, natural language, navigation, network, palettes, paradigm, pixels, pointer, principles, problem solving, prototypes, prototyping, RAM, requirements, resolution, robustness, satisfaction, scanners, scenarios, screen, semantic, short-term memory, spreadsheets, standards, task, timesharing, UI, usability, user, user support, visual, VR, web, white space, widget, WIMP, windows, WYSIWYG"
+   }
+  },
+  {
+   "file_id": "JARNIR-03",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\JARNIR-03.wav",
+   "durasi": 1089.994,
+   "parameter": {
+    "hotwords": "802.11, ack, agregasi, amplitudo, AP, bandwidth, bluetooth, CDMA, data rate, downlink, DSSS, EPS bearer, fasa, fragmentasi, frame, frekuensi, gelombang pembawa, IEEE 802.11ax, IEEE 802.15.1, IEEE 802.15.4, interferensi, jaringan nirkabel, jaringan seluler, join-request, kanal, LoRa, LoRaWAN, LTE, MAC, MAC layer, MIMO, modulasi, modulasi digital, modulasi multi carrier, multiple access, multiplexing, nirkabel, node, OFDM, OFDMA, OTAA, PHY, protokol, QoS, RTS/CTS, SC-FDMA, sinyal, spektrum, sub carrier, transmisi, UE, uplink, Wi-Fi, ZigBee"
+   }
+  },
+  {
+   "file_id": "PKK-02",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\PKK-02.wav",
+   "durasi": 1012.014,
+   "parameter": {
+    "hotwords": "abstraksi, AI, algoritma, analytics, aplikasi, basis data, big data, booting, brainware, bus, cloud, cognitive technology, computational thinking, control unit, CPU, critical thinking, daftar isi, DBMS, dekomposisi, DOS, e-learning, etika, input, intel, internet, Internet of Things, IT support, jaringan, jaringan komputer, keamanan, kebutuhan, keilmuan komputer, komputasi kuantum, komputer, konklusi, kutipan, LMS, logika, memecahkan masalah, memori, model, nirkabel, output, penyimpanan, perangkat keras, perangkat lunak, pola, printer, profesi, prototype, RAM, repository, RPL, server, siklus hidup pengembangan sistem, sistem informasi, sistem komputer, sistem operasi, system thinking, TI, types of thinking, windows"
+   }
+  },
+  {
+   "file_id": "RPL-07",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\RPL-07.wav",
+   "durasi": 1214.014,
+   "parameter": {
+    "hotwords": "abstraksi, acceptance testing, agile, ambiguous, architectural design, AUP, complete, consistent, constraints, custom software, customer, delivery, design, developer, development team, DSDM, elisitasi, features, implementation, interviewing, iterative, kebutuhan, kualitas perangkat lunak, manajemen kebutuhan, model, model SDLC, natural language, notasi, pemodelan, performance, pernyataan kebutuhan, personas, phase, problem, problem domain, product backlog, product manager, product roadmap, product vision, proses PL, prototyping, rekayasa kebutuhan, review, RPL, RUP, scenarios, scrum, software, software development, software products, software validation, solution domain, spesifikasi kebutuhan, sprint, SRS, stakeholder, system requirements, testing, traceability, UML, user, user interface, user stories, V&V, v-model, validasi, verification, verifikasi kebutuhan, waterfall, XP"
+   }
+  },
+  {
+   "file_id": "RPL-10",
+   "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\RPL-10.wav",
+   "durasi": 1008.014,
+   "parameter": {
+    "hotwords": "abstraksi, acceptance testing, agile, ambiguous, architectural design, AUP, complete, consistent, constraints, custom software, customer, delivery, design, developer, development team, DSDM, elisitasi, features, implementation, interviewing, iterative, kebutuhan, kualitas perangkat lunak, manajemen kebutuhan, model, model SDLC, natural language, notasi, pemodelan, performance, pernyataan kebutuhan, personas, phase, problem, problem domain, product backlog, product manager, product roadmap, product vision, proses PL, prototyping, rekayasa kebutuhan, review, RPL, RUP, scenarios, scrum, software, software development, software products, software validation, solution domain, spesifikasi kebutuhan, sprint, SRS, stakeholder, system requirements, testing, traceability, UML, user, user interface, user stories, V&V, v-model, validasi, verification, verifikasi kebutuhan, waterfall, XP"
+   }
+  }
+ ],
+ "pemanasan": {
+  "path": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\processed\\audio\\APS-05.wav",
+  "detik": 120,
+  "parameter": {
+   "hotwords": "abstraction, adaptability, aggregation, aktor, aliran alternatif, aliran utama, ambigu, analisis, association, atribut, behavioral, boundary, class, class diagram, cohesion, composition, consistency, constraint, creational, data warehouse, design, design pattern, diagram, elisitasi, entity, entity relationship diagram, error message, façade, generalisasi, GoF, include, inheritance, instance, interface, interface design, kebutuhan, komponen, kondisi akhir, kopling, methods, model, objek, observer, OO, operasi, package, pemodelan, pengembangan perangkat lunak, pengujian, PL, presentation, problem domain, prototyping, RE, real-time, reuse, sequence diagram, singleton, sistem, skenario, solution domain, SRS, stakeholder, statechart diagram, sub-actors, sub-sistem, superclass, UI, UML, use case, use case diagram, validasi, verifikasi"
+  }
+ },
+ "arsip_mentah": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\output\\tahap2\\mentah",
+ "log_waktu": "c:\\Users\\Aufii\\Documents\\Informatika\\OTHERS\\8. RISET-SKRIPSI\\assistive-communicative\\data\\output\\tahap2\\waktu_transkripsi.jsonl"
+}

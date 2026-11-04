@@ -22,6 +22,11 @@ Urutan kerja:
 Setiap pasangan (ulangan, rekaman) yang selesai langsung ditulis satu baris ke
 berkas JSONL, sehingga bila proses terputus, menjalankan ulang hanya
 mengerjakan yang belum ada. Pemanasan tetap dijalankan setiap kali model dimuat.
+
+Parameter decoding diambil dari ``cfg["parameter"]``. Rekaman atau pemanasan
+boleh membawa kunci ``"parameter"`` sendiri yang ditimpakan di atasnya. Tahap 2
+memakainya untuk ``hotwords`` yang berbeda per mata kuliah, sehingga seluruh
+rekaman tetap dikerjakan dalam satu proses dengan satu kali muat model.
 """
 
 from __future__ import annotations
@@ -33,6 +38,22 @@ import sys
 import threading
 import time
 from pathlib import Path
+
+
+def jalankan_terpisah(cfg: dict, path_cfg: str | Path, cwd: str | Path, python: str = sys.executable) -> None:
+    """Tulis konfigurasi ke path_cfg lalu jalankan worker ini di proses terpisah.
+
+    Keluaran worker diteruskan baris demi baris ke notebook. Galat bila worker gagal.
+    """
+    import os
+    Path(path_cfg).write_text(json.dumps(cfg, ensure_ascii=False, indent=1), encoding="utf-8")
+    proses = subprocess.Popen([python, "-m", "src.transkripsi", str(path_cfg)], cwd=cwd, text=True,
+                              encoding="utf-8", errors="replace", stdout=subprocess.PIPE,
+                              stderr=subprocess.STDOUT, env={**os.environ, "PYTHONIOENCODING": "utf-8"})
+    for baris in proses.stdout:
+        print(baris, end="")
+    if proses.wait() != 0:
+        raise RuntimeError(f"worker {cfg['nama']} berhenti dengan galat")
 
 
 def vram_terpakai_mb() -> int:
@@ -121,7 +142,7 @@ def jalankan(cfg: dict, buat_model=None) -> None:
     # WAV hasil praproses sudah 16 kHz mono PCM 16-bit, jadi cukup dibaca sebagai float32.
     audio_pem, sr = sf.read(pem["path"], dtype="float32", frames=int(pem["detik"] * 16000))
     assert sr == 16000, f"{pem['path']}: sampling rate {sr}"
-    _, pem_s, _ = transkripsi(model, audio_pem, cfg["parameter"])
+    _, pem_s, _ = transkripsi(model, audio_pem, {**cfg["parameter"], **pem.get("parameter", {})})
     henti.set()
     th.join()
     print(f"[{nama}] pemanasan {pem['detik']:.0f} detik audio selesai dalam {pem_s:.1f} detik", flush=True)
@@ -130,12 +151,13 @@ def jalankan(cfg: dict, buat_model=None) -> None:
             "vram_awal_mb": vram_awal, "vram_puncak_mb": puncak[0]}
 
     for u, r in tugas:
-        segmen, detik, info = transkripsi(model, r["path"], cfg["parameter"])
+        param = {**cfg["parameter"], **r.get("parameter", {})}
+        segmen, detik, info = transkripsi(model, r["path"], param)
         fid = r["file_id"]
         if u == 1:
             (arsip / f"{fid}.json").write_text(json.dumps({
                 "file_id": fid, "konfigurasi": nama, "model": cfg["model"],
-                "compute_type": cfg["compute_type"], "parameter": cfg["parameter"],
+                "compute_type": cfg["compute_type"], "parameter": param,
                 "info": info, "segmen": segmen}, ensure_ascii=False, indent=1), encoding="utf-8")
         baris = {"konfigurasi": nama, "ulangan": u, "file_id": fid,
                  "durasi_s": r["durasi"], "proses_s": round(detik, 3),

@@ -1,0 +1,5 @@
+﻿,WER,WER,WER,CER,CER,CER,TTER,TTER,TTER,rekaman
+kode,T1-E,T2,selisih,T1-E,T2,selisih,T1-E,T2,selisih,
+jalur_acuan,,,,,,,,,,
+whisper,0.82,5.8,4.99,0.24,3.21,2.97,3.88,9.12,5.25,5
+wav2vec2,8.36,12.19,3.83,3.09,6.04,2.95,6.99,12.67,5.67,4

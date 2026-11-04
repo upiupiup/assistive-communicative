@@ -1,0 +1,1150 @@
+﻿file_id,i0,mata_kuliah,blok,acuan_mulai,entri_id,bentuk_kanonik,istilah_acuan,hipotesis_dasar,hipotesis_perlakuan,benar_dasar,benar_perlakuan,status,di_hotwords
+AOK-04,16,AOK,0,17.02,AOK-080,memori,memory,memory,memory,True,True,tetap benar,True
+AOK-04,17,AOK,0,17.02,AOK-017,cache,cache memory,case memory,case jadi memory,False,False,tetap salah,True
+AOK-04,19,AOK,0,19.54,AOK-017,cache,cache,case,case,False,False,tetap salah,True
+AOK-04,30,AOK,0,30.04,AOK-080,memori,memory,memory,memori,True,False,dirusak,True
+AOK-04,31,AOK,0,30.04,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,36,AOK,0,37.0,AOK-101,organisasi komputer,organisasi,organisasi,organisasi,True,True,tetap benar,True
+AOK-04,37,AOK,0,39.34,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,45,AOK,0,43.5,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,52,AOK,0,49.5,AOK-111,prosesor,prosesor,prosesor,prosesor,True,True,tetap benar,True
+AOK-04,56,AOK,0,51.54,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,59,AOK,0,54.84,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,77,AOK,0,69.02,AOK-080,memori,memory,memory,memori,True,False,dirusak,True
+AOK-04,78,AOK,0,69.02,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,88,AOK,0,75.22,AOK-080,memori,memory,memory,memori,True,False,dirusak,True
+AOK-04,104,AOK,0,86.6,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,110,AOK,0,89.9,AOK-069,internal memory,memori internal,memori internal,memori internal,True,True,tetap benar,False
+AOK-04,115,AOK,0,89.9,AOK-076,main memory,main memory,main memori,main memory,False,True,diperbaiki,True
+AOK-04,118,AOK,0,93.48,AOK-076,main memory,memori utama,memori utama,memori utama,True,True,tetap benar,True
+AOK-04,122,AOK,0,93.48,AOK-080,memori,memory,memori,memory,False,True,diperbaiki,True
+AOK-04,123,AOK,0,96.16,AOK-111,prosesor,prosesor,prosesor,prosesor,True,True,tetap benar,True
+AOK-04,125,AOK,0,96.16,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,129,AOK,0,100.18,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,133,AOK,0,100.18,AOK-115,register,register,register,register,True,True,tetap benar,True
+AOK-04,135,AOK,0,103.86,AOK-115,register,register,register,register,True,True,tetap benar,True
+AOK-04,141,AOK,0,103.86,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,150,AOK,0,112.14,AOK-115,register,register,register,register,True,True,tetap benar,True
+AOK-04,152,AOK,0,112.14,AOK-017,cache,memori cache,memori case,memori case,False,False,tetap salah,True
+AOK-04,165,AOK,0,123.46,AOK-069,internal memory,internal memory,internal memory,internal memory,True,True,tetap benar,False
+AOK-04,171,AOK,0,128.34,AOK-069,internal memory,internal memory,internal memory,internal memory,True,True,tetap benar,False
+AOK-04,175,AOK,0,132.02,AOK-115,register,register,register,register,True,True,tetap benar,True
+AOK-04,177,AOK,0,133.4,AOK-017,cache,cache memory,case memory,cache memory,False,True,diperbaiki,True
+AOK-04,181,AOK,0,133.4,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,198,AOK,0,145.52,AOK-047,external memory,external memory,external memory,external memory,True,True,tetap benar,False
+AOK-04,203,AOK,0,147.3,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,215,AOK,0,157.02,AOK-054,I/O,io,iho,io,False,True,diperbaiki,True
+AOK-04,223,AOK,0,163.34,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,228,AOK,0,163.34,AOK-016,byte,byte,byte,byte,True,True,tetap benar,True
+AOK-04,241,AOK,1,181.26,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,244,AOK,1,181.26,AOK-069,internal memory,memori internal,memori internal,memori internal,True,True,tetap benar,False
+AOK-04,261,AOK,1,193.26,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,263,AOK,1,193.26,AOK-054,I/O,input output,input output,input output,True,True,tetap benar,True
+AOK-04,268,AOK,1,193.26,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,272,AOK,1,207.7,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,274,AOK,1,209.62,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,279,AOK,1,211.82,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,281,AOK,1,213.54,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,309,AOK,1,229.64,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,320,AOK,1,239.68,AOK-080,memori,memory,memory,memori,True,False,dirusak,True
+AOK-04,329,AOK,1,245.48,AOK-038,disk,disk,disk,disk,True,True,tetap benar,True
+AOK-04,359,AOK,1,263.74,AOK-038,disk,disk,disk,disk,True,True,tetap benar,True
+AOK-04,373,AOK,1,278.34,AOK-038,disk,disk,disk,disk,True,True,tetap benar,True
+AOK-04,377,AOK,1,279.66,AOK-114,random access,random access,random access,random access,True,True,tetap benar,False
+AOK-04,385,AOK,1,283.9,AOK-113,RAM,ram,ram,ram,True,True,tetap benar,False
+AOK-04,387,AOK,1,283.9,AOK-120,ROM,rom,rom,rom,True,True,tetap benar,True
+AOK-04,395,AOK,1,289.68,AOK-113,RAM,ram,ram,ram,True,True,tetap benar,False
+AOK-04,397,AOK,1,289.68,AOK-120,ROM,rom,rom,rom,True,True,tetap benar,True
+AOK-04,408,AOK,1,295.72,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,427,AOK,1,309.42,AOK-017,cache,cache memory,cache memory,cache memori,True,False,dirusak,True
+AOK-04,431,AOK,1,317.7,AOK-080,memori,memory,memory,memori,True,False,dirusak,True
+AOK-04,447,AOK,1,328.56,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,453,AOK,1,331.1,AOK-001,access time,waktu akses,waktu akses,waktu akses,True,True,tetap benar,True
+AOK-04,465,AOK,1,336.86,AOK-080,memori,memory,memory,memori,True,False,dirusak,True
+AOK-04,480,AOK,1,348.68,AOK-080,memori,memory,memory,memori,True,False,dirusak,True
+AOK-04,486,AOK,1,352.12,AOK-142,transfer rate,transfer rate,transfer rate,transfer rate,True,True,tetap benar,False
+AOK-04,490,AOK,1,353.54,AOK-142,transfer rate,kecepatan transfer,kecepatan transfer,kecepatan transfer,True,True,tetap benar,False
+AOK-04,494,AOK,1,358.12,AOK-054,I/O,input output,input output,input output,True,True,tetap benar,True
+AOK-04,501,AOK,2,362.94,AOK-080,memori,memori,memori,,True,False,dirusak,True
+AOK-04,506,AOK,2,369.46,AOK-081,memory cell,sel memori,sel memori,,True,False,dirusak,False
+AOK-04,509,AOK,2,373.0,AOK-125,semiconductor memory,memori semikonduktor,memori semikonduktor,,True,False,dirusak,False
+AOK-04,511,AOK,2,374.68,AOK-080,memori,memori,memori,,True,False,dirusak,True
+AOK-04,513,AOK,2,374.68,AOK-080,memori,memori,memori,,True,False,dirusak,True
+AOK-04,516,AOK,2,377.74,AOK-080,memori,memori,memori,,True,False,dirusak,True
+AOK-04,519,AOK,2,379.72,AOK-125,semiconductor memory,memori semikonduktor,memori semikonduktor,,True,False,dirusak,False
+AOK-04,526,AOK,2,384.52,AOK-080,memori,memori,memori,,True,False,dirusak,True
+AOK-04,527,AOK,2,384.52,AOK-113,RAM,ram,ram,,True,False,dirusak,False
+AOK-04,529,AOK,2,387.18,AOK-120,ROM,rom,rom,headlines,True,False,dirusak,True
+AOK-04,533,AOK,2,387.92,AOK-017,cache,cache memory,cache memory,cache memori,True,False,dirusak,True
+AOK-04,539,AOK,2,391.18,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,547,AOK,2,398.32,AOK-038,disk,disk,disk,disk,True,True,tetap benar,True
+AOK-04,556,AOK,2,403.18,AOK-120,ROM,rom,rom,rom,True,True,tetap benar,True
+AOK-04,566,AOK,2,411.08,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,568,AOK,2,412.7,AOK-147,volatile,mudah menguap,mudah menguap,mudah menguap,True,True,tetap benar,False
+AOK-04,571,AOK,2,414.74,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,577,AOK,2,417.26,AOK-147,volatile,volatile,volatile,volatile,True,True,tetap benar,False
+AOK-04,578,AOK,2,419.56,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,583,AOK,2,421.04,AOK-147,volatile,volatile,volatile,volatile,True,True,tetap benar,False
+AOK-04,586,AOK,2,423.12,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,592,AOK,2,426.92,AOK-147,volatile,volatile,volatile,volatile,True,True,tetap benar,False
+AOK-04,602,AOK,2,432.9,AOK-147,volatile,volatile,volatile,volatile,True,True,tetap benar,False
+AOK-04,605,AOK,2,434.74,AOK-147,volatile,volatile,volatile,volatile,True,True,tetap benar,False
+AOK-04,612,AOK,2,438.68,AOK-147,volatile,volatile,volatile,volatile,True,True,tetap benar,False
+AOK-04,613,AOK,2,441.1,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,619,AOK,2,444.42,AOK-120,ROM,rom,rom,rom,True,True,tetap benar,True
+AOK-04,623,AOK,2,446.22,AOK-120,ROM,rom,rom,rom,True,True,tetap benar,True
+AOK-04,626,AOK,2,446.22,AOK-120,ROM,rom,rom,di rom,True,False,dirusak,True
+AOK-04,635,AOK,2,452.04,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,636,AOK,2,454.1,AOK-113,RAM,ram,ram,ram,True,True,tetap benar,False
+AOK-04,640,AOK,2,454.1,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,651,AOK,2,462.3,AOK-113,RAM,ram,ram,ram,True,True,tetap benar,False
+AOK-04,652,AOK,2,462.3,AOK-114,random access,random access,random access,random access,True,True,tetap benar,False
+AOK-04,654,AOK,2,464.52,AOK-080,memori,memori,memori,memory,True,False,dirusak,True
+AOK-04,656,AOK,2,464.52,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,661,AOK,2,468.24,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,673,AOK,2,478.02,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,677,AOK,2,478.72,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,680,AOK,2,481.68,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,689,AOK,2,487.9,AOK-115,register,register,register,register,True,True,tetap benar,True
+AOK-04,694,AOK,2,487.9,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,695,AOK,2,487.9,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,700,AOK,2,490.16,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,702,AOK,2,490.16,AOK-080,memori,memori,memori,memory,True,False,dirusak,True
+AOK-04,719,AOK,2,501.32,AOK-080,memori,memory,memory,memori,True,False,dirusak,True
+AOK-04,721,AOK,2,501.32,AOK-038,disk,disk,disk,disk,True,True,tetap benar,True
+AOK-04,723,AOK,2,504.3,AOK-120,ROM,rom,rom,rom,True,True,tetap benar,True
+AOK-04,729,AOK,2,506.02,AOK-113,RAM,ram,ram,ram,True,True,tetap benar,False
+AOK-04,785,AOK,3,540.02,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,805,AOK,3,554.06,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,812,AOK,3,559.92,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,815,AOK,3,561.62,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,820,AOK,3,563.52,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,830,AOK,3,569.7,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,837,AOK,3,577.54,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,842,AOK,3,583.52,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,846,AOK,3,585.44,AOK-017,cache,cache,case,case,False,False,tetap salah,True
+AOK-04,856,AOK,3,591.5,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,869,AOK,3,603.7,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,885,AOK,3,612.66,AOK-038,disk,disk,disk,disk,True,True,tetap benar,True
+AOK-04,886,AOK,3,612.66,AOK-017,cache,cache,case,case,False,False,tetap salah,True
+AOK-04,894,AOK,3,615.26,AOK-038,disk,disk,disk,disk,True,True,tetap benar,True
+AOK-04,901,AOK,3,621.3,AOK-017,cache,cache memory,cache memory,cache memory,True,True,tetap benar,True
+AOK-04,903,AOK,3,627.7,AOK-017,cache,cache memory,cache memory,cache memory,True,True,tetap benar,True
+AOK-04,910,AOK,3,627.7,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,920,AOK,3,633.64,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,924,AOK,3,633.64,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,925,AOK,3,640.5,AOK-017,cache,cache memory,cache memory,cache memory,True,True,tetap benar,True
+AOK-04,931,AOK,3,642.72,AOK-080,memori,memory,memory,memory,True,True,tetap benar,True
+AOK-04,935,AOK,3,648.56,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,943,AOK,3,653.68,AOK-113,RAM,ram,ram,ram,True,True,tetap benar,False
+AOK-04,946,AOK,3,655.44,AOK-113,RAM,ram,ram,ram,True,True,tetap benar,False
+AOK-04,953,AOK,3,659.86,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,956,AOK,3,663.5,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,960,AOK,3,665.08,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,966,AOK,3,668.36,AOK-113,RAM,ram,ram,ram,True,True,tetap benar,False
+AOK-04,980,AOK,3,681.08,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,984,AOK,3,681.08,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,986,AOK,3,683.02,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,990,AOK,3,685.14,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,993,AOK,3,686.96,AOK-113,RAM,ram,ram,ram,True,True,tetap benar,False
+AOK-04,1002,AOK,3,690.78,AOK-022,clock,clock,clock,clock,True,True,tetap benar,False
+AOK-04,1006,AOK,3,694.3,AOK-015,bus,bus,bus,bus,True,True,tetap benar,True
+AOK-04,1014,AOK,3,702.58,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1021,AOK,3,705.78,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,1033,AOK,3,713.92,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1038,AOK,4,720.72,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,1060,AOK,4,731.04,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1072,AOK,4,738.12,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1078,AOK,4,742.94,AOK-076,main memory,main memory,memory,main memory,False,True,diperbaiki,True
+AOK-04,1084,AOK,4,746.82,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,1091,AOK,4,748.74,AOK-080,memori,memory,memory,main memory,True,False,dirusak,True
+AOK-04,1094,AOK,4,752.58,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1104,AOK,4,756.84,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1105,AOK,4,758.84,AOK-080,memori,memori,memori,memory,True,False,dirusak,True
+AOK-04,1111,AOK,4,760.62,AOK-014,buffer,buffer,buffer,buffer,True,True,tetap benar,True
+AOK-04,1115,AOK,4,766.94,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,1117,AOK,4,766.94,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1120,AOK,4,768.48,AOK-148,word,word,word,word,True,True,tetap benar,True
+AOK-04,1133,AOK,4,778.94,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1143,AOK,4,787.18,AOK-148,word,word,word,word,True,True,tetap benar,True
+AOK-04,1147,AOK,4,791.58,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1157,AOK,4,795.88,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1171,AOK,4,802.5,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1175,AOK,4,809.8,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,1180,AOK,4,811.78,AOK-028,core,core,core,multicore,True,False,dirusak,True
+AOK-04,1183,AOK,4,811.78,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1189,AOK,4,811.78,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1199,AOK,4,822.58,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1206,AOK,4,822.58,AOK-014,buffer,buffering,buffering,buffering,True,True,tetap benar,True
+AOK-04,1209,AOK,4,831.22,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1212,AOK,4,831.22,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1227,AOK,4,838.96,AOK-014,buffer,buffer,buffer,membuffer,True,False,dirusak,True
+AOK-04,1229,AOK,4,838.96,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1241,AOK,4,848.96,AOK-014,buffer,buffer,buffer,membuffer,True,False,dirusak,True
+AOK-04,1245,AOK,4,848.96,AOK-028,core,core,core,core,True,True,tetap benar,True
+AOK-04,1254,AOK,4,848.96,AOK-014,buffer,buffering,buffering,buffering,True,True,tetap benar,True
+AOK-04,1257,AOK,4,854.96,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1294,AOK,4,865.96,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1300,AOK,4,865.96,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-04,1303,AOK,4,878.86,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1304,AOK,4,878.86,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,1307,AOK,4,878.86,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,1324,AOK,4,892.48,AOK-138,tag,tag,tag,tag,True,True,tetap benar,True
+AOK-04,1325,AOK,4,892.48,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,1330,AOK,4,892.48,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1333,AOK,4,899.74,AOK-017,cache,cache,cache,,True,False,dirusak,True
+AOK-04,1341,AOK,5,902.62,AOK-111,prosesor,prosesor,prosesor,prosesor,True,True,tetap benar,True
+AOK-04,1347,AOK,5,908.42,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1357,AOK,5,916.08,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,1366,AOK,5,918.82,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,1372,AOK,5,920.42,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1390,AOK,5,930.78,AOK-017,cache,cache memory,case memory,cache memory,False,True,diperbaiki,True
+AOK-04,1401,AOK,5,940.9,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1407,AOK,5,947.56,AOK-017,cache,cache memory,cache memory,cache memory,True,True,tetap benar,True
+AOK-04,1410,AOK,5,949.02,AOK-111,prosesor,prosesor,prosesor,prosesor,True,True,tetap benar,True
+AOK-04,1415,AOK,5,951.82,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1420,AOK,5,953.92,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1433,AOK,5,960.04,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1447,AOK,5,965.3,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1450,AOK,5,969.46,AOK-015,bus,bus,bus,bus,True,True,tetap benar,True
+AOK-04,1461,AOK,5,975.96,AOK-031,data bus,bus data,bus data,bus data,True,True,tetap benar,False
+AOK-04,1485,AOK,5,988.64,AOK-017,cache,cache,case,oke,False,False,tetap salah,True
+AOK-04,1488,AOK,5,992.3,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,1491,AOK,5,996.34,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,1504,AOK,5,1005.94,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,1523,AOK,5,1022.96,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1542,AOK,5,1031.86,AOK-028,core,core,core,multicore,True,False,dirusak,True
+AOK-04,1561,AOK,5,1043.8,AOK-028,core,core,core,core,True,True,tetap benar,True
+AOK-04,1564,AOK,5,1047.66,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,1568,AOK,5,1047.66,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,1569,AOK,5,1049.68,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-04,1582,AOK,5,1056.04,AOK-017,cache,cache,case,cache,False,True,diperbaiki,True
+AOK-04,1601,AOK,5,1068.24,AOK-111,prosesor,prosesor,prosesor,prosesor,True,True,tetap benar,True
+AOK-04,1626,AOK,6,1086.22,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1627,AOK,6,1086.22,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-04,1640,AOK,6,1096.56,AOK-017,cache,memori cache,memori case,memori cache,False,True,diperbaiki,True
+AOK-04,1665,AOK,6,1107.96,AOK-149,write back,write back,write back,write back,True,True,tetap benar,False
+AOK-04,1675,AOK,6,1113.22,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1678,AOK,6,1115.02,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1681,AOK,6,1115.02,AOK-149,write back,write back,write back,write back,True,True,tetap benar,False
+AOK-04,1685,AOK,6,1117.04,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1690,AOK,6,1118.82,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1695,AOK,6,1121.2,AOK-076,main memory,main memory,main memory,main memory,True,True,tetap benar,True
+AOK-04,1702,AOK,6,1124.4,AOK-076,main memory,main memory,main memory,main memory main memory,True,False,dirusak,True
+AOK-04,1709,AOK,6,1127.42,AOK-017,cache,cache,cache,cache,True,True,tetap benar,True
+AOK-04,1757,AOK,6,1160.12,AOK-017,cache,cache,kes,case,False,False,tetap salah,True
+AOK-07,9,AOK,0,1.78,AOK-007,arsitektur komputer,arsitektur,arsitektur,arsitektur,True,True,tetap benar,True
+AOK-07,11,AOK,0,1.78,AOK-101,organisasi komputer,organisasi komputer,organisasi komputer,organisasi komputer,True,True,tetap benar,True
+AOK-07,18,AOK,0,11.4,AOK-054,I/O,input output,input output,input output,True,True,tetap benar,True
+AOK-07,31,AOK,0,17.86,AOK-068,interface,antarmuka,antarmuka,antarmuka,True,True,tetap benar,True
+AOK-07,34,AOK,0,17.86,AOK-054,I/O,input output,input output,input output,True,True,tetap benar,True
+AOK-07,38,AOK,0,32.32,AOK-106,peripheral,peripheral,peripheral,peripheral,True,True,tetap benar,True
+AOK-07,57,AOK,0,40.02,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,60,AOK,0,47.92,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,64,AOK,0,47.92,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,68,AOK,0,55.0,AOK-054,I/O,input output,input output,input output,True,True,tetap benar,True
+AOK-07,71,AOK,0,55.0,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,83,AOK,0,55.0,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,87,AOK,0,55.0,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-07,89,AOK,0,77.08,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,108,AOK,0,85.28,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,123,AOK,0,92.92,AOK-106,peripheral,peripheral,peripheral,peripheral,True,True,tetap benar,True
+AOK-07,125,AOK,0,92.92,AOK-015,bus,bus,bus,bus,True,True,tetap benar,True
+AOK-07,128,AOK,0,98.42,AOK-054,I/O,input output,input output,input output,True,True,tetap benar,True
+AOK-07,135,AOK,0,98.42,AOK-085,microprocessor,mikroprosesor,mikroprosesor,microprocessor,True,False,dirusak,True
+AOK-07,138,AOK,0,104.08,AOK-085,microprocessor,mikroprosesor,mikroprosesor,microprocessor,True,False,dirusak,True
+AOK-07,145,AOK,0,108.88,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,157,AOK,0,108.88,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,158,AOK,0,108.88,AOK-111,prosesor,prosesor,prosesor,prosesor,True,True,tetap benar,True
+AOK-07,159,AOK,0,108.88,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-07,167,AOK,0,124.34,AOK-054,I/O,input output,input output,input output,True,True,tetap benar,True
+AOK-07,176,AOK,0,124.34,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,236,AOK,0,170.62,AOK-055,I/O module,io module,io module,io modul,True,False,dirusak,True
+AOK-07,255,AOK,1,180.32,AOK-015,bus,bus sistem,bus sistem,bus ya sistem,True,False,dirusak,True
+AOK-07,257,AOK,1,182.0,AOK-015,bus,bus,bus,bus,True,True,tetap benar,True
+AOK-07,270,AOK,1,189.98,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,272,AOK,1,189.98,AOK-080,memori,memory,memory,memori,True,False,dirusak,True
+AOK-07,277,AOK,1,196.48,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,284,AOK,1,196.48,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,286,AOK,1,196.48,AOK-080,memori,memori,memori,memori,True,True,tetap benar,True
+AOK-07,290,AOK,1,205.14,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,298,AOK,1,211.66,AOK-106,peripheral,piranti peripheral,piranti peripheral,piranti peripheral,True,True,tetap benar,True
+AOK-07,347,AOK,1,243.08,AOK-106,peripheral,piranti peripheral,piranti peripheral,piranti peripheral,True,True,tetap benar,True
+AOK-07,367,AOK,1,258.16,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,378,AOK,1,266.44,AOK-106,peripheral,peripheral,peripheral,peripheral,True,True,tetap benar,True
+AOK-07,381,AOK,1,266.44,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,416,AOK,1,285.68,AOK-011,bit,bit,bit,bit,True,True,tetap benar,True
+AOK-07,431,AOK,1,293.08,AOK-011,bit,bit,bit,bit,True,True,tetap benar,True
+AOK-07,450,AOK,1,308.62,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,465,AOK,1,315.8,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,471,AOK,1,321.08,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,477,AOK,1,325.38,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,486,AOK,1,328.8,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,513,AOK,1,353.14,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,522,AOK,2,360.06,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,532,AOK,2,366.08,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,540,AOK,2,370.36,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,556,AOK,2,379.28,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,568,AOK,2,382.4,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,571,AOK,2,386.92,AOK-111,prosesor,prosesor,prosesor,prosesor,True,True,tetap benar,True
+AOK-07,591,AOK,2,397.24,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,645,AOK,2,427.24,AOK-111,prosesor,prosesor,prosesor,prosesor,True,True,tetap benar,True
+AOK-07,668,AOK,2,440.02,AOK-014,buffer,buffering,buffering,buffering,True,True,tetap benar,True
+AOK-07,703,AOK,2,459.16,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,717,AOK,2,469.1,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,725,AOK,2,472.98,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,731,AOK,2,475.76,AOK-055,I/O module,io module,iomodule,io modul,False,False,tetap salah,True
+AOK-07,737,AOK,2,475.76,AOK-111,prosesor,prosesor,prosesor,prosesor,True,True,tetap benar,True
+AOK-07,741,AOK,2,480.9,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,759,AOK,2,486.1,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,764,AOK,2,491.96,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,789,AOK,2,507.75,AOK-115,register,register,register,register,True,True,tetap benar,True
+AOK-07,795,AOK,2,513.13,AOK-054,I/O,io,io,,True,False,dirusak,True
+AOK-07,802,AOK,2,517.55,AOK-115,register,register,register,register,True,True,tetap benar,True
+AOK-07,806,AOK,2,519.33,AOK-115,register,register,register,register,True,True,tetap benar,True
+AOK-07,820,AOK,2,527.35,AOK-015,bus,bus,bus,bus,True,True,tetap benar,True
+AOK-07,831,AOK,2,532.99,AOK-054,I/O,io,io,io logic io,True,False,dirusak,True
+AOK-07,835,AOK,2,536.19,AOK-004,ALU,alu,alu,alu,True,True,tetap benar,True
+AOK-07,836,AOK,2,539.03,AOK-026,computer arithmetic,arithmetic,arithmetic,arithmetic,True,True,tetap benar,True
+AOK-07,845,AOK,3,543.07,AOK-060,instruction,instruksi,instruksi,instruksi,True,True,tetap benar,True
+AOK-07,847,AOK,3,543.07,AOK-055,I/O module,modul io,modul ieo,modul io,False,True,diperbaiki,True
+AOK-07,852,AOK,3,547.75,AOK-054,I/O,io,ieo,io,False,True,diperbaiki,True
+AOK-07,881,AOK,3,562.59,AOK-054,I/O,io,ieo,,False,False,tetap salah,True
+AOK-07,896,AOK,3,575.43,AOK-014,buffer,buffer,buffer,buffer,True,True,tetap benar,True
+AOK-07,911,AOK,3,587.69,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,916,AOK,3,591.19,AOK-055,I/O module,io module,iomodule,io module,False,True,diperbaiki,True
+AOK-07,965,AOK,3,624.77,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,967,AOK,3,624.77,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,969,AOK,3,627.07,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,979,AOK,3,634.11,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,986,AOK,3,638.45,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,1006,AOK,3,645.59,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1009,AOK,3,650.23,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1033,AOK,3,660.17,AOK-032,data transfer,transfer data,transfer data,transfer data,True,True,tetap benar,False
+AOK-07,1040,AOK,3,665.11,AOK-032,data transfer,transfer data,transfer data,transfer data,True,True,tetap benar,False
+AOK-07,1043,AOK,3,668.29,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1048,AOK,3,668.29,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1052,AOK,3,675.03,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1062,AOK,3,675.03,AOK-106,peripheral,peripheral,peripheral,peripheral,True,True,tetap benar,True
+AOK-07,1067,AOK,3,680.13,AOK-011,bit,bit,bit,bit,True,True,tetap benar,True
+AOK-07,1073,AOK,3,684.21,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1080,AOK,3,684.21,AOK-011,bit,bit,bit,bit,True,True,tetap benar,True
+AOK-07,1087,AOK,3,690.61,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1099,AOK,3,697.61,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1116,AOK,3,716.09,AOK-032,data transfer,transfer data,transfer data,transfer data,True,True,tetap benar,False
+AOK-07,1125,AOK,3,716.09,AOK-015,bus,bus,bus,bus,True,True,tetap benar,True
+AOK-07,1129,AOK,4,721.93,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1131,AOK,4,721.93,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1141,AOK,4,727.17,AOK-015,bus,bus,bus,bus,True,True,tetap benar,True
+AOK-07,1154,AOK,4,735.69,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1159,AOK,4,735.69,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1164,AOK,4,739.97,AOK-015,bus,bus,bus,bus,True,True,tetap benar,True
+AOK-07,1168,AOK,4,744.21,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1173,AOK,4,744.21,AOK-120,ROM,rom,rom,rom,True,True,tetap benar,True
+AOK-07,1195,AOK,4,760.05,AOK-031,data bus,data bus,data bus,data bus,True,True,tetap benar,False
+AOK-07,1205,AOK,4,768.77,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,1212,AOK,4,768.77,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1215,AOK,4,776.27,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1235,AOK,4,776.27,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1306,AOK,4,826.35,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1322,AOK,4,838.73,AOK-014,buffer,buffer,buffer,buffer,True,True,tetap benar,True
+AOK-07,1326,AOK,4,840.49,AOK-014,buffer,buffer,buffer,,True,False,dirusak,True
+AOK-07,1338,AOK,4,845.65,AOK-032,data transfer,transfer data,transfer data,transfer data,True,True,tetap benar,False
+AOK-07,1345,AOK,4,851.19,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1354,AOK,4,858.15,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1359,AOK,4,858.15,AOK-011,bit,bit,bit,bit,True,True,tetap benar,True
+AOK-07,1378,AOK,4,866.39,AOK-014,buffer,buffer,buffer,buffer,True,True,tetap benar,True
+AOK-07,1387,AOK,4,878.86,AOK-106,peripheral,peripheral,peripheral,peripheral,True,True,tetap benar,True
+AOK-07,1394,AOK,4,884.92,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1414,AOK,4,899.2,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,1419,AOK,5,902.24,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,1424,AOK,5,902.24,AOK-030,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+AOK-07,1429,AOK,5,906.46,AOK-015,bus,bus,bus,bus,True,True,tetap benar,True
+AOK-07,1432,AOK,5,908.56,AOK-054,I/O,io,io,io,True,True,tetap benar,True
+AOK-07,1436,AOK,5,911.14,AOK-055,I/O module,modul io,modul io,modul io,True,True,tetap benar,True
+AOK-07,1441,AOK,5,914.12,AOK-054,I/O,input output,input output,input output,True,True,tetap benar,True
+APS-03,8,APS,0,2.91,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,10,APS,0,2.91,APS-099,perancangan,design,design,design,True,True,tetap benar,True
+APS-03,11,APS,0,2.91,APS-121,sistem,system,system,system,True,True,tetap benar,True
+APS-03,20,APS,0,6.51,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-03,26,APS,0,6.51,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,37,APS,0,14.57,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,39,APS,0,14.57,APS-099,perancangan,design,design,design,True,True,tetap benar,True
+APS-03,40,APS,0,14.57,APS-121,sistem,system,system,system,True,True,tetap benar,True
+APS-03,75,APS,0,48.57,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,76,APS,0,48.57,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,91,APS,0,57.57,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,95,APS,0,57.57,APS-085,object oriented,object oriented,object oriented,object oriented,True,True,tetap benar,True
+APS-03,98,APS,0,57.57,APS-085,object oriented,oo,oo,oo,True,True,tetap benar,True
+APS-03,99,APS,0,57.57,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,113,APS,0,63.69,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,115,APS,0,63.69,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-03,127,APS,0,73.99,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,130,APS,0,73.99,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,148,APS,0,87.79,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,162,APS,0,98.55,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,164,APS,0,98.55,APS-035,data flow diagram,data flow diagram,data flow diagram,data flow diagram,True,True,tetap benar,False
+APS-03,169,APS,0,106.05,APS-035,data flow diagram,data flow diagram,data flow diagram,data flow diagram,True,True,tetap benar,False
+APS-03,187,APS,0,113.75,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-03,191,APS,0,113.75,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,195,APS,0,113.75,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-03,206,APS,0,122.63,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,218,APS,0,128.23,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-03,228,APS,0,128.23,APS-085,object oriented,object oriented,object oriented,object oriented,True,True,tetap benar,True
+APS-03,240,APS,0,136.47,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-03,242,APS,0,141.13,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-03,257,APS,0,141.13,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-03,260,APS,0,148.65,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,263,APS,0,148.65,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-03,284,APS,0,157.43,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-03,296,APS,0,164.53,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-03,301,APS,0,164.53,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-03,305,APS,0,175.15,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,310,APS,0,175.15,APS-079,method,metode,metode,metode,True,True,tetap benar,True
+APS-03,316,APS,1,185.15,APS-121,sistem,system,system,system,True,True,tetap benar,True
+APS-03,323,APS,1,185.15,APS-079,method,metode,metode,metode,True,True,tetap benar,True
+APS-03,338,APS,1,194.25,APS-079,method,metode,metode,metode,True,True,tetap benar,True
+APS-03,354,APS,1,201.03,APS-079,method,metode,metode,metode,True,True,tetap benar,True
+APS-03,369,APS,1,206.93,APS-121,sistem,system,system,system,True,True,tetap benar,True
+APS-03,387,APS,1,214.73,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,393,APS,1,222.39,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,394,APS,1,222.39,APS-099,perancangan,design,design,design,True,True,tetap benar,True
+APS-03,507,APS,1,287.59,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,509,APS,1,287.59,APS-099,perancangan,desain,desain,desain,True,True,tetap benar,True
+APS-03,511,APS,1,287.59,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,515,APS,1,293.29,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,530,APS,1,300.81,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,532,APS,1,303.41,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,543,APS,1,309.91,APS-099,perancangan,desain,desain,design,True,False,dirusak,True
+APS-03,545,APS,1,310.41,APS-099,perancangan,desain,desain,design,True,False,dirusak,True
+APS-03,557,APS,1,315.69,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,604,APS,1,336.53,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,611,APS,1,339.13,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-03,634,APS,1,348.89,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,636,APS,1,348.89,APS-099,perancangan,desain,desain,design,True,False,dirusak,True
+APS-03,648,APS,1,356.83,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-03,696,APS,2,385.47,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,oo,True,False,dirusak,False
+APS-03,722,APS,2,398.29,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,724,APS,2,398.29,APS-099,perancangan,design,design,design,True,True,tetap benar,True
+APS-03,736,APS,2,409.97,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,742,APS,2,409.97,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,785,APS,2,427.25,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,788,APS,2,427.25,APS-099,perancangan,desain,desain,design,True,False,dirusak,True
+APS-03,808,APS,2,440.45,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-03,816,APS,2,445.13,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,823,APS,2,450.07,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,825,APS,2,450.07,APS-099,perancangan,desain,desain,desain,True,True,tetap benar,True
+APS-03,826,APS,2,450.07,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,843,APS,2,460.77,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,865,APS,2,468.69,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,875,APS,2,473.49,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,888,APS,2,480.07,APS-104,perangkat lunak,software,software,software,True,True,tetap benar,True
+APS-03,889,APS,2,480.07,APS-095,packaging,packages,packages,packages,True,True,tetap benar,True
+APS-03,913,APS,2,487.63,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,944,APS,2,511.79,APS-121,sistem,system,system,system,True,True,tetap benar,True
+APS-03,955,APS,2,518.67,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,995,APS,2,532.17,APS-121,sistem,system,sistem,sistem,False,False,tetap salah,True
+APS-03,1003,APS,3,545.95,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,1005,APS,3,545.95,APS-099,perancangan,desain,desain,desain,True,True,tetap benar,True
+APS-03,1006,APS,3,545.95,APS-122,sistem informasi,sistem informasi,sistem informasi,sistem informasi,True,True,tetap benar,False
+APS-03,1013,APS,3,545.95,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,1048,APS,3,570.97,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-03,1051,APS,3,572.71,APS-099,perancangan,desain,desain,design,True,False,dirusak,True
+APS-03,1070,APS,3,582.19,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-03,1079,APS,3,586.41,APS-099,perancangan,desain,desain,design,True,False,dirusak,True
+APS-03,1106,APS,3,602.79,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,1108,APS,3,602.79,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-03,1120,APS,3,609.87,APS-013,analisis,analysis,analysis,analysis,True,True,tetap benar,True
+APS-03,1125,APS,3,614.01,APS-035,data flow diagram,data flow diagram,data flow diagram,data flow diagram,True,True,tetap benar,False
+APS-03,1137,APS,3,619.43,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-05,9,APS,0,3.93,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-05,11,APS,0,3.93,APS-099,perancangan,design,design,design,True,True,tetap benar,True
+APS-05,12,APS,0,3.93,APS-121,sistem,system,system,system,True,True,tetap benar,True
+APS-05,23,APS,0,7.09,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-05,34,APS,0,12.83,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-05,36,APS,0,16.93,APS-142,use case diagram,use case diagram,use case diagram,use case diagram,True,True,tetap benar,True
+APS-05,40,APS,0,18.99,APS-005,activity diagram,activity diagram,activity diagram,activity diagram,True,True,tetap benar,False
+APS-05,42,APS,0,18.99,APS-119,sequence diagram,sequence diagram,sequence diagram,sequence diagram,True,True,tetap benar,True
+APS-05,45,APS,0,18.99,APS-023,class diagram,class diagram,class diagram,class diagram,True,True,tetap benar,True
+APS-05,58,APS,0,23.39,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-05,81,APS,0,52.38,APS-086,object oriented analysis,object oriented analysis,object oriented analysis,object oriented analysis,True,True,tetap benar,False
+APS-05,85,APS,0,52.38,APS-099,perancangan,design,design,design,True,True,tetap benar,True
+APS-05,94,APS,0,58.5,APS-013,analisis,analisis,analisis,analysis,True,False,dirusak,True
+APS-05,96,APS,0,58.5,APS-099,perancangan,design,design,design,True,True,tetap benar,True
+APS-05,97,APS,0,58.5,APS-121,sistem,system,system,system,True,True,tetap benar,True
+APS-05,107,APS,0,65.32,APS-035,data flow diagram,data flow diagram,data flow diagram,data flow diagram,True,True,tetap benar,False
+APS-05,113,APS,0,67.58,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-05,117,APS,0,69.64,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,120,APS,0,71.32,APS-085,object oriented,object oriented,object oriented,object oriented,True,True,tetap benar,True
+APS-05,132,APS,0,73.92,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,136,APS,0,82.64,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,138,APS,0,82.64,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-05,140,APS,0,82.64,APS-099,perancangan,desain,desain,desain,True,True,tetap benar,True
+APS-05,143,APS,0,82.64,APS-079,method,metode,metode,metode,True,True,tetap benar,True
+APS-05,148,APS,0,82.64,APS-104,perangkat lunak,perangkat lunak,perangkat gunak,perangkat lunak,False,True,diperbaiki,True
+APS-05,152,APS,0,89.36,APS-085,object oriented,berorientasi objek,berorientasi objek,berorientasi objek,True,True,tetap benar,True
+APS-05,163,APS,0,91.74,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,168,APS,0,99.08,APS-068,kebutuhan,requirement,requirement,requirement,True,True,tetap benar,True
+APS-05,170,APS,0,102.58,APS-068,kebutuhan,kebutuhan,kebutuhan,kebutuhan,True,True,tetap benar,True
+APS-05,171,APS,0,102.58,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,174,APS,0,104.3,APS-069,kelas,kelas,kelas,kelas,True,True,tetap benar,True
+APS-05,176,APS,0,106.44,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,202,APS,0,120.42,APS-086,object oriented analysis,object oriented analysis,objek oriented analysis,object oriented analysis,False,True,diperbaiki,False
+APS-05,206,APS,0,120.42,APS-099,perancangan,design,design,design,True,True,tetap benar,True
+APS-05,211,APS,0,122.36,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-05,218,APS,0,126.18,APS-069,kelas,kelas,kelas,kelas,True,True,tetap benar,True
+APS-05,220,APS,0,126.18,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,224,APS,0,128.32,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,226,APS,0,130.1,APS-013,analisis,analisis,analisis,analisis,True,True,tetap benar,True
+APS-05,228,APS,0,134.46,APS-099,perancangan,desain,desain,desain,True,True,tetap benar,True
+APS-05,229,APS,0,134.46,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,234,APS,0,136.52,APS-085,object oriented,berorientasi objek,berorientasi objek,berorientasi objek,True,True,tetap benar,True
+APS-05,238,APS,0,138.54,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,245,APS,0,142.24,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,249,APS,0,144.44,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-05,253,APS,0,146.5,APS-079,method,metode,metode,metode,True,True,tetap benar,True
+APS-05,255,APS,0,148.52,APS-096,pemodelan,pemodelan,pemodelan,pemodelan,True,True,tetap benar,True
+APS-05,262,APS,0,152.32,APS-099,perancangan,perancangan,perancangan,perancangan,True,True,tetap benar,True
+APS-05,263,APS,0,152.32,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,264,APS,0,152.32,APS-085,object oriented,berorientasi objek,berorientasi objek,berorientasi objek,True,True,tetap benar,True
+APS-05,270,APS,0,156.36,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,281,APS,0,162.82,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,286,APS,0,165.42,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,292,APS,0,167.58,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-05,294,APS,0,171.14,APS-136,UML,uml,uml,uml,True,True,tetap benar,True
+APS-05,305,APS,0,176.68,APS-099,perancangan,perancangan,perancangan,perancangan,True,True,tetap benar,True
+APS-05,308,APS,0,176.68,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,319,APS,1,185.54,APS-104,perangkat lunak,software,software,software,True,True,tetap benar,True
+APS-05,322,APS,1,185.54,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,325,APS,1,194.74,APS-136,UML,uml,uml,,True,False,dirusak,True
+APS-05,331,APS,1,194.74,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,334,APS,1,200.66,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,336,APS,1,200.66,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,342,APS,1,200.66,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,348,APS,1,206.84,APS-002,abstraksi,abstraksi,abstraksi,abstraksi,True,True,tetap benar,True
+APS-05,373,APS,1,220.82,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,382,APS,1,224.88,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,397,APS,1,232.68,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,405,APS,1,236.84,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,406,APS,1,238.9,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,412,APS,1,240.88,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,415,APS,1,242.92,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,422,APS,1,243.98,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,428,APS,1,248.88,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,432,APS,1,252.94,APS-023,class diagram,class diagram,class diagram,class diagram,True,True,tetap benar,True
+APS-05,434,APS,1,252.94,APS-088,objek,object,object,object,True,True,tetap benar,True
+APS-05,435,APS,1,252.94,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,436,APS,1,252.94,APS-095,packaging,package,package,package,True,True,tetap benar,True
+APS-05,437,APS,1,252.94,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,438,APS,1,252.94,APS-027,component diagram,component diagram,component diagram,component diagram,True,True,tetap benar,False
+APS-05,441,APS,1,252.94,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,443,APS,1,258.88,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,447,APS,1,261.82,APS-142,use case diagram,use case diagram,use case diagram,use case diagram,True,True,tetap benar,True
+APS-05,450,APS,1,261.82,APS-005,activity diagram,activity diagram,activity diagram,activity diagram,True,True,tetap benar,False
+APS-05,454,APS,1,261.82,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,456,APS,1,261.82,APS-119,sequence diagram,sequence diagram,sequence diagram,sequence diagram,True,True,tetap benar,True
+APS-05,475,APS,1,273.24,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,480,APS,1,276.82,APS-069,kelas,kelas,kelas,class,True,False,dirusak,True
+APS-05,481,APS,1,276.82,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,483,APS,1,277.76,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,490,APS,1,280.54,APS-141,use case,use case,use case,use case,True,True,tetap benar,True
+APS-05,502,APS,1,286.6,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,504,APS,1,287.64,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,511,APS,1,290.64,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,516,APS,1,296.0,APS-142,use case diagram,use case diagram,use case diagram,use case diagram,True,True,tetap benar,True
+APS-05,523,APS,1,298.9,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,529,APS,1,301.18,APS-142,use case diagram,use case diagram,use case diagram,use case diagram,True,True,tetap benar,True
+APS-05,532,APS,1,303.62,APS-142,use case diagram,use case diagram,use case diagram,use case diagram,True,True,tetap benar,True
+APS-05,542,APS,1,309.74,APS-141,use case,use case,use case,use case,True,True,tetap benar,True
+APS-05,549,APS,1,311.46,APS-141,use case,use case,use case,use case,True,True,tetap benar,True
+APS-05,558,APS,1,316.48,APS-142,use case diagram,use case diagram,use case diagram,use case diagram,True,True,tetap benar,True
+APS-05,565,APS,1,319.44,APS-141,use case,use case,use case,ya use case,True,False,dirusak,True
+APS-05,580,APS,1,324.28,APS-142,use case diagram,use case diagram,use case diagram,use case diagram,True,True,tetap benar,True
+APS-05,592,APS,1,332.18,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,594,APS,1,332.18,APS-006,actor,aktor,aktor,aktor,True,True,tetap benar,True
+APS-05,602,APS,1,335.86,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,632,APS,1,354.3,APS-006,actor,aktor,aktor,aktor,True,True,tetap benar,True
+APS-05,633,APS,1,354.3,APS-006,actor,aktor,aktor,aktor,True,True,tetap benar,True
+APS-05,637,APS,1,359.46,APS-005,activity diagram,activity diagram,activity diagram,activity diagram,True,True,tetap benar,False
+APS-05,741,APS,2,411.92,APS-119,sequence diagram,sequence diagram,sequence diagram,segoluh diagram,True,False,dirusak,True
+APS-05,743,APS,2,417.44,APS-119,sequence diagram,sequence diagram,sequence diagram,second diagram,True,False,dirusak,True
+APS-05,771,APS,2,431.22,APS-075,lifeline,lifeline,lifeline,lifeline,True,True,tetap benar,False
+APS-05,780,APS,2,436.28,APS-085,object oriented,object oriented,object oriented,object oriented,True,True,tetap benar,True
+APS-05,786,APS,2,441.52,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,789,APS,2,443.0,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,791,APS,2,445.16,APS-069,kelas,kelas,kelas,kelas,True,True,tetap benar,True
+APS-05,802,APS,2,451.46,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,809,APS,2,454.8,APS-088,objek,objek,objek,objek,True,True,tetap benar,True
+APS-05,819,APS,2,458.52,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,836,APS,2,468.38,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,865,APS,2,482.04,APS-119,sequence diagram,sequence diagram,sequence diagram,sequence diagram,True,True,tetap benar,True
+APS-05,868,APS,2,484.56,APS-023,class diagram,class diagram,class diagram,kelas diagram,True,False,dirusak,True
+APS-05,873,APS,2,486.24,APS-121,sistem,sistem,sistem,sistem,True,True,tetap benar,True
+APS-05,876,APS,2,489.42,APS-130,sub-sistem,subsistem,subsistem,sub sistem,True,False,dirusak,True
+APS-05,878,APS,2,489.42,APS-071,komponen,komponen,komponen,komponen,True,True,tetap benar,True
+APS-05,880,APS,2,491.24,APS-069,kelas,kelas,kelas,kelas,True,True,tetap benar,True
+APS-05,882,APS,2,492.26,APS-065,interface,antarmuka,antarmuka,antarmuka,True,True,tetap benar,True
+APS-05,886,APS,2,495.06,APS-030,constraint,batasan,batasan,batasan,True,True,tetap benar,True
+APS-05,891,APS,2,496.56,APS-015,association,asosiasi,asosiasi,asosiasi,True,True,tetap benar,True
+APS-05,892,APS,2,499.14,APS-054,generalization,generalisasi,generalisasi,generalisasi,True,True,tetap benar,True
+APS-05,904,APS,2,503.36,APS-015,association,asosiasi,asosiasi,asosiasi,True,True,tetap benar,True
+APS-05,907,APS,2,504.9,APS-054,generalization,generalisasi,generalisasi,generalisasi,True,True,tetap benar,True
+APS-05,915,APS,2,509.4,APS-088,objek,objek,objek,object,True,False,dirusak,True
+APS-05,922,APS,2,513.44,APS-069,kelas,kelas,kelas,kelas,True,True,tetap benar,True
+APS-05,923,APS,2,513.44,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,928,APS,2,517.12,APS-069,kelas,kelas,kelas,kelas,True,True,tetap benar,True
+APS-05,934,APS,2,519.28,APS-088,objek,objek,objek,object,True,False,dirusak,True
+APS-05,959,APS,2,531.22,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,967,APS,2,534.4,APS-142,use case diagram,use case diagram,use case diagram,use case diagram,True,True,tetap benar,True
+APS-05,974,APS,2,537.02,APS-119,sequence diagram,sequence diagram,sequence diagram,sequence diagram,True,True,tetap benar,True
+APS-05,978,APS,2,539.16,APS-023,class diagram,class diagram,class diagram,kelas diagram,True,False,dirusak,True
+APS-05,1007,APS,3,553.56,APS-085,object oriented,object oriented,object oriented,object oriented,True,True,tetap benar,True
+APS-05,1016,APS,3,559.04,APS-039,diagram,diagram,diagram,diagram,True,True,tetap benar,True
+APS-05,1029,APS,3,564.68,APS-088,objek,objek,objek,object,True,False,dirusak,True
+IMK-02,8,IMK,0,0.21,IMK-058,human-computer interaction,interaksi manusia dan komputer,interaksi manusia dan komputer,interaksi manusia dan komputer,True,True,tetap benar,True
+IMK-02,20,IMK,0,4.79,IMK-007,cognitive,kognitif,kognitif,kognitif,True,True,tetap benar,False
+IMK-02,23,IMK,0,4.79,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,44,IMK,0,15.13,IMK-055,human,manusia,manusia,manusia,True,True,tetap benar,True
+IMK-02,61,IMK,0,21.51,IMK-007,cognitive,kognitif,kognitif,kognitif,True,True,tetap benar,False
+IMK-02,64,IMK,0,21.51,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,129,IMK,0,54.58,IMK-104,recognition,pengenalan,pengenalan,pengenalan,True,True,tetap benar,False
+IMK-02,198,IMK,0,84.38,IMK-055,human,manusia,manusia,manusia,True,True,tetap benar,True
+IMK-02,214,IMK,0,93.52,IMK-078,mental model,mental model,mental model,mental model,True,True,tetap benar,False
+IMK-02,222,IMK,0,97.82,IMK-058,human-computer interaction,interaksi manusia dan komputer,interaksi manusia dan komputer,interaksi manusia dan komputer,True,True,tetap benar,True
+IMK-02,242,IMK,0,106.14,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,247,IMK,0,110.26,IMK-044,goal,tujuan,tujuan,tujuan,True,True,tetap benar,True
+IMK-02,249,IMK,0,110.26,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,266,IMK,0,119.42,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,273,IMK,0,119.42,IMK-055,human,manusia,manusia,manusia,True,True,tetap benar,True
+IMK-02,279,IMK,0,119.42,IMK-044,goal,tujuan,tujuan,tujuan,True,True,tetap benar,True
+IMK-02,286,IMK,0,127.58,IMK-007,cognitive,kognitif,kognitif,kognitif,True,True,tetap benar,False
+IMK-02,288,IMK,0,127.58,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,308,IMK,0,137.3,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,320,IMK,0,145.84,IMK-077,memory,memori,memori,memory,True,False,dirusak,True
+IMK-02,336,IMK,0,158.3,IMK-077,memory,memori,memori,memory,True,False,dirusak,True
+IMK-02,378,IMK,0,177.14,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,394,IMK,1,190.39,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,406,IMK,1,190.39,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,424,IMK,1,201.85,IMK-044,goal,tujuan,tujuan,tujuan,True,True,tetap benar,True
+IMK-02,429,IMK,1,201.85,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,609,IMK,1,288.97,IMK-069,interface,antarmuka,antarmuka,antarmuka,True,True,tetap benar,True
+IMK-02,615,IMK,1,288.97,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,635,IMK,1,301.53,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,709,IMK,1,342.11,IMK-046,grouping,pengelompokan,pengelompokan,pengelompokan,True,True,tetap benar,True
+IMK-02,717,IMK,1,342.11,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,844,IMK,2,410.67,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,852,IMK,2,415.03,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,857,IMK,2,415.03,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,924,IMK,2,450.83,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,931,IMK,2,459.15,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,955,IMK,2,467.05,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,961,IMK,2,467.05,IMK-017,design,desain,desain,desain,True,True,tetap benar,True
+IMK-02,1001,IMK,2,490.61,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,1037,IMK,2,505.09,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1095,IMK,2,534.61,IMK-077,memory,memori,memori,memory,True,False,dirusak,True
+IMK-02,1096,IMK,2,539.32,IMK-077,memory,memori,memori,memori,True,True,tetap benar,True
+IMK-02,1101,IMK,2,539.32,IMK-103,recall,mengingat kembali,mengingat kembali,mengingat kembali,True,True,tetap benar,False
+IMK-02,1145,IMK,3,559.04,IMK-103,recall,mengingat kembali,mengingat kembali,mengingat kembali,True,True,tetap benar,False
+IMK-02,1162,IMK,3,567.44,IMK-077,memory,memori,memori,memori,True,True,tetap benar,True
+IMK-02,1164,IMK,3,571.62,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1176,IMK,3,575.62,IMK-055,human,manusia,manusia,manusia,True,True,tetap benar,True
+IMK-02,1189,IMK,3,581.3,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1254,IMK,3,611.54,IMK-077,memory,memori,memori,memori,True,True,tetap benar,True
+IMK-02,1266,IMK,3,614.56,IMK-103,recall,recall,recall,recall,True,True,tetap benar,False
+IMK-02,1292,IMK,3,630.36,IMK-077,memory,memori,memori,memori,True,True,tetap benar,True
+IMK-02,1294,IMK,3,630.36,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,1303,IMK,3,633.98,IMK-077,memory,memori,memori,memori,True,True,tetap benar,True
+IMK-02,1308,IMK,3,633.98,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1332,IMK,3,648.32,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1341,IMK,3,655.26,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1365,IMK,3,664.26,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1379,IMK,3,668.96,IMK-025,display,tampilan,tampilan,tampilan,True,True,tetap benar,True
+IMK-02,1398,IMK,3,677.32,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1427,IMK,3,694.79,IMK-077,memory,memori,memori,memori,True,True,tetap benar,True
+IMK-02,1429,IMK,3,694.79,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,1443,IMK,3,700.47,IMK-149,World Wide Web,web,web,web,True,True,tetap benar,True
+IMK-02,1450,IMK,3,704.59,IMK-149,World Wide Web,web,web,web,True,True,tetap benar,True
+IMK-02,1463,IMK,3,710.45,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1477,IMK,3,716.47,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1489,IMK,4,720.75,IMK-079,menu,menu,menu,menu,True,True,tetap benar,True
+IMK-02,1512,IMK,4,726.67,IMK-077,memory,memori,memori,memori,True,True,tetap benar,True
+IMK-02,1514,IMK,4,726.67,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,1623,IMK,4,781.2,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1721,IMK,4,830.48,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1778,IMK,4,858.9,IMK-012,computer,komputer,komputer,komputer,True,True,tetap benar,True
+IMK-02,1869,IMK,5,904.64,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,1875,IMK,5,904.64,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,1891,IMK,5,916.7,IMK-065,interaction design,desain interaksi,desain interaksi,desain interaksi,True,True,tetap benar,False
+IMK-02,1976,IMK,5,964.28,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,2010,IMK,5,975.92,IMK-006,button,tombol,tombol,tombol,True,True,tetap benar,True
+IMK-02,2012,IMK,5,980.94,IMK-006,button,tombol,tombol,tombol,True,True,tetap benar,True
+IMK-02,2025,IMK,5,983.82,IMK-044,goal,goals,goals,goals,True,True,tetap benar,True
+IMK-02,2037,IMK,5,989.24,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,2045,IMK,5,995.74,IMK-006,button,tombol,tombol,tombol,True,True,tetap benar,True
+IMK-02,2054,IMK,5,995.74,IMK-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+IMK-02,2102,IMK,5,1022.29,IMK-096,principle,prinsip,prinsip,prinsip,True,True,tetap benar,True
+IMK-02,2221,IMK,5,1077.73,IMK-035,error,kesalahan,kesalahan,kesalahan,True,True,tetap benar,True
+IMK-02,2224,IMK,5,1077.73,IMK-006,button,tombol,tombol,tombol,True,True,tetap benar,True
+JARNIR-03,16,JARNIR,0,6.292,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,18,JARNIR,0,6.292,JARNIR-109,personal area network,personal area network,personal area network,personal area network,True,True,tetap benar,False
+JARNIR-03,22,JARNIR,0,18.164,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,35,JARNIR,0,18.164,JARNIR-145,wide area network,wan,wan,wan,True,True,tetap benar,False
+JARNIR-03,53,JARNIR,0,18.164,JARNIR-145,wide area network,wan,wan,wan,True,True,tetap benar,False
+JARNIR-03,62,JARNIR,0,38.164,JARNIR-145,wide area network,wan,wan,wan,True,True,tetap benar,False
+JARNIR-03,67,JARNIR,0,42.548,JARNIR-145,wide area network,wan,wan,wan,True,True,tetap benar,False
+JARNIR-03,73,JARNIR,0,42.548,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,76,JARNIR,0,42.548,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,78,JARNIR,0,42.548,JARNIR-145,wide area network,wan,wan,wan,True,True,tetap benar,False
+JARNIR-03,106,JARNIR,0,42.548,JARNIR-109,personal area network,personal area network,personal area network,jaringan network,True,False,dirusak,False
+JARNIR-03,110,JARNIR,0,63.348,JARNIR-109,personal area network,pan,pan pan,pan pan,False,False,tetap salah,False
+JARNIR-03,125,JARNIR,0,71.424,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,142,JARNIR,0,71.424,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,163,JARNIR,0,91.604,JARNIR-084,media transmisi,media komunikasi,media komunikasi,media komunikasi,True,True,tetap benar,False
+JARNIR-03,181,JARNIR,0,109.748,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,193,JARNIR,0,115.092,JARNIR-016,bluetooth,bluetooth,bluetooth,bluetooth,True,True,tetap benar,True
+JARNIR-03,195,JARNIR,0,115.092,JARNIR-098,nirkabel,wireless,wireless,wireless,True,True,tetap benar,True
+JARNIR-03,228,JARNIR,0,133.524,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,246,JARNIR,0,149.044,JARNIR-016,bluetooth,bluetooth,bluetooth,bluetooth,True,True,tetap benar,True
+JARNIR-03,247,JARNIR,0,149.044,JARNIR-016,bluetooth,bluetooth,bluetooth,bluetooth,True,True,tetap benar,True
+JARNIR-03,258,JARNIR,0,149.044,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,265,JARNIR,0,161.172,JARNIR-016,bluetooth,bluetooth,bluetooth,bluetooth,True,True,tetap benar,True
+JARNIR-03,277,JARNIR,0,171.828,JARNIR-016,bluetooth,bluetooth,bluetooth,bluetooth,True,True,tetap benar,True
+JARNIR-03,282,JARNIR,0,171.828,JARNIR-098,nirkabel,wireless,wireless,wireless,True,True,tetap benar,True
+JARNIR-03,288,JARNIR,0,171.828,JARNIR-098,nirkabel,wireless,wireless,wireless,True,True,tetap benar,True
+JARNIR-03,297,JARNIR,1,184.084,JARNIR-144,Wi-Fi,wifi,wifi,,True,False,dirusak,True
+JARNIR-03,303,JARNIR,1,190.42,JARNIR-144,Wi-Fi,wifi,wifi,,True,False,dirusak,True
+JARNIR-03,314,JARNIR,1,190.42,JARNIR-016,bluetooth,bluetooth,bluetooth,,True,False,dirusak,True
+JARNIR-03,318,JARNIR,1,190.42,JARNIR-144,Wi-Fi,wifi,wifi,wi,True,False,dirusak,True
+JARNIR-03,332,JARNIR,1,190.42,JARNIR-109,personal area network,pan,pan,pouring,True,False,dirusak,False
+JARNIR-03,338,JARNIR,1,214.356,JARNIR-109,personal area network,pan,pan,,True,False,dirusak,False
+JARNIR-03,390,JARNIR,1,240.032,JARNIR-144,Wi-Fi,wifi,wifi,wi fi,True,False,dirusak,True
+JARNIR-03,398,JARNIR,1,240.032,JARNIR-144,Wi-Fi,wifi,wifi,wi fi,True,False,dirusak,True
+JARNIR-03,403,JARNIR,1,248.304,JARNIR-144,Wi-Fi,wifi,wifi,wi fi,True,False,dirusak,True
+JARNIR-03,415,JARNIR,1,253.556,JARNIR-130,sinyal,sinyal,sinyal,sinyal,True,True,tetap benar,True
+JARNIR-03,416,JARNIR,1,253.556,JARNIR-144,Wi-Fi,wifi,wifi,wi fi,True,False,dirusak,True
+JARNIR-03,437,JARNIR,1,253.556,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,447,JARNIR,1,275.316,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,451,JARNIR,1,275.316,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,457,JARNIR,1,275.316,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,468,JARNIR,1,285.428,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,498,JARNIR,1,307.412,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,509,JARNIR,1,307.412,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,514,JARNIR,1,317.524,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,516,JARNIR,1,317.524,JARNIR-109,personal area network,pan,pan,lopan,True,False,dirusak,False
+JARNIR-03,524,JARNIR,1,317.524,JARNIR-016,bluetooth,bluetooth,bluetooth,bluetooth,True,True,tetap benar,True
+JARNIR-03,528,JARNIR,1,317.524,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,559,JARNIR,1,327.056,JARNIR-075,local area network,lan,lan,allowsلام,True,False,dirusak,False
+JARNIR-03,565,JARNIR,1,345.748,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,579,JARNIR,1,345.748,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,582,JARNIR,1,345.748,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,597,JARNIR,2,360.0,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,599,JARNIR,2,366.708,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,632,JARNIR,2,366.708,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,708,JARNIR,2,432.5,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,718,JARNIR,2,432.5,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,740,JARNIR,2,432.5,JARNIR-145,wide area network,wan,wan,,True,False,dirusak,False
+JARNIR-03,745,JARNIR,2,432.5,JARNIR-109,personal area network,pan,pan,,True,False,dirusak,False
+JARNIR-03,758,JARNIR,2,452.884,JARNIR-075,local area network,lan,lan,dan,True,False,dirusak,False
+JARNIR-03,769,JARNIR,2,452.884,JARNIR-075,local area network,lan,lan,,True,False,dirusak,False
+JARNIR-03,805,JARNIR,2,483.316,JARNIR-075,local area network,lan,lan,,True,False,dirusak,False
+JARNIR-03,838,JARNIR,2,499.008,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,846,JARNIR,2,508.212,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,900,JARNIR,3,551.572,JARNIR-075,local area network,lan,lan,kabel,True,False,dirusak,False
+JARNIR-03,922,JARNIR,3,566.004,JARNIR-075,local area network,lan,lan,,True,False,dirusak,False
+JARNIR-03,933,JARNIR,3,566.004,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,948,JARNIR,3,582.356,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,960,JARNIR,3,589.908,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,973,JARNIR,3,594.74,JARNIR-099,node,node,node,node,True,True,tetap benar,True
+JARNIR-03,994,JARNIR,3,605.716,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,998,JARNIR,3,616.5,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1006,JARNIR,3,620.928,JARNIR-109,personal area network,pan,pan,pan,True,True,tetap benar,False
+JARNIR-03,1021,JARNIR,3,629.012,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1023,JARNIR,3,629.012,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1073,JARNIR,3,658.708,JARNIR-075,local area network,lan,lan,lun,True,False,dirusak,False
+JARNIR-03,1104,JARNIR,3,682.592,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1111,JARNIR,3,688.308,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1143,JARNIR,3,708.724,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1144,JARNIR,3,708.724,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1281,JARNIR,4,798.964,JARNIR-098,nirkabel,wireless,wireless,wireless,True,True,tetap benar,True
+JARNIR-03,1285,JARNIR,4,798.964,JARNIR-098,nirkabel,wireless,wireless,wireless,True,True,tetap benar,True
+JARNIR-03,1290,JARNIR,4,798.964,JARNIR-130,sinyal,sinyal,sinyal,sinyal,True,True,tetap benar,True
+JARNIR-03,1292,JARNIR,4,798.964,JARNIR-009,antena,antena,antena,antena,True,True,tetap benar,False
+JARNIR-03,1380,JARNIR,4,861.46,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1410,JARNIR,4,866.964,JARNIR-098,nirkabel,wireless,wireless,wireless,True,True,tetap benar,True
+JARNIR-03,1536,JARNIR,5,947.796,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1605,JARNIR,5,991.476,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1622,JARNIR,5,991.476,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1632,JARNIR,5,1011.476,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1638,JARNIR,5,1011.476,JARNIR-075,local area network,lan,lan,lan,True,True,tetap benar,False
+JARNIR-03,1650,JARNIR,5,1027.668,JARNIR-145,wide area network,wide area network,wide area network,wide area network,True,True,tetap benar,False
+JARNIR-03,1654,JARNIR,5,1027.668,JARNIR-145,wide area network,wan,wan,wan,True,True,tetap benar,False
+JARNIR-03,1666,JARNIR,5,1032.084,JARNIR-145,wide area network,wan,wan,wan,True,True,tetap benar,False
+JARNIR-03,1667,JARNIR,5,1032.084,JARNIR-145,wide area network,wide area network,wide area network,wide area network,True,True,tetap benar,False
+JARNIR-03,1672,JARNIR,5,1041.46,JARNIR-145,wide area network,wan,wan,wan,True,True,tetap benar,False
+JARNIR-03,1708,JARNIR,5,1058.708,JARNIR-072,kanal,saluran,saluran,saluran,True,True,tetap benar,True
+JARNIR-03,1732,JARNIR,5,1072.596,JARNIR-145,wide area network,wan,wan,,True,False,dirusak,False
+JARNIR-03,1741,JARNIR,6,1080.372,JARNIR-145,wide area network,wan,one,21,False,False,tetap salah,False
+PKK-02,33,PKK,0,18.848,PKK-059,informatika,informatika,informatika,informatika,True,True,tetap benar,False
+PKK-02,43,PKK,0,35.86,PKK-059,informatika,informatika,informatika,informatika,True,True,tetap benar,False
+PKK-02,51,PKK,0,48.468,PKK-059,informatika,informatika,informatika apa itu informatika,informatika apa itu informatika,False,False,tetap salah,False
+PKK-02,52,PKK,0,57.748,PKK-059,informatika,informatika,informatika,informatika,True,True,tetap benar,False
+PKK-02,65,PKK,0,63.22,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,73,PKK,0,74.452,PKK-059,informatika,informatika,informatika,informatika,True,True,tetap benar,False
+PKK-02,83,PKK,0,77.748,PKK-007,application software,aplikasi,aplikasi,aplikasi,True,True,tetap benar,True
+PKK-02,90,PKK,0,77.748,PKK-059,informatika,informatika,informatika,informatika,True,True,tetap benar,False
+PKK-02,97,PKK,0,89.876,PKK-107,problem solving,memecahkan masalah,memecahkan masalah,memecahkan masalah,True,True,tetap benar,True
+PKK-02,104,PKK,0,97.972,PKK-030,critical thinking,berpikir kritis,berpikir kritis,berpikir kritis,True,True,tetap benar,True
+PKK-02,127,PKK,0,106.452,PKK-059,informatika,informatika,informatika,informatika,True,True,tetap benar,False
+PKK-02,151,PKK,0,129.856,PKK-107,problem solving,memecahkan masalah,memecahkan masalah,memecahkan masalah,True,True,tetap benar,True
+PKK-02,161,PKK,0,129.856,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,188,PKK,0,163.892,PKK-059,informatika,informatika,informatika,informatika,True,True,tetap benar,False
+PKK-02,203,PKK,0,174.356,PKK-059,informatika,informatika,informatika,informatika,True,True,tetap benar,False
+PKK-02,219,PKK,1,180.692,PKK-044,etika,etika,etika,etika,True,True,tetap benar,True
+PKK-02,229,PKK,1,196.532,PKK-037,decomposition,dekomposisi,dekoposisi,dekoposisi,False,False,tetap salah,True
+PKK-02,230,PKK,1,203.988,PKK-037,decomposition,dekomposisi,dekoposisi,dekoposisi,False,False,tetap salah,True
+PKK-02,232,PKK,1,203.988,PKK-107,problem solving,memecahkan masalah,memecahkan masalah,memecahkan masalah,True,True,tetap benar,True
+PKK-02,252,PKK,1,215.028,PKK-100,pattern,pola,pola,,True,False,dirusak,True
+PKK-02,254,PKK,1,220.436,PKK-100,pattern,pola,pola,pola,True,True,tetap benar,True
+PKK-02,259,PKK,1,220.436,PKK-100,pattern,pola,pola,pola,True,True,tetap benar,True
+PKK-02,269,PKK,1,233.588,PKK-001,abstraction,abstraksi,abstraksi,abstraksi,True,True,tetap benar,True
+PKK-02,271,PKK,1,233.588,PKK-004,algorithm,algoritma,algoritma,algoritma,True,True,tetap benar,True
+PKK-02,306,PKK,1,266.932,PKK-107,problem solving,memecahkan masalah,memecahkan masalah,,True,False,dirusak,True
+PKK-02,308,PKK,1,270.484,PKK-107,problem solving,memecahkan masalah,memecahkan masalah,memecahkan,True,False,dirusak,True
+PKK-02,328,PKK,1,282.26,PKK-081,logical thinking,berpikir logis,berpikir logis,berpikir logis,True,True,tetap benar,False
+PKK-02,503,PKK,2,436.116,PKK-060,input,input,input data apa input,input data apa input,False,False,tetap salah,True
+PKK-02,505,PKK,2,443.956,PKK-060,input,input,input,input,True,True,tetap benar,True
+PKK-02,516,PKK,2,443.956,PKK-066,keyboard,keyboard,keyboard,keyboard,True,True,tetap benar,False
+PKK-02,532,PKK,2,469.268,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,536,PKK,2,469.268,PKK-004,algorithm,algoritma,algoritma,algoritma,True,True,tetap benar,True
+PKK-02,542,PKK,2,484.18,PKK-099,output,output,output,output,True,True,tetap benar,True
+PKK-02,543,PKK,2,488.084,PKK-099,output,output,output,output,True,True,tetap benar,True
+PKK-02,568,PKK,2,507.252,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,570,PKK,2,516.948,PKK-017,brainware,brainware,bandware,brainware,False,True,diperbaiki,True
+PKK-02,576,PKK,2,520.66,PKK-056,hardware,perangkat keras,perangkat keras,perangkat keras,True,True,tetap benar,True
+PKK-02,578,PKK,2,531.86,PKK-130,software,software,contohnya disini ada monitor software,contohnya disini ada monitor software,False,False,tetap salah,True
+PKK-02,580,PKK,2,531.86,PKK-130,software,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+PKK-02,582,PKK,2,535.22,PKK-130,software,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+PKK-02,589,PKK,2,535.22,PKK-007,application software,aplikasi,aplikasi,aplikasi,True,True,tetap benar,True
+PKK-02,594,PKK,2,539.188,PKK-130,software,software,software,software,True,True,tetap benar,True
+PKK-02,596,PKK,3,542.196,PKK-017,brainware,brainware,brandware,brainware,False,True,diperbaiki,True
+PKK-02,607,PKK,3,557.364,PKK-056,hardware,hardware,hardware,hardware,True,True,tetap benar,True
+PKK-02,608,PKK,3,557.364,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,612,PKK,3,557.364,PKK-060,input,input,input,input,True,True,tetap benar,True
+PKK-02,622,PKK,3,566.58,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,628,PKK,3,566.58,PKK-066,keyboard,keyboard,keyboard,keyboard,True,True,tetap benar,False
+PKK-02,629,PKK,3,566.58,PKK-092,mouse,mouse,mouse,mouse,True,True,tetap benar,False
+PKK-02,630,PKK,3,566.58,PKK-123,scanner,scanner,scanner,scanner,True,True,tetap benar,False
+PKK-02,638,PKK,3,579.156,PKK-056,hardware,hardware,hardware,,True,False,dirusak,True
+PKK-02,639,PKK,3,579.156,PKK-071,komputer,komputer,komputer,,True,False,dirusak,True
+PKK-02,651,PKK,3,587.604,PKK-028,CPU,cpu,cpu,cpu,True,True,tetap benar,True
+PKK-02,653,PKK,3,592.564,PKK-028,CPU,processor,prosesor,prosesor,False,False,tetap salah,True
+PKK-02,654,PKK,3,592.564,PKK-115,RAM,ram,ram,ram,True,True,tetap benar,True
+PKK-02,664,PKK,3,599.092,PKK-056,hardware,hardware,hardware,hardware,True,True,tetap benar,True
+PKK-02,665,PKK,3,599.092,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,667,PKK,3,599.092,PKK-099,output,output,output,output,True,True,tetap benar,True
+PKK-02,670,PKK,3,599.092,PKK-099,output,keluaran,keluaran,keluaran,True,True,tetap benar,True
+PKK-02,678,PKK,3,606.932,PKK-089,monitor,monitor,monitor,monitor,True,True,tetap benar,False
+PKK-02,688,PKK,3,621.396,PKK-130,software,software,software,software,True,True,tetap benar,True
+PKK-02,689,PKK,3,621.396,PKK-130,software,software,software,software,True,True,tetap benar,True
+PKK-02,691,PKK,3,621.396,PKK-130,software,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+PKK-02,697,PKK,3,621.396,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,702,PKK,3,621.396,PKK-130,software,software,software,software,True,True,tetap benar,True
+PKK-02,710,PKK,3,634.464,PKK-097,operating system,sistem operasi,sistem operasi,sistem operasi,True,True,tetap benar,True
+PKK-02,712,PKK,3,638.74,PKK-130,software,software,software,software,True,True,tetap benar,True
+PKK-02,719,PKK,3,638.74,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,723,PKK,3,638.74,PKK-149,windows,windows,windows,windows,True,True,tetap benar,True
+PKK-02,729,PKK,3,648.532,PKK-097,operating system,sistem operasi,sistem operasi,sistem operasi,True,True,tetap benar,True
+PKK-02,734,PKK,3,652.948,PKK-130,software,software,software,,True,False,dirusak,True
+PKK-02,735,PKK,3,652.948,PKK-007,application software,aplikasi,aplikasi,,True,False,dirusak,True
+PKK-02,736,PKK,3,657.716,PKK-130,software,software,software,software,True,True,tetap benar,True
+PKK-02,737,PKK,3,657.716,PKK-007,application software,aplikasi,aplikasi,aplikasi,True,True,tetap benar,True
+PKK-02,741,PKK,3,657.716,PKK-119,requirement,kebutuhan,kebutuhan,kebutuhan,True,True,tetap benar,True
+PKK-02,757,PKK,3,673.268,PKK-130,software,software,software,software,True,True,tetap benar,True
+PKK-02,767,PKK,3,673.268,PKK-071,komputer,komputer,komputer,komputer,True,True,tetap benar,True
+PKK-02,779,PKK,3,692.916,PKK-062,internet,internet,internet,internet,True,True,tetap benar,True
+PKK-02,787,PKK,3,692.916,PKK-007,application software,aplikasi,aplikasi,aplikasi,True,True,tetap benar,True
+PKK-02,790,PKK,3,692.916,PKK-062,internet,internet,internet,internet,True,True,tetap benar,True
+PKK-02,812,PKK,3,711.828,PKK-062,internet,internet,internet,internet,True,True,tetap benar,True
+PKK-02,823,PKK,4,726.484,PKK-062,internet,internet,internet,internet,True,True,tetap benar,True
+PKK-02,850,PKK,4,738.964,PKK-062,internet,internet,internet,internet,True,True,tetap benar,True
+PKK-02,854,PKK,4,752.404,PKK-125,security,keamanan,keamanan,keamanan,True,True,tetap benar,True
+PKK-02,855,PKK,4,752.404,PKK-062,internet,internet,internet,internet,True,True,tetap benar,True
+PKK-02,878,PKK,4,776.372,PKK-039,digital ethics,etika digital,etika digital,etika digital,True,True,tetap benar,False
+PKK-02,881,PKK,4,783.604,PKK-004,algorithm,algoritma,algoritma,algoritma,True,True,tetap benar,True
+PKK-02,905,PKK,4,801.364,PKK-004,algorithm,algoritma,algoritma,algoritma,True,True,tetap benar,True
+PKK-02,925,PKK,4,830.164,PKK-004,algorithm,algoritma,algoritma,algoritma,True,True,tetap benar,True
+PKK-02,942,PKK,4,841.684,PKK-004,algorithm,algoritma,algoritma,algoritma,True,True,tetap benar,True
+PKK-02,1029,PKK,5,915.892,PKK-039,digital ethics,etika digital,i etika digital etika digital,i etika digital,False,False,tetap salah,False
+PKK-02,1058,PKK,5,932.66,PKK-052,hak cipta,hak cipta,hak cipta,hak cipta,True,True,tetap benar,False
+PKK-02,1067,PKK,5,932.66,PKK-062,internet,internet,internet,internet,True,True,tetap benar,True
+PKK-02,1092,PKK,5,959.38,PKK-062,internet,internet,internet,internet,True,True,tetap benar,True
+RPL-07,6,RPL,0,0.0,RPL-087,rekayasa perangkat lunak,rekayasa perangkat lunak,rekayasa perangkat lunak,rekayasa perangkat lunak,True,True,tetap benar,True
+RPL-07,16,RPL,0,0.0,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,17,RPL,0,0.0,RPL-060,modeling,modeling,modeling,modeling,True,True,tetap benar,True
+RPL-07,25,RPL,0,0.0,RPL-102,scenario,scenario,skenario,skenario,False,False,tetap salah,True
+RPL-07,30,RPL,0,0.0,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,37,RPL,0,0.0,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,38,RPL,0,0.0,RPL-089,requirement,requirement,requirement,requirement,True,True,tetap benar,True
+RPL-07,42,RPL,0,0.0,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,46,RPL,0,0.0,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,62,RPL,0,20.82,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,69,RPL,0,20.82,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,74,RPL,0,29.076,RPL-060,modeling,pemodelan,pemodelan,pemodelan,True,True,tetap benar,True
+RPL-07,75,RPL,0,29.076,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,110,RPL,0,36.852,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-07,111,RPL,0,36.852,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,112,RPL,0,36.852,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,123,RPL,0,47.476,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,127,RPL,0,47.476,RPL-059,model,models,model,model,False,False,tetap salah,True
+RPL-07,128,RPL,0,47.476,RPL-102,scenario,scenario,scenario,scenario,True,True,tetap benar,True
+RPL-07,133,RPL,0,47.476,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,153,RPL,0,57.748,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,154,RPL,0,57.748,RPL-089,requirement,requirement,requirement,requirement,True,True,tetap benar,True
+RPL-07,160,RPL,0,64.308,RPL-059,model,model,models,models,False,False,tetap salah,True
+RPL-07,162,RPL,0,64.308,RPL-059,model,models,models,models,True,True,tetap benar,True
+RPL-07,165,RPL,0,64.308,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-07,181,RPL,0,74.324,RPL-059,model,model,models,models,False,False,tetap salah,True
+RPL-07,194,RPL,0,74.324,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-07,208,RPL,0,84.24,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,224,RPL,0,95.828,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,264,RPL,0,111.956,RPL-146,verification,verifikasi,verifikasi,verifikasi,True,True,tetap benar,True
+RPL-07,285,RPL,0,117.652,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,310,RPL,0,133.78,RPL-059,model,models,model,models,False,True,diperbaiki,True
+RPL-07,332,RPL,0,142.688,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,357,RPL,0,155.028,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,358,RPL,0,155.028,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,361,RPL,0,155.028,RPL-102,scenario,scenario,skenario,skenario,False,False,tetap salah,True
+RPL-07,363,RPL,0,155.028,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,375,RPL,0,161.136,RPL-102,scenario,scenario,skenario,skenario,False,False,tetap salah,True
+RPL-07,377,RPL,0,161.136,RPL-060,modeling,modeling,modeling,modeling,True,True,tetap benar,True
+RPL-07,384,RPL,0,161.136,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,385,RPL,0,161.136,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,389,RPL,0,161.136,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,445,RPL,1,180.66,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,457,RPL,1,197.716,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,464,RPL,1,197.716,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,475,RPL,1,206.848,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,489,RPL,1,211.732,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,549,RPL,1,230.676,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-07,576,RPL,1,245.392,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-07,613,RPL,1,264.02,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-07,631,RPL,1,264.02,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-07,635,RPL,1,264.02,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-07,655,RPL,1,280.916,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-07,686,RPL,1,289.908,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-07,716,RPL,1,305.812,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-07,725,RPL,1,311.764,RPL-062,notation,notasi,notasi,notasi,True,True,tetap benar,True
+RPL-07,740,RPL,1,318.42,RPL-138,user,user,user,user,True,True,tetap benar,True
+RPL-07,751,RPL,1,318.42,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-07,761,RPL,1,325.76,RPL-138,user,user,user,user,True,True,tetap benar,True
+RPL-07,873,RPL,2,363.668,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-07,914,RPL,2,388.404,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-07,935,RPL,2,388.404,RPL-138,user,user,user,user,True,True,tetap benar,True
+RPL-07,1060,RPL,2,454.388,RPL-062,notation,notasi,notasi,notasi,True,True,tetap benar,True
+RPL-07,1158,RPL,2,485.652,RPL-049,implementation,implementasi,implementasi,implementasi,True,True,tetap benar,True
+RPL-07,1199,RPL,2,516.98,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1200,RPL,2,516.98,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,1204,RPL,2,516.98,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1206,RPL,2,516.98,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1211,RPL,2,516.98,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-07,1230,RPL,2,527.284,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-07,1242,RPL,2,533.14,RPL-060,modeling,modeling,modeling,modeling,True,True,tetap benar,True
+RPL-07,1263,RPL,3,544.724,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1279,RPL,3,544.724,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-07,1321,RPL,3,568.34,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1337,RPL,3,568.34,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1377,RPL,3,585.044,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1523,RPL,3,650.804,RPL-062,notation,notasi,notasi,notasi,True,True,tetap benar,True
+RPL-07,1534,RPL,3,650.804,RPL-062,notation,notasi,notasi,notasi,True,True,tetap benar,True
+RPL-07,1628,RPL,3,695.668,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-07,1649,RPL,3,704.224,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-07,1665,RPL,3,710.836,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1671,RPL,3,710.836,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1680,RPL,4,720.692,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,1681,RPL,4,720.692,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1688,RPL,4,720.692,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,1698,RPL,4,720.692,RPL-089,requirement,requirement,requirements,requirements,False,False,tetap salah,True
+RPL-07,1705,RPL,4,720.692,RPL-122,software project,proyek perangkat lunak,proyek perangkat lunak,proyek perangkat lunak,True,True,tetap benar,False
+RPL-07,1708,RPL,4,720.692,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-07,1713,RPL,4,720.692,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-07,1729,RPL,4,740.692,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-07,1744,RPL,4,746.644,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-07,1765,RPL,4,753.812,RPL-071,problem,permasalahan,permasalahan,permasalahan,True,True,tetap benar,True
+RPL-07,1771,RPL,4,753.812,RPL-115,software development,pengembangan perangkat lunak,pengembangan perangkat lunak,pengembangan perangkat lunak,True,True,tetap benar,True
+RPL-07,1788,RPL,4,753.812,RPL-071,problem,masalah,masalah,masalah,True,True,tetap benar,True
+RPL-07,1799,RPL,4,768.564,RPL-071,problem,permasalahan,permasalahan,permasalahan,True,True,tetap benar,True
+RPL-07,1805,RPL,4,768.564,RPL-087,rekayasa perangkat lunak,software engineering,software engineering,software engineering,True,True,tetap benar,True
+RPL-07,1819,RPL,4,768.564,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,1908,RPL,4,816.084,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,1916,RPL,4,822.132,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,1917,RPL,4,822.132,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1930,RPL,4,822.132,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,1931,RPL,4,822.132,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,1955,RPL,4,834.576,RPL-060,modeling,pemodelan,pemodelan,pemodelan,True,True,tetap benar,True
+RPL-07,1975,RPL,4,834.576,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-07,1984,RPL,4,834.576,RPL-089,requirement,kebutuhan,kebutuhan,kebutuhan,True,True,tetap benar,True
+RPL-07,1987,RPL,4,853.364,RPL-031,developer,developer,developer,developer,True,True,tetap benar,True
+RPL-07,1993,RPL,4,853.364,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,2015,RPL,4,860.212,RPL-092,requirements analysis,analisis kebutuhan,analisis kebutuhan,analisis kebutuhan,True,True,tetap benar,False
+RPL-07,2025,RPL,4,869.972,RPL-031,developer,pengembang,pengembangan,pengembangan,False,False,tetap salah,True
+RPL-07,2031,RPL,4,869.972,RPL-089,requirement,kebutuhan,kebutuhan,kebutuhan,True,True,tetap benar,True
+RPL-07,2032,RPL,4,869.972,RPL-129,stakeholder,stakeholders,stakeholders,stakeholders,True,True,tetap benar,True
+RPL-07,2034,RPL,4,869.972,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,2045,RPL,4,881.236,RPL-031,developer,developer,developer,developer,True,True,tetap benar,True
+RPL-07,2056,RPL,4,881.236,RPL-141,user requirements,kebutuhan pengguna,kebutuhan pengguna,kebutuhan pengguna,True,True,tetap benar,False
+RPL-07,2102,RPL,5,904.756,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,2124,RPL,5,918.484,RPL-060,modeling,pemodelan,pemodelan,pemodelan,True,True,tetap benar,True
+RPL-07,2125,RPL,5,918.484,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,2145,RPL,5,928.08,RPL-129,stakeholder,stakeholders,stakeholders,stakeholders,True,True,tetap benar,True
+RPL-07,2148,RPL,5,928.08,RPL-089,requirement,kebutuhan,kebutuhan,kebutuhan,True,True,tetap benar,True
+RPL-07,2156,RPL,5,932.852,RPL-031,developer,pengembang,pengembang,pengembang,True,True,tetap benar,True
+RPL-07,2183,RPL,5,943.444,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,2205,RPL,5,948.98,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-07,2210,RPL,5,948.98,RPL-129,stakeholder,stakeholders,stakeholders,stakeholders,True,True,tetap benar,True
+RPL-07,2211,RPL,5,960.82,RPL-060,modeling,pemodelan,pemodelan,pemodelan,True,True,tetap benar,True
+RPL-07,2227,RPL,5,966.452,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2235,RPL,5,966.452,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2263,RPL,5,984.5,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2267,RPL,5,984.5,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2274,RPL,5,984.5,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-07,2285,RPL,5,992.756,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2306,RPL,5,1001.332,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2308,RPL,5,1001.332,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2328,RPL,5,1007.84,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-07,2335,RPL,5,1016.052,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2340,RPL,5,1016.052,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2364,RPL,5,1024.596,RPL-060,modeling,pemodelan,pemodelan,pemodelan,True,True,tetap benar,True
+RPL-07,2365,RPL,5,1024.596,RPL-089,requirement,requirement,requirement,requirement,True,True,tetap benar,True
+RPL-07,2473,RPL,5,1074.132,RPL-022,customer,pelanggan,pelanggan,pelanggan,True,True,tetap benar,True
+RPL-07,2516,RPL,6,1096.852,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2519,RPL,6,1096.852,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2522,RPL,6,1096.852,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2552,RPL,6,1109.3,RPL-040,feature,fitur,fitur,fitur,True,True,tetap benar,True
+RPL-07,2691,RPL,6,1172.5,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2735,RPL,6,1185.524,RPL-092,requirements analysis,analisis kebutuhan,analisis kebutuhan,analisis kebutuhan,True,True,tetap benar,False
+RPL-07,2741,RPL,6,1198.516,RPL-059,model,model,model,model,True,True,tetap benar,True
+RPL-07,2742,RPL,6,1198.516,RPL-089,requirement,requirements,requirements,requirements,True,True,tetap benar,True
+RPL-10,8,RPL,0,0.052,RPL-087,rekayasa perangkat lunak,rekayasa perangkat lunak,rekayasa perangkat lunak,rekayasa perangkat lunak,True,True,tetap benar,True
+RPL-10,22,RPL,0,0.052,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,26,RPL,0,0.052,RPL-140,user interface design,user interface design,user interface design,user interface design,True,True,tetap benar,False
+RPL-10,49,RPL,0,14.356,RPL-137,usability,usability,usability,usability,True,True,tetap benar,False
+RPL-10,68,RPL,0,23.892,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,82,RPL,0,23.892,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,105,RPL,0,38.164,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,115,RPL,0,45.876,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,125,RPL,0,45.876,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,133,RPL,0,56.116,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,164,RPL,0,67.412,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,170,RPL,0,67.412,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,223,RPL,0,93.044,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,229,RPL,0,93.044,RPL-061,natural language,natural language,natural language,natural language,True,True,tetap benar,True
+RPL-10,232,RPL,0,93.044,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,259,RPL,0,108.916,RPL-137,usability,usability,usability,usability,True,True,tetap benar,False
+RPL-10,260,RPL,0,115.156,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,267,RPL,0,115.156,RPL-137,usability,usability,usability,usability,True,True,tetap benar,False
+RPL-10,268,RPL,0,119.024,RPL-137,usability,usability,usability,usability,True,True,tetap benar,False
+RPL-10,274,RPL,0,119.024,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-10,283,RPL,0,119.024,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-10,290,RPL,0,129.172,RPL-137,usability,usability,usability,usability,True,True,tetap benar,False
+RPL-10,294,RPL,0,129.172,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-10,301,RPL,0,129.172,RPL-137,usability,usability,usability,usability,True,True,tetap benar,False
+RPL-10,311,RPL,0,137.268,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-10,324,RPL,0,137.268,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,328,RPL,0,146.996,RPL-137,usability,usability,usability,usability,True,True,tetap benar,False
+RPL-10,332,RPL,0,146.996,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,337,RPL,0,146.996,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-10,348,RPL,0,146.996,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,351,RPL,0,158.356,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-10,353,RPL,0,158.356,RPL-137,usability,usability,usability,usability,True,True,tetap benar,False
+RPL-10,370,RPL,0,158.356,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-10,374,RPL,0,166.836,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-10,381,RPL,0,166.836,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-10,394,RPL,0,176.756,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,410,RPL,0,176.756,RPL-114,software design,perancangan,rancangan,rancangan,False,False,tetap salah,True
+RPL-10,465,RPL,1,210.196,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,481,RPL,1,210.196,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,516,RPL,1,238.932,RPL-114,software design,perancangan,rancangan,rancangan,False,False,tetap salah,True
+RPL-10,523,RPL,1,238.932,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,526,RPL,1,238.932,RPL-138,user,user,user,user,True,True,tetap benar,True
+RPL-10,543,RPL,1,250.964,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,549,RPL,1,250.964,RPL-138,user,user,user,user,True,True,tetap benar,True
+RPL-10,562,RPL,1,259.732,RPL-138,user,user,user,user,True,True,tetap benar,True
+RPL-10,582,RPL,1,269.268,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,603,RPL,1,279.316,RPL-114,software design,perancangan,rancangan,rancangan,False,False,tetap salah,True
+RPL-10,613,RPL,1,279.316,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,731,RPL,1,329.46,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,760,RPL,1,343.988,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,773,RPL,1,355.2,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,814,RPL,2,373.94,RPL-071,problem,permasalahan,permasalahan,permasalahan,True,True,tetap benar,True
+RPL-10,845,RPL,2,389.204,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,895,RPL,2,413.556,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,971,RPL,2,439.38,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1133,RPL,2,516.084,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1193,RPL,3,540.628,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1244,RPL,3,573.108,RPL-114,software design,perancangan,rancangan,rancangan,False,False,tetap salah,True
+RPL-10,1249,RPL,3,573.108,RPL-138,user,user,user,user,True,True,tetap benar,True
+RPL-10,1262,RPL,3,573.108,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1350,RPL,3,615.636,RPL-138,user,user,user,user,True,True,tetap benar,True
+RPL-10,1363,RPL,3,623.636,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,1368,RPL,3,623.636,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,1369,RPL,3,623.636,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,1391,RPL,3,623.636,RPL-089,requirement,requirement,requirements,requirements,False,False,tetap salah,True
+RPL-10,1393,RPL,3,623.636,RPL-089,requirement,kebutuhan,kebutuhan,kebutuhan,True,True,tetap benar,True
+RPL-10,1414,RPL,3,645.3,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1417,RPL,3,645.3,RPL-138,user,user,user,user,True,True,tetap benar,True
+RPL-10,1419,RPL,3,645.3,RPL-114,software design,design,design,design,True,True,tetap benar,True
+RPL-10,1423,RPL,3,654.772,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,1438,RPL,3,654.772,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1453,RPL,3,663.6,RPL-083,prototyping,prototipe,prototipe,prototipe,True,True,tetap benar,True
+RPL-10,1477,RPL,3,679.764,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True
+RPL-10,1494,RPL,3,679.764,RPL-089,requirement,kebutuhan,kebutuhan,kebutuhan,True,True,tetap benar,True
+RPL-10,1495,RPL,3,679.764,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-10,1514,RPL,3,696.244,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1515,RPL,3,696.244,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-10,1527,RPL,3,701.044,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-10,1533,RPL,3,701.044,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,1535,RPL,3,701.044,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1553,RPL,3,701.044,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1561,RPL,3,718.324,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1574,RPL,4,724.02,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1600,RPL,4,731.38,RPL-022,customer,pelanggan,pelanggan,pelanggan,True,True,tetap benar,True
+RPL-10,1603,RPL,4,731.38,RPL-040,feature,fitur,fitur,fitur,True,True,tetap benar,True
+RPL-10,1604,RPL,4,731.38,RPL-040,feature,fitur,fitur,fitur,True,True,tetap benar,True
+RPL-10,1612,RPL,4,739.796,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1634,RPL,4,739.796,RPL-022,customer,pelanggan,pelanggan,pelanggan,True,True,tetap benar,True
+RPL-10,1641,RPL,4,751.7,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1647,RPL,4,751.7,RPL-022,customer,pelanggan,pelanggan,pelanggan,True,True,tetap benar,True
+RPL-10,1656,RPL,4,751.7,RPL-040,feature,fitur,fitur,fitur,True,True,tetap benar,True
+RPL-10,1657,RPL,4,751.7,RPL-040,feature,fitur,fitur,fitur,True,True,tetap benar,True
+RPL-10,1663,RPL,4,761.812,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1673,RPL,4,761.812,RPL-040,feature,fitur,fitur,fitur,True,True,tetap benar,True
+RPL-10,1700,RPL,4,775.38,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1713,RPL,4,784.66,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1730,RPL,4,784.66,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,1738,RPL,4,784.66,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,1744,RPL,4,784.66,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-10,1798,RPL,4,807.796,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,1824,RPL,4,830.72,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,1931,RPL,4,874.74,RPL-083,prototyping,prototipe,prototipe,prototipe,True,True,tetap benar,True
+RPL-10,1935,RPL,4,883.572,RPL-083,prototyping,prototipe,prototipe,prototipe,True,True,tetap benar,True
+RPL-10,1936,RPL,4,883.572,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,1945,RPL,4,883.572,RPL-139,user interface,user interface,user interface,user interface,True,True,tetap benar,True
+RPL-10,1948,RPL,4,889.552,RPL-083,prototyping,prototipe,prototipe,prototipe,True,True,tetap benar,True
+RPL-10,1954,RPL,4,892.82,RPL-083,prototyping,prototipe,prototipe,prototipe,True,True,tetap benar,True
+RPL-10,1961,RPL,4,892.82,RPL-083,prototyping,prototype,prototype,prototype,True,True,tetap benar,True
+RPL-10,1965,RPL,4,892.82,RPL-083,prototyping,prototipe,prototype,prototype,False,False,tetap salah,True
+RPL-10,1972,RPL,5,900.34,RPL-083,prototyping,prototipe,prototype,prototype,False,False,tetap salah,True
+RPL-10,2002,RPL,5,909.428,RPL-083,prototyping,prototipe,prototype,prototype,False,False,tetap salah,True
+RPL-10,2021,RPL,5,917.748,RPL-040,feature,fitur,fitur,fitur,True,True,tetap benar,True
+RPL-10,2040,RPL,5,930.516,RPL-132,testing,pengujian,pengujian,pengujian,True,True,tetap benar,True
+RPL-10,2046,RPL,5,930.516,RPL-132,testing,pengujian,pengujian,pengujian,True,True,tetap benar,True
+RPL-10,2057,RPL,5,930.516,RPL-089,requirement,kebutuhan,kebutuhan,kebutuhan,True,True,tetap benar,True
+RPL-10,2112,RPL,5,962.196,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,2113,RPL,5,962.196,RPL-065,perangkat lunak,software,software,software,True,True,tetap benar,True
+RPL-10,2115,RPL,5,962.196,RPL-102,scenario,skenario,skenario,skenario,True,True,tetap benar,True
+RPL-10,2121,RPL,5,962.196,RPL-065,perangkat lunak,perangkat lunak,perangkat lunak,perangkat lunak,True,True,tetap benar,True
+RPL-10,2142,RPL,5,972.692,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,2152,RPL,5,983.412,RPL-137,usability,usability,usability,usability,True,True,tetap benar,False
+RPL-10,2153,RPL,5,983.412,RPL-132,testing,testing,testing,testing,True,True,tetap benar,True
+RPL-10,2169,RPL,5,983.412,RPL-138,user,pengguna,pengguna,pengguna,True,True,tetap benar,True
+RPL-10,2175,RPL,5,996.052,RPL-114,software design,perancangan,perancangan,perancangan,True,True,tetap benar,True

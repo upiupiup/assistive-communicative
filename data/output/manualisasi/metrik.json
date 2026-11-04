@@ -1,0 +1,51 @@
+{
+  "acuan": "Yaitu suatu mekanisme untuk mempercepat akses pembacaan dari main memory ke dalam CPU",
+  "hipotesis": "Yaitu mekanisme untuk mempercepat akses pembacaan data dari main memory ke dalam sepu.",
+  "token_acuan": [
+    "yaitu",
+    "suatu",
+    "mekanisme",
+    "untuk",
+    "mempercepat",
+    "akses",
+    "pembacaan",
+    "dari",
+    "main",
+    "memory",
+    "ke",
+    "dalam",
+    "cpu"
+  ],
+  "token_hipotesis": [
+    "yaitu",
+    "mekanisme",
+    "untuk",
+    "mempercepat",
+    "akses",
+    "pembacaan",
+    "data",
+    "dari",
+    "main",
+    "memory",
+    "ke",
+    "dalam",
+    "sepu"
+  ],
+  "G": [
+    9,
+    10,
+    13
+  ],
+  "S": 1,
+  "D": 1,
+  "I": 1,
+  "N": 13,
+  "WER": 0.2308,
+  "S_C": 1,
+  "D_C": 6,
+  "I_C": 6,
+  "N_C": 85,
+  "CER": 0.1529,
+  "E_G": 1,
+  "TTER": 0.3333
+}

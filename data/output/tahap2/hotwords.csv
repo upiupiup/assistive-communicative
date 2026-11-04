@@ -1,0 +1,901 @@
+﻿mata_kuliah,urutan,entri_id,bentuk_kanonik,sebutan,frekuensi_sebutan,frekuensi_entri,token_daftar,masuk
+AOK,1,AOK-017,cache,cache,279,300,1.0,True
+AOK,2,AOK-060,instruction,instruksi,189,280,5.0,True
+AOK,3,AOK-080,memori,memori,178,280,8.0,True
+AOK,4,AOK-111,prosesor,prosesor,132,212,12.0,True
+AOK,5,AOK-011,bit,bit,137,185,14.0,True
+AOK,6,AOK-115,register,register,147,176,16.0,True
+AOK,7,AOK-030,CPU,CPU,119,122,18.0,True
+AOK,8,AOK-054,I/O,I/O,108,115,22.0,True
+AOK,9,AOK-076,main memory,main memory,50,96,25.0,True
+AOK,10,AOK-038,disk,disk,78,90,27.0,True
+AOK,11,AOK-099,operand,operand,77,89,30.0,True
+AOK,12,AOK-070,interrupt,interupsi,41,71,34.0,True
+AOK,13,AOK-100,operating system,operating system,26,71,37.0,True
+AOK,14,AOK-108,pipeline,pipeline,55,68,39.0,True
+AOK,15,AOK-015,bus,bus,56,61,41.0,True
+AOK,16,AOK-028,core,core,47,59,43.0,True
+AOK,17,AOK-020,chip,chip,53,54,45.0,True
+AOK,18,AOK-010,binary,biner,25,51,48.0,True
+AOK,19,AOK-055,I/O module,modul I/O,44,49,54.0,True
+AOK,20,AOK-016,byte,byte,40,47,56.0,True
+AOK,21,AOK-101,organisasi komputer,organisasi,47,47,59.0,True
+AOK,22,AOK-007,arsitektur komputer,arsitektur,43,46,64.0,True
+AOK,23,AOK-148,word,word,36,45,66.0,True
+AOK,24,AOK-006,ARM,ARM,42,42,68.0,True
+AOK,25,AOK-004,ALU,ALU,36,40,71.0,True
+AOK,26,AOK-065,integer,integer,35,39,73.0,True
+AOK,27,AOK-052,floating point,floating point,33,37,76.0,True
+AOK,28,AOK-138,tag,tag,34,37,78.0,True
+AOK,29,AOK-127,significand,significand,35,36,81.0,True
+AOK,30,AOK-046,exponent,exponent,29,33,83.0,True
+AOK,31,AOK-137,superscalar,superscalar,32,33,87.0,True
+AOK,32,AOK-048,fetch,fetch,21,31,89.0,True
+AOK,33,AOK-119,RISC,RISC,26,29,93.0,True
+AOK,34,AOK-139,thread,thread,15,29,95.0,True
+AOK,35,AOK-014,buffer,buffer,23,28,97.0,True
+AOK,36,AOK-150,x86,x86,17,28,100.0,True
+AOK,37,AOK-068,interface,interface,13,26,102.0,True
+AOK,38,AOK-027,control unit,control unit,15,25,105.0,True
+AOK,39,AOK-041,DRAM,DRAM,22,25,108.0,True
+AOK,40,AOK-024,cluster,cluster,13,22,110.0,True
+AOK,41,AOK-003,addressing mode,mode pengalamatan,11,22,115.0,True
+AOK,42,AOK-064,instruction set,set instruksi,16,22,120.0,True
+AOK,43,AOK-026,computer arithmetic,aritmatika,17,21,125.0,True
+AOK,44,AOK-013,branch,branch,16,21,127.0,True
+AOK,45,AOK-106,peripheral,peripheral,15,21,129.0,True
+AOK,46,AOK-140,TLB,TLB,18,20,132.0,True
+AOK,47,AOK-074,logic gate,gate,9,19,134.0,True
+AOK,48,AOK-062,instruction format,format instruksi,11,18,139.0,True
+AOK,49,AOK-085,microprocessor,microprocessor,9,18,144.0,True
+AOK,50,AOK-112,RAID,RAID,17,18,147.0,True
+AOK,51,AOK-135,stack,stack,18,18,149.0,True
+AOK,52,AOK-145,virtual address,virtual address,9,18,152.0,True
+AOK,53,AOK-021,CISC,CISC,14,17,156.0,True
+AOK,54,AOK-075,machine instruction,instruksi mesin,15,17,162.0,True
+AOK,55,AOK-093,multithreading,multithreading,16,17,166.0,True
+AOK,56,AOK-121,scheduling,penjadwalan,10,17,172.0,True
+AOK,57,AOK-130,SMP,SMP,14,17,175.0,True
+AOK,58,AOK-040,DMA,DMA,13,16,178.0,True
+AOK,59,AOK-067,interconnection,interconnection,9,16,181.0,True
+AOK,60,AOK-089,multicore,multicore,13,16,184.0,True
+AOK,61,AOK-107,physical address,physical address,10,16,187.0,True
+AOK,62,AOK-120,ROM,ROM,10,16,189.0,True
+AOK,63,AOK-023,cloud computing,cloud computing,8,15,192.0,True
+AOK,64,AOK-050,flash memory,flash memory,9,15,195.0,True
+AOK,65,AOK-073,ISA,ISA,6,15,198.0,True
+AOK,66,AOK-018,cache coherence,koherensi cache,15,15,204.0,True
+AOK,67,AOK-103,page table,page table,12,15,207.0,True
+AOK,68,AOK-117,register file,register file,13,15,210.0,True
+AOK,69,AOK-141,track,track,15,15,212.0,True
+AOK,70,AOK-001,access time,waktu akses,12,15,217.0,True
+AOK,71,AOK-146,virtual memory,memori virtual,13,14,221.0,True
+AOK,72,AOK-097,NUMA,NUMA,14,14,225.0,False
+AOK,73,AOK-098,opcode,opcode,11,14,,False
+AOK,74,AOK-019,cache line,baris cache,9,13,,False
+AOK,75,AOK-092,multiprogramming,multiprogramming,13,13,,False
+AOK,76,AOK-032,data transfer,transfer data,13,13,,False
+AOK,77,AOK-082,memory management,manajemen memori,10,12,,False
+AOK,78,AOK-091,multiprocessor,multiprosesor,10,12,,False
+AOK,79,AOK-126,sign bit,sign bit,11,12,,False
+AOK,80,AOK-128,SIMD,SIMD,11,12,,False
+AOK,81,AOK-132,SPARC,SPARC,12,12,,False
+AOK,82,AOK-134,SSD,SSD,11,12,,False
+AOK,83,AOK-039,displacement addressing,displacement,8,11,,False
+AOK,84,AOK-044,embedded system,embedded system,10,11,,False
+AOK,85,AOK-053,GPU,GPU,10,11,,False
+AOK,86,AOK-057,immediate addressing,immediate,9,11,,False
+AOK,87,AOK-083,MESI,MESI,5,11,,False
+AOK,88,AOK-133,SRAM,SRAM,8,11,,False
+AOK,89,AOK-144,two's complement,twos complement,8,11,,False
+AOK,90,AOK-002,accumulator,accumulator,9,10,,False
+AOK,91,AOK-033,DDR SDRAM,DDR,4,10,,False
+AOK,92,AOK-045,error correction,error correction,5,10,,False
+AOK,93,AOK-066,integrated circuit,IC,8,10,,False
+AOK,94,AOK-125,semiconductor memory,memori semikonduktor,9,10,,False
+AOK,95,AOK-081,memory cell,memory cell,5,10,,False
+AOK,96,AOK-109,program counter,program counter,9,10,,False
+AOK,97,AOK-031,data bus,bus data,6,9,,False
+AOK,98,AOK-022,clock,clock,4,9,,False
+AOK,99,AOK-034,decoder,decoder,6,9,,False
+AOK,100,AOK-051,flip-flop,flip-flop,9,9,,False
+AOK,101,AOK-061,instruction cycle,instruction cycle,6,9,,False
+AOK,102,AOK-077,mainframe,mainframe,9,9,,False
+AOK,103,AOK-086,MIPS,MIPS,9,9,,False
+AOK,104,AOK-095,nonvolatile,nonvolatile,9,9,,False
+AOK,105,AOK-104,paging,paging,9,9,,False
+AOK,106,AOK-105,parity,paritas,8,9,,False
+AOK,107,AOK-113,RAM,RAM,8,9,,False
+AOK,108,AOK-123,sector,sector,9,9,,False
+AOK,109,AOK-143,transistor,transistor,9,9,,False
+AOK,110,AOK-149,write back,write back,9,9,,False
+AOK,111,AOK-142,transfer rate,kecepatan transfer,6,8,,False
+AOK,112,AOK-079,MBR,MBR,6,8,,False
+AOK,113,AOK-069,internal memory,memori internal,7,8,,False
+AOK,114,AOK-087,MMU,MMU,6,8,,False
+AOK,115,AOK-096,normalization,normalisasi,8,8,,False
+AOK,116,AOK-129,simultaneous multithreading,SMT,6,8,,False
+AOK,117,AOK-012,boolean function,boolean,4,7,,False
+AOK,118,AOK-035,device controller,device controller,3,7,,False
+AOK,119,AOK-049,fixed point,fixed point,7,7,,False
+AOK,120,AOK-056,IEEE 754,IEEE 754,7,7,,False
+AOK,121,AOK-063,instruction level parallelism,instruction level parallelism,4,7,,False
+AOK,122,AOK-071,interrupt handler,interrupt handler,7,7,,False
+AOK,123,AOK-078,MAR,MAR,5,7,,False
+AOK,124,AOK-047,external memory,memori eksternal,6,7,,False
+AOK,125,AOK-102,out-of-order,out-of-order,7,7,,False
+AOK,126,AOK-118,register indirect addressing,pengalamatan register tidak langsung,4,7,,False
+AOK,127,AOK-110,programmed I/O,programmed I/O,7,7,,False
+AOK,128,AOK-124,segmentation,segmentasi,7,7,,False
+AOK,129,AOK-131,source operand,source operand,7,7,,False
+AOK,130,AOK-114,random access,akses acak,4,6,,False
+AOK,131,AOK-037,direct mapping,direct mapping,3,6,,False
+AOK,132,AOK-042,EEPROM,EEPROM,5,6,,False
+AOK,133,AOK-059,indirect addressing,indirect addressing,3,6,,False
+AOK,134,AOK-072,IoT,IoT,5,6,,False
+AOK,135,AOK-084,microcontroller,mikrokontroler,6,6,,False
+AOK,136,AOK-088,MSB,MSB,5,6,,False
+AOK,137,AOK-094,NAND,NAND,6,6,,False
+AOK,138,AOK-122,scientific notation,notasi ilmiah,6,6,,False
+AOK,139,AOK-008,associative mapping,pemetaan asosiatif,4,6,,False
+AOK,140,AOK-116,register addressing,register addressing,4,6,,False
+AOK,141,AOK-136,superpipeline,superpipeline,5,6,,False
+AOK,142,AOK-147,volatile,volatile,3,6,,False
+AOK,143,AOK-025,combinational circuit,rangkaian kombinasional,5,5,,False
+AOK,144,AOK-036,digital logic,logika digital,4,4,,False
+AOK,145,AOK-090,multiplexer,multiplexer,3,4,,False
+AOK,146,AOK-005,amdahl's law,amdahl's law,0,0,,False
+AOK,147,AOK-009,benchmark,benchmark,0,0,,False
+AOK,148,AOK-029,CPI,CPI,0,0,,False
+AOK,149,AOK-043,elemen penyimpanan,elemen penyimpanan,0,0,,False
+AOK,150,AOK-058,indikator kinerja,indikator kinerja,0,0,,False
+APS,1,APS-121,sistem,sistem,93,186,1.0,True
+APS,2,APS-069,kelas,class,50,112,3.0,True
+APS,3,APS-088,objek,objek,49,105,6.0,True
+APS,4,APS-068,kebutuhan,kebutuhan,56,96,10.0,True
+APS,5,APS-099,perancangan,design,43,88,12.0,True
+APS,6,APS-104,perangkat lunak,PL,33,75,14.0,True
+APS,7,APS-080,model,model,50,57,16.0,True
+APS,8,APS-096,pemodelan,pemodelan,46,48,20.0,True
+APS,9,APS-016,atribut,atribut,28,39,24.0,True
+APS,10,APS-092,operasi,operasi,28,35,27.0,True
+APS,11,APS-013,analisis,analisis,24,29,30.0,True
+APS,12,APS-030,constraint,constraint,14,27,32.0,True
+APS,13,APS-141,use case,use case,19,22,35.0,True
+APS,14,APS-065,interface,interface,16,21,37.0,True
+APS,15,APS-039,diagram,diagram,16,19,39.0,True
+APS,16,APS-085,object oriented,OO,10,19,42.0,True
+APS,17,APS-006,actor,aktor,13,18,45.0,True
+APS,18,APS-109,problem domain,problem domain,13,18,48.0,True
+APS,19,APS-023,class diagram,class diagram,17,17,51.0,True
+APS,20,APS-071,komponen,komponen,14,17,55.0,True
+APS,21,APS-143,use case scenario,skenario,11,17,58.0,True
+APS,22,APS-145,user interface,UI,11,15,60.0,True
+APS,23,APS-062,instansiasi,instance,7,14,62.0,True
+APS,24,APS-070,kohesi,cohesion,9,13,65.0,True
+APS,25,APS-044,entity class,entity,12,13,67.0,True
+APS,26,APS-119,sequence diagram,sequence diagram,13,13,70.0,True
+APS,27,APS-009,aggregation,aggregation,7,12,73.0,True
+APS,28,APS-017,behavioral,behavioral,12,12,75.0,True
+APS,29,APS-043,elisitasi,elisitasi,9,12,80.0,True
+APS,30,APS-072,kopling,kopling,6,12,83.0,True
+APS,31,APS-116,requirements engineering,RE,6,12,85.0,True
+APS,32,APS-117,reuse,reuse,8,12,87.0,True
+APS,33,APS-054,generalization,generalisasi,6,11,91.0,True
+APS,34,APS-079,method,methods,5,11,93.0,True
+APS,35,APS-127,stakeholder,stakeholder,10,11,95.0,True
+APS,36,APS-028,composition,composition,8,10,97.0,True
+APS,37,APS-061,inheritance,inheritance,5,10,99.0,True
+APS,38,APS-090,observer,observer,10,10,101.0,True
+APS,39,APS-098,pengujian,pengujian,9,10,105.0,True
+APS,40,APS-060,information presentation,presentation,5,10,107.0,True
+APS,41,APS-124,solution domain,solution domain,6,10,110.0,True
+APS,42,APS-002,abstraksi,abstraction,5,9,112.0,True
+APS,43,APS-007,actor generalization,sub-actors,4,9,117.0,True
+APS,44,APS-142,use case diagram,use case diagram,9,9,121.0,True
+APS,45,APS-146,validasi,validasi,7,9,124.0,True
+APS,46,APS-015,association,association,7,8,126.0,True
+APS,47,APS-130,sub-sistem,sub-sistem,5,8,131.0,True
+APS,48,APS-136,UML,UML,6,8,134.0,True
+APS,49,APS-095,packaging,package,3,7,136.0,True
+APS,50,APS-120,singleton,singleton,7,7,139.0,True
+APS,51,APS-021,boundary class,boundary,5,6,141.0,True
+APS,52,APS-029,consistency,consistency,3,6,143.0,True
+APS,53,APS-046,error message,error message,4,6,146.0,True
+APS,54,APS-097,pengembangan perangkat lunak,pengembangan perangkat lunak,3,6,156.0,True
+APS,55,APS-147,verifikasi,verifikasi,4,6,160.0,True
+APS,56,APS-011,alternative flow,aliran alternatif,3,5,165.0,True
+APS,57,APS-012,ambiguity,ambigu,2,5,167.0,True
+APS,58,APS-036,data warehouse,data warehouse,2,5,170.0,True
+APS,59,APS-038,design pattern,design pattern,3,5,173.0,True
+APS,60,APS-048,facade,façade,3,5,177.0,True
+APS,61,APS-059,include,include,4,5,179.0,True
+APS,62,APS-102,perancangan interface,interface design,4,5,182.0,True
+APS,63,APS-111,prototyping,prototyping,3,5,185.0,True
+APS,64,APS-114,real-time system,real-time,5,5,189.0,True
+APS,65,APS-126,SRS,SRS,5,5,192.0,True
+APS,66,APS-128,statechart diagram,statechart diagram,2,5,197.0,True
+APS,67,APS-132,superclass,superclass,4,5,200.0,True
+APS,68,APS-008,adaptability,adaptability,4,4,203.0,True
+APS,69,APS-076,main flow,aliran utama,3,4,208.0,True
+APS,70,APS-034,creational,creational,4,4,211.0,True
+APS,71,APS-045,entity relationship diagram,entity relationship diagram,1,4,215.0,True
+APS,72,APS-056,GoF,GoF,0,4,218.0,True
+APS,73,APS-105,postcondition,kondisi akhir,3,4,223.0,True
+APS,74,APS-073,kualitas perangkat lunak,kualitas perangkat lunak,4,4,232.0,False
+APS,75,APS-082,MVC,MVC,3,4,,False
+APS,76,APS-087,object oriented design,OOD,3,4,,False
+APS,77,APS-106,precondition,prakondisi,3,4,,False
+APS,78,APS-107,primary actor,primary actor,3,4,,False
+APS,79,APS-112,pseudocode,pseudocode,3,4,,False
+APS,80,APS-113,rationale,rationale,4,4,,False
+APS,81,APS-125,spesifikasi kebutuhan,spesifikasi kebutuhan,3,4,,False
+APS,82,APS-129,structural,structural,4,4,,False
+APS,83,APS-135,traceability,traceability,2,4,,False
+APS,84,APS-010,algoritme,algoritme,2,3,,False
+APS,85,APS-014,API,API,2,3,,False
+APS,86,APS-020,boilerplate,boilerplate,1,3,,False
+APS,87,APS-022,CASE tool,CASE tool,1,3,,False
+APS,88,APS-024,class stereotype,class stereotypes,3,3,,False
+APS,89,APS-031,constructor,constructor,2,3,,False
+APS,90,APS-035,data flow diagram,data flow diagram,1,3,,False
+APS,91,APS-037,database,database,3,3,,False
+APS,92,APS-042,ECB,ECB,3,3,,False
+APS,93,APS-047,extend,extend,2,3,,False
+APS,94,APS-055,generic software,generic software,1,3,,False
+APS,95,APS-148,wawancara,interview,2,3,,False
+APS,96,APS-074,kuesioner,kuesioner,0,3,,False
+APS,97,APS-077,manajemen kebutuhan,manajemen kebutuhan,3,3,,False
+APS,98,APS-089,observasi,observasi,2,3,,False
+APS,99,APS-086,object oriented analysis,OOA,3,3,,False
+APS,100,APS-110,proses perangkat lunak,proses perangkat lunak,2,3,,False
+APS,101,APS-115,refactoring,refactoring,1,3,,False
+APS,102,APS-122,sistem informasi,sistem informasi,3,3,,False
+APS,103,APS-131,subclass,subclass,3,3,,False
+APS,104,APS-137,umpan balik,umpan balik,1,3,,False
+APS,105,APS-138,understandability,understandability,3,3,,False
+APS,106,APS-018,bespoke software,bespoke software,0,2,,False
+APS,107,APS-025,combined fragment,combined fragment,0,2,,False
+APS,108,APS-026,command language,command language,1,2,,False
+APS,109,APS-040,diagrammatic model,diagrammatic model,0,2,,False
+APS,110,APS-041,direct manipulation,direct manipulation,2,2,,False
+APS,111,APS-050,formal model,formal model,0,2,,False
+APS,112,APS-051,formalisasi,formalisasi,2,2,,False
+APS,113,APS-053,functional requirement,functional requirement,0,2,,False
+APS,114,APS-057,GUI,GUI,2,2,,False
+APS,115,APS-058,human factors,human factors,1,2,,False
+APS,116,APS-064,interaction style,interaction style,1,2,,False
+APS,117,APS-067,IRS,IRS,2,2,,False
+APS,118,APS-083,natural language model,natural language model,0,2,,False
+APS,119,APS-100,perancangan arsitektural,perancangan arsitektural,1,2,,False
+APS,120,APS-101,perancangan data,perancangan data,2,2,,False
+APS,121,APS-103,perancangan komponen,perancangan komponen,2,2,,False
+APS,122,APS-123,SMART,SMART,1,2,,False
+APS,123,APS-144,user guidance,user guidance,2,2,,False
+APS,124,APS-150,wicked problem,wicked problem,2,2,,False
+APS,125,APS-003,acceptance criteria,acceptance criteria,1,1,,False
+APS,126,APS-005,activity diagram,activity diagram,1,1,,False
+APS,127,APS-027,component diagram,component diagram,1,1,,False
+APS,128,APS-032,control class,control class,0,1,,False
+APS,129,APS-033,CRC cards,CRC cards,1,1,,False
+APS,130,APS-049,finite state machine,finite state machine,0,1,,False
+APS,131,APS-052,fully dressed,fully dressed,1,1,,False
+APS,132,APS-066,interface evaluation,interface evaluation,1,1,,False
+APS,133,APS-001,abstract class,klas abstrak,1,1,,False
+APS,134,APS-075,lifeline,lifeline,1,1,,False
+APS,135,APS-078,manajemen perubahan,manajemen perubahan,1,1,,False
+APS,136,APS-081,multiplicity,multiplicity,0,1,,False
+APS,137,APS-084,non-functional requirement,non-functional requirement,0,1,,False
+APS,138,APS-091,OCL,OCL,1,1,,False
+APS,139,APS-093,operation signature,operation signature,1,1,,False
+APS,140,APS-094,overloading,overloading,1,1,,False
+APS,141,APS-108,primary key,primary key,1,1,,False
+APS,142,APS-118,secondary actor,secondary actor,1,1,,False
+APS,143,APS-140,usability,usability,1,1,,False
+APS,144,APS-004,acceptance testing,acceptance testing,0,0,,False
+APS,145,APS-019,black-box testing,black-box testing,0,0,,False
+APS,146,APS-063,integration testing,integration testing,0,0,,False
+APS,147,APS-133,system testing,system testing,0,0,,False
+APS,148,APS-134,test case,test case,0,0,,False
+APS,149,APS-139,unit testing,unit testing,0,0,,False
+APS,150,APS-149,white-box testing,white-box testing,0,0,,False
+IMK,1,IMK-138,user,user,109,139,1.0,True
+IMK,2,IMK-025,display,screen,60,103,3.0,True
+IMK,3,IMK-017,design,design,86,94,5.0,True
+IMK,4,IMK-064,interaction,interaction,59,64,7.0,True
+IMK,5,IMK-069,interface,interface,35,56,9.0,True
+IMK,6,IMK-079,menu,menu,31,49,11.0,True
+IMK,7,IMK-124,task,task,26,47,13.0,True
+IMK,8,IMK-012,computer,computer,29,46,15.0,True
+IMK,9,IMK-044,goal,goal,28,32,17.0,True
+IMK,10,IMK-006,button,buttons,25,31,19.0,True
+IMK,11,IMK-035,error,error,16,28,21.0,True
+IMK,12,IMK-082,mouse,mouse,28,28,23.0,True
+IMK,13,IMK-148,window,windows,16,25,25.0,True
+IMK,14,IMK-009,colour,colour,18,22,27.0,True
+IMK,15,IMK-143,vision,visual,13,22,29.0,True
+IMK,16,IMK-096,principle,principles,20,21,31.0,True
+IMK,17,IMK-134,usability,usability,21,21,33.0,True
+IMK,18,IMK-149,World Wide Web,web,17,20,35.0,True
+IMK,19,IMK-060,icon,icons,11,19,37.0,True
+IMK,20,IMK-072,keyboard,keyboard,14,19,39.0,True
+IMK,21,IMK-068,interactivity,interactive,15,18,41.0,True
+IMK,22,IMK-077,memory,memory,18,18,43.0,True
+IMK,23,IMK-091,paradigm,paradigm,10,18,45.0,True
+IMK,24,IMK-042,font,fonts,9,16,47.0,True
+IMK,25,IMK-055,human,human,10,15,49.0,True
+IMK,26,IMK-076,long-term memory,LTM,11,15,52.0,True
+IMK,27,IMK-087,network,network,8,15,54.0,True
+IMK,28,IMK-039,feedback,feedback,14,14,56.0,True
+IMK,29,IMK-037,evaluation,evaluation,10,13,58.0,True
+IMK,30,IMK-046,grouping,grouping,13,13,60.0,True
+IMK,31,IMK-047,guideline,guidelines,13,13,62.0,True
+IMK,32,IMK-105,requirements,requirements,13,13,64.0,True
+IMK,33,IMK-027,dpi,dpi,10,12,67.0,True
+IMK,34,IMK-110,scenario,scenarios,9,12,69.0,True
+IMK,35,IMK-121,standard,standards,11,12,71.0,True
+IMK,36,IMK-058,human-computer interaction,HCI,7,11,74.0,True
+IMK,37,IMK-142,virtual reality,VR,6,11,76.0,True
+IMK,38,IMK-004,alignment,alignment,10,10,78.0,True
+IMK,39,IMK-014,constraint,constraints,10,10,80.0,True
+IMK,40,IMK-032,emotion,emotion,10,10,82.0,True
+IMK,41,IMK-073,layout,layout,10,10,84.0,True
+IMK,42,IMK-081,mode,mode,8,10,86.0,True
+IMK,43,IMK-097,problem solving,problem solving,10,10,89.0,True
+IMK,44,IMK-101,RAM,RAM,9,10,91.0,True
+IMK,45,IMK-113,semantic memory,semantic,9,10,93.0,True
+IMK,46,IMK-115,short-term memory,short-term memory,5,10,98.0,True
+IMK,47,IMK-147,WIMP,WIMP,9,10,102.0,True
+IMK,48,IMK-021,design rules,design rules,9,9,105.0,True
+IMK,49,IMK-071,iterative design,iterative design,5,9,109.0,True
+IMK,50,IMK-117,software life cycle,life cycle,8,9,112.0,True
+IMK,51,IMK-094,pixel,pixels,7,9,114.0,True
+IMK,52,IMK-099,prototyping,prototyping,9,9,117.0,True
+IMK,53,IMK-020,design rationale,design rationale,8,8,120.0,True
+IMK,54,IMK-034,ergonomics,ergonomics,8,8,123.0,True
+IMK,55,IMK-086,navigation,navigation,7,8,125.0,True
+IMK,56,IMK-095,pointer,pointer,4,8,127.0,True
+IMK,57,IMK-005,batch processing,batch processing,7,7,130.0,True
+IMK,58,IMK-026,documentation,documentation,7,7,132.0,True
+IMK,59,IMK-029,earcon,earcons,6,7,135.0,True
+IMK,60,IMK-041,flexibility,flexibility,7,7,137.0,True
+IMK,61,IMK-050,haptic,haptic,7,7,140.0,True
+IMK,62,IMK-108,satisfaction,satisfaction,7,7,142.0,True
+IMK,63,IMK-109,scanner,scanners,4,7,145.0,True
+IMK,64,IMK-129,time-sharing,timesharing,5,7,149.0,True
+IMK,65,IMK-141,user support,user support,7,7,152.0,True
+IMK,66,IMK-051,hearing,auditory,4,6,155.0,True
+IMK,67,IMK-013,consistency,consistency,6,6,157.0,True
+IMK,68,IMK-059,hypertext,hypertext,6,6,160.0,True
+IMK,69,IMK-098,prototype,prototypes,4,6,162.0,True
+IMK,70,IMK-107,robustness,robustness,4,6,165.0,True
+IMK,71,IMK-140,user interface,UI,5,6,167.0,True
+IMK,72,IMK-146,widget,widget,4,6,169.0,True
+IMK,73,IMK-003,affordance,affordance,3,5,172.0,True
+IMK,74,IMK-019,design process,design process,5,5,175.0,True
+IMK,75,IMK-023,direct manipulation,direct manipulation,4,5,178.0,True
+IMK,76,IMK-043,gesture,gesture,4,5,180.0,True
+IMK,77,IMK-074,LCD,LCD,5,5,182.0,True
+IMK,78,IMK-085,natural language,natural language,5,5,185.0,True
+IMK,79,IMK-090,palette,palettes,3,5,188.0,True
+IMK,80,IMK-106,resolution,resolution,5,5,190.0,True
+IMK,81,IMK-120,spreadsheet,spreadsheets,3,5,193.0,True
+IMK,82,IMK-145,white space,white space,5,5,196.0,True
+IMK,83,IMK-150,WYSIWYG,WYSIWYG,3,5,202.0,True
+IMK,84,IMK-010,colour blindness,colour blindness,2,4,205.0,True
+IMK,85,IMK-016,deductive reasoning,deduction,3,4,207.0,True
+IMK,86,IMK-022,dialogue box,dialogue box,1,4,210.0,True
+IMK,87,IMK-031,efficiency,efficiency,4,4,212.0,True
+IMK,88,IMK-038,execution/evaluation loop,execution/evaluation loop,4,4,218.0,True
+IMK,89,IMK-045,golden rules,golden rules,4,4,221.0,True
+IMK,90,IMK-053,heuristic,heuristics,4,4,225.0,False
+IMK,91,IMK-063,inductive reasoning,induction,3,4,,False
+IMK,92,IMK-067,interaction style,interaction styles,3,4,,False
+IMK,93,IMK-070,internet,internet,4,4,,False
+IMK,94,IMK-075,learnability,learnability,4,4,,False
+IMK,95,IMK-080,metaphor,metaphor,4,4,,False
+IMK,96,IMK-083,multimedia,multimedia,2,4,,False
+IMK,97,IMK-084,multimodality,multimodality,2,4,,False
+IMK,98,IMK-088,norman's model,norman's model,3,4,,False
+IMK,99,IMK-089,OCR,OCR,3,4,,False
+IMK,100,IMK-103,recall,recall,4,4,,False
+IMK,101,IMK-104,recognition,recognition,4,4,,False
+IMK,102,IMK-111,screen design,screen design,4,4,,False
+IMK,103,IMK-118,speech recognition,speech recognition,4,4,,False
+IMK,104,IMK-130,touchpad,touchpad,2,4,,False
+IMK,105,IMK-131,trackball,trackball,3,4,,False
+IMK,106,IMK-132,tutorial,tutorial,2,4,,False
+IMK,107,IMK-135,usability engineering,usability engineering,4,4,,False
+IMK,108,IMK-136,usability specification,usability specification,4,4,,False
+IMK,109,IMK-002,aesthetics,aesthetics,2,3,,False
+IMK,110,IMK-018,design pattern,design pattern,0,3,,False
+IMK,111,IMK-024,disability,disability,1,3,,False
+IMK,112,IMK-030,effectiveness,effectiveness,3,3,,False
+IMK,113,IMK-056,human error,human error,3,3,,False
+IMK,114,IMK-065,interaction design,interaction design,3,3,,False
+IMK,115,IMK-066,interaction framework,interaction framework,2,3,,False
+IMK,116,IMK-119,speech synthesis,speech synthesis,3,3,,False
+IMK,117,IMK-125,task analysis,task analysis,3,3,,False
+IMK,118,IMK-007,cognitive,cognitive,2,2,,False
+IMK,119,IMK-011,command line interface,command line interface,2,2,,False
+IMK,120,IMK-078,mental model,mental model,0,2,,False
+IMK,121,IMK-093,persona,persona,2,2,,False
+IMK,122,IMK-112,screen reader,screen reader,0,2,,False
+IMK,123,IMK-133,universal design,universal design,2,2,,False
+IMK,124,IMK-015,context-aware,context-aware,0,1,,False
+IMK,125,IMK-028,dyslexia,dyslexia,1,1,,False
+IMK,126,IMK-033,equitable use,equitable use,1,1,,False
+IMK,127,IMK-036,ethnography,ethnography,1,1,,False
+IMK,128,IMK-040,fitts' law,fitts' law,1,1,,False
+IMK,129,IMK-048,gulf of evaluation,gulf of evaluation,1,1,,False
+IMK,130,IMK-049,gulf of execution,gulf of execution,1,1,,False
+IMK,131,IMK-052,hearing impairment,hearing impairment,1,1,,False
+IMK,132,IMK-057,human factors,human factors,1,1,,False
+IMK,133,IMK-062,individual differences,individual differences,1,1,,False
+IMK,134,IMK-092,perceptible information,perceptible information,1,1,,False
+IMK,135,IMK-114,sensory memory,sensory memory,1,1,,False
+IMK,136,IMK-116,sign language,sign language,1,1,,False
+IMK,137,IMK-122,storyboard,storyboard,0,1,,False
+IMK,138,IMK-139,user experience,user experience,1,1,,False
+IMK,139,IMK-144,visual impairment,visual impairment,1,1,,False
+IMK,140,IMK-001,accessibility,accessibility,0,0,,False
+IMK,141,IMK-008,cognitive walkthrough,cognitive walkthrough,0,0,,False
+IMK,142,IMK-054,heuristic evaluation,heuristic evaluation,0,0,,False
+IMK,143,IMK-061,inclusive design,inclusive design,0,0,,False
+IMK,144,IMK-100,questionnaire,questionnaire,0,0,,False
+IMK,145,IMK-102,rapid prototyping,rapid prototyping,0,0,,False
+IMK,146,IMK-123,System Usability Scale,System Usability Scale,0,0,,False
+IMK,147,IMK-126,task completion rate,task completion rate,0,0,,False
+IMK,148,IMK-127,task completion time,task completion time,0,0,,False
+IMK,149,IMK-128,think-aloud,think-aloud,0,0,,False
+IMK,150,IMK-137,usability testing,usability testing,0,0,,False
+JARNIR,1,JARNIR-043,frekuensi,frekuensi,38,52,4.0,True
+JARNIR,2,JARNIR-072,kanal,kanal,38,51,7.0,True
+JARNIR,3,JARNIR-079,LTE,LTE,39,45,10.0,True
+JARNIR,4,JARNIR-077,LoRaWAN,LoRaWAN,37,37,14.0,True
+JARNIR,5,JARNIR-094,multiple access,multiple access,31,37,17.0,True
+JARNIR,6,JARNIR-042,frame,frame,35,36,19.0,True
+JARNIR,7,JARNIR-099,node,node,30,32,21.0,True
+JARNIR,8,JARNIR-144,Wi-Fi,Wi-Fi,23,32,25.0,True
+JARNIR,9,JARNIR-059,IEEE 802.11ax,IEEE 802.11ax,21,31,34.0,True
+JARNIR,10,JARNIR-089,modulasi,modulasi,26,31,38.0,True
+JARNIR,11,JARNIR-069,jaringan seluler,jaringan seluler,24,30,44.0,True
+JARNIR,12,JARNIR-098,nirkabel,nirkabel,23,30,48.0,True
+JARNIR,13,JARNIR-076,LoRa,LoRa,27,27,51.0,True
+JARNIR,14,JARNIR-063,IEEE 802.15.4,IEEE 802.15.4,17,26,61.0,True
+JARNIR,15,JARNIR-082,MAC layer,MAC layer,26,26,64.0,True
+JARNIR,16,JARNIR-130,sinyal,sinyal,25,25,67.0,True
+JARNIR,17,JARNIR-111,PHY layer,PHY,18,23,70.0,True
+JARNIR,18,JARNIR-102,orthogonal frequency division multiplexing,OFDM,21,22,74.0,True
+JARNIR,19,JARNIR-101,OFDMA,OFDMA,20,21,78.0,True
+JARNIR,20,JARNIR-050,gelombang pembawa,gelombang pembawa,14,20,85.0,True
+JARNIR,21,JARNIR-131,spektrum,spektrum,8,20,89.0,True
+JARNIR,22,JARNIR-016,bluetooth,bluetooth,19,19,91.0,True
+JARNIR,23,JARNIR-095,multiplexing,multiplexing,17,19,95.0,True
+JARNIR,24,JARNIR-138,transmisi,transmisi,14,16,98.0,True
+JARNIR,25,JARNIR-006,agregasi,agregasi,9,15,102.0,True
+JARNIR,26,JARNIR-027,data rate,data rate,15,15,105.0,True
+JARNIR,27,JARNIR-068,jaringan nirkabel,jaringan nirkabel,14,15,112.0,True
+JARNIR,28,JARNIR-124,SC-FDMA,SC-FDMA,14,15,118.0,True
+JARNIR,29,JARNIR-012,bandwidth,bandwidth,14,14,120.0,True
+JARNIR,30,JARNIR-057,IEEE 802.11,802.11,7,12,125.0,True
+JARNIR,31,JARNIR-038,fasa,fasa,8,12,128.0,True
+JARNIR,32,JARNIR-041,fragmentasi,fragmentasi,9,12,131.0,True
+JARNIR,33,JARNIR-090,modulasi digital,modulasi digital,12,12,136.0,True
+JARNIR,34,JARNIR-093,multi-carrier modulation,modulasi multi carrier,5,12,142.0,True
+JARNIR,35,JARNIR-115,protokol,protokol,5,12,145.0,True
+JARNIR,36,JARNIR-142,user equipment,UE,9,12,147.0,True
+JARNIR,37,JARNIR-086,MIMO,MIMO,5,11,151.0,True
+JARNIR,38,JARNIR-118,quality of service,QoS,11,11,155.0,True
+JARNIR,39,JARNIR-008,amplitudo,amplitudo,7,10,159.0,True
+JARNIR,40,JARNIR-002,access point,AP,7,10,161.0,True
+JARNIR,41,JARNIR-029,downlink,downlink,10,10,164.0,True
+JARNIR,42,JARNIR-036,EPS bearer,EPS bearer,6,10,169.0,True
+JARNIR,43,JARNIR-062,IEEE 802.15.1,IEEE 802.15.1,9,10,179.0,True
+JARNIR,44,JARNIR-123,RTS/CTS,RTS/CTS,4,10,185.0,True
+JARNIR,45,JARNIR-141,uplink,uplink,9,10,188.0,True
+JARNIR,46,JARNIR-150,ZigBee,ZigBee,5,10,192.0,True
+JARNIR,47,JARNIR-003,acknowledgment,ack,6,9,195.0,True
+JARNIR,48,JARNIR-019,CDMA,CDMA,7,9,198.0,True
+JARNIR,49,JARNIR-065,interferensi,interferensi,7,9,202.0,True
+JARNIR,50,JARNIR-071,join-request,join-request,6,9,207.0,True
+JARNIR,51,JARNIR-081,MAC,MAC,7,9,209.0,True
+JARNIR,52,JARNIR-103,over the air activation,OTAA,6,9,212.0,True
+JARNIR,53,JARNIR-133,sub carrier,sub carrier,9,9,215.0,True
+JARNIR,54,JARNIR-030,DSSS,DSSS,7,8,218.0,True
+JARNIR,55,JARNIR-035,enkripsi,enkripsi,3,8,224.0,False
+JARNIR,56,JARNIR-109,personal area network,jaringan personal,7,8,,False
+JARNIR,57,JARNIR-070,join-accept,join-accept,7,8,,False
+JARNIR,58,JARNIR-073,kelas A,kelas A,8,8,,False
+JARNIR,59,JARNIR-114,propagasi,propagasi,7,8,,False
+JARNIR,60,JARNIR-117,quadrature amplitude modulation,QAM,4,8,,False
+JARNIR,61,JARNIR-015,BlockAck,BlockAck,3,7,,False
+JARNIR,62,JARNIR-048,full function device,FFD,5,7,,False
+JARNIR,63,JARNIR-051,gelombang radio,gelombang radio,7,7,,False
+JARNIR,64,JARNIR-104,packet data network gateway,PGW,5,7,,False
+JARNIR,65,JARNIR-113,PPDU,PPDU,6,7,,False
+JARNIR,66,JARNIR-134,TDMA,TDMA,6,7,,False
+JARNIR,67,JARNIR-023,convolutional coding,BCC,4,6,,False
+JARNIR,68,JARNIR-044,frequency division duplexing,FDD,4,6,,False
+JARNIR,69,JARNIR-039,FDMA,FDMA,6,6,,False
+JARNIR,70,JARNIR-052,GSM,GSM,5,6,,False
+JARNIR,71,JARNIR-146,wireless local area network,jaringan lokal nirkabel,1,6,,False
+JARNIR,72,JARNIR-091,MPDU,MPDU,3,6,,False
+JARNIR,73,JARNIR-100,noise,noise,6,6,,False
+JARNIR,74,JARNIR-120,receiver address,RA,4,6,,False
+JARNIR,75,JARNIR-125,sel,sel,5,6,,False
+JARNIR,76,JARNIR-127,service set,service set,6,6,,False
+JARNIR,77,JARNIR-132,spreading factor,spreading factor,3,6,,False
+JARNIR,78,JARNIR-137,topologi bintang,star,4,6,,False
+JARNIR,79,JARNIR-009,antena,antena,4,5,,False
+JARNIR,80,JARNIR-011,authentication,authentication,4,5,,False
+JARNIR,81,JARNIR-021,clear channel assessment,CCA,4,5,,False
+JARNIR,82,JARNIR-024,CSMA,CSMA,2,5,,False
+JARNIR,83,JARNIR-026,data frame,data frame,5,5,,False
+JARNIR,84,JARNIR-031,EDCA,EDCA,4,5,,False
+JARNIR,85,JARNIR-040,FHSS,FHSS,3,5,,False
+JARNIR,86,JARNIR-049,gateway,gateway,5,5,,False
+JARNIR,87,JARNIR-053,guard,guard,3,5,,False
+JARNIR,88,JARNIR-064,inter frame space,IFS,4,5,,False
+JARNIR,89,JARNIR-085,message integrity code,MIC,3,5,,False
+JARNIR,90,JARNIR-097,network server,network server,4,5,,False
+JARNIR,91,JARNIR-105,PAN coordinator,PAN coordinator,3,5,,False
+JARNIR,92,JARNIR-107,payload,payload,5,5,,False
+JARNIR,93,JARNIR-121,reduced function device,RFD,3,5,,False
+JARNIR,94,JARNIR-147,wireless personal area network,WPAN,3,5,,False
+JARNIR,95,JARNIR-001,6LoWPAN,6LoWPAN,3,4,,False
+JARNIR,96,JARNIR-060,IEEE 802.11n,802.11n,3,4,,False
+JARNIR,97,JARNIR-061,IEEE 802.15,802.15,3,4,,False
+JARNIR,98,JARNIR-004,activation by personalization,activation by personalization,2,4,,False
+JARNIR,99,JARNIR-020,chirp spread spectrum,chirp spread spectrum,2,4,,False
+JARNIR,100,JARNIR-032,encoding,encoding,1,4,,False
+JARNIR,101,JARNIR-033,end device,end device,3,4,,False
+JARNIR,102,JARNIR-037,evolved packet system,EPS,3,4,,False
+JARNIR,103,JARNIR-045,frequency division multiplexing,FDM,3,4,,False
+JARNIR,104,JARNIR-054,guard interval,GI,3,4,,False
+JARNIR,105,JARNIR-056,hidden terminal,hidden terminal,3,4,,False
+JARNIR,106,JARNIR-058,IEEE 802.11ac,IEEE 802.11ac,0,4,,False
+JARNIR,107,JARNIR-080,LTE attach,LTE attach,4,4,,False
+JARNIR,108,JARNIR-088,mobility management entity,MME,3,4,,False
+JARNIR,109,JARNIR-096,network allocation vector,NAV,3,4,,False
+JARNIR,110,JARNIR-112,piconet,piconet,4,4,,False
+JARNIR,111,JARNIR-074,konsumsi daya,power consumption,3,4,,False
+JARNIR,112,JARNIR-119,receive window,receive window,4,4,,False
+JARNIR,113,JARNIR-128,serving gateway,SGW,3,4,,False
+JARNIR,114,JARNIR-129,SIFS,SIFS,3,4,,False
+JARNIR,115,JARNIR-139,transmitter address,TA,3,4,,False
+JARNIR,116,JARNIR-136,time slot,time slot,2,4,,False
+JARNIR,117,JARNIR-005,ad hoc network,ad hoc network,0,3,,False
+JARNIR,118,JARNIR-007,amplitude modulation,amplitude modulation,1,3,,False
+JARNIR,119,JARNIR-013,beacon,beacon,2,3,,False
+JARNIR,120,JARNIR-022,control plane,control plane,3,3,,False
+JARNIR,121,JARNIR-025,CSMA/CA,CSMA/CA,0,3,,False
+JARNIR,122,JARNIR-028,daya rendah,daya rendah,1,3,,False
+JARNIR,123,JARNIR-046,frequency modulation,frequency modulation,1,3,,False
+JARNIR,124,JARNIR-066,Internet of Things,IoT,2,3,,False
+JARNIR,125,JARNIR-067,ISM,ISM,2,3,,False
+JARNIR,126,JARNIR-084,media transmisi,media komunikasi,2,3,,False
+JARNIR,127,JARNIR-108,peer-to-peer,peer-to-peer,3,3,,False
+JARNIR,128,JARNIR-110,phase shift keying,phase shift keying,2,3,,False
+JARNIR,129,JARNIR-135,time division multiplexing,time division multiplexing,1,3,,False
+JARNIR,130,JARNIR-010,attenuation,attenuation,2,2,,False
+JARNIR,131,JARNIR-047,frequency reuse,frequency reuse,0,2,,False
+JARNIR,132,JARNIR-143,UWB,UWB,1,2,,False
+JARNIR,133,JARNIR-149,wireless wide area network,wireless WAN,2,2,,False
+JARNIR,134,JARNIR-017,Bluetooth Low Energy,Bluetooth Low Energy,1,1,,False
+JARNIR,135,JARNIR-106,path loss,path loss,1,1,,False
+JARNIR,136,JARNIR-148,wireless sensor network,WSN,1,1,,False
+JARNIR,137,JARNIR-014,beamforming,beamforming,0,0,,False
+JARNIR,138,JARNIR-018,BSS,BSS,0,0,,False
+JARNIR,139,JARNIR-034,energy efficiency,energy efficiency,0,0,,False
+JARNIR,140,JARNIR-055,handover,handover,0,0,,False
+JARNIR,141,JARNIR-075,local area network,local area network,0,0,,False
+JARNIR,142,JARNIR-078,LPWAN,LPWAN,0,0,,False
+JARNIR,143,JARNIR-083,MCS,MCS,0,0,,False
+JARNIR,144,JARNIR-087,mobilitas,mobilitas,0,0,,False
+JARNIR,145,JARNIR-092,MQTT,MQTT,0,0,,False
+JARNIR,146,JARNIR-116,protokol MAC,protokol MAC,0,0,,False
+JARNIR,147,JARNIR-122,routing protocol,routing protocol,0,0,,False
+JARNIR,148,JARNIR-126,sensor node,sensor node,0,0,,False
+JARNIR,149,JARNIR-140,trigger frame,trigger frame,0,0,,False
+JARNIR,150,JARNIR-145,wide area network,wide area network,0,0,,False
+PKK,1,PKK-071,komputer,komputer,131,145,2.0,True
+PKK,2,PKK-130,software,perangkat lunak,68,101,8.0,True
+PKK,3,PKK-095,network,jaringan,63,71,12.0,True
+PKK,4,PKK-083,logika informatika,logika,55,62,15.0,True
+PKK,5,PKK-007,application software,aplikasi,43,60,19.0,True
+PKK,6,PKK-097,operating system,sistem operasi,41,54,23.0,True
+PKK,7,PKK-088,model,model,42,45,25.0,True
+PKK,8,PKK-139,teknologi informasi,TI,18,44,27.0,True
+PKK,9,PKK-085,memory,memori,17,40,30.0,True
+PKK,10,PKK-056,hardware,perangkat keras,21,39,36.0,True
+PKK,11,PKK-001,abstraction,abstraksi,22,37,40.0,True
+PKK,12,PKK-065,keilmuan komputer,keilmuan komputer,20,35,47.0,True
+PKK,13,PKK-062,internet,internet,31,33,49.0,True
+PKK,14,PKK-119,requirement,kebutuhan,27,33,53.0,True
+PKK,15,PKK-030,critical thinking,critical thinking,23,32,56.0,True
+PKK,16,PKK-035,database,basis data,21,31,59.0,True
+PKK,17,PKK-150,wireless,nirkabel,13,31,63.0,True
+PKK,18,PKK-137,table of contents,daftar isi,17,30,69.0,True
+PKK,19,PKK-129,sistem komputer,sistem komputer,29,29,73.0,True
+PKK,20,PKK-018,bus,bus,14,24,75.0,True
+PKK,21,PKK-022,cloud computing,cloud,15,24,77.0,True
+PKK,22,PKK-100,pattern,pola,14,24,80.0,True
+PKK,23,PKK-028,CPU,CPU,12,23,82.0,True
+PKK,24,PKK-107,problem solving,memecahkan masalah,12,23,89.0,True
+PKK,25,PKK-024,computational thinking,computational thinking,21,22,92.0,True
+PKK,26,PKK-117,rekayasa perangkat lunak,RPL,10,22,95.0,True
+PKK,27,PKK-124,SDLC,siklus hidup pengembangan sistem,12,21,106.0,True
+PKK,28,PKK-017,brainware,brainware,20,20,109.0,True
+PKK,29,PKK-060,input,input,18,20,111.0,True
+PKK,30,PKK-099,output,output,16,20,113.0,True
+PKK,31,PKK-115,RAM,RAM,11,20,115.0,True
+PKK,32,PKK-020,citation,kutipan,12,18,120.0,True
+PKK,33,PKK-134,storage,penyimpanan,17,18,125.0,True
+PKK,34,PKK-037,decomposition,dekomposisi,10,17,131.0,True
+PKK,35,PKK-106,printer,printer,17,17,133.0,True
+PKK,36,PKK-061,intel,intel,8,16,135.0,True
+PKK,37,PKK-004,algorithm,algoritma,8,15,139.0,True
+PKK,38,PKK-125,security,keamanan,8,15,143.0,True
+PKK,39,PKK-072,konklusi,konklusi,8,15,147.0,True
+PKK,40,PKK-108,profesi,profesi,8,15,150.0,True
+PKK,41,PKK-006,analytics,analytics,8,14,152.0,True
+PKK,42,PKK-043,e-learning,e-learning,12,14,156.0,True
+PKK,43,PKK-025,computer network,jaringan komputer,14,14,162.0,True
+PKK,44,PKK-128,sistem informasi,sistem informasi,9,14,166.0,True
+PKK,45,PKK-136,systems thinking,system thinking,12,14,169.0,True
+PKK,46,PKK-009,artificial intelligence,AI,10,13,171.0,True
+PKK,47,PKK-013,big data,big data,12,13,174.0,True
+PKK,48,PKK-093,MS-DOS,DOS,12,13,177.0,True
+PKK,49,PKK-113,quantum computing,komputasi kuantum,6,13,184.0,True
+PKK,50,PKK-080,LMS,LMS,12,13,187.0,True
+PKK,51,PKK-118,repository,repository,7,13,189.0,True
+PKK,52,PKK-127,server,server,13,13,191.0,True
+PKK,53,PKK-026,control unit,control unit,4,12,194.0,True
+PKK,54,PKK-063,Internet of Things,Internet of Things,11,12,198.0,True
+PKK,55,PKK-112,prototyping,prototype,5,12,200.0,True
+PKK,56,PKK-145,types of thinking,types of thinking,12,12,204.0,True
+PKK,57,PKK-015,booting,booting,6,11,207.0,True
+PKK,58,PKK-036,DBMS,DBMS,10,11,210.0,True
+PKK,59,PKK-044,etika,etika,8,11,213.0,True
+PKK,60,PKK-149,windows,windows,11,11,215.0,True
+PKK,61,PKK-023,cognitive technology,cognitive technology,5,10,218.0,True
+PKK,62,PKK-064,IT support,IT support,2,10,221.0,True
+PKK,63,PKK-008,argumen,argumen,9,9,224.0,False
+PKK,64,PKK-012,bibliography,bibliography,6,9,,False
+PKK,65,PKK-098,optical disc,DVD,6,9,,False
+PKK,66,PKK-050,Google Docs,Google Docs,9,9,,False
+PKK,67,PKK-055,hard disk,hard disk,5,9,,False
+PKK,68,PKK-021,client,klien,8,9,,False
+PKK,69,PKK-101,pattern recognition,pattern recognition,7,9,,False
+PKK,70,PKK-109,programmer,programmer,8,9,,False
+PKK,71,PKK-123,scanner,scanner,7,9,,False
+PKK,72,PKK-087,Microsoft Excel,spreadsheet,6,9,,False
+PKK,73,PKK-138,teknik komputer,teknik komputer,5,9,,False
+PKK,74,PKK-143,transistor,transistor,7,9,,False
+PKK,75,PKK-146,virus,virus,5,9,,False
+PKK,76,PKK-003,ACM,ACM,7,8,,False
+PKK,77,PKK-016,bootloader,bootloader,7,8,,False
+PKK,78,PKK-057,hukum de morgan,hukum logika,4,8,,False
+PKK,79,PKK-059,informatika,informatika,7,8,,False
+PKK,80,PKK-089,monitor,monitor,8,8,,False
+PKK,81,PKK-103,penalaran,penalaran,7,8,,False
+PKK,82,PKK-140,testing,pengujian,7,8,,False
+PKK,83,PKK-144,tren,perkembangan teknologi,6,8,,False
+PKK,84,PKK-105,premis,premis,8,8,,False
+PKK,85,PKK-111,protocol,protokol,5,8,,False
+PKK,86,PKK-122,satelit,satelit,8,8,,False
+PKK,87,PKK-133,stakeholder,stakeholder,8,8,,False
+PKK,88,PKK-147,waterfall,waterfall model,4,8,,False
+PKK,89,PKK-042,distributed ledger,buku besar terdistribusi,4,7,,False
+PKK,90,PKK-027,core,core,7,7,,False
+PKK,91,PKK-073,kurikulum,curriculum,4,7,,False
+PKK,92,PKK-066,keyboard,keyboard,7,7,,False
+PKK,93,PKK-081,logical thinking,logical thinking,4,7,,False
+PKK,94,PKK-132,spiral,model spiral,4,7,,False
+PKK,95,PKK-090,moodle,moodle,7,7,,False
+PKK,96,PKK-092,mouse,mouse,7,7,,False
+PKK,97,PKK-104,pengembangan software,pengembangan software,4,7,,False
+PKK,98,PKK-148,Wi-Fi,Wi-Fi,7,7,,False
+PKK,99,PKK-126,sertifikasi,sertifikasi,3,6,,False
+PKK,100,PKK-094,netiquette,netiquette,5,5,,False
+PKK,101,PKK-120,revolusi industri 4.0,revolusi industri 4.0,3,5,,False
+PKK,102,PKK-121,rumpun keilmuan,rumpun keilmuan komputer,5,5,,False
+PKK,103,PKK-135,system analyst,system analyst,2,5,,False
+PKK,104,PKK-005,analytical thinking,analytical thinking,3,4,,False
+PKK,105,PKK-010,augmented reality,AR,4,4,,False
+PKK,106,PKK-014,blockchain,blockchain,4,4,,False
+PKK,107,PKK-019,business analyst,business analyst,2,4,,False
+PKK,108,PKK-033,data analyst,data analyst,2,4,,False
+PKK,109,PKK-047,game developer,game developer,2,4,,False
+PKK,110,PKK-049,GIS,GIS,2,4,,False
+PKK,111,PKK-058,human computer interaction,human computer interaction,2,4,,False
+PKK,112,PKK-082,logika fuzzy,logika fuzzy,2,4,,False
+PKK,113,PKK-110,programming language,programming language,0,4,,False
+PKK,114,PKK-131,software engineer,software engineer,4,4,,False
+PKK,115,PKK-067,KKNI,KKNI,2,3,,False
+PKK,116,PKK-077,literasi digital,kurikulum literasi digital,3,3,,False
+PKK,117,PKK-075,literasi 4.0,literasi baru,3,3,,False
+PKK,118,PKK-084,machine learning,machine learning,1,3,,False
+PKK,119,PKK-034,data scientist,data scientist,2,2,,False
+PKK,120,PKK-096,network engineer,network engineer,2,2,,False
+PKK,121,PKK-141,touchpad,touchpad,1,2,,False
+PKK,122,PKK-046,expansion slot,expansion slot,1,1,,False
+PKK,123,PKK-051,GSM,GSM,1,1,,False
+PKK,124,PKK-069,kompetensi,kompetensi,1,1,,False
+PKK,125,PKK-074,life long learning,life long learning,1,1,,False
+PKK,126,PKK-142,trackball,trackball,1,1,,False
+PKK,127,PKK-002,access point,access point,0,0,,False
+PKK,128,PKK-011,backbone,backbone,0,0,,False
+PKK,129,PKK-029,cracking,cracking,0,0,,False
+PKK,130,PKK-031,cyber ethics,cyber ethics,0,0,,False
+PKK,131,PKK-032,cybercrime,cybercrime,0,0,,False
+PKK,132,PKK-038,digital culture,digital culture,0,0,,False
+PKK,133,PKK-039,digital ethics,digital ethics,0,0,,False
+PKK,134,PKK-040,digital safety,digital safety,0,0,,False
+PKK,135,PKK-041,digital skills,digital skills,0,0,,False
+PKK,136,PKK-045,etika pribadi,etika pribadi,0,0,,False
+PKK,137,PKK-048,gateway,gateway,0,0,,False
+PKK,138,PKK-052,hak cipta,hak cipta,0,0,,False
+PKK,139,PKK-053,hak paten,hak paten,0,0,,False
+PKK,140,PKK-054,HAKI,HAKI,0,0,,False
+PKK,141,PKK-068,kode etik,kode etik,0,0,,False
+PKK,142,PKK-070,kompetensi dasar lulusan,kompetensi dasar lulusan,0,0,,False
+PKK,143,PKK-076,literasi data,literasi data,0,0,,False
+PKK,144,PKK-078,literasi manusia,literasi manusia,0,0,,False
+PKK,145,PKK-079,literasi teknologi,literasi teknologi,0,0,,False
+PKK,146,PKK-086,merek dagang,merek dagang,0,0,,False
+PKK,147,PKK-091,moore's law,moore's law,0,0,,False
+PKK,148,PKK-102,pembajakan,pembajakan,0,0,,False
+PKK,149,PKK-114,rahasia dagang,rahasia dagang,0,0,,False
+PKK,150,PKK-116,read/write head,read/write head,0,0,,False
+RPL,1,RPL-087,rekayasa perangkat lunak,RPL,302,310,2.0,True
+RPL,2,RPL-089,requirement,kebutuhan,76,189,6.0,True
+RPL,3,RPL-138,user,user,72,142,8.0,True
+RPL,4,RPL-065,perangkat lunak,software,77,103,10.0,True
+RPL,5,RPL-040,feature,features,76,102,12.0,True
+RPL,6,RPL-022,customer,customer,49,77,14.0,True
+RPL,7,RPL-094,requirements elicitation,elisitasi,43,68,19.0,True
+RPL,8,RPL-108,SDLC,model SDLC,45,63,23.0,True
+RPL,9,RPL-102,scenario,scenarios,29,56,25.0,True
+RPL,10,RPL-059,model,model,40,52,27.0,True
+RPL,11,RPL-119,software process,proses PL,41,50,31.0,True
+RPL,12,RPL-021,constraint,constraints,18,42,33.0,True
+RPL,13,RPL-071,problem,problem,21,38,35.0,True
+RPL,14,RPL-001,abstraction,abstraksi,32,34,39.0,True
+RPL,15,RPL-114,software design,design,25,34,41.0,True
+RPL,16,RPL-060,modeling,pemodelan,24,32,45.0,True
+RPL,17,RPL-068,persona,personas,18,32,47.0,True
+RPL,18,RPL-031,developer,developer,16,27,49.0,True
+RPL,19,RPL-083,prototyping,prototyping,13,27,52.0,True
+RPL,20,RPL-095,requirements engineering,rekayasa kebutuhan,17,27,59.0,True
+RPL,21,RPL-120,software product,software products,17,26,62.0,True
+RPL,22,RPL-142,user story,user stories,22,26,65.0,True
+RPL,23,RPL-145,validation,validasi,14,26,68.0,True
+RPL,24,RPL-115,software development,software development,14,23,71.0,True
+RPL,25,RPL-105,scrum,scrum,18,21,74.0,True
+RPL,26,RPL-069,phase,phase,12,20,76.0,True
+RPL,27,RPL-129,stakeholder,stakeholder,10,20,78.0,True
+RPL,28,RPL-072,problem domain,problem domain,13,19,81.0,True
+RPL,29,RPL-079,product vision,product vision,17,17,84.0,True
+RPL,30,RPL-061,natural language,natural language,13,16,87.0,True
+RPL,31,RPL-097,requirements specification,spesifikasi kebutuhan,13,16,95.0,True
+RPL,32,RPL-049,implementation,implementation,12,15,97.0,True
+RPL,33,RPL-091,requirement statement,pernyataan kebutuhan,9,14,105.0,True
+RPL,34,RPL-146,verification,verification,11,14,107.0,True
+RPL,35,RPL-034,DSDM,DSDM,9,13,111.0,True
+RPL,36,RPL-143,V&V,V&V,12,13,115.0,True
+RPL,37,RPL-066,performance,performance,7,12,117.0,True
+RPL,38,RPL-003,agile,agile,6,11,119.0,True
+RPL,39,RPL-099,requirements verification,verifikasi kebutuhan,11,11,126.0,True
+RPL,40,RPL-015,completeness,complete,8,10,128.0,True
+RPL,41,RPL-073,product backlog,product backlog,8,10,131.0,True
+RPL,42,RPL-125,solution domain,solution domain,8,10,134.0,True
+RPL,43,RPL-127,sprint,sprint,7,10,136.0,True
+RPL,44,RPL-148,waterfall,waterfall,10,10,138.0,True
+RPL,45,RPL-038,extreme programming,XP,6,10,140.0,True
+RPL,46,RPL-005,ambiguity,ambiguous,6,9,142.0,True
+RPL,47,RPL-029,delivery,delivery,6,9,144.0,True
+RPL,48,RPL-096,requirements management,manajemen kebutuhan,9,9,151.0,True
+RPL,49,RPL-085,rational unified process,RUP,6,9,154.0,True
+RPL,50,RPL-004,agile unified process,AUP,5,8,157.0,True
+RPL,51,RPL-130,system requirements,system requirements,7,8,160.0,True
+RPL,52,RPL-053,interview,interviewing,3,7,162.0,True
+RPL,53,RPL-056,kualitas perangkat lunak,kualitas perangkat lunak,5,7,171.0,True
+RPL,54,RPL-100,review and inspection,review,5,7,173.0,True
+RPL,55,RPL-128,SRS,SRS,5,7,176.0,True
+RPL,56,RPL-132,testing,testing,5,7,178.0,True
+RPL,57,RPL-139,user interface,user interface,6,7,181.0,True
+RPL,58,RPL-002,acceptance testing,acceptance testing,6,6,184.0,True
+RPL,59,RPL-007,bespoke software,custom software,3,6,187.0,True
+RPL,60,RPL-054,iterative,iterative,2,6,190.0,True
+RPL,61,RPL-062,notation,notasi,4,6,193.0,True
+RPL,62,RPL-075,product manager,product manager,3,6,196.0,True
+RPL,63,RPL-077,product roadmap,product roadmap,4,6,199.0,True
+RPL,64,RPL-124,software validation,software validation,6,6,202.0,True
+RPL,65,RPL-133,traceability,traceability,4,6,205.0,True
+RPL,66,RPL-135,UML,UML,5,6,208.0,True
+RPL,67,RPL-144,v-model,v-model,0,6,213.0,True
+RPL,68,RPL-006,architectural design,architectural design,1,5,216.0,True
+RPL,69,RPL-020,consistency,consistent,3,5,218.0,True
+RPL,70,RPL-032,development team,development team,5,5,221.0,True
+RPL,71,RPL-044,feature list,feature list,3,5,224.0,False
+RPL,72,RPL-074,product management,product management,5,5,,False
+RPL,73,RPL-080,programming,programming,3,5,,False
+RPL,74,RPL-123,software specification,software specification,5,5,,False
+RPL,75,RPL-126,spiral,spiral,5,5,,False
+RPL,76,RPL-009,boilerplate,boilerplate,2,4,,False
+RPL,77,RPL-010,bug,bug,0,4,,False
+RPL,78,RPL-011,change management,change management,2,4,,False
+RPL,79,RPL-018,composition,composition,2,4,,False
+RPL,80,RPL-023,customer testing,customer testing,4,4,,False
+RPL,81,RPL-024,daily scrum,daily scrum,2,4,,False
+RPL,82,RPL-026,data flow model,data flow model,0,4,,False
+RPL,83,RPL-027,decomposition,decomposition,2,4,,False
+RPL,84,RPL-037,ethnography,ethnography,4,4,,False
+RPL,85,RPL-041,feature creep,feature creep,4,4,,False
+RPL,86,RPL-042,feature description,feature description,4,4,,False
+RPL,87,RPL-043,feature identification,feature identification,4,4,,False
+RPL,88,RPL-045,functional requirement,functional,4,4,,False
+RPL,89,RPL-047,generic software,generic software,2,4,,False
+RPL,90,RPL-048,hybrid,hybrid,4,4,,False
+RPL,91,RPL-055,kegagalan perangkat lunak,kegagalan PL,4,4,,False
+RPL,92,RPL-057,maintainability,maintenance,3,4,,False
+RPL,93,RPL-064,observation,observation,3,4,,False
+RPL,94,RPL-078,product software engineering,product software engineering,4,4,,False
+RPL,95,RPL-058,manajemen proyek,project management,2,4,,False
+RPL,96,RPL-082,project planning,project planning,4,4,,False
+RPL,97,RPL-086,rationale,rationale,4,4,,False
+RPL,98,RPL-088,release,release,4,4,,False
+RPL,99,RPL-098,requirements validation,requirements validation,3,4,,False
+RPL,100,RPL-106,scrum master,scrum master,4,4,,False
+RPL,101,RPL-109,security,security,4,4,,False
+RPL,102,RPL-116,software evolution,software evolution,4,4,,False
+RPL,103,RPL-121,software programmer,software programmer,2,4,,False
+RPL,104,RPL-028,deliverable,deliverables,3,3,,False
+RPL,105,RPL-050,incremental,incremental,1,3,,False
+RPL,106,RPL-063,object oriented analysis,object oriented analysis,1,3,,False
+RPL,107,RPL-076,product owner,product owner,3,3,,False
+RPL,108,RPL-084,quality assurance,quality assurance,2,3,,False
+RPL,109,RPL-093,requirements definition,requirements definition,2,3,,False
+RPL,110,RPL-101,risk management,risk management,3,3,,False
+RPL,111,RPL-104,scope creep,scope creep,3,3,,False
+RPL,112,RPL-111,SMART,SMART,2,3,,False
+RPL,113,RPL-134,trade-off,trade-off,2,3,,False
+RPL,114,RPL-137,usability,usability,3,3,,False
+RPL,115,RPL-140,user interface design,user interface design,3,3,,False
+RPL,116,RPL-141,user requirements,user requirements,3,3,,False
+RPL,117,RPL-012,class diagram,class diagram,2,2,,False
+RPL,118,RPL-030,deployment,deployment,2,2,,False
+RPL,119,RPL-052,interface design,interface design,2,2,,False
+RPL,120,RPL-092,requirements analysis,requirements analysis,2,2,,False
+RPL,121,RPL-112,software as a service,software as a service,1,2,,False
+RPL,122,RPL-117,software maintenance,software maintenance,1,2,,False
+RPL,123,RPL-131,test case,test case,0,2,,False
+RPL,124,RPL-136,unit testing,unit testing,1,2,,False
+RPL,125,RPL-008,black box testing,black box testing,1,1,,False
+RPL,126,RPL-013,coding standard,coding standard,0,1,,False
+RPL,127,RPL-016,component design,component design,1,1,,False
+RPL,128,RPL-019,configuration management,configuration management,1,1,,False
+RPL,129,RPL-025,data design,data design,1,1,,False
+RPL,130,RPL-036,estimation,estimation,1,1,,False
+RPL,131,RPL-051,integration testing,integration testing,1,1,,False
+RPL,132,RPL-081,programming language,programming language,1,1,,False
+RPL,133,RPL-103,scheduling,scheduling,1,1,,False
+RPL,134,RPL-118,software measurement,software measurement,1,1,,False
+RPL,135,RPL-147,version management,version management,1,1,,False
+RPL,136,RPL-150,white box testing,white box testing,1,1,,False
+RPL,137,RPL-014,compatibility,compatibility,0,0,,False
+RPL,138,RPL-017,component-based software engineering,component-based software engineering,0,0,,False
+RPL,139,RPL-033,distributed system,distributed system,0,0,,False
+RPL,140,RPL-035,embedded system,embedded system,0,0,,False
+RPL,141,RPL-039,feasibility study,feasibility study,0,0,,False
+RPL,142,RPL-046,functional suitability,functional suitability,0,0,,False
+RPL,143,RPL-067,performance efficiency,performance efficiency,0,0,,False
+RPL,144,RPL-070,portability,portability,0,0,,False
+RPL,145,RPL-090,requirement gathering,requirement gathering,0,0,,False
+RPL,146,RPL-107,scrum team,scrum team,0,0,,False
+RPL,147,RPL-110,service-oriented architecture,service-oriented architecture,0,0,,False
+RPL,148,RPL-113,software component,software component,0,0,,False
+RPL,149,RPL-122,software project,software project,0,0,,False
+RPL,150,RPL-149,web service,web service,0,0,,False

@@ -1,0 +1,15 @@
+﻿posisi_acuan,acuan,hipotesis,operasi,istilah_G
+1,yaitu,yaitu,,
+2,suatu,--,D,
+3,mekanisme,mekanisme,,
+4,untuk,untuk,,
+5,mempercepat,mempercepat,,
+6,akses,akses,,
+7,pembacaan,pembacaan,,
+--,--,data,I (i_src = 8),
+8,dari,dari,,
+9,main,main,,✓
+10,memory,memory,,✓
+11,ke,ke,,
+12,dalam,dalam,,
+13,cpu,sepu,S,✓

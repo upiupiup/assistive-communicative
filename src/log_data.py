@@ -17,6 +17,10 @@ Berkas yang ditulis ``tulis_log`` ke ``<folder_tahap>/log/``:
                              kata hipotesis, operasi, blok, waktu, istilah, dan info
                              decoding segmen hipotesisnya.
 
+Selain log, ``log_konfigurasi`` juga mengembalikan baris per blok (format
+metrik_blok.csv) dan verifikasi penyelarasan terhadap jiwer, sehingga notebook
+Tahap 2 dan Tahap 3 cukup memanggil satu fungsi untuk metrik dan log.
+
 Perhitungannya memakai fungsi yang sama dengan notebook tahap (src/metrik.py),
 dan ``periksa_terhadap`` memastikan angkanya identik dengan metrik_rekaman.csv
 yang sudah ada sebelum log ditulis.
@@ -61,7 +65,7 @@ def log_konfigurasi(konfigurasi: str, kode: str, mentah_dir: Path, acuan: dict, 
     waktu       : baris waktu_transkripsi.jsonl untuk konfigurasi ini
     kanonik     : {entri_id: bentuk_kanonik}
     """
-    rek, seg_rows, ist_rows, selaras = [], [], [], {}
+    rek, seg_rows, ist_rows, selaras, blok_rows, verif = [], [], [], {}, [], []
     for fid, a in acuan.items():
         mentah = json.loads((Path(mentah_dir) / f"{fid}.json").read_text(encoding="utf-8"))
         seg = mentah["segmen"]
@@ -69,6 +73,11 @@ def log_konfigurasi(konfigurasi: str, kode: str, mentah_dir: Path, acuan: dict, 
         id_pakai = {id(s) for s in pakai}
         hyp, asal = _token_per_segmen(pakai, normalisasi[fid])
         blok, ops = mt.hitung_rekaman(a, hyp, durasi[fid])
+        for b in blok:
+            blok_rows.append({"konfigurasi": konfigurasi, "kode": kode, "file_id": fid,
+                              "mata_kuliah": a["mata_kuliah"], **b})
+        verif.append({"konfigurasi": konfigurasi, "file_id": fid,
+                      **mt.periksa_jiwer(a["token"], hyp, ops)})
 
         # --- segmen hipotesis ---
         for s in seg:
@@ -158,7 +167,8 @@ def log_konfigurasi(konfigurasi: str, kode: str, mentah_dir: Path, acuan: dict, 
         })
 
     return {"rekaman": pd.DataFrame(rek), "segmen": pd.DataFrame(seg_rows),
-            "istilah": pd.DataFrame(ist_rows), "penyelarasan": selaras}
+            "istilah": pd.DataFrame(ist_rows), "penyelarasan": selaras,
+            "blok": pd.DataFrame(blok_rows), "verifikasi": pd.DataFrame(verif)}
 
 
 def periksa_terhadap(rekaman: pd.DataFrame, metrik_rekaman_csv: Path) -> int:

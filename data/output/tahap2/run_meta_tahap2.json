@@ -1,0 +1,90 @@
+{
+  "tanggal": "2026-10-30T23:32:43",
+  "tahap": "Tahap 2: contextual biasing melalui hotwords",
+  "python": "3.12.4",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "gpu": {
+    "nama": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+    "vram_total_mb": "6144",
+    "vram_terpakai_mb": "0",
+    "driver": "577.02"
+  },
+  "varian": "large-v3",
+  "kode": "T2",
+  "kode_baseline": "T1-E",
+  "parameter_decoding": {
+    "language": "id",
+    "task": "transcribe",
+    "beam_size": 5,
+    "temperature": [
+      0.0,
+      0.2,
+      0.4,
+      0.6,
+      0.8,
+      1.0
+    ],
+    "vad_filter": true,
+    "condition_on_previous_text": false,
+    "word_timestamps": false
+  },
+  "compute_type": "float16",
+  "sumber_parameter": "data/output/tahap1/run_meta_tahap1.json",
+  "hotwords": {
+    "berkas": "data/output/tahap2/hotwords.json",
+    "token_maks": 223,
+    "per_mata_kuliah": {
+      "AOK": {
+        "n_entri": 71,
+        "n_token": 221
+      },
+      "APS": {
+        "n_entri": 73,
+        "n_token": 223
+      },
+      "IMK": {
+        "n_entri": 89,
+        "n_token": 221
+      },
+      "JARNIR": {
+        "n_entri": 54,
+        "n_token": 218
+      },
+      "PKK": {
+        "n_entri": 62,
+        "n_token": 221
+      },
+      "RPL": {
+        "n_entri": 70,
+        "n_token": 221
+      }
+    }
+  },
+  "rtf": {
+    "ulangan": 3,
+    "pemanasan": {
+      "file_id": "APS-05",
+      "detik": 120
+    }
+  },
+  "metrik": {
+    "panjang_blok_detik": 180.0,
+    "ambang_p_blok": 0.001
+  },
+  "kamus": {
+    "status": "terkunci",
+    "tanggal_kunci": "2026-10-13"
+  },
+  "versi_pustaka": {
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.7.2",
+    "onnxruntime": "1.26.0",
+    "tokenizers": "0.20.0",
+    "jiwer": "4.0.0",
+    "scipy": "1.17.1",
+    "numpy": "2.0.2",
+    "pandas": "3.0.3",
+    "transformers": "4.45.2",
+    "soundfile": "0.13.1"
+  }
+}
