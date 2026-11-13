@@ -1,0 +1,112 @@
+{
+  "tanggal": "2026-11-05T10:26:20",
+  "tahap": "Tahap 3a: pelatihan LoRA di GPU server",
+  "host": "labkc-l40-debian",
+  "platform": "Linux-6.1.0-43-amd64-x86_64-with-glibc2.36",
+  "python": "3.12.4",
+  "gpu": {
+    "index": 1,
+    "nama": "NVIDIA L40",
+    "vram_total_mb": 46068,
+    "vram_terpakai_mb": 4173
+  },
+  "gpu_semua": [
+    {
+      "index": 0,
+      "name": "NVIDIA L40",
+      "memory.used": 6387,
+      "memory.total": 46068,
+      "utilization.gpu": 89
+    },
+    {
+      "index": 1,
+      "name": "NVIDIA L40",
+      "memory.used": 4173,
+      "memory.total": 46068,
+      "utilization.gpu": 11
+    },
+    {
+      "index": 2,
+      "name": "NVIDIA L40",
+      "memory.used": 6981,
+      "memory.total": 46068,
+      "utilization.gpu": 95
+    }
+  ],
+  "konfigurasi": {
+    "nama": "T3",
+    "model_id": "openai/whisper-large-v3",
+    "lora": {
+      "r": 32,
+      "alpha": 64,
+      "dropout": 0.0,
+      "target_modules": [
+        "q_proj",
+        "v_proj"
+      ]
+    },
+    "laju_belajar": 1e-05,
+    "epoch": 35,
+    "batch": 1,
+    "akumulasi": 4,
+    "rasio_pemanasan": 0.1,
+    "gradient_checkpointing": true,
+    "seed": 42,
+    "eval_tiap": 200,
+    "eval_langkah_akhir": true,
+    "eval_batch": 8,
+    "maks_token_baru": 440,
+    "adamw": {
+      "betas": [
+        0.9,
+        0.999
+      ],
+      "eps": 1e-08,
+      "weight_decay": 0.01
+    },
+    "segmen_latih": "data/output/segmen_latih.csv",
+    "audio_dir": "data/processed/segmen_latih",
+    "kamus": "data/processed/kamus_normalisasi.json",
+    "glosarium": "data/processed/glosarium/glosarium_semua.csv",
+    "folder": "data/output/tahap3/latih",
+    "folder_state": "data/output/tahap3/_kerja/state",
+    "perangkat": "cuda"
+  },
+  "rencana": {
+    "segmen_per_langkah": 4,
+    "langkah_per_epoch": 251,
+    "total_langkah": 8785,
+    "langkah_pemanasan": 879,
+    "batch_maju_mundur": 35035
+  },
+  "sesi": [
+    {
+      "mulai": "2026-11-05T02:08:42",
+      "selesai": "2026-11-05T10:24:45",
+      "langkah_awal": 0,
+      "langkah_akhir": 8785,
+      "status": "selesai",
+      "durasi_jam": 8.268,
+      "host": "labkc-l40-debian",
+      "platform": "Linux-6.1.0-43-amd64-x86_64-with-glibc2.36",
+      "python": "3.12.4",
+      "torch": "2.4.1+cu121",
+      "CUDA_VISIBLE_DEVICES": "1",
+      "gpu": "NVIDIA L40",
+      "vram_total_mb": 45386,
+      "vram_terpakai_awal_mb": 12561,
+      "vram_puncak_dicadangkan_mb": 7860
+    }
+  ],
+  "versi_pustaka": {
+    "torch": "2.4.1",
+    "transformers": "4.45.2",
+    "peft": "0.20.0",
+    "accelerate": "1.14.0",
+    "tokenizers": "0.20.0",
+    "jiwer": "4.0.0",
+    "numpy": "2.0.2",
+    "pandas": "3.0.3",
+    "soundfile": "0.13.1"
+  }
+}

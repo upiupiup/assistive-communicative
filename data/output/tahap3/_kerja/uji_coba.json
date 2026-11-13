@@ -1,0 +1,40 @@
+{
+ "nama": "T3-uji",
+ "model_id": "openai/whisper-large-v3",
+ "lora": {
+  "r": 32,
+  "alpha": 64,
+  "dropout": 0.0,
+  "target_modules": [
+   "q_proj",
+   "v_proj"
+  ]
+ },
+ "laju_belajar": 1e-05,
+ "epoch": 2,
+ "batch": 1,
+ "akumulasi": 4,
+ "rasio_pemanasan": 0.1,
+ "gradient_checkpointing": true,
+ "seed": 42,
+ "eval_tiap": 200,
+ "eval_langkah_akhir": true,
+ "eval_batch": 2,
+ "maks_token_baru": 440,
+ "adamw": {
+  "betas": [
+   0.9,
+   0.999
+  ],
+  "eps": 1e-08,
+  "weight_decay": 0.01
+ },
+ "segmen_latih": "data/output/segmen_latih.csv",
+ "audio_dir": "data/processed/segmen_latih",
+ "kamus": "data/processed/kamus_normalisasi.json",
+ "glosarium": "data/processed/glosarium/glosarium_semua.csv",
+ "folder": "data/output/tahap3/uji_coba/latih",
+ "folder_state": "data/output/tahap3/uji_coba/_kerja/state",
+ "perangkat": "cuda",
+ "batas_jam": null
+}
